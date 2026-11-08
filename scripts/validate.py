@@ -235,12 +235,17 @@ def check_fw_prb(chunks):
                 % c["rel"])
 
 
+WORD_LIMIT = 1000        # CON, FW, PRB, PB, CASE: một khái niệm/vấn đề, có thể dài hơn 600 do tiếng Việt và template 12 mục
+WORD_LIMIT_TOP = 1200    # TOP: tóm tắt cả một topic (nhiều hoạt động, nhiều mạch nội dung), tự nhiên dài hơn một chunk khái niệm đơn
+
+
 def check_body(chunks):
     for cid, c in chunks.items():
         body = c["body"]
         words = len(body.split())
-        if words > 800:
-            warn("%s: %d từ, vượt 800 — cân nhắc tách chunk con" % (c["rel"], words))
+        limit = WORD_LIMIT_TOP if c["prefix"] == "TOP" else WORD_LIMIT
+        if words > limit:
+            warn("%s: %d từ, vượt %d — cân nhắc tách chunk con" % (c["rel"], words, limit))
         low = body.lower()
         found = [p for p in VAGUE_PHRASES if p in low]
         if found:
