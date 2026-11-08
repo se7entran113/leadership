@@ -2,17 +2,17 @@
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 172 chunk.** Đã xử lý **19/19 topic MEGROW trong phạm vi** (Topic 01–19). Topic 20 và Capstone Lumo Case để riêng, ngoài phạm vi kho.
+**Trạng thái kho: 177 chunk.** Đã xử lý **19/19 topic MEGROW trong phạm vi** (Topic 01–19). Topic 20 và Capstone Lumo Case để riêng, ngoài phạm vi kho.
 
 | Loại | Số lượng |
 |---|---:|
 | `CON` Khái niệm & nguyên tắc | 31 |
 | `FW` Framework | 111 |
 | `PRB` Vấn đề | 11 |
-| `PB` Playbook | 0 |
+| `PB` Playbook | 5 |
 | `TOP` Topic | 19 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **172** |
+| **Tổng** | **177** |
 
 ---
 
@@ -188,7 +188,11 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
-| _(chưa có — viết ở bước "Rà soát tổng thể" sau khi xử lý xong các topic)_ | | | | | |
+| `PB-001` | Chốt ưu tiên của team cho một quý (Setting the Team's Priorities for a Quarter) | playbook | TEAM, ORG | MEGROW | Hai buổi, mười bước: dựng đường ngắm → sàng bài toán → viết objective → chốt cái KHÔNG làm |
+| `PB-002` | Đưa một đề xuất qua được người không thuộc quyền mình (Getting a Proposal Through Stakeholders You Don't Manage) | playbook | ORG | MEGROW | Ba giai đoạn: lập bản đồ → pre-wiring 1:1 → dựng SCQA/Pyramid; mục tiêu 0 phản đối mới trong phòng họp |
+| `PB-003` | Thiết kế lại cách team làm việc và ra quyết định (Redesigning How the Team Works and Decides) | playbook | TEAM | MEGROW | Vẽ luồng việc thật → chốt quyền quyết định → đặt nhịp và ngưỡng → thử 7 ngày trước khi áp rộng |
+| `PB-004` | Rút khỏi việc kỹ thuật mà không để chất lượng tụt (Stepping Back from Hands-On Work Without Losing Quality) | playbook | SELF, TEAM | MEGROW | Nhịp 30/60/90: chẩn đoán bối cảnh → lọc việc và giao đi → bảo vệ khối Q2 → đổi thước đo thành công |
+| `PB-005` | Giao một việc lớn cho đúng người (Handing Over a Significant Piece of Work) | playbook | TEAM | MEGROW | Bốn thứ phải nói đủ khi giao: kết quả, ai sở hữu, quyền quyết định, "xong tốt" nghĩa là gì |
 
 ## Topic (TOP)
 
@@ -228,7 +232,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON` | `CON-032` | |
 | `FW` | `FW-097` | |
 | `PRB` | `PRB-012` | Xem mục đặt chỗ dưới đây |
-| `PB` | `PB-001` | |
+| `PB` | `PB-006` | |
 | `CASE` | `CASE-001` | |
 
 ### ID `PRB` đã đặt chỗ

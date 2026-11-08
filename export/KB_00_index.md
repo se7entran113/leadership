@@ -308,17 +308,17 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 172 chunk.** Đã xử lý **19/19 topic MEGROW trong phạm vi** (Topic 01–19). Topic 20 và Capstone Lumo Case để riêng, ngoài phạm vi kho.
+**Trạng thái kho: 177 chunk.** Đã xử lý **19/19 topic MEGROW trong phạm vi** (Topic 01–19). Topic 20 và Capstone Lumo Case để riêng, ngoài phạm vi kho.
 
 | Loại | Số lượng |
 |---|---:|
 | `CON` Khái niệm & nguyên tắc | 31 |
 | `FW` Framework | 111 |
 | `PRB` Vấn đề | 11 |
-| `PB` Playbook | 0 |
+| `PB` Playbook | 5 |
 | `TOP` Topic | 19 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **172** |
+| **Tổng** | **177** |
 
 ---
 
@@ -494,7 +494,11 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
-| _(chưa có — viết ở bước "Rà soát tổng thể" sau khi xử lý xong các topic)_ | | | | | |
+| `PB-001` | Chốt ưu tiên của team cho một quý (Setting the Team's Priorities for a Quarter) | playbook | TEAM, ORG | MEGROW | Hai buổi, mười bước: dựng đường ngắm → sàng bài toán → viết objective → chốt cái KHÔNG làm |
+| `PB-002` | Đưa một đề xuất qua được người không thuộc quyền mình (Getting a Proposal Through Stakeholders You Don't Manage) | playbook | ORG | MEGROW | Ba giai đoạn: lập bản đồ → pre-wiring 1:1 → dựng SCQA/Pyramid; mục tiêu 0 phản đối mới trong phòng họp |
+| `PB-003` | Thiết kế lại cách team làm việc và ra quyết định (Redesigning How the Team Works and Decides) | playbook | TEAM | MEGROW | Vẽ luồng việc thật → chốt quyền quyết định → đặt nhịp và ngưỡng → thử 7 ngày trước khi áp rộng |
+| `PB-004` | Rút khỏi việc kỹ thuật mà không để chất lượng tụt (Stepping Back from Hands-On Work Without Losing Quality) | playbook | SELF, TEAM | MEGROW | Nhịp 30/60/90: chẩn đoán bối cảnh → lọc việc và giao đi → bảo vệ khối Q2 → đổi thước đo thành công |
+| `PB-005` | Giao một việc lớn cho đúng người (Handing Over a Significant Piece of Work) | playbook | TEAM | MEGROW | Bốn thứ phải nói đủ khi giao: kết quả, ai sở hữu, quyền quyết định, "xong tốt" nghĩa là gì |
 
 ## Topic (TOP)
 
@@ -534,7 +538,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON` | `CON-032` | |
 | `FW` | `FW-097` | |
 | `PRB` | `PRB-012` | Xem mục đặt chỗ dưới đây |
-| `PB` | `PB-001` | |
+| `PB` | `PB-006` | |
 | `CASE` | `CASE-001` | |
 
 ### ID `PRB` đã đặt chỗ
@@ -565,13 +569,13 @@ Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dù
 
 **Trạng thái:** **Cả 11 chunk `PRB` đã tạo**, cùng 111 chunk `FW` và 31 chunk `CON` — từ **toàn bộ 19 topic trong phạm vi** (Topic 01–19). Hai tài liệu Capstone để riêng. Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
-| Vấn đề | Mức | Chunk PRB | Trạng thái |
+| Vấn đề | Mức | Chunk | Trạng thái |
 |---:|---|---|---|
-| 1 | Cao | `PRB-001` | ✅ đã có (T02, 15, 16, 17) |
-| 2 | Cao | `PRB-002` | ✅ đã có (T03, 12, 14, 15, 16, 17, 19) |
-| 3 | Cao | `PRB-003` | ✅ đã có (T02, 05, 06, 07, 10, 13, 14, 15, 16, 18) |
-| 4 | Cao | `PRB-004` | ✅ đã có (T01, 02, 03, 05, 06, 08, 10) |
-| 5 | Cao | `PRB-005` | ✅ đã có (T01, 02, 05, 06, 09, 10, 18) |
+| 1 | Cao | `PRB-001` + `PB-001` | ✅ đã có (T02, 15, 16, 17) |
+| 2 | Cao | `PRB-002` + `PB-002` | ✅ đã có (T03, 12, 14, 15, 16, 17, 19) |
+| 3 | Cao | `PRB-003` + `PB-003` | ✅ đã có (T02, 05, 06, 07, 10, 13, 14, 15, 16, 18) |
+| 4 | Cao | `PRB-004` + `PB-004` | ✅ đã có (T01, 02, 03, 05, 06, 08, 10) |
+| 5 | Cao | `PRB-005` + `PB-005` | ✅ đã có (T01, 02, 05, 06, 09, 10, 18) |
 | 6 | Trung bình | `PRB-006` | ✅ đã có (T03, 04, 07, 08, 09, 11) |
 | 7 | Trung bình | `PRB-007` | ✅ đã có (T05, 06, 07, 09, 11, 13) |
 | 8 | Trung bình | `PRB-008` | ✅ đã có (T02, 12, 16, 17, 19) |
@@ -587,7 +591,7 @@ Bối cảnh người học: Associate Data Science Manager tại Zalo (L2), qu�
 
 ## Mức ưu tiên CAO
 
-Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một chunk `PB` (checklist, kịch bản) khi rà soát tổng thể; liên kết tới mọi framework liên quan từ mọi topic.
+Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một chunk `PB` (checklist, kịch bản) khi rà soát tổng thể; liên kết tới mọi framework liên quan từ mọi topic. ✅ **Đã đủ cả năm `PB` (2026-11-08):** `PB-001` … `PB-005`, đặt tên theo **dịp sử dụng** chứ không theo tên vấn đề, vì playbook được tra cứu lúc sắp làm việc gì đó.
 
 ### `PRB-001` · 1. Định hướng bài toán cho team — chọn bài toán đáng làm, xác định hướng đi và thứ tự ưu tiên
 **Level:** TEAM, ORG

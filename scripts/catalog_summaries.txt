@@ -171,3 +171,8 @@ FW-094	AI Assists → Recommends → Acts with Approval → Acts Within Boundari
 FW-095	Topic · Goal · Reality · Options · Will — bước R bắt buộc phân loại vào một điều kiện EEE
 FW-096	Bảy tình huống Zalo về tác động của AI lên tiếng nói, năng lực và sự chân thực
 TOP-MEGROW-18	Bốn phần từ áp lực thứ sáu tới một thí nghiệm lãnh đạo; AI khuếch đại chứ không thay nền tảng
+PB-001	Hai buổi, mười bước: dựng đường ngắm → sàng bài toán → viết objective → chốt cái KHÔNG làm
+PB-002	Ba giai đoạn: lập bản đồ → pre-wiring 1:1 → dựng SCQA/Pyramid; mục tiêu 0 phản đối mới trong phòng họp
+PB-003	Vẽ luồng việc thật → chốt quyền quyết định → đặt nhịp và ngưỡng → thử 7 ngày trước khi áp rộng
+PB-004	Nhịp 30/60/90: chẩn đoán bối cảnh → lọc việc và giao đi → bảo vệ khối Q2 → đổi thước đo thành công
+PB-005	Bốn thứ phải nói đủ khi giao: kết quả, ai sở hữu, quyền quyết định, "xong tốt" nghĩa là gì

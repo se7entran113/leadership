@@ -4,6 +4,40 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Rà soát tổng thể, việc 3–4: năm playbook và QUICK_REFERENCE
+
+**Lệnh:** "làm 3-4" — hai việc cuối của "Rà soát tổng thể" (CLAUDE.md §9), chạy trên Opus theo quyết định của người dùng vì cần tổng hợp và nén nội dung.
+
+### Việc 3 — Năm chunk `PB` đầu tiên (kho từ 172 → 177 chunk)
+
+CLAUDE.md §2 yêu cầu mỗi vấn đề ưu tiên **Cao** có ít nhất một `PB`. Đã viết đủ năm, **đặt tên theo dịp sử dụng** chứ không theo tên vấn đề — vì playbook được tra cứu lúc sắp làm việc gì đó, không phải lúc đang phân loại vấn đề:
+
+| Chunk | Dịp | Phục vụ |
+|---|---|---|
+| `PB-001` | Chốt ưu tiên của team cho một quý | `PRB-001` |
+| `PB-002` | Đưa một đề xuất qua được người không thuộc quyền mình | `PRB-002`, `PRB-008` |
+| `PB-003` | Thiết kế lại cách team làm việc và ra quyết định | `PRB-003` |
+| `PB-004` | Rút khỏi việc kỹ thuật mà không để chất lượng tụt | `PRB-004` |
+| `PB-005` | Giao một việc lớn cho đúng người | `PRB-005` |
+
+**Khác biệt so với `PRB`:** `PRB` chẩn đoán (triệu chứng → nguyên nhân → framework); `PB` là **trình tự thao tác có mốc thời gian cộng câu nói sẵn dùng được ngay**. Mỗi playbook rút từ 4–5 topic khác nhau — loại chunk duy nhất trong kho cắt ngang nhiều topic như vậy. Cả năm đều ≤1000 từ.
+
+Mỗi playbook có một **chỉ số chính** để biết nó có hiệu quả không, thay vì danh sách chỉ số chung chung: `PB-001` tồn tại danh sách việc KHÔNG làm · `PB-002` số phản đối lớn xuất hiện lần đầu trong phòng họp (mục tiêu 0) · `PB-003` số quyết định quay lại bạn mỗi tuần · `PB-004` số quyết định team tự chốt · `PB-005` số lần việc quay lại sau khi đã giao.
+
+### Việc 4 — `QUICK_REFERENCE.md`
+
+Viết mới hoàn toàn (trước đó `export.py` chỉ sinh placeholder). Năm mục: (1) năm playbook theo dịp · (2) mười một vấn đề theo triệu chứng · (3) **toàn bộ 142 chunk `CON`/`FW` nhóm theo SELF/TEAM/ORG** rồi chia tiếp theo chủ đề con · (4) bảng tra nhanh "Tôi sắp…" · (5) lưu ý khi dùng (sáu chunk `needs_review`, khoảng trống cộng tác viên, ý nghĩa bốn nhãn nguồn).
+
+Đã kiểm tự động: **154 ID nhắc tới trong file đều tồn tại thật**; tám chunk con (`-01`) không liệt kê riêng — có ghi chú chỉ dẫn mở chunk cha. ~1750 từ.
+
+### Index
+`catalog.md` sinh lại (177 chunk, `PB` từ 0 → 5), bộ đếm ID sang `PB-006`; `problem_index.md` đánh dấu năm vấn đề Cao nay có cả `PRB` lẫn `PB`.
+
+### Hoàn tất "Rà soát tổng thể"
+Cả bốn việc của CLAUDE.md §9 đã xong: (1) quét trùng lặp · (2) hoàn thiện `problem_index.md` · (3) viết `PB` · (4) viết `QUICK_REFERENCE.md`. `validate.py`: **0 ERROR**.
+
+---
+
 ## 2026-11-08 — Rà soát tổng thể, việc 1–2: hoàn thiện `problem_index.md`, quét trùng lặp
 
 **Lệnh:** "làm 1-2 trước" — hai việc đầu của "Rà soát tổng thể" (CLAUDE.md §9), tách riêng khỏi việc viết `PB` và `QUICK_REFERENCE.md`.
