@@ -4,6 +4,40 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Đối chiếu lại slide sơ đồ Topic 06: sửa hai lỗi đọc sai
+
+**Lệnh:** người dùng hỏi *"topic 6 nội dung phần lớn trong ảnh, bạn không extract được à?"*
+
+### Bối cảnh
+Các slide ảnh của Topic 06 **đã** được đọc bằng thị giác ở đợt 1 (OQ-008 ghi nhận điều này). Nhưng câu hỏi của người dùng là lý do tốt để kiểm lại độ chính xác — và lượt kiểm tìm ra lỗi thật.
+
+### Phương pháp
+Render lại chín slide sơ đồ bằng `pdftoppm -r 110..120` và so từng nhãn với bản ghi trong `FW-007` / `FW-008`: slide 17 (Triangle), 20 (Curve), 23 (Metric), 27–28 (Circles), 31 (Architecture), 34 (Socium), 41 + 43 (Moderation), 45 (Ethics).
+
+### Kết quả: 6 đúng / 2 sai
+
+| Yếu tố | Kết quả |
+|---|---|
+| Triangle · Curve · Metric · Architecture · Socium · Ethics | ✅ khớp bản ghi cũ |
+| **Circles** | ❌ bản cũ: *Self-contained → Social Influencing → Identity Change → Self-driven*. **Đúng: SELF-CONTAINED → SOCIAL PULL → IDENTITY CHANGE → INFLUENCING OTHERS** |
+| **Moderation** | ❌ bản cũ đọc bốn chữ rời thành danh sách phẳng *Others · Dynamic · Decrease · Design*. **Đúng: sơ đồ luồng OTHERS → DYNAMIC DESIGN → ba kết cục AMPLIFY · DECREASE · REVERSE** |
+
+Lỗi Moderation nặng hơn lỗi Circles: nó không chỉ sai nhãn mà **sai cả dạng cấu trúc** — một sơ đồ luồng có ba kết cục bị ghi thành danh sách bốn mục ngang hàng, làm mất hẳn ý quan trọng nhất của yếu tố này là **cùng một can thiệp có thể đảo ngược tác dụng tùy bối cảnh**.
+
+### Đã sửa
+- `FW-007`: viết lại hai dòng Circles và Moderation; thêm ví dụ ba ảnh app thời tiết ở slide 43 (Stanford 74 xanh / Eindhoven 12 vàng / Chicago 3 đỏ) minh họa ba kết cục; thêm ghi chú về lượt đối chiếu ở mục Nguồn.
+- `FW-008`: bổ sung **cấu trúc ba nhóm màu** của bảy đòn bẩy ở slide 34 (Learning tách riêng trên cùng; cam: Comparison + Norms; xanh: Facilitation + Cooperation; vàng: Competition + Recognition) — chi tiết này trước đó bị bỏ sót hoàn toàn.
+- `PRB-011`: sửa câu hỏi chẩn đoán số 4 vốn dùng hai nhãn Circles sai.
+- `TOP-MEGROW-06` và `FW-009`: kiểm, không chứa chi tiết sai (chỉ liệt kê tên yếu tố).
+
+### OQ-008 thu hẹp phạm vi
+Cập nhật để phản ánh đúng tình trạng mới: **nhãn và sơ đồ nay đã được xác minh**; thứ còn thiếu chỉ là **lời giảng về ý nghĩa và cách dùng** từng yếu tố. `FW-007`, `FW-008`, `FW-009`, `TOP-MEGROW-06`, `PRB-007` giữ `needs_review` vì phần diễn giải vẫn là `[SUY LUẬN]`.
+
+### Bài học về quy trình
+Một lượt đọc thị giác có làm **không đảm bảo** đã đọc kỹ. Tỉ lệ 2 lỗi trên 8 yếu tố ở đây đủ cao để đáng nghi ngờ các deck ảnh khác — cụ thể là **Topic 05** (65/78 slide ảnh, OQ-014), nơi `CON-025`, `CON-026` và `FW-063` đều dựa vào cách đọc hình. Nên chạy một lượt đối chiếu tương tự cho Topic 05 trước khi coi kho là xong.
+
+---
+
 ## 2026-11-08 — Dọn cờ `needs_review` lỗi thời và vá liên kết sót ở PRB-011
 
 **Lệnh:** "hiện tại làm 1 và 2 luôn" — xử lý trước hai việc đã nêu, chưa chạy "Rà soát tổng thể".

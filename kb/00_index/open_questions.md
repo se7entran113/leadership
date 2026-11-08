@@ -137,13 +137,23 @@ Không có Jago. (Bản mở rộng Vroom–Jago là một công trình sau đó
 
 **Mức:** Trung bình · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
 
-**Vấn đề.** 49/69 slide của Topic 06 là ảnh hoặc từ khóa, không trích được text. Phần giữa buổi — **Transformation Design Framework** 8 yếu tố (slide 12–45) — gồm gần như toàn bộ là slide tiêu đề một từ (`TRIANGLE | 1`, `CURVE | 2`, `METRIC | 3`…) kèm sơ đồ và ảnh ví dụ. **Không có slide nào định nghĩa từng yếu tố bằng văn bản.**
+**Vấn đề.** 49/69 slide của Topic 06 là ảnh hoặc từ khóa, không trích được text. Phần giữa buổi — **Transformation Design Framework** 8 yếu tố (slide 12–45) — gần như toàn bộ là slide tiêu đề một từ (`TRIANGLE | 1`, `CURVE | 2`, `METRIC | 3`…) kèm sơ đồ và ảnh ví dụ. **Không có slide nào định nghĩa từng yếu tố bằng văn bản.**
 
-Nội dung đã được đọc bằng thị giác qua `pdftoppm`, nên biết *sơ đồ vẽ gì*, nhưng **nghĩa và cách dùng của từng yếu tố là suy luận** từ nhãn, sơ đồ và các ví dụ xung quanh.
+**Đã đối chiếu lại ngày 2026-11-08.** Render lại bằng `pdftoppm` ở độ phân giải cao chín slide sơ đồ (17, 20, 23, 27–28, 31, 34, 41, 43, 45) và so với bản ghi trong kho:
 
-**Đã làm.** Các chunk `FW-007`, `FW-008`, `FW-009`, `TOP-MEGROW-06`, `PRB-007` và `PRB-011` đều để `confidence: medium` và `status: needs_review`; mọi phần diễn giải đều gắn nhãn `[SUY LUẬN]`.
+| Yếu tố | Kết quả đối chiếu |
+|---|---|
+| Triangle · Curve · Metric · Architecture · Socium · Ethics | ✅ khớp |
+| **Circles** | ❌ **đã sửa** — bản cũ ghi *"Self-contained → Social Influencing → Identity Change → Self-driven"*; slide 28 thực tế ghi **SELF-CONTAINED → SOCIAL PULL → IDENTITY CHANGE → INFLUENCING OTHERS** |
+| **Moderation** | ❌ **đã sửa** — bản cũ đọc bốn chữ thành danh sách phẳng *"Others · Dynamic · Decrease · Design"*; slide 41 thực tế là **sơ đồ luồng** OTHERS → DYNAMIC DESIGN → ba kết cục **AMPLIFY · DECREASE · REVERSE** |
 
-**Cần người dùng.** Nếu anh có ghi chép tại lớp, handout, hoặc link tài liệu của giảng viên (transforms.me) thì gửi để nâng ba chunk này lên `verified`. Nếu không, chúng vẫn dùng được nhưng nên đọc kèm lưu ý.
+Bổ sung thêm: cấu trúc **ba nhóm màu** của bảy đòn bẩy Socium (slide 34) nay đã được ghi vào `FW-008`; ví dụ ba ảnh app thời tiết minh họa ba kết cục của Moderation (slide 43) đã vào `FW-007`.
+
+**Phạm vi còn thiếu, thu hẹp lại.** Sau lượt đối chiếu này, **nhãn và sơ đồ đã được xác minh là ghi đúng**. Thứ vẫn thiếu là **lời giảng**: ý nghĩa, thứ tự áp dụng và cách dùng từng yếu tố. Deck không có slide nào nói điều đó, nên mọi phần diễn giải trong `FW-007` và `FW-008` vẫn gắn nhãn `[SUY LUẬN]`.
+
+**Đã làm.** `FW-007`, `FW-008`, `FW-009`, `TOP-MEGROW-06`, `PRB-007` giữ `confidence: medium` và `status: needs_review` — vì phần diễn giải, không phải phần nhãn, mới là chỗ chưa chắc. (`PRB-011` đã sang `verified` nhờ bổ sung nguồn từ bốn topic khác.)
+
+**Cần người dùng.** Ghi chép tại lớp, handout, hoặc tài liệu của giảng viên (transforms.me) — cụ thể là **giảng viên giải thích từng yếu tố nghĩa là gì và dùng thế nào**. Nhãn thì kho đã có đúng rồi. Nếu không có, các chunk vẫn dùng được nhưng nên đọc kèm lưu ý.
 
 ---
 

@@ -625,13 +625,17 @@ Tám yếu tố, theo thứ tự giảng trong Topic 06:
 | 1 | **Triangle** (slide 16–18) | Ba đỉnh **Attitude — Environment — Behavior**: thái độ, môi trường và hành vi tác động lẫn nhau |
 | 2 | **Curve** (slide 19–21) | Đường cong Attitude × Environment: khi môi trường được thiết kế tốt, hành vi mong muốn vẫn xảy ra dù thái độ chưa tích cực |
 | 3 | **Metric** (slide 22–23) | Lưới People / Metric · Behavior / Today · Transformation / Future — đo hành vi hiện tại để thấy khoảng cách tới tương lai mong muốn |
-| 4 | **Circles** (slide 27–28) | Bốn giai đoạn chuyển đổi: **Self-contained → Social Influencing → Identity Change ("January 1st") → Self-driven** |
+| 4 | **Circles** (slide 27–28) | **STAGES OF TRANSFORMATION** — bốn giai đoạn nối bằng mũi tên: **SELF-CONTAINED → SOCIAL PULL → IDENTITY CHANGE → INFLUENCING OTHERS**. Ba vòng tròn chồng lên nhau chuyển màu đỏ → vàng → xanh; lớp nền mờ có hình cà rốt và cây gậy ở giai đoạn đầu và chữ "1st" ở giai đoạn Identity Change |
 | 5 | **Architecture** (slide 30–31) | Transformation — Intelligence — Data: dùng dữ liệu và trí tuệ để kiến trúc nên sự chuyển đổi |
 | 6 | **Socium** (slide 33–39) | Bảy đòn bẩy ảnh hưởng xã hội — tách riêng thành `FW-008` |
-| 7 | **Moderation** (slide 40–43) | Others · Dynamic · Decrease · Design — điều tiết cường độ can thiệp theo thời gian |
+| 7 | **Moderation** (slide 40–43) | Sơ đồ luồng: **OTHERS → DYNAMIC DESIGN → ba kết cục AMPLIFY (xanh, đi lên) · DECREASE (vàng, đi ngang) · REVERSE (đỏ, đi xuống)**. Cùng một can thiệp có thể khuếch đại, làm yếu đi, hoặc **đảo ngược** tác dụng tùy bối cảnh |
 | 8 | **Ethics** (slide 44–45) | Lưới Intended/Unintended × Positive/Negative: **Target · Dark · Surprise · Backfiring** — buộc nghĩ trước về hệ quả ngoài ý muốn |
 
 Diễn giải bảng: ba yếu tố đầu là chẩn đoán (hiểu bối cảnh và đo), ba yếu tố giữa là thiết kế can thiệp, hai yếu tố cuối là vận hành và kiểm soát rủi ro.
+
+`[KHÓA HỌC]` **Ví dụ cho Moderation** (slide 43): ba ảnh chụp cùng một app thời tiết ở ba nơi — Stanford hiện số **74** trên nền **xanh**, Eindhoven **12** trên nền **vàng**, Chicago **3** trên nền **đỏ**. Cùng một thiết kế hiển thị, ba bối cảnh, ba hiệu ứng khác nhau. Đây là minh họa trực tiếp cho ba kết cục AMPLIFY · DECREASE · REVERSE.
+
+`[SUY LUẬN]` Hệ quả thực hành của Moderation: một can thiệp hiệu quả ở team này có thể **phản tác dụng** ở team khác, nên phải đo lại ở từng bối cảnh chứ không nhân bản mù. Đây cũng là lý do yếu tố này đứng ngay trước **Ethics** trong khung.
 
 ## Câu hỏi gợi mở và kịch bản hội thoại
 "Tôi đang cố đổi thái độ, hay đang đổi môi trường?" (Triangle/Curve) · "Hành vi này hôm nay đo bằng gì?" (Metric) · "Nếu cách này hiệu quả quá mức thì điều tệ nhất có thể xảy ra là gì?" (Ethics)
@@ -649,6 +653,8 @@ Diễn giải bảng: ba yếu tố đầu là chẩn đoán (hiểu bối cản
 Dùng `FW-007` làm khung tổng, `FW-008` khi cần đòn bẩy xã hội cụ thể, và `CON-006` để không tăng tải nhận thức khi thêm can thiệp mới.
 
 ## Nguồn
+`[SUY LUẬN]` **Đã đối chiếu lại toàn bộ sơ đồ ngày 2026-11-08** bằng `pdftoppm` ở độ phân giải cao cho slide 17, 20, 23, 27–28, 31, 34, 41, 43, 45. Sáu yếu tố Triangle · Curve · Metric · Architecture · Socium · Ethics khớp với bản ghi trước đó; **hai yếu tố Circles và Moderation đã được sửa lại** vì bản ghi cũ đọc sai nhãn.
+
 - `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 12–45]`
 - Nguồn của giảng viên nhắc trên slide: transforms.me · MIT Media Lab, *Persuasive Cities* (slide 32, 50).
 
@@ -700,6 +706,17 @@ Bảy đòn bẩy (slide 34, 37):
 | **Learning** (học hỏi) | Tạo chỗ để quan sát và học từ nhau | Buổi đọc code chung 30 phút hằng tuần |
 | **Norms** (chuẩn mực) | Làm rõ "ở đây mọi người vẫn làm thế" | Chuẩn: mọi notebook lên production đều phải qua review |
 | **Facilitation** (tạo điều kiện) | Gỡ ma sát để hành vi dễ xảy ra | Template sẵn, môi trường dựng sẵn |
+
+`[KHÓA HỌC]` Slide 34 không xếp bảy đòn bẩy thành một danh sách phẳng mà thành **ba nhóm màu, với Learning đặt riêng ở trên**:
+
+| Nhóm | Đòn bẩy |
+|---|---|
+| *(trên cùng, nền trắng)* | **Learning** |
+| Cam | **Comparison** · **Norms** |
+| Xanh lá | **Facilitation** · **Cooperation** |
+| Vàng | **Competition** · **Recognition** |
+
+Diễn giải bảng: `[SUY LUẬN]` cách xếp này gợi một logic — cột cam là các đòn bẩy dựa trên **việc nhìn người khác làm gì** (so sánh và chuẩn mực), cột xanh dựa trên **làm cùng nhau** (gỡ ma sát và hợp tác), cột vàng dựa trên **phần thưởng xã hội** (ganh đua và ghi nhận). **Learning** được đặt tách ở trên, có thể vì nó là đòn bẩy duy nhất tạo ra năng lực chứ không chỉ tạo ra hành vi. Slide không giải thích cách nhóm này, nên phần diễn giải là suy luận.
 
 `[KHÓA HỌC]` Slide 37 còn vẽ dòng chảy giữa các đòn bẩy: **Facilitation → Comparison → Competition → Recognition → Cooperation → Learning → Norms**. Diễn giải: tạo điều kiện trước, so sánh và cạnh tranh tạo chuyển động, ghi nhận giữ chuyển động đó, rồi hợp tác và học hỏi biến nó thành chuẩn mực.
 
