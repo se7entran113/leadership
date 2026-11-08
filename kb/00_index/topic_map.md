@@ -4,7 +4,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 9 / 20 topic đã xử lý** (Topic 01, 04, 06, 08, 09, 10, 12, 14, 19) — 375 / 805 trang, độ phủ 46.6%.
+**Tiến độ MEGROW: 12 / 20 topic đã xử lý** (Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17, 19) — 486 / 805 trang, độ phủ 60.4%.
 
 ---
 
@@ -18,7 +18,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | ID | Topic | Tên topic | Giảng viên | Level | File | Trang | Trạng thái | Ngày thêm |
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-01` | 1 | Navigating the Leadership Transition | AP Burkhard Schrage | SELF + TEAM | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-02` | 2 | Driving Operational Execution | Dr Phuong (Emmy) Hoang | SELF + TEAM, ORG | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-02` | 2 | Driving Operational Execution | Dr Phuong (Emmy) Hoang | SELF + TEAM, ORG | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-03` | 3 | Audit Mindset & Biases | Dr Thu Nguyen | SELF | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | chưa xử lý | 2026-11-07 |
 | `TOP-MEGROW-04` | 4 | Practice Performance Conversations (AMO Framework) | AP Elaine Chew | SELF + TEAM | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-05` | 5 | Optimise Personal Productivity | AP Agnis Stibe | SELF | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | chưa xử lý | 2026-11-07 |
@@ -44,8 +44,8 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-14` | 14 | Decision Making in Cross-functional Teams | Dr Phuong Nguyen | ORG + TEAM | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-14` | 14 | ↳ *Case reading bổ sung:* The BCPC Internet Strategy Team: An Exercise | Amy C. Edmondson, HBS 604-035 | ORG + TEAM | `[Case Reading] of topic 14 .pdf` | 4 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | **đã xử lý** | 2026-11-07 |
+| `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | chưa xử lý | 2026-11-07 |
 | `TOP-MEGROW-19` | 19 | Presenting Business Cases (SCQA, Pyramid Principle, Stakeholder Mapping) | Dr Tony Nguyen | ORG | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-20` | 20 | Capstone Research & Alignment `CAPSTONE` | AP Burkhard Schrage | ORG | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | chưa xử lý | 2026-11-07 |

@@ -4,6 +4,35 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — MEGROW Topic 02, 16, 17: thêm 38 chunk (tổng 105)
+
+**Lệnh:** "Xử lý megrow topic 2, 16, 17" (đợt 4 của chỉ thị "cứ lần lượt làm hết topic và commit theo đợt").
+
+### Chunk mới (38)
+- **Khái niệm (7):** `CON-014` thực thi là hệ thống · `CON-015` chuỗi Goal → Impact · `CON-016` giám sát hệ thống không giám sát người · `CON-017` nguồn lực vs năng lực · `CON-018` outside-in / inside-out · `CON-019` line-of-sight test · `CON-020` How Might We.
+- **Framework Topic 02 (10):** `FW-033` Strategic Management Cycle · `FW-034` Strategy Cascade · `FW-035` Three Manager Moves · `FW-036` SMART và giới hạn · `FW-037` mẫu outcome–evidence–guardrail · `FW-038` metric/KPI/baseline/target · `FW-039` signal stack + phá thử KPI · `FW-040` OKR và phân rã công việc · `FW-041` Team Delivery System · `FW-042` nhịp review và ngưỡng phản ứng.
+- **Framework Topic 17 (9):** `FW-043` sáu kỷ luật Watkins · `FW-044` + `FW-044-01` PESTEL và hoạt động quét · `FW-045` + `FW-045-01` Five Forces và bằng chứng về vai trò của ngành · `FW-046` value stick · `FW-047` + `FW-047-01` VRIN và moat · `FW-048` reframe → giả định → khuyến nghị.
+- **Framework Topic 16 (8):** `FW-049` + `FW-049-01` AI-augmented Design Thinking · `FW-050` Problem Tree · `FW-051` Empathy Map · `FW-052` Problem Statement Template · `FW-053` + `FW-053-01` thử nghiệm 7 ngày · `FW-054` bốn đường đi và lời đề nghị ba dòng.
+- **Vấn đề (1):** `PRB-001` Định hướng bài toán cho team — vấn đề ưu tiên **Cao** số 1, trước đó chưa có chunk.
+- **Topic (3):** `TOP-MEGROW-02`, `TOP-MEGROW-16`, `TOP-MEGROW-17`.
+
+### Chunk đã cập nhật
+- `PRB-002`, `PRB-003`, `PRB-004`, `PRB-005`, `PRB-008`, `PRB-010`: bổ sung `topics`, `related_ids`, `source` và các dòng nguyên nhân gốc rễ mới từ Topic 02, 16, 17.
+- `PRB-008`: gỡ ghi chú "Topic 17 chưa xử lý", nối sang `CON-019`.
+- `PRB-005`: gỡ ghi chú "Topic 08 sẽ liên kết khi xử lý", nối sang `FW-026`/`PRB-006`.
+
+### Index
+- `coverage_matrix.md`: thêm ánh xạ từng trang cho 111 slide (Topic 02: 35, Topic 16: 37, Topic 17: 39). Độ phủ **486 / 805 trang (60,4%)**, 12/20 topic.
+- `topic_map.md`, `problem_index.md`, `glossary.md` (ba bảng thuật ngữ mới), `catalog.md` (sinh lại bằng `scripts/gen_catalog.py`).
+- `open_questions.md`: mở **OQ-010** — Topic 02 slide 34 là trang tiêu đề "Case in point — Improving new-account activation" nhưng không có slide nội dung.
+
+### Ghi chú kỹ thuật
+- Ba slide dạng ảnh (Topic 02 slide 4, 34, 35; Topic 16 slide 10–11) đọc bằng thị giác qua `pdftoppm`. Không có trang `[KHÓ ĐỌC]`.
+- Năm chunk con được tách ra để giữ dưới ngưỡng 800 từ: `FW-044-01`, `FW-045-01`, `FW-047-01`, `FW-049-01`, `FW-053-01`.
+- `scripts/validate.py`: **0 ERROR, 0 WARNING**.
+
+---
+
 ## 2026-11-08 — MEGROW Topic 04, 08, 09: thêm 19 chunk (tổng 67)
 
 **Lệnh:** `Xử lý megrow topic 4, 8, 9` (CLAUDE.md §9)

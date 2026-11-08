@@ -2,20 +2,20 @@
 
 Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dùng framework nào?"*
 
-**Trạng thái:** 9 chunk `PRB`, 36 chunk `FW` và 13 chunk `CON` đã tạo (từ Topic 01, 04, 06, 08, 09, 10, 12, 14, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
+**Trạng thái:** 10 chunk `PRB`, 63 chunk `FW` và 20 chunk `CON` đã tạo (từ Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
 | Vấn đề | Mức | Chunk PRB | Trạng thái |
 |---:|---|---|---|
-| 1 | Cao | — | chờ Topic 02, 17 |
-| 2 | Cao | `PRB-002` | ✅ đã có |
-| 3 | Cao | `PRB-003` | ✅ một phần (Topic 06, 10, 14) |
-| 4 | Cao | `PRB-004` | ✅ đã có |
-| 5 | Cao | `PRB-005` | ✅ đã có (T01, 06, 09, 10) |
+| 1 | Cao | `PRB-001` | ✅ đã có (T02, T16, T17) |
+| 2 | Cao | `PRB-002` | ✅ đã có (T12, 14, 16, 17, 19) |
+| 3 | Cao | `PRB-003` | ✅ đã có (T02, 06, 10, 14, 16) |
+| 4 | Cao | `PRB-004` | ✅ đã có (T01, 02, 06, 08, 10) |
+| 5 | Cao | `PRB-005` | ✅ đã có (T01, 02, 06, 09, 10) |
 | 6 | Trung bình | `PRB-006` | ✅ đã có |
 | 7 | Trung bình | `PRB-007` | ✅ một phần (Topic 06, 09) |
-| 8 | Trung bình | `PRB-008` | ✅ một phần (Topic 19, 12) |
+| 8 | Trung bình | `PRB-008` | ✅ đã có (T02, 12, 16, 17, 19) |
 | 9 | Thấp | — | chờ Topic 13 |
-| 10 | Thấp | `PRB-010` | ✅ một phần (Topic 08, 12, 14) |
+| 10 | Thấp | `PRB-010` | ✅ một phần (T08, 12, 14, 16) |
 | 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).
@@ -28,18 +28,18 @@ Bối cảnh người học: Associate Data Science Manager tại Zalo (L2), qu�
 
 Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một chunk `PB` (checklist, kịch bản) khi rà soát tổng thể; liên kết tới mọi framework liên quan từ mọi topic.
 
-### PRB-? · 1. Định hướng bài toán cho team — chọn bài toán đáng làm, xác định hướng đi và thứ tự ưu tiên
+### `PRB-001` · 1. Định hướng bài toán cho team — chọn bài toán đáng làm, xác định hướng đi và thứ tự ưu tiên
 **Level:** TEAM, ORG
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| Strategic Management Cycle (Research & Analysis → Strategy Formulation → Translation & Planning → Execution → Evaluation & Adaptation) | T2 | _chưa có_ |
-| Cascade Corporate → Business → Functional → Operational strategy | T2 | _chưa có_ |
-| SMART + mẫu mục tiêu theo outcome/evidence/guardrail; phân biệt Output–Outcome–Impact | T2 | _chưa có_ |
-| Stress-test KPI (4 câu hỏi phá KPI) · Balanced execution signal stack | T2 | _chưa có_ |
-| PESTEL · Porter Five Forces · VRIN / Resource-Based View · Options table · Line-of-sight test | T17 | _chưa có_ |
+| Strategic Management Cycle | T2 | `FW-033` |
+| Cascade Corporate → Business → Functional → Operational | T2 | `FW-034` |
+| SMART + mẫu outcome/evidence/guardrail; Output–Outcome–Impact | T2 | `FW-036`, `FW-037`, `CON-015` |
+| Metric/KPI/baseline/target · Signal stack · phá thử KPI · OKR | T2 | `FW-038`, `FW-039`, `FW-040`, `FW-035` |
+| PESTEL · Five Forces · WTP–cost · VRIN · options table · line-of-sight | T17 | `FW-043`, `FW-044`, `FW-044-01`, `FW-045`, `FW-045-01`, `FW-046`, `FW-047`, `FW-047-01`, `FW-048`, `CON-017`, `CON-018`, `CON-019` |
 | Stakeholder Journey Map · Systematic Inventive Thinking (SIT) · Creative Matrix | T15 | _chưa có_ |
-| Problem Tree Analysis · Problem Statement Template · "How Might We" reframe | T16 | _chưa có_ |
+| Design Thinking · Problem Tree · Empathy Map · Problem Statement · HMW · 7-day test | T16 | `FW-049`, `FW-049-01`, `FW-050`, `FW-051`, `FW-052`, `CON-020`, `FW-053`, `FW-053-01`, `FW-054` |
 | FranklinCovey Time Matrix · Eisenhower Matrix · GTD | T5 | _chưa có_ |
 
 ### `PRB-002` · 2. Làm việc với stakeholder để xây dựng và thống nhất bài toán
@@ -71,9 +71,9 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| Team Delivery System · Review rhythm (daily/weekly/milestone gate) · Response thresholds · Monitor the work system, not the person | T2 | _chưa có_ |
+| Team Delivery System · Review rhythm · Response thresholds · Monitor the work system | T2 | `FW-041`, `FW-042`, `CON-016` |
 | Owner / Responsibility / Accountability / RACI · Decision rights | T2, T6 | `CON-003` (phần T6) |
-| AI-augmented Design Thinking (Stanford 5 phases; Understand–Create–Deliver) · Empathy Map · 7-day test | T16 | _chưa có_ |
+| AI-augmented Design Thinking · Empathy Map · 7-day test | T16 | `FW-049`, `FW-051`, `FW-053` |
 | Vroom–Yetton–Jago Model (AI / AII / CI / CII / GII) | T10 | `FW-006` |
 | Human–AI Decision Rights (4 mức) | T18 | _chưa có_ |
 | HAI — phân bổ việc Human / AI / HAI; giao cho AI không giảm trách nhiệm người | T6 | `FW-010` |

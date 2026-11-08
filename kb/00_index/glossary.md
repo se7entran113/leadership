@@ -2,7 +2,7 @@
 
 Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng Việt. Mỗi chunk vẫn phải tự giải thích thuật ngữ ở lần xuất hiện đầu tiên (CLAUDE.md §5.3) — glossary này là bảng tra cứu chung, không thay thế việc đó.
 
-**Trạng thái:** thuật ngữ từ Topic 01, 04, 06, 08, 09, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
+**Trạng thái:** thuật ngữ từ Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
 
 ## Thuật ngữ vận hành kho tri thức
 
@@ -140,3 +140,56 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | VRIFA | Năm phép thử lợi thế cá nhân | Valuable · Rare · Inimitable · Future-relevant · Authentic | `FW-031` |
 | Professional signature | Dấu ấn nghề nghiệp | *"Khi người ta cần ______, tôi muốn họ nghĩ tới tôi."* | `FW-031` |
 
+### Thực thi vận hành (Topic 02)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Operational execution | Thực thi vận hành | Chuyển mục tiêu thành hành động phối hợp, theo dõi kết quả, sửa kế hoạch khi bằng chứng cho thấy chệch hướng | `CON-014` |
+| Translate · Coordinate · Adjust | Dịch · Phối hợp · Điều chỉnh | Ba động tác của người quản lý trong thực thi | `FW-035` |
+| Goal / Objective / Output / Outcome / Impact | Mục tiêu rộng / kết quả cụ thể / sản phẩm / thay đổi / giá trị | Năm bậc từ định hướng tới giá trị; ba bậc đầu trong tầm kiểm soát | `CON-015` |
+| SMART | Cụ thể – Đo được – Khả thi – Liên quan – Có thời hạn | Mức rõ ràng tối thiểu của một objective | `FW-036` |
+| Guardrail | Lằn ranh an toàn | Thứ phải giữ cho khoẻ mạnh trong lúc theo đuổi mục tiêu | `FW-037`, `FW-039` |
+| Metric / KPI / Baseline / Target | Chỉ số / chỉ số then chốt / mốc xuất phát / mức cần đạt | Bộ bốn thuật ngữ đo lường tối thiểu | `FW-038` |
+| Leading / Lagging indicator | Chỉ số dẫn dắt / chỉ số kết quả | Tín hiệu sớm so với kết quả cuối | `FW-038` |
+| Outcome–Driver–Guardrail–Flow | Bốn tầng tín hiệu thực thi | Giá trị có xảy ra · ta có chuyển động · cái gì phải khoẻ · việc đang dồn ở đâu | `FW-039` |
+| Initiative / Project / Workstream / Task | Sáng kiến / dự án / luồng công việc / nhiệm vụ | Bốn mức phân rã công việc dưới một objective | `FW-040` |
+| Dependency / Critical path | Phụ thuộc / đường găng | Việc chặn việc khác; chuỗi quyết định thời hạn cuối | `FW-040` |
+| Responsibility vs Accountability | Trách nhiệm làm vs trách nhiệm giải trình | Nhiều người có thể responsible; chỉ một người accountable | `FW-041` |
+| Blocker vs Bottleneck | Vật cản vs nút thắt | Sự kiện chặn một việc vs chỗ hệ thống luôn chậm | `FW-041` |
+| Cadence | Nhịp | Tần suất và loại review: daily check, weekly review, milestone gate | `FW-042` |
+| Response threshold | Ngưỡng phản ứng | Act now · Act this cycle · Observe and learn | `FW-042` |
+
+### Tư duy chiến lược (Topic 17)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Six disciplines of strategic thinking | Sáu kỷ luật tư duy chiến lược | Pattern recognition · systems analysis · mental agility · structured problem-solving · visioning · political savvy (Watkins, 2024) | `FW-043` |
+| Cloud to ground | Từ mây xuống đất | Di chuyển giữa bức tranh lớn và chi tiết — mô tả của Watkins cho mental agility | `FW-043` |
+| PESTEL | Chính trị – Kinh tế – Xã hội – Công nghệ – Môi trường – Pháp lý | Sáu loại thay đổi bên ngoài cần quét | `FW-044` |
+| So what test | Phép thử "so what" | Mỗi phát hiện phải kết bằng cơ hội hay đe doạ cho team bạn | `FW-044` |
+| Five Forces | Năm áp lực cạnh tranh | New entrants · suppliers · buyers · substitutes · rivalry (Porter, 2008) | `FW-045` |
+| Willingness to pay (WTP) | Mức sẵn lòng trả | Mức tối đa khách hàng chấp nhận trả; nâng nó là một trong hai cách thắng | `FW-046` |
+| Value stick | Thanh giá trị | WTP – Price – Cost – Willingness to sell, chia thành customer delight, firm margin, supplier surplus | `FW-046` |
+| Resources vs Capabilities | Nguồn lực vs năng lực | Thứ bạn **có** vs thứ bạn **làm tốt** | `CON-017` |
+| Core competence | Năng lực cốt lõi | Vừa quan trọng với khách hàng, vừa làm tốt hơn đối thủ | `CON-017` |
+| Outside-in / Inside-out | Nhìn từ ngoài vào / từ trong ra | "Nên cạnh tranh ở đâu" vs "thắng bằng gì" — cần cả hai | `CON-018` |
+| VRIN | Có giá trị – Hiếm – Khó sao chép – Khó thay thế | Bốn phép thử lợi thế bền vững (Barney, 1991) | `FW-047` |
+| Moat | Hào | Tập nguồn lực VRIN giữ đối thủ ở ngoài; team nới rộng hoặc thu hẹp nó mỗi ngày | `FW-047-01` |
+| Line-of-sight test | Phép thử đường ngắm | Mỗi người có nói được việc mình làm đẩy bậc ngay trên nó không | `CON-019` |
+| Riskiest assumption | Giả định rủi ro nhất | Giả định mà nếu sai sẽ làm đổi khuyến nghị | `FW-048` |
+
+### Giải quyết vấn đề và gỡ blocker (Topic 16)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Design Thinking | Tư duy thiết kế | Empathize · Define · Ideate · Prototype · Test (mô hình Stanford) | `FW-049` |
+| Understand – Create – Deliver | Hiểu – Tạo – Giao | Ba chặng gom năm pha; kết thúc lần lượt ở insight, ideas, reality | `FW-049` |
+| Problem-first, not prompt-first | Vấn đề trước, prompt sau | Nguyên tắc 1 khi dùng AI trong giải quyết vấn đề | `FW-049-01` |
+| Problem Tree | Cây vấn đề | Nguyên nhân ở rễ, hệ quả ở tán, vấn đề cốt lõi ở thân | `FW-050` |
+| Empathy Map | Bản đồ thấu cảm | Hiểu một stakeholder thật trước khi định nghĩa vấn đề | `FW-051` |
+| Symptom / Assumption / Possible cause | Triệu chứng / giả định / nguyên nhân có thể | Ba cột tách điều quan sát được khỏi điều ta tin | `FW-052` |
+| Problem statement template | Mẫu phát biểu vấn đề | "[Stakeholder] cần… bởi vì… dẫn tới… bằng chứng là…" | `FW-052` |
+| How Might We (HMW) | Làm thế nào chúng ta có thể… | Câu hỏi thiết kế: human-centred, focused, open-ended, actionable, chưa phải giải pháp | `CON-020` |
+| Prototype | Bản thử | Thử một phiên bản nhỏ trước rồi học — không phải giải pháp cuối cùng | `FW-053` |
+| 7-day test | Thử nghiệm 7 ngày | MỘT team · MỘT tuần · MỘT kết quả để kiểm tra | `FW-053-01` |
+| Three-line ask | Lời đề nghị ba dòng | "Vấn đề là… · Chúng tôi đã thử… · Chúng tôi cần anh/chị…" trong 45 giây | `FW-054` |

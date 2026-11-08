@@ -72,6 +72,72 @@ Buổi mở đầu của cả chương trình, trả lời câu hỏi: khi lên 
 =====
 
 ---
+id: TOP-MEGROW-02
+type: topic
+title_vi: Dẫn dắt thực thi vận hành
+title_en: Driving Operational Execution
+aliases: [Topic 2 megrow, operational execution, driving execution]
+keywords: [thực thi, execution, OKR, KPI, baseline, target, SMART, outcome, output, impact, owner, accountability, RACI, cadence, blocker, bottleneck, escalation, nhịp review, ngưỡng phản ứng, hệ thống giao hàng, Amazon, Zalo]
+levels: [SELF, TEAM, ORG]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-001, PRB-003, PRB-004]
+related_ids: [FW-033, FW-034, FW-035, FW-036, FW-037, FW-038, FW-039, FW-040, FW-041, FW-042, CON-014, CON-015, CON-016, TOP-MEGROW-17, TOP-MEGROW-01]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 1–35"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 2: Driving Operational Execution
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P1 `LEAD_SELF`** `[SUY LUẬN — người dùng duyệt]`. Level **SELF + TEAM, ORG** — nội dung thực tế nghiêng về TEAM và ORG. Giảng viên: Dr Phuong (Emmy) Hoang. 35 slide.
+
+## Tóm tắt topic
+Topic 2 trả lời câu hỏi: làm sao một người quản lý cấp một biến định hướng tổ chức thành kết quả của team. Luận điểm xuyên suốt (slide 10): *"Execution is not just effort. It is a system for turning effort into results."* Buổi học đi từ bối cảnh chiến lược, qua việc định nghĩa kết quả và đo lường, tới một hệ thống giao hàng có chủ sở hữu, nhịp review và ngưỡng phản ứng.
+
+## Mạch nội dung theo trình tự giảng dạy
+`[KHÓA HỌC]` Slide 3 công bố lộ trình năm chặng, lặp lại ở slide 5, 12, 20, 28 làm vách ngăn: **1. Why Execution Matters → 2. From Strategy to Team Execution → 3. Define the Result → 4. Measure and Monitor Progress → 5. Build and Run the Delivery System.**
+
+1. **Chặng 1–2 (slide 4–10).** Mở bằng hành trình Amazon từ hiệu sách trực tuyến (1994–1995) tới hệ sinh thái y tế (2022–2023), với "strategic pattern" ba điểm: đi theo nhu cầu khách hàng, xây dịch vụ bổ trợ, tận dụng dữ liệu – logistics – công nghệ. Rồi `FW-033`, `FW-034` (thang bốn tầng, bốn câu hỏi phiên bản Zalo) và `CON-014`.
+2. **Nghỉ giải lao (slide 11).** Sau giải lao: *"From Direction to Measurable Results."*
+3. **Chặng 3 (slide 13–19).** `FW-035` ba động tác Translate – Coordinate – Adjust và sáu nhóm thuật ngữ; `CON-015` chuỗi Goal → Impact cùng năm ranh giới thực thi; `FW-036` SMART và giới hạn; `FW-037` hai mẫu mục tiêu theo outcome, bằng chứng và guardrail.
+4. **Chặng 4 (slide 21–27).** `FW-038` metric – KPI – baseline – target, leading và lagging; `FW-039` bộ tín hiệu bốn tầng và bốn câu hỏi phá thử KPI.
+5. **Chặng 5 (slide 29–33).** `FW-040` OKR, phân rã công việc và lộ trình; `FW-041` Team Delivery System (OWN – COORDINATE – CONTROL – ADAPT); `FW-042` nhịp review và ngưỡng phản ứng; `CON-016` giám sát hệ thống chứ không giám sát con người.
+6. **Kết (slide 34–35).** "Case in point — Improving new-account activation" chỉ là trang tiêu đề mục; slide 35 là lời cảm ơn. `[CẦN XÁC NHẬN]` Case này không có slide nội dung đi kèm — xem `open_questions.md` (OQ-010).
+
+## Các chunk thuộc topic (ID)
+`FW-033` · `FW-034` · `CON-014` · `FW-035` · `CON-015` · `FW-036` · `FW-037` · `FW-038` · `FW-039` · `FW-040` · `FW-041` · `FW-042` · `CON-016`
+
+## Bài tập và hoạt động trong lớp
+Bản PDF không có slide hoạt động nhóm như các topic khác. Thay vào đó giảng viên đặt **Manager check** ở cuối mỗi cụm nội dung — slide 14, 21, 29, 30 — mỗi câu là một bài tự kiểm tra áp vào công việc thật.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Execution is not just effort. It is a system for turning effort into results."* (slide 10)
+- *"Giá trị của bạn đến từ việc hệ thống vận hành tốt tới đâu."* (slide 9)
+- *"Sai lầm thực thi đầu tiên là nhầm hoạt động với tác động."* (slide 14)
+- *"SMART giúp rõ ràng. Nó không đảm bảo team đang đo đúng kết quả."* (slide 18)
+- *"KPI nguy hiểm nhất là KPI mà team có thể cải thiện trong khi outcome xấu đi."* (slide 27)
+- *"Nhiều người có thể responsible; chỉ nên có một người accountable."* (slide 30)
+- *"Thời điểm tốt nhất để quyết định sẽ phản ứng thế nào với một cảnh báo là trước khi cảnh báo xuất hiện."* (slide 32)
+- *"Bad news travels at the speed permitted by the team climate."* (slide 33)
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- **Topic 17** (`TOP-MEGROW-17`): Topic 2 dịch chiến lược *xuống*; Topic 17 dạy cách *đọc ra* chiến lược đó. `FW-034` và `CON-019` là hai phiên bản của cùng một ý.
+- **Topic 1** (`TOP-MEGROW-01`): bảng IC – Manager ở slide 9 chính là chủ đề chuyển dịch lãnh đạo.
+- **Topic 6**: RACI và quyền quyết định đã có ở `CON-003`; `FW-041` đặt chúng vào hệ thống vận hành.
+- **Topic 16** (`TOP-MEGROW-16`): tầng **Flow** của `FW-039` và bottleneck trong `FW-041` là chủ đề "solve blockers".
+- Dòng chân slide 29–30 gắn với năng lực **Zalo Drive Impact**; slide 7 gắn với **Think Strategically**.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 1–35]`
+
+=====
+
+---
 id: TOP-MEGROW-04
 type: topic
 title_vi: Thực hành hội thoại về hiệu suất với khung AMO
@@ -543,6 +609,141 @@ Câu hỏi trung tâm (slide 6): **cùng thử thách, cùng giới hạn thời
 ## Nguồn
 - `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14]`
 - `[MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4]` — Edmondson, A. C. *The BCPC Internet Strategy Team: An Exercise*, HBS 604-035, rev. 7/1/2016.
+
+=====
+
+---
+id: TOP-MEGROW-16
+type: topic
+title_vi: Gỡ các blocker kỹ thuật và tổ chức
+title_en: Solve Tech & Organisational Blockers
+aliases: [Topic 16 megrow, solve blockers, AI-augmented design thinking lab]
+keywords: [blocker, vật cản, design thinking, tư duy thiết kế, problem tree, empathy map, problem statement, how might we, 7-day test, thử nghiệm nhỏ, xin trợ giúp, escalation, AI hỗ trợ, liên chức năng, cross-functional]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-003, PRB-001, PRB-002]
+related_ids: [FW-049, FW-049-01, FW-050, FW-051, FW-052, FW-053, FW-053-01, FW-054, CON-020, TOP-MEGROW-17, TOP-MEGROW-02, TOP-MEGROW-19]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 1–37"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 16: Solve Tech & Organisational Blockers
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`** `[SUY LUẬN — người dùng duyệt]`. Level **ORG + TEAM**. Dr Thuan Nguyen và Dr Bidyut Hazarika. 37 slide. Phụ đề: *"An AI-augmented, human-centred problem-solving lab for first-line managers."*
+
+## Tóm tắt topic
+Topic 16 không dạy lý thuyết mà chạy một **lab giải quyết vấn đề ba tiếng**: mỗi nhóm chọn một blocker có thật, đi qua năm pha Design Thinking với AI hỗ trợ có kiểm soát, và ra về với một thử nghiệm 7 ngày đã được nhóm khác phản biện. Dòng chảy (slide 5): *insight → framing → human ideas → AI expansion → decision → prototype → feedback → action.*
+
+`[KHÓA HỌC]` Slide 2 đặt topic vào mạch chương trình — **trước**: chuyển dịch lãnh đạo, trò chuyện hiệu suất, giao việc, ảnh hưởng xuyên team; **sau**: nút thắt vận hành, tư duy chiến lược, business case, Capstone. Gắn với năng lực Zalo **Solve Complex Problems + Drive Impact**.
+
+## Mạch nội dung theo trình tự giảng dạy
+`[KHÓA HỌC]` Lịch 13:30–16:30, một lần nghỉ 15 phút (slide 5):
+
+1. **13:30–13:45 Mở đầu (slide 4, 6, 8).** Lập nhóm bàn, phân vai luân phiên (facilitator, người giữ bằng chứng, người bênh vực stakeholder, người dựng prototype, người phát ngôn). **Activity 1** (10 phút): mỗi người nêu một blocker, rồi nhóm chọn một.
+2. **13:45–14:05 Framework + AI (slide 9–12, 14, 16).** `FW-049` năm pha và ba chặng Understand – Create – Deliver; `FW-049-01` phân vai AI/con người.
+3. **14:05–14:30 Case + thấu cảm (slide 7, 13, 15, 17–18).** Case tính năng chậm 2 tuần; **Activity 2** `FW-050`; **Activity 3** `FW-051`.
+4. **14:30–15:00 Define và reframe (slide 19–22).** Tách triệu chứng – giả định – nguyên nhân; **Activity 4** Problem Statement Lab (`FW-052`); `CON-020` câu hỏi "How might we".
+5. **15:00–15:15 Nghỉ.**
+6. **15:15–16:00 Ideation và prototype (slide 24–29).** **Activity 5** ba giải pháp và **Activity 6** chọn một bằng bốn câu hỏi (`FW-053`); **Activity 7** kế hoạch 7 ngày (`FW-053-01`).
+7. **16:00–16:20 Phản biện chéo và leo thang (slide 30–33).** **Activity 8** nhóm khác kiểm tra kế hoạch (`FW-053-01`); `FW-054` bốn đường đi và **Activity 9** xin trợ giúp 45 giây.
+8. **16:20–16:30 Chuyển hoá vào công việc (slide 34–35).** Cập nhật kế hoạch, viết câu cam kết.
+9. **Phụ lục (slide 36).** Tham khảo cho giảng viên: IDEO U, IDEO, Stanford d.school (2025).
+
+## Các chunk thuộc topic (ID)
+`FW-049` · `FW-049-01` · `FW-050` · `FW-051` · `FW-052` · `CON-020` · `FW-053` · `FW-053-01` · `FW-054`
+
+## Bài tập và hoạt động trong lớp
+Chín hoạt động, mỗi hoạt động một sản phẩm nhóm: **A1** blocker · **A2** problem tree · **A3** empathy map + insight · **A4** problem statement · **A5** ba giải pháp · **A6** giải pháp được chọn · **A7** thử nghiệm 7 ngày · **A8** kế hoạch đã cải thiện · **A9** lời đề nghị trợ giúp.
+
+`[KHÓA HỌC]` Năm đầu ra chính (slide 3): Design Thinking Blocker Canvas · tập phương án đã bị AI thách thức · một prototype · một khuyến nghị sẵn sàng leo thang · một cam kết hành động 7 ngày.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Dùng AI để mở rộng và thách thức tư duy — không phải để thay thế tiếp xúc với stakeholder hay phán đoán quản lý."* (slide 14) · *"Problem-first, not prompt-first."* (slide 16)
+- *"Mục tiêu không phải là tìm ra câu trả lời, mà là luyện một quy trình tốt hơn để đóng khung và chẩn đoán vấn đề."* (slide 7)
+- *"Đừng xây giải pháp cuối cùng. Hãy thử một thay đổi nhỏ và học."* (slide 27) · *"Một lời đề nghị rõ ràng tốt hơn một lời giải thích dài."* (slide 31)
+- Quy tắc ngón tay cái (slide 36): *"Human context first → AI expands or challenges → humans validate → real people test → leaders decide and own the consequences."*
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- **Topic 2** (`TOP-MEGROW-02`): tầng **Flow** của `FW-039` và **bottleneck** trong `FW-041` là thứ Topic 16 đem ra gỡ.
+- **Topic 17** (`TOP-MEGROW-17`): bước Reframe của `FW-048` là phiên bản cấp chiến lược của `FW-052` và `CON-020`.
+- **Topic 19** (`TOP-MEGROW-19`): mẫu ba dòng của `FW-054` là bản rút gọn 45 giây của một business case.
+- **Topic 12**: `FW-051` bổ sung chiều sâu cho cụm stakeholder (`FW-011`, `FW-012`, `FW-015`).
+- **Topic 6**: `FW-010` Human / AI / HAI là góc nhìn giao việc của cùng câu hỏi.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 1–37]`
+
+=====
+
+---
+id: TOP-MEGROW-17
+type: topic
+title_vi: Vận dụng tư duy chiến lược
+title_en: Apply Strategic Thinking
+aliases: [Topic 17 megrow, apply strategic thinking, linking team decisions to business priorities]
+keywords: [tư duy chiến lược, strategic thinking, Watkins sáu kỷ luật, PESTEL, Porter five forces, VRIN, resource-based view, willingness to pay, moat, options table, line of sight, Walmart Amazon, Vinamilk, Spotify]
+levels: [ORG]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-043, FW-044, FW-044-01, FW-045, FW-045-01, FW-046, FW-047, FW-047-01, FW-048, CON-017, CON-018, CON-019, TOP-MEGROW-02, TOP-MEGROW-19, TOP-MEGROW-12]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 1–39"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 17: Apply Strategic Thinking
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`** `[SUY LUẬN — người dùng duyệt]`. Level **ORG**. AP Burkhard Schrage. 39 slide, 9:00–12:00. Phụ đề: *"Linking Team Decisions to Business Priorities."*
+
+## Tóm tắt topic
+Topic 17 dạy người quản lý cấp một nhìn ra ngoài tổ chức, nhìn vào trong tổ chức, rồi kết thúc bằng một khuyến nghị. Ba learning outcome (slide 3): **1.** Phân tích bối cảnh bên ngoài bằng PESTEL. **2.** Đóng khung lại vấn đề chiến lược và nhận diện giả định then chốt. **3.** Đánh giá phương án và khuyến nghị một hướng đi.
+
+## Mạch nội dung theo trình tự giảng dạy
+`[KHÓA HỌC]` Chương trình năm phần in ở slide 2:
+
+1. **Thinking strategically (9:10–9:40, slide 5–9).** Định nghĩa của Watkins; ba hệ quả cho người quản lý; video Big Think+; `FW-043` sáu kỷ luật và bài tự chấm 1–5. Slide 4 neo vào khung năng lực Zalo *Think Strategically* mức L2.2 và L2.3.
+2. **Understanding disruptions (9:40–10:30, slide 10–16).** Hai ví dụ mở: Walmart–Amazon (vốn hoá 1997–2025) và Vinamilk–tỷ suất sinh Việt Nam (5,8 năm 1974 xuống 1,9 năm 2024). Rồi `FW-044` PESTEL, bốn quy tắc quét, bảng "so what", và **Group Activity 1** (`FW-044-01`, 30 phút).
+3. **Nghỉ giải lao (slide 17), rồi Understanding industry dynamics (10:45–11:05, slide 18–21).** Bằng chứng định lượng về vai trò của ngành (`FW-045-01`), rồi `FW-045` Porter's Five Forces, kèm table talk 5 phút áp vào sản phẩm của mình.
+4. **Building competitive advantage (11:05–11:25, slide 22–30).** `FW-046` khoảng cách WTP – chi phí với dữ liệu Spotify; `CON-018` hai lăng kính; `CON-017` nguồn lực và năng lực; `FW-047` VRIN và thang hiệu suất; `FW-047-01` hào.
+5. **Turning analysis into decisions (11:25–11:50, slide 31–35).** `CON-019` phép thử đường ngắm VNG → Zalo → khối → team → quyết định tuần này; `FW-048` ba bước Reframe – Surface assumptions – Compare and recommend, kèm **Group Activity 2** (25 phút, pitch 90 giây).
+6. **Wrap-up (slide 36–39).** Bốn điều cần nhớ; bài Canvas về lợi thế cạnh tranh của Zalo; bản đồ nối sang buổi chiều và Tuần 11; danh mục nguồn.
+
+## Các chunk thuộc topic (ID)
+`FW-043` · `FW-044` · `FW-044-01` · `FW-045` · `FW-045-01` · `FW-046` · `CON-017` · `CON-018` · `FW-047` · `FW-047-01` · `CON-019` · `FW-048`
+
+## Bài tập và hoạt động trong lớp
+- **Tự chấm sáu kỷ luật (slide 9, 3 phút)** — thang 1–5.
+- **Group Activity 1 (slide 16, 30 phút)** — chi tiết ở `FW-044-01`. Poster được giữ lại cho Activity 2.
+- **Table talk (slide 21, 5 phút)** — *"áp lực nào đè nặng nhất lên sản phẩm của bạn?"*
+- **Group Activity 2 (slide 35, 25 phút)** — reframe một vấn đề từ poster PESTEL, ba giả định, 2–3 phương án, một khuyến nghị, pitch 90 giây.
+- **Bài sau lớp (slide 37)** — đăng Canvas trước Tuần 11 (6/11): một đoạn về lợi thế cạnh tranh của Zalo, kiểm bằng VRIN. Tự nghĩ; AI chỉ dùng cho dịch hoặc ngữ pháp.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Nhìn xa hơn hôm nay. Hình dung các tương lai khả dĩ. Rồi chọn nơi đặt nỗ lực."* (slide 6)
+- *"Walmart đã bỏ lỡ điều gì mà Amazon nhìn thấy?"* (slide 11)
+- *"Kết thúc bằng 'so what'."* (slide 14) · *"Where you compete is a strategic choice."* (slide 19)
+- *"Hỏi với bất kỳ quyết định nào của team: nó có nới rộng khoảng cách không?"* (slide 23) · *"You need both lenses."* (slide 25)
+- *"Good analysis ends in a recommendation."* · *"Giả định nào, nếu sai, sẽ làm đổi câu trả lời của chúng ta?"* (slide 33)
+- Bốn điều cần nhớ (slide 36): sáu kỷ luật luyện được · outside-in rồi hỏi "so what" · inside-out, lợi thế lâu bền từ nguồn lực VRIN · kết thúc bằng một quyết định.
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+`[KHÓA HỌC]` Slide 38 tự vẽ bản đồ: **chiều cùng ngày** — Topic 18 (Prof Trung Nguyen), bổ sung AI như *"áp lực thứ sáu"*; **Tuần 11 sáng** — Topic 19 (Dr Tony Nguyen), biến khuyến nghị hôm nay thành business case; **Tuần 11 chiều và Tuần 12** — Capstone, dùng công cụ hôm nay làm bằng chứng.
+
+Thêm: **Topic 2** (`TOP-MEGROW-02`) đi chiều ngược lại — dịch chiến lược xuống thành thực thi; `FW-034` và `CON-019` là cặp song sinh. **Topic 12** cung cấp công cụ cho kỷ luật *political savvy*.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 1–39]`
 
 =====
 

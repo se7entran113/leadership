@@ -236,7 +236,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 9 / 20 topic đã xử lý** (Topic 01, 04, 06, 08, 09, 10, 12, 14, 19) — 375 / 805 trang, độ phủ 46.6%.
+**Tiến độ MEGROW: 12 / 20 topic đã xử lý** (Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17, 19) — 486 / 805 trang, độ phủ 60.4%.
 
 ---
 
@@ -250,7 +250,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | ID | Topic | Tên topic | Giảng viên | Level | File | Trang | Trạng thái | Ngày thêm |
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-01` | 1 | Navigating the Leadership Transition | AP Burkhard Schrage | SELF + TEAM | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-02` | 2 | Driving Operational Execution | Dr Phuong (Emmy) Hoang | SELF + TEAM, ORG | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-02` | 2 | Driving Operational Execution | Dr Phuong (Emmy) Hoang | SELF + TEAM, ORG | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-03` | 3 | Audit Mindset & Biases | Dr Thu Nguyen | SELF | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | chưa xử lý | 2026-11-07 |
 | `TOP-MEGROW-04` | 4 | Practice Performance Conversations (AMO Framework) | AP Elaine Chew | SELF + TEAM | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-05` | 5 | Optimise Personal Productivity | AP Agnis Stibe | SELF | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | chưa xử lý | 2026-11-07 |
@@ -276,8 +276,8 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-14` | 14 | Decision Making in Cross-functional Teams | Dr Phuong Nguyen | ORG + TEAM | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-14` | 14 | ↳ *Case reading bổ sung:* The BCPC Internet Strategy Team: An Exercise | Amy C. Edmondson, HBS 604-035 | ORG + TEAM | `[Case Reading] of topic 14 .pdf` | 4 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | **đã xử lý** | 2026-11-07 |
+| `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | chưa xử lý | 2026-11-07 |
 | `TOP-MEGROW-19` | 19 | Presenting Business Cases (SCQA, Pyramid Principle, Stakeholder Mapping) | Dr Tony Nguyen | ORG | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-20` | 20 | Capstone Research & Alignment `CAPSTONE` | AP Burkhard Schrage | ORG | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | chưa xử lý | 2026-11-07 |
@@ -301,17 +301,17 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 67 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
+**Trạng thái kho: 105 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 13 |
-| `FW` Framework | 36 |
-| `PRB` Vấn đề | 9 |
+| `CON` Khái niệm & nguyên tắc | 20 |
+| `FW` Framework | 63 |
+| `PRB` Vấn đề | 10 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 9 |
+| `TOP` Topic | 12 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **67** |
+| **Tổng** | **105** |
 
 ---
 
@@ -332,6 +332,13 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON-011` | Ba cấp độ lắng nghe (Three levels of listening) | concept | TEAM, SELF | MEGROW | Ba cấp độ nghe — sự kiện, cảm xúc, trực giác; câu hỏi mở giúp người kia tự tạo nhận thức |
 | `CON-012` | Vấn đề của tổ chức khoác áo vấn đề của nhân viên (Organisational problems disguised as employee problems) | concept | TEAM, ORG | MEGROW | Vấn đề tổ chức thường ngụy trang thành vấn đề nhân viên: quy trình kém, thiếu nguồn lực, ưu tiên không rõ |
 | `CON-013` | Tự nhận thức và tự quản lý cảm xúc (Self-awareness and self-management) | concept | SELF, TEAM | MEGROW | Tự nhận thức giúp nhận ra mình đang cảm thấy gì; tự quản lý quyết định làm gì với điều đó |
+| `CON-014` | Thực thi vận hành là một hệ thống, không phải nỗ lực (Operational Execution as a System) | concept | SELF, TEAM | MEGROW | Thực thi là hệ thống biến nỗ lực thành kết quả, không phải nỗ lực; bảng IC vs Manager |
+| `CON-015` | Chuỗi Goal → Objective → Output → Outcome → Impact (The Goal-to-Impact Chain) | concept | TEAM, ORG | MEGROW | Goal → Objective → Output → Outcome → Impact, cộng năm ranh giới thực thi và bốn bậc Input–Outcome |
+| `CON-016` | Giám sát hệ thống công việc, không giám sát con người (Monitor the Work System, Not the Person) | principle | TEAM, SELF | MEGROW | Nhìn vào trạng thái công việc và phụ thuộc, không nhìn vào người; tin xấu đi nhanh hay chậm là do bầu không khí |
+| `CON-017` | Nguồn lực, năng lực và năng lực cốt lõi (Resources, Capabilities and Core Competence) | concept | ORG | MEGROW | Nguồn lực là thứ bạn có, năng lực là thứ bạn làm tốt; năng lực cốt lõi cần cả hai điều kiện |
+| `CON-018` | Hai lăng kính outside-in và inside-out (Outside-In and Inside-Out Lenses) | principle | ORG | MEGROW | Outside-in hỏi nên cạnh tranh ở đâu, inside-out hỏi thắng bằng gì — cần cả hai |
+| `CON-019` | Phép thử đường ngắm từ việc của team tới định hướng tổ chức (The Line-of-Sight Test) | principle | ORG, TEAM | MEGROW | Mỗi người có nói được việc mình làm đẩy bậc ngay trên nó không; thang VNG → Zalo → khối → team → quyết định tuần này |
+| `CON-020` | Câu hỏi "How Might We" và việc đóng khung lại nhiều lần (How Might We" and Iterative Reframing) | concept | TEAM, ORG | MEGROW | Chuyển phát biểu vấn đề thành câu hỏi "How might we"; năm tiêu chí và việc đóng khung lại nhiều lần |
 
 ## Framework (FW)
 
@@ -369,15 +376,43 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-030` | Lộ trình D–R–C (The D-R-C route) | framework | TEAM | MEGROW | Diagnose → Readiness → Coach & Connect; bảo vệ khỏi việc khuyên quá sớm |
 | `FW-031` | EDGE và Lợi thế cạnh tranh cá nhân (EDGE and Personal Competitive Advantage) `needs_review` | framework | SELF, TEAM | MEGROW | Explore → Decode → Generate & test (VRIFA) → Execute, ra một thí nghiệm tăng trưởng 90 ngày |
 | `FW-032` | Connector Manager (The Connector Manager) | framework | TEAM | MEGROW | Hiểu người, coach có chọn lọc, kết nối có chủ đích; năm phẩm chất và ba kết nối Person → Team → Organization |
+| `FW-033` | Chu trình Quản trị Chiến lược (The Strategic Management Cycle) | framework | ORG, TEAM | MEGROW | Năm chặng Research → Formulation → Translation → Execution → Evaluation, nối vòng bằng feedback loop |
+| `FW-034` | Thang chuyển dịch Chiến lược xuống Thực thi (From Organizational Direction to Team Delivery (Strategy Cascade)) | framework | ORG, TEAM | MEGROW | Bốn tầng Corporate → Business → Functional → Operational, kèm bốn câu hỏi phiên bản Zalo |
+| `FW-035` | Ba động tác quản lý dẫn dắt thực thi (Three Manager Moves That Drive Execution) | framework | TEAM, SELF | MEGROW | Translate · Coordinate · Adjust, cộng sáu nhóm thuật ngữ thực thi dùng làm từ vựng chung |
+| `FW-036` | SMART và giới hạn của SMART (SMART Objectives and Their Limits) | framework | TEAM, SELF | MEGROW | Năm tiêu chí rõ ràng tối thiểu — và lời cảnh báo SMART vẫn có thể đo sai kết quả |
+| `FW-037` | Mẫu mục tiêu theo outcome, bằng chứng và lằn ranh an toàn (Outcome, Evidence and Guardrail Objective Templates) | framework | TEAM, ORG | MEGROW | Hai mẫu câu viết objective: performance khi biết đường, learning khi còn bất định |
+| `FW-038` | Metric, KPI, baseline, target và chỉ số dẫn dắt / chỉ số kết quả (Metric, KPI, Baseline, Target, and Leading vs Lagging Indicators) | framework | TEAM, ORG | MEGROW | Metric vs KPI vs baseline vs target; leading cho tín hiệu sớm, lagging cho giá trị cuối |
+| `FW-039` | Bộ tín hiệu thực thi cân bằng và phép phá thử KPI (Balanced Execution Signal Stack and the KPI Stress-Test) | framework | TEAM, ORG | MEGROW | Bốn tầng Outcome–Driver–Guardrail–Flow và bốn câu hỏi phá thử một KPI trước khi nhận |
+| `FW-040` | Logic OKR và phân rã công việc tới lộ trình giao hàng (OKR Logic, Work Breakdown and the Delivery Roadmap) | framework | TEAM, ORG | MEGROW | OKR, bốn mức phân rã Initiative → Project → Workstream → Task, ưu tiên, đánh đổi và lộ trình |
+| `FW-041` | Hệ thống giao hàng của team (The Team Delivery System) | framework | TEAM, ORG | MEGROW | Vòng OWN → COORDINATE → CONTROL → ADAPT; một người accountable, nhiều người responsible |
+| `FW-042` | Nhịp review và ngưỡng phản ứng (Review Rhythm and Response Thresholds) | framework | TEAM | MEGROW | Daily check, weekly review, milestone gate; ba lớp ngưỡng Act now / Act this cycle / Observe |
+| `FW-043` | Sáu kỷ luật của tư duy chiến lược (The Six Disciplines of Strategic Thinking) | framework | ORG, SELF | MEGROW | Watkins: pattern recognition, systems analysis, mental agility, structured problem-solving, visioning, political savvy |
+| `FW-044` | PESTEL và bốn quy tắc quét môi trường (PESTEL and the Four Scanning Rules) | framework | ORG | MEGROW | Sáu nhóm thay đổi bên ngoài, bốn quy tắc quét và bảng "so what cho team tôi" |
+| `FW-045` | Năm áp lực cạnh tranh của Porter (Porter's Five Forces) | framework | ORG | MEGROW | Năm áp lực quyết định ngành cho giữ lại bao nhiêu giá trị; Topic 18 sẽ thêm AI làm áp lực thứ sáu |
+| `FW-046` | Khoảng cách giữa mức sẵn lòng trả và chi phí (The Value Stick — Willingness to Pay versus Cost) | framework | ORG | MEGROW | Lợi thế là khoảng cách WTP – chi phí; hai cách thắng, minh hoạ bằng dữ liệu WTP của Spotify |
+| `FW-047` | VRIN và hào bảo vệ lợi thế (VRIN and the Competitive Moat) | framework | ORG | MEGROW | Bốn phép thử Valuable–Rare–Inimitable–Non-substitutable, thang hiệu suất và câu hỏi về hào |
+| `FW-048` | Reframe → Gọi tên giả định → So sánh và khuyến nghị (Reframe, Surface Assumptions, Compare and Recommend) | framework | ORG, TEAM | MEGROW | Reframe → gọi tên giả định rủi ro nhất → bảng phương án impact/feasibility/risk → khuyến nghị kèm đánh đổi |
+| `FW-049` | Design Thinking có AI hỗ trợ (AI-Augmented Design Thinking) | framework | TEAM, ORG | MEGROW | Năm pha Stanford nhóm thành Understand–Create–Deliver; AI mở rộng, con người kiểm chứng và quyết |
+| `FW-050` | Phân tích Cây vấn đề (Problem Tree Analysis) | framework | TEAM, ORG | MEGROW | Dựng nguyên nhân bên dưới, hệ quả bên trên quanh vấn đề cốt lõi; tìm hiểu, không phán xét |
+| `FW-051` | Bản đồ thấu cảm stakeholder (Stakeholder Empathy Map) | framework | TEAM, ORG | MEGROW | Hiểu một stakeholder thật trước khi định nghĩa vấn đề; AI không được bịa nhu cầu của họ |
+| `FW-052` | Mẫu phát biểu vấn đề và phép tách triệu chứng – giả định – nguyên nhân (The Problem Statement Template) | framework | TEAM, ORG | MEGROW | Tách triệu chứng – giả định – nguyên nhân, rồi viết "ai cần gì, vì sao, dẫn tới gì, bằng chứng là gì" |
+| `FW-053` | Thử nghiệm 7 ngày — từ ba phương án tới một thay đổi nhỏ (The 7-Day Test) | framework | TEAM | MEGROW | Ba ý tưởng → bốn câu hỏi chọn một → một team, một tuần, một kết quả → nhóm khác phản biện |
+| `FW-054` | Bốn đường đi tiếp theo và cách xin trợ giúp rõ ràng (Four Next Steps and the Three-Line Ask) | framework | ORG, TEAM | MEGROW | TRY IT / WORK TOGETHER / TEST FIRST / ASK MANAGER, kèm mẫu xin trợ giúp ba dòng trong 45 giây |
 | `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
 | `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
 | `FW-025-01` | Ma trận Hỗ trợ × Trách nhiệm (The Support x Accountability matrix) | framework | TEAM | MEGROW | Ma trận hỗ trợ × trách nhiệm: tránh ba ô Avoidance, Supportive-but-unclear, Command/compliance |
+| `FW-044-01` | Hoạt động quét PESTEL cho team của bạn (PESTEL Scanning Activity for Your Team) | exercise | ORG | MEGROW | Kịch bản chạy Group Activity 1: sticky note theo sáu chữ cái, chọn một yếu tố, viết "so what", ghi một giả định |
+| `FW-045-01` | Bằng chứng — ngành quyết định lợi nhuận tới mức nào (How Much Does Industry Matter? The Evidence Behind Five Forces) | framework | ORG | MEGROW | Schmalensee, McGahan & Porter, Hawawini: ngành giải thích bao nhiêu phần chênh lệch lợi nhuận, kèm bảng ROIC |
+| `FW-047-01` | Hào cạnh tranh và việc team nới rộng hay thu hẹp nó (The Competitive Moat and How Teams Widen or Narrow It) | framework | ORG | MEGROW | Ba câu hỏi về hào và bảng bốn lĩnh vực team nới rộng hay thu hẹp hào mỗi ngày |
+| `FW-049-01` | Phân vai người và AI trong từng pha Design Thinking (Human-AI Role Split Across the Design Thinking Phases) | framework | TEAM, ORG | MEGROW | AI được làm gì và con người phải sở hữu gì trong từng pha; hai nguyên tắc problem-first và công cụ được duyệt |
+| `FW-053-01` | Kế hoạch thử nghiệm 7 ngày và vòng phản biện chéo (The 7-Day Test Plan and Peer Challenge) | framework | TEAM | MEGROW | Kế hoạch sáu ô, vòng phản biện chéo 12 phút và câu cam kết "Trước [ngày], [ai] sẽ [làm gì]" |
 
 ## Vấn đề (PRB)
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
+| `PRB-001` | Định hướng bài toán cho team (Setting the problem agenda for the team) | problem | TEAM, ORG | MEGROW | Ưu tiên **Cao**. Không biết cho team làm gì trước; bận cả quý mà không có outcome để kể |
 | `PRB-002` | Làm việc với stakeholder để xây dựng và thống nhất bài toán (Working with stakeholders to define and agree the problem) | problem | ORG | MEGROW | Ưu tiên **Cao**. Thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business, quản lý kỳ vọng, biết từ chối |
 | `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team (Designing the team's way of working and decision process) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
 | `PRB-004` | Chuyển dịch từ người làm chuyên môn sang người quản lý (Moving from individual contributor to manager) | problem | SELF | MEGROW | Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi |
@@ -399,6 +434,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
 | `TOP-MEGROW-01` | Điều hướng bước chuyển sang vai trò lãnh đạo (Navigating the Leadership Transition) | topic | SELF, TEAM | MEGROW | Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày |
+| `TOP-MEGROW-02` | Dẫn dắt thực thi vận hành (Driving Operational Execution) | topic | SELF, TEAM, ORG | MEGROW | Năm chặng từ "vì sao thực thi quan trọng" tới hệ thống giao hàng có chủ sở hữu và nhịp review |
 | `TOP-MEGROW-04` | Thực hành hội thoại về hiệu suất với khung AMO (Practise Performance Conversations with the AMO Framework) | topic | SELF, TEAM | MEGROW | Từ đánh giá quá khứ sang quản trị hiệu suất bền vững; AMO chẩn đoán, SAIL dẫn cuộc trò chuyện |
 | `TOP-MEGROW-06` | Giao việc và trách nhiệm trong team tốc độ cao (Delegation & Accountability in Fast-Paced Teams) `needs_review` | topic | TEAM, SELF | MEGROW | Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức |
 | `TOP-MEGROW-08` | Sửa hành vi thông qua coaching (Correcting Behaviour Through Coaching) | topic | TEAM, SELF | MEGROW | Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE |
@@ -406,6 +442,8 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `TOP-MEGROW-10` | Điều chỉnh phong cách lãnh đạo (Adapt Your Leadership Style) | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
 | `TOP-MEGROW-12` | Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ (Stakeholder Influence & Leadership in Technology) | topic | ORG | MEGROW | Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày |
 | `TOP-MEGROW-14` | Ra quyết định trong nhóm liên chức năng (Decision Making in Cross-functional Teams) | topic | ORG, TEAM | MEGROW | Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau |
+| `TOP-MEGROW-16` | Gỡ các blocker kỹ thuật và tổ chức (Solve Tech & Organisational Blockers) | topic | ORG, TEAM | MEGROW | Lab ba tiếng: chín hoạt động từ chọn blocker thật tới cam kết hành động 7 ngày |
+| `TOP-MEGROW-17` | Vận dụng tư duy chiến lược (Apply Strategic Thinking) | topic | ORG | MEGROW | Nhìn ra ngoài bằng PESTEL và Five Forces, nhìn vào trong bằng VRIN, kết bằng một khuyến nghị |
 | `TOP-MEGROW-19` | Trình bày business case để được duyệt (Presenting Business Cases - Getting Buy-in) | topic | ORG | MEGROW | Ba công cụ cho ba câu hỏi của người quyết: SCQA, Pyramid Principle, Stakeholder Mapping |
 
 ## Tình huống thực tế (CASE)
@@ -451,20 +489,20 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dùng framework nào?"*
 
-**Trạng thái:** 9 chunk `PRB`, 36 chunk `FW` và 13 chunk `CON` đã tạo (từ Topic 01, 04, 06, 08, 09, 10, 12, 14, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
+**Trạng thái:** 10 chunk `PRB`, 63 chunk `FW` và 20 chunk `CON` đã tạo (từ Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
 | Vấn đề | Mức | Chunk PRB | Trạng thái |
 |---:|---|---|---|
-| 1 | Cao | — | chờ Topic 02, 17 |
-| 2 | Cao | `PRB-002` | ✅ đã có |
-| 3 | Cao | `PRB-003` | ✅ một phần (Topic 06, 10, 14) |
-| 4 | Cao | `PRB-004` | ✅ đã có |
-| 5 | Cao | `PRB-005` | ✅ đã có (T01, 06, 09, 10) |
+| 1 | Cao | `PRB-001` | ✅ đã có (T02, T16, T17) |
+| 2 | Cao | `PRB-002` | ✅ đã có (T12, 14, 16, 17, 19) |
+| 3 | Cao | `PRB-003` | ✅ đã có (T02, 06, 10, 14, 16) |
+| 4 | Cao | `PRB-004` | ✅ đã có (T01, 02, 06, 08, 10) |
+| 5 | Cao | `PRB-005` | ✅ đã có (T01, 02, 06, 09, 10) |
 | 6 | Trung bình | `PRB-006` | ✅ đã có |
 | 7 | Trung bình | `PRB-007` | ✅ một phần (Topic 06, 09) |
-| 8 | Trung bình | `PRB-008` | ✅ một phần (Topic 19, 12) |
+| 8 | Trung bình | `PRB-008` | ✅ đã có (T02, 12, 16, 17, 19) |
 | 9 | Thấp | — | chờ Topic 13 |
-| 10 | Thấp | `PRB-010` | ✅ một phần (Topic 08, 12, 14) |
+| 10 | Thấp | `PRB-010` | ✅ một phần (T08, 12, 14, 16) |
 | 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).
@@ -477,18 +515,18 @@ Bối cảnh người học: Associate Data Science Manager tại Zalo (L2), qu�
 
 Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một chunk `PB` (checklist, kịch bản) khi rà soát tổng thể; liên kết tới mọi framework liên quan từ mọi topic.
 
-### PRB-? · 1. Định hướng bài toán cho team — chọn bài toán đáng làm, xác định hướng đi và thứ tự ưu tiên
+### `PRB-001` · 1. Định hướng bài toán cho team — chọn bài toán đáng làm, xác định hướng đi và thứ tự ưu tiên
 **Level:** TEAM, ORG
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| Strategic Management Cycle (Research & Analysis → Strategy Formulation → Translation & Planning → Execution → Evaluation & Adaptation) | T2 | _chưa có_ |
-| Cascade Corporate → Business → Functional → Operational strategy | T2 | _chưa có_ |
-| SMART + mẫu mục tiêu theo outcome/evidence/guardrail; phân biệt Output–Outcome–Impact | T2 | _chưa có_ |
-| Stress-test KPI (4 câu hỏi phá KPI) · Balanced execution signal stack | T2 | _chưa có_ |
-| PESTEL · Porter Five Forces · VRIN / Resource-Based View · Options table · Line-of-sight test | T17 | _chưa có_ |
+| Strategic Management Cycle | T2 | `FW-033` |
+| Cascade Corporate → Business → Functional → Operational | T2 | `FW-034` |
+| SMART + mẫu outcome/evidence/guardrail; Output–Outcome–Impact | T2 | `FW-036`, `FW-037`, `CON-015` |
+| Metric/KPI/baseline/target · Signal stack · phá thử KPI · OKR | T2 | `FW-038`, `FW-039`, `FW-040`, `FW-035` |
+| PESTEL · Five Forces · WTP–cost · VRIN · options table · line-of-sight | T17 | `FW-043`, `FW-044`, `FW-044-01`, `FW-045`, `FW-045-01`, `FW-046`, `FW-047`, `FW-047-01`, `FW-048`, `CON-017`, `CON-018`, `CON-019` |
 | Stakeholder Journey Map · Systematic Inventive Thinking (SIT) · Creative Matrix | T15 | _chưa có_ |
-| Problem Tree Analysis · Problem Statement Template · "How Might We" reframe | T16 | _chưa có_ |
+| Design Thinking · Problem Tree · Empathy Map · Problem Statement · HMW · 7-day test | T16 | `FW-049`, `FW-049-01`, `FW-050`, `FW-051`, `FW-052`, `CON-020`, `FW-053`, `FW-053-01`, `FW-054` |
 | FranklinCovey Time Matrix · Eisenhower Matrix · GTD | T5 | _chưa có_ |
 
 ### `PRB-002` · 2. Làm việc với stakeholder để xây dựng và thống nhất bài toán
@@ -520,9 +558,9 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| Team Delivery System · Review rhythm (daily/weekly/milestone gate) · Response thresholds · Monitor the work system, not the person | T2 | _chưa có_ |
+| Team Delivery System · Review rhythm · Response thresholds · Monitor the work system | T2 | `FW-041`, `FW-042`, `CON-016` |
 | Owner / Responsibility / Accountability / RACI · Decision rights | T2, T6 | `CON-003` (phần T6) |
-| AI-augmented Design Thinking (Stanford 5 phases; Understand–Create–Deliver) · Empathy Map · 7-day test | T16 | _chưa có_ |
+| AI-augmented Design Thinking · Empathy Map · 7-day test | T16 | `FW-049`, `FW-051`, `FW-053` |
 | Vroom–Yetton–Jago Model (AI / AII / CI / CII / GII) | T10 | `FW-006` |
 | Human–AI Decision Rights (4 mức) | T18 | _chưa có_ |
 | HAI — phân bổ việc Human / AI / HAI; giao cho AI không giảm trách nhiệm người | T6 | `FW-010` |
@@ -668,7 +706,7 @@ Lưu ý riêng cho bối cảnh người dùng: MEGROW không có nội dung chu
 
 Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng Việt. Mỗi chunk vẫn phải tự giải thích thuật ngữ ở lần xuất hiện đầu tiên (CLAUDE.md §5.3) — glossary này là bảng tra cứu chung, không thay thế việc đó.
 
-**Trạng thái:** thuật ngữ từ Topic 01, 04, 06, 08, 09, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
+**Trạng thái:** thuật ngữ từ Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
 
 ## Thuật ngữ vận hành kho tri thức
 
@@ -805,3 +843,57 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | EDGE | Explore – Decode – Generate – Execute | Bốn chặng biến phản tư thành chiến lược tăng trưởng cá nhân | `FW-031` |
 | VRIFA | Năm phép thử lợi thế cá nhân | Valuable · Rare · Inimitable · Future-relevant · Authentic | `FW-031` |
 | Professional signature | Dấu ấn nghề nghiệp | *"Khi người ta cần ______, tôi muốn họ nghĩ tới tôi."* | `FW-031` |
+
+### Thực thi vận hành (Topic 02)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Operational execution | Thực thi vận hành | Chuyển mục tiêu thành hành động phối hợp, theo dõi kết quả, sửa kế hoạch khi bằng chứng cho thấy chệch hướng | `CON-014` |
+| Translate · Coordinate · Adjust | Dịch · Phối hợp · Điều chỉnh | Ba động tác của người quản lý trong thực thi | `FW-035` |
+| Goal / Objective / Output / Outcome / Impact | Mục tiêu rộng / kết quả cụ thể / sản phẩm / thay đổi / giá trị | Năm bậc từ định hướng tới giá trị; ba bậc đầu trong tầm kiểm soát | `CON-015` |
+| SMART | Cụ thể – Đo được – Khả thi – Liên quan – Có thời hạn | Mức rõ ràng tối thiểu của một objective | `FW-036` |
+| Guardrail | Lằn ranh an toàn | Thứ phải giữ cho khoẻ mạnh trong lúc theo đuổi mục tiêu | `FW-037`, `FW-039` |
+| Metric / KPI / Baseline / Target | Chỉ số / chỉ số then chốt / mốc xuất phát / mức cần đạt | Bộ bốn thuật ngữ đo lường tối thiểu | `FW-038` |
+| Leading / Lagging indicator | Chỉ số dẫn dắt / chỉ số kết quả | Tín hiệu sớm so với kết quả cuối | `FW-038` |
+| Outcome–Driver–Guardrail–Flow | Bốn tầng tín hiệu thực thi | Giá trị có xảy ra · ta có chuyển động · cái gì phải khoẻ · việc đang dồn ở đâu | `FW-039` |
+| Initiative / Project / Workstream / Task | Sáng kiến / dự án / luồng công việc / nhiệm vụ | Bốn mức phân rã công việc dưới một objective | `FW-040` |
+| Dependency / Critical path | Phụ thuộc / đường găng | Việc chặn việc khác; chuỗi quyết định thời hạn cuối | `FW-040` |
+| Responsibility vs Accountability | Trách nhiệm làm vs trách nhiệm giải trình | Nhiều người có thể responsible; chỉ một người accountable | `FW-041` |
+| Blocker vs Bottleneck | Vật cản vs nút thắt | Sự kiện chặn một việc vs chỗ hệ thống luôn chậm | `FW-041` |
+| Cadence | Nhịp | Tần suất và loại review: daily check, weekly review, milestone gate | `FW-042` |
+| Response threshold | Ngưỡng phản ứng | Act now · Act this cycle · Observe and learn | `FW-042` |
+
+### Tư duy chiến lược (Topic 17)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Six disciplines of strategic thinking | Sáu kỷ luật tư duy chiến lược | Pattern recognition · systems analysis · mental agility · structured problem-solving · visioning · political savvy (Watkins, 2024) | `FW-043` |
+| Cloud to ground | Từ mây xuống đất | Di chuyển giữa bức tranh lớn và chi tiết — mô tả của Watkins cho mental agility | `FW-043` |
+| PESTEL | Chính trị – Kinh tế – Xã hội – Công nghệ – Môi trường – Pháp lý | Sáu loại thay đổi bên ngoài cần quét | `FW-044` |
+| So what test | Phép thử "so what" | Mỗi phát hiện phải kết bằng cơ hội hay đe doạ cho team bạn | `FW-044` |
+| Five Forces | Năm áp lực cạnh tranh | New entrants · suppliers · buyers · substitutes · rivalry (Porter, 2008) | `FW-045` |
+| Willingness to pay (WTP) | Mức sẵn lòng trả | Mức tối đa khách hàng chấp nhận trả; nâng nó là một trong hai cách thắng | `FW-046` |
+| Value stick | Thanh giá trị | WTP – Price – Cost – Willingness to sell, chia thành customer delight, firm margin, supplier surplus | `FW-046` |
+| Resources vs Capabilities | Nguồn lực vs năng lực | Thứ bạn **có** vs thứ bạn **làm tốt** | `CON-017` |
+| Core competence | Năng lực cốt lõi | Vừa quan trọng với khách hàng, vừa làm tốt hơn đối thủ | `CON-017` |
+| Outside-in / Inside-out | Nhìn từ ngoài vào / từ trong ra | "Nên cạnh tranh ở đâu" vs "thắng bằng gì" — cần cả hai | `CON-018` |
+| VRIN | Có giá trị – Hiếm – Khó sao chép – Khó thay thế | Bốn phép thử lợi thế bền vững (Barney, 1991) | `FW-047` |
+| Moat | Hào | Tập nguồn lực VRIN giữ đối thủ ở ngoài; team nới rộng hoặc thu hẹp nó mỗi ngày | `FW-047-01` |
+| Line-of-sight test | Phép thử đường ngắm | Mỗi người có nói được việc mình làm đẩy bậc ngay trên nó không | `CON-019` |
+| Riskiest assumption | Giả định rủi ro nhất | Giả định mà nếu sai sẽ làm đổi khuyến nghị | `FW-048` |
+
+### Giải quyết vấn đề và gỡ blocker (Topic 16)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Design Thinking | Tư duy thiết kế | Empathize · Define · Ideate · Prototype · Test (mô hình Stanford) | `FW-049` |
+| Understand – Create – Deliver | Hiểu – Tạo – Giao | Ba chặng gom năm pha; kết thúc lần lượt ở insight, ideas, reality | `FW-049` |
+| Problem-first, not prompt-first | Vấn đề trước, prompt sau | Nguyên tắc 1 khi dùng AI trong giải quyết vấn đề | `FW-049-01` |
+| Problem Tree | Cây vấn đề | Nguyên nhân ở rễ, hệ quả ở tán, vấn đề cốt lõi ở thân | `FW-050` |
+| Empathy Map | Bản đồ thấu cảm | Hiểu một stakeholder thật trước khi định nghĩa vấn đề | `FW-051` |
+| Symptom / Assumption / Possible cause | Triệu chứng / giả định / nguyên nhân có thể | Ba cột tách điều quan sát được khỏi điều ta tin | `FW-052` |
+| Problem statement template | Mẫu phát biểu vấn đề | "[Stakeholder] cần… bởi vì… dẫn tới… bằng chứng là…" | `FW-052` |
+| How Might We (HMW) | Làm thế nào chúng ta có thể… | Câu hỏi thiết kế: human-centred, focused, open-ended, actionable, chưa phải giải pháp | `CON-020` |
+| Prototype | Bản thử | Thử một phiên bản nhỏ trước rồi học — không phải giải pháp cuối cùng | `FW-053` |
+| 7-day test | Thử nghiệm 7 ngày | MỘT team · MỘT tuần · MỘT kết quả để kiểm tra | `FW-053-01` |
+| Three-line ask | Lời đề nghị ba dòng | "Vấn đề là… · Chúng tôi đã thử… · Chúng tôi cần anh/chị…" trong 45 giây | `FW-054` |

@@ -4,12 +4,12 @@ Mọi trang slide của **các topic đã xử lý** phải xuất hiện ở đ
 
 Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide_inventory.md`. File này chỉ theo dõi **độ phủ**.
 
-**Trạng thái: 9 / 20 topic đã xử lý. Độ phủ 375 / 805 trang (46.6%).**
+**Trạng thái: 12 / 20 topic đã xử lý. Độ phủ 486 / 805 trang (60.4%).**
 
 | Khóa | Topic | File | Tổng trang | Đã ánh xạ | Không có nội dung | Độ phủ | Trạng thái |
 |---|---:|---|---:|---:|---:|---:|---|
 | MEGROW | 1 | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | 21 | 4 | 100% | đã xử lý |
-| MEGROW | 2 | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 2 | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | 26 | 9 | 100% | đã xử lý |
 | MEGROW | 3 | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 4 | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | 32 | 14 | 100% | đã xử lý |
 | MEGROW | 5 | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | 0 | 0 | 0% | chưa xử lý |
@@ -25,12 +25,12 @@ Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide
 | MEGROW | 14 | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | 11 | 3 | 100% | đã xử lý |
 | MEGROW | 14 | `[Case Reading] of topic 14 .pdf` | 4 | 4 | 0 | 100% | đã xử lý |
 | MEGROW | 15 | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 16 | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 17 | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 16 | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | 33 | 4 | 100% | đã xử lý |
+| MEGROW | 17 | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | 31 | 8 | 100% | đã xử lý |
 | MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 19 | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | 24 | 9 | 100% | đã xử lý |
 | MEGROW | 20 | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | 0 | 0 | 0% | chưa xử lý |
-| | | **Tổng** | **805** | **299** | **76** | **46.6%** | 9/20 topic |
+| | | **Tổng** | **805** | **389** | **97** | **60.4%** | 12/20 topic |
 
 ---
 
@@ -471,3 +471,129 @@ Mỗi trang của topic đã xử lý ánh xạ tới chunk chứa nội dung tr
 ### Các topic chưa xử lý
 
 Bảng chi tiết được thêm cho từng topic ngay khi topic đó được xử lý. 11 topic còn lại chưa có.
+
+### Topic 02 — `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-02` |
+| 3 | không có nội dung kiến thức (lộ trình buổi học) |
+| 4 | `TOP-MEGROW-02` — ví dụ Amazon [HÌNH] |
+| 5 | không có nội dung kiến thức (lộ trình, lặp lại) |
+| 6 | `FW-033` |
+| 7 | `FW-034` |
+| 8 | `FW-034` |
+| 9 | `CON-014` |
+| 10 | `CON-014` |
+| 11 | không có nội dung kiến thức (nghỉ giải lao) |
+| 12 | không có nội dung kiến thức (lộ trình, lặp lại) |
+| 13 | `FW-035` |
+| 14 | `CON-015` |
+| 15 | `CON-015` |
+| 16 | `FW-036` |
+| 17 | `FW-036` |
+| 18 | `FW-036` |
+| 19 | `FW-037` |
+| 20 | không có nội dung kiến thức (lộ trình, lặp lại) |
+| 21 | `FW-038` |
+| 22 | `FW-039` |
+| 23 | `FW-038` |
+| 24 | `FW-038` |
+| 25 | `CON-015` |
+| 26 | `FW-039` |
+| 27 | `FW-039` |
+| 28 | không có nội dung kiến thức (lộ trình, lặp lại) |
+| 29 | `FW-040` |
+| 30 | `FW-041` |
+| 31 | `FW-042` |
+| 32 | `FW-042` |
+| 33 | `CON-016` |
+| 34 | không có nội dung kiến thức (trang tiêu đề mục "Case in point") — xem OQ-010 |
+| 35 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 16 — `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-16` |
+| 3 | `TOP-MEGROW-16` |
+| 4 | `TOP-MEGROW-16` |
+| 5 | `TOP-MEGROW-16` |
+| 6 | `TOP-MEGROW-16` |
+| 7 | `FW-050` |
+| 8 | `TOP-MEGROW-16` (lặp lại Activity 1) |
+| 9 | `FW-049` |
+| 10 | `FW-049` [HÌNH] |
+| 11 | `FW-049` [HÌNH] |
+| 12 | không có nội dung kiến thức (video giới thiệu) |
+| 13 | `FW-050` |
+| 14 | `FW-049-01` |
+| 15 | `FW-050` |
+| 16 | `FW-049-01` |
+| 17 | `FW-051` |
+| 18 | `FW-051` |
+| 19 | `FW-052` |
+| 20 | `FW-052` |
+| 21 | `FW-052` |
+| 22 | `CON-020` |
+| 23 | không có nội dung kiến thức (nghỉ giải lao) |
+| 24 | `FW-053` |
+| 25 | `FW-053` |
+| 26 | `FW-053` |
+| 27 | `FW-053` |
+| 28 | `FW-053-01` |
+| 29 | `FW-053-01` |
+| 30 | `FW-053-01` |
+| 31 | `FW-054` |
+| 32 | `FW-054` |
+| 33 | `FW-054` |
+| 34 | `FW-053-01` |
+| 35 | `FW-053-01` |
+| 36 | `FW-049` |
+| 37 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 17 — `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-17` |
+| 3 | `TOP-MEGROW-17` |
+| 4 | `FW-043` |
+| 5 | không có nội dung kiến thức (divider phần 1) |
+| 6 | `FW-043` |
+| 7 | `FW-043` |
+| 8 | `FW-043` |
+| 9 | `FW-043` |
+| 10 | không có nội dung kiến thức (divider phần 2) |
+| 11 | `FW-044` |
+| 12 | `FW-044` |
+| 13 | `FW-044` |
+| 14 | `FW-044` |
+| 15 | `FW-044` |
+| 16 | `FW-044-01` |
+| 17 | không có nội dung kiến thức (nghỉ giải lao) |
+| 18 | không có nội dung kiến thức (divider phần 3) |
+| 19 | `FW-045-01` |
+| 20 | `FW-045` |
+| 21 | `FW-045` |
+| 22 | không có nội dung kiến thức (divider phần 4) |
+| 23 | `FW-046` |
+| 24 | `FW-046` |
+| 25 | `CON-018` |
+| 26 | `CON-017` |
+| 27 | `FW-047` |
+| 28 | `FW-047` |
+| 29 | `FW-047-01` |
+| 30 | `FW-047-01` |
+| 31 | không có nội dung kiến thức (divider phần 5) |
+| 32 | `CON-019` |
+| 33 | `FW-048` |
+| 34 | `FW-048` |
+| 35 | `FW-048` |
+| 36 | `TOP-MEGROW-17` |
+| 37 | `FW-047-01` |
+| 38 | `TOP-MEGROW-17` |
+| 39 | không có nội dung kiến thức (danh mục nguồn) |

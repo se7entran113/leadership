@@ -2676,3 +2676,1932 @@ Connector vận hành qua lộ trình `FW-030` D–R–C, dùng `FW-028` chẩn 
 ## Nguồn
 - `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 17–29]`
 - Trích dẫn trong slide: Gartner; phỏng theo Roca & Wilde (2019), *The Connector Manager*.
+
+=====
+
+---
+id: FW-033
+type: framework
+title_vi: Chu trình Quản trị Chiến lược
+title_en: The Strategic Management Cycle
+aliases: [strategic management cycle, chu trình chiến lược, research-strategy-translation-execution-evaluation]
+keywords: [chiến lược, strategy, thực thi, execution, vòng lặp phản hồi, feedback loop, định hướng, điều chỉnh, adaptation, quyết định dựa trên bằng chứng]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-034, FW-035, FW-041, CON-014]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 6"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Strategic Management Cycle (Chu trình Quản trị Chiến lược)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Strategic Management Cycle (chu trình quản trị chiến lược) là vòng năm chặng đi từ phân tích hiện trạng tới đánh giá kết quả, rồi quay lại nuôi chặng đầu. Dùng khi cần thấy vị trí của việc thực thi trong bức tranh lớn, và khi cần giải thích cho team vì sao kế hoạch phải đổi giữa chừng.
+
+## Mục đích
+`[KHÓA HỌC]` Đóng khung một luận điểm của Topic 2 slide 6: *"Các quyết định kinh doanh hiếm khi đi theo đường thẳng. Bằng chứng, dữ liệu thực thi và việc học liên tục định hình lại chu kỳ quyết định tiếp theo."*
+
+## Khi nào dùng
+Đầu quý khi nhận định hướng từ cấp trên; khi bằng chứng mới mâu thuẫn với kế hoạch đã cam kết; khi giải trình với stakeholder vì sao phải điều chỉnh.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề nằm hẳn trong một chặng — ví dụ chỉ cần làm rõ mục tiêu thì dùng `FW-036` và `FW-037`, không cần dựng lại cả chu trình.
+
+## Các bước áp dụng
+| Chặng | Câu hỏi chủ đạo | Sản phẩm |
+|---|---|---|
+| 1. Research & Analysis (nghiên cứu và phân tích) | Chúng ta đang ở đâu? | — |
+| 2. Strategy Formulation (hình thành chiến lược) | Chúng ta sẽ đi đâu? | Objectives · options · priorities · trade-offs |
+| 3. Translation & Planning (chuyển dịch và lập kế hoạch) | Làm sao điều đó thành hành động? | Initiatives · KPIs · owners · milestones |
+| 4. Execution (thực thi) | Chúng ta sẽ giao hàng thế nào? | Coordination · blockers · quality · accountability |
+| 5. Evaluation & Adaptation (đánh giá và thích nghi) | Kết quả có đạt không? | Results · gaps · learning · adjustment |
+
+Diễn giải bảng: năm chặng xếp thành vòng, không thành đường thẳng. Chặng 5 nối ngược về chặng 1 bằng một **Management Feedback Loop** (vòng phản hồi quản trị).
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Hàm ý quản lý in ngay trên slide 6: *"Thực thi tốt bắt đầu trước khi thực thi: làm rõ vấn đề, định nghĩa thành công, chuyển ưu tiên thành KPI, rồi điều chỉnh khi bằng chứng thay đổi."* · *"Đánh giá tạo ra bằng chứng mới, cho phép người lãnh đạo xét lại giả định, ưu tiên và lựa chọn thực thi."*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: chặng 1 là rà soát hiện trạng mô hình và dữ liệu; chặng 2 là chọn 2 bài toán đáng làm trong quý; chặng 3 là gắn KPI và chủ sở hữu cho từng bài; chặng 4 là chạy thí nghiệm và gỡ blocker dữ liệu; chặng 5 là đọc kết quả offline/online rồi quyết định tiếp tục, đổi hướng hay dừng.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Sai lầm thường gặp: coi chặng 5 là báo cáo tổng kết, không phải đầu vào cho chu kỳ sau.
+- Chu trình mô tả *trình tự logic*, không phải lịch cố định; một team có thể ở chặng 4 của sáng kiến này và chặng 2 của sáng kiến khác.
+
+## Phân biệt với framework gần giống
+`FW-034` **Strategy Cascade** mô tả chiến lược đi *xuống* qua bốn tầng tổ chức; `FW-033` mô tả chiến lược đi *vòng* qua năm chặng thời gian.
+
+## Cách kết hợp với framework khác
+Chặng 3 là nơi dùng `FW-036`, `FW-037`, `FW-040`. Chặng 4 là `FW-041`. Chặng 5 là `FW-038` và `FW-042`.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 6]`
+
+=====
+
+---
+id: FW-034
+type: framework
+title_vi: Thang chuyển dịch Chiến lược xuống Thực thi
+title_en: From Organizational Direction to Team Delivery (Strategy Cascade)
+aliases: [strategy cascade, corporate business functional operational, thang chiến lược, line of sight]
+keywords: [chiến lược công ty, corporate strategy, business strategy, functional strategy, operational execution, dịch định hướng, translate priorities, mục tiêu team, gắn với chiến lược tổ chức]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-033, FW-035, FW-040, CON-019]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 7–8"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# From Organizational Direction to Team Delivery (Thang chuyển dịch Chiến lược xuống Thực thi)
+
+## Tóm tắt
+`[KHÓA HỌC]` Strategy Cascade (thang chuyển dịch chiến lược) chia định hướng tổ chức thành bốn tầng — Corporate, Business, Functional, Operational — mỗi tầng trả lời một câu hỏi hẹp hơn tầng trên. Dùng khi phải trả lời "việc của team tôi phục vụ điều gì" hoặc khi nhận một ưu tiên mơ hồ từ cấp trên và cần dịch nó thành kết quả cụ thể.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 7 gọi tầng Functional là *"cây cầu giữa Think Strategically và Drive Impact"* — hai năng lực trong khung năng lực Zalo. Lăng kính chuyển dịch của người quản lý: biến ưu tiên thành **team outcomes · resource choices · adaptive execution**.
+
+## Khi nào dùng
+Khi lập mục tiêu quý; khi một thành viên hỏi "tại sao mình làm việc này"; khi phải từ chối một yêu cầu không gắn với tầng Corporate, Business hay Functional nào.
+
+## Khi nào KHÔNG dùng
+Khi tổ chức chưa công bố định hướng ở tầng trên — khi đó thang này sẽ tạo ra chuỗi suy diễn giả. Hỏi lên trước, dùng `CON-019` để kiểm tra.
+
+## Các bước áp dụng
+| Tầng | Câu hỏi | Nội dung quyết định |
+|---|---|---|
+| 1. Corporate Strategy | Tổ chức sẽ cạnh tranh ở đâu? | Portfolio · markets · ecosystems · phân bổ nguồn lực |
+| 2. Business Strategy | Mảng kinh doanh này thắng bằng cách nào? | Khách hàng mục tiêu · value proposition · định vị · tăng trưởng |
+| 3. Functional Strategy | Mỗi chức năng hỗ trợ chiến lược đó ra sao? | Product · tech · marketing · people · operations |
+| 4. Operational Execution | Team phải giao gì, khi nào, bằng cách nào? | OKRs · KPIs · owners · milestones · kiểm soát rủi ro |
+
+Diễn giải bảng: định hướng chảy từ tầng 1 xuống tầng 4; mỗi tầng thu hẹp phạm vi lựa chọn của tầng dưới. Người quản lý cấp một sống ở tầng 4 nhưng phải đọc được tầng 3.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Slide 8 đưa bốn câu hỏi minh họa theo bối cảnh Zalo: **Corporate** — những mảng và nền tảng nào nên hợp thành hệ sinh thái Zalo, và phân bổ nguồn lực ra sao giữa messaging, media, quảng cáo, tiện ích đời sống và AI? · **Business** — Zalo Messaging, Zing MP3, Adtima, Báo Mới hay Zalo AI tạo giá trị khác biệt thế nào trong thị trường của mình? · **Functional** — Product, Technology, Marketing, People và Operations phải đóng góp gì cho chiến lược từng nền tảng? · **Operational** — quý này mỗi team phải giao outcome, OKR, bản phát hành, dự án, trách nhiệm, mốc thời gian và KPI nào?
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: tầng 3 nói "Technology phải rút ngắn thời gian đưa mô hình vào sản phẩm"; tầng 4 của team thành "giảm thời gian từ mô hình xong tới A/B test từ 6 tuần xuống 3 tuần trong quý này".
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Sai lầm: nhảy thẳng từ tầng 1 xuống tầng 4, bỏ qua tầng 3 — kết quả là team làm việc đúng hướng công ty nhưng sai thứ tự ưu tiên của khối.
+- Thang là công cụ *dịch*, không phải công cụ *ra lệnh*: tầng dưới vẫn có quyền đề xuất ngược lên.
+
+## Phân biệt với framework gần giống
+`CON-019` **Line-of-sight test** (Topic 17) là bài kiểm tra ngắn cho cùng ý tưởng: mỗi người có nói được việc mình làm đẩy tầng trên thế nào không. `FW-033` là trục thời gian, `FW-034` là trục tổ chức.
+
+## Cách kết hợp với framework khác
+Đầu ra của tầng 4 chính là đầu vào của `FW-040` (OKR và phân rã công việc) và `FW-037` (mẫu mục tiêu).
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 7–8]`
+
+=====
+
+---
+id: FW-035
+type: framework
+title_vi: Ba động tác quản lý dẫn dắt thực thi
+title_en: Three Manager Moves That Drive Execution
+aliases: [translate coordinate adjust, three manager moves, sáu nhóm thuật ngữ thực thi]
+keywords: [dịch định hướng, translate, phối hợp, coordinate, điều chỉnh, adjust, từ vựng chung, shared vocabulary, thuật ngữ thực thi, goal KPI owner initiative]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-003, PRB-004]
+related_ids: [FW-033, FW-034, FW-038, FW-040, FW-041, CON-014, CON-015]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 13"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Three Manager Moves That Drive Execution (Ba động tác quản lý dẫn dắt thực thi)
+
+## Tóm tắt
+`[KHÓA HỌC]` Three Manager Moves (ba động tác quản lý) gói toàn bộ việc thực thi của người quản lý cấp một vào ba động từ: **Translate · Coordinate · Adjust** (dịch · phối hợp · điều chỉnh). Dùng làm bộ khung nhớ khi nhìn lại một quý và hỏi "mình đang thiếu động tác nào".
+
+## Mục đích
+`[KHÓA HỌC]` Slide 13 mô tả chuyển dịch của first-line manager: *từ hoàn thành công việc được giao sang kết nối định hướng, con người và kết quả*. Ba động tác là ba mặt của việc kết nối đó. Slide cũng nêu lý do cần một **từ vựng chung**: team không thể phối hợp nếu mỗi người hiểu "mục tiêu", "KPI", "chủ sở hữu" một kiểu.
+
+## Khi nào dùng
+Khi tự đánh giá vai trò quản lý; khi onboard một quản lý mới; khi chẩn đoán vì sao team bận mà không ra kết quả.
+
+## Khi nào KHÔNG dùng
+Khi cần công cụ thao tác cụ thể — ba động tác chỉ là mục lục, phần việc thật nằm ở `FW-037`, `FW-040`, `FW-041`, `FW-042`.
+
+## Các bước áp dụng
+1. **Translate** — biến định hướng rộng thành outcome của team. Công cụ: `FW-034`, `FW-036`, `FW-037`.
+2. **Coordinate** — gióng hàng con người, công việc và nguồn lực. Công cụ: `FW-040`, `FW-041`.
+3. **Adjust** — dùng bằng chứng để sửa và cải thiện việc thực thi. Công cụ: `FW-038`, `FW-042`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ý cốt lõi in trên slide 13, dùng được làm câu kiểm tra từ vựng với team: *"Một goal cho định hướng. Một KPI đo tiến độ. Một target định nghĩa mức cần đạt. Một initiative tạo ra thay đổi. Một owner thúc đẩy việc giao hàng. Thực thi biến những thứ đó thành kết quả."*
+
+## Ví dụ
+`[KHÓA HỌC]` Sáu nhóm thuật ngữ dùng trong thực thi vận hành, theo slide 13:
+
+| Nhóm | Thuật ngữ |
+|---|---|
+| Direction (định hướng) | Goal · objective · outcome · impact |
+| Measurement (đo lường) | Metric · KPI · target · baseline |
+| Planning (lập kế hoạch) | OKR · initiative · milestone · dependency |
+| Ownership (quyền sở hữu) | Owner · RACI · resources · capacity |
+| Coordination (phối hợp) | Cadence · status · blocker · escalation |
+| Adaptation (thích nghi) | Risk · issue · mitigation · learning |
+
+Diễn giải bảng: ba nhóm đầu phục vụ động tác Translate và Coordinate; hai nhóm giữa phục vụ Coordinate; nhóm cuối phục vụ Adjust.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Quản lý mới lên thường mạnh **Coordinate** (vì giống việc điều phối cũ), yếu **Translate** (vì cần hiểu tầng trên) và bỏ hẳn **Adjust** (vì sợ bị coi là kế hoạch dở).
+- Từ vựng chung chỉ có giá trị khi dùng nhất quán; dùng lẫn lộn "goal/objective/KPI" làm hỏng chính mục đích của nó.
+
+## Phân biệt với framework gần giống
+`CON-014` nêu *vì sao* người quản lý phải làm hệ thống; `FW-035` nêu *ba việc* tạo nên hệ thống đó.
+
+## Cách kết hợp với framework khác
+Dùng ba động tác làm mục lục cho toàn bộ Topic 2: mỗi động tác trỏ tới một cụm framework như liệt kê ở phần Các bước áp dụng.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 13]`
+
+=====
+
+---
+id: FW-036
+type: framework
+title_vi: SMART và giới hạn của SMART
+title_en: SMART Objectives and Their Limits
+aliases: [SMART, specific measurable achievable relevant time-bound, mục tiêu SMART]
+keywords: [mục tiêu, objective, SMART, cụ thể, đo được, khả thi, liên quan, có thời hạn, mục tiêu mơ hồ, viết mục tiêu, đo sai kết quả]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-005]
+related_ids: [CON-015, FW-037, FW-038, FW-040]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 16–18"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# SMART Objectives and Their Limits (SMART và giới hạn của SMART)
+
+## Tóm tắt
+`[KHÓA HỌC]` SMART là năm tiêu chí tối thiểu để một objective (mục tiêu cụ thể) đủ rõ mà bàn tiếp: **Specific · Measurable · Achievable · Relevant · Time-bound**. Dùng khi cần nâng một mục tiêu mơ hồ lên mức có thể đo và phối hợp — nhưng Topic 2 nhấn mạnh SMART *không* đảm bảo team đang đo đúng kết quả.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 16: *"Dùng SMART để tạo sự rõ ràng tối thiểu trước khi bàn về KPI, giám sát hay hiệu chỉnh."* SMART là cổng vào, không phải đích đến.
+
+## Khi nào dùng
+Khi nhận một mục tiêu kiểu "cải thiện X"; trước khi chọn KPI; trước khi giao việc cho một thành viên.
+
+## Khi nào KHÔNG dùng
+Khi con đường còn bất định và chưa biết kết quả nào là đúng — khi đó dùng mẫu learning objective ở `FW-037`. Khi đã SMART rồi mà vẫn chỉ đo output — khi đó cần `FW-037` và `FW-039`.
+
+## Các bước áp dụng
+| Chữ | Nghĩa | Kiểm tra trên slide 16 |
+|---|---|---|
+| **S**pecific | Cụ thể | Ai, cái gì và như thế nào đều rõ |
+| **M**easurable | Đo được | Tiến độ hoặc thành công đánh giá được |
+| **A**chievable | Khả thi | Thực tế với nguồn lực đang có |
+| **R**elevant | Liên quan | Gắn với mục tiêu kinh doanh hoặc mục tiêu team |
+| **T**ime-bound | Có thời hạn | Có khung thời gian xác định |
+
+Diễn giải bảng: năm tiêu chí là năm phép thử độc lập; thiếu một tiêu chí là mục tiêu vẫn còn chỗ để hiểu lệch.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Slide 18 đưa năm câu hỏi phải hỏi *sau khi* mục tiêu đã SMART: Kết quả nào của người dùng nên cải thiện? · Ranh giới chất lượng nào quan trọng? · Rủi ro nào cần được bảo vệ? · Tín hiệu chấp nhận (adoption) nào quan trọng? · Ngưỡng nào kích hoạt một thay đổi?
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 17 — biến mục tiêu yếu thành SMART. Yếu: *"Cải thiện khả năng phản hồi của team."* SMART: *"Giảm thời gian phản hồi nội bộ trung bình cho các yêu cầu hỗ trợ ưu tiên từ 24 giờ xuống 12 giờ, trước ngày 30 tháng 9."* Slide hỏi "cái gì đã thay đổi?" và tự trả lời: mục tiêu giờ có **measure, baseline, target và timeframe**.
+
+`[KHÓA HỌC]` Slide 18 — ví dụ mục tiêu vẫn sai dù SMART: *"Ra mắt Smart Assist trước thứ Sáu."* Cụ thể, đo được, có thời hạn — nhưng chỉ đo output. Câu chốt: *"SMART giúp rõ ràng. Nó không đảm bảo team đang đo đúng kết quả."*
+
+`[BỔ SUNG]` Team Data Science: "Train xong mô hình v3 trong tháng 11" là SMART nhưng rỗng; "Nâng precision@10 của gợi ý từ 0,31 lên 0,36 trước 30/11, giữ p99 latency dưới 120ms" vừa SMART vừa chạm outcome và guardrail.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Sai lầm lớn nhất mà Topic 2 nêu: coi SMART là đủ. SMART kiểm tra *hình thức* của mục tiêu, không kiểm tra *nội dung*.
+- "Achievable" dễ bị dùng để hạ chuẩn; nó nói về nguồn lực, không nói về tham vọng.
+
+## Phân biệt với framework gần giống
+`FW-037` mở rộng SMART bằng cách buộc mục tiêu nêu rõ beneficiary, observable change, baseline, target và quality boundary.
+
+## Cách kết hợp với framework khác
+SMART → `FW-037` (thêm outcome và guardrail) → `FW-038` (chọn KPI) → `FW-039` (phá thử KPI).
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 16–18]`
+
+=====
+
+---
+id: FW-037
+type: framework
+title_vi: Mẫu mục tiêu theo outcome, bằng chứng và lằn ranh an toàn
+title_en: Outcome, Evidence and Guardrail Objective Templates
+aliases: [performance objective, learning objective, validation objective, guardrail, mẫu viết mục tiêu]
+keywords: [viết mục tiêu, objective template, outcome, baseline, target, guardrail, lằn ranh an toàn, mục tiêu học hỏi, bất định, uncertainty, kiểm chứng giả định, quản lý kỳ vọng]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-002]
+related_ids: [FW-036, CON-015, FW-038, FW-039, FW-048]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 19"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Outcome, Evidence and Guardrail Objective Templates (Mẫu mục tiêu theo outcome, bằng chứng và lằn ranh an toàn)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 2 slide 19 đưa **hai mẫu câu** để viết objective, chọn theo mức độ biết trước con đường. Dùng ngay sau khi mục tiêu đã qua `FW-036` SMART, để mục tiêu chạm tới outcome chứ không dừng ở output.
+
+## Mục đích
+Buộc mục tiêu nêu đủ: ai hưởng lợi, thay đổi quan sát được là gì, đi từ mức nào tới mức nào, và điều gì không được phép hỏng trong lúc đó.
+
+## Khi nào dùng
+- **Mẫu 1** khi con đường đã biết về cơ bản (*when the path is substantially known*).
+- **Mẫu 2** khi công việc còn bất định (*when the work is uncertain*).
+
+## Khi nào KHÔNG dùng
+Khi công việc là vận hành thuần tuý và không có thay đổi nào cần tạo ra — khi đó một SMART task là đủ.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Mẫu 1 — performance objective (mục tiêu hiệu suất):**
+
+> Trước **[ngày]**, **[người hưởng lợi]** sẽ trải nghiệm **[thay đổi quan sát được]** từ **[baseline]** lên **[target]**, trong khi **[ranh giới chất lượng/rủi ro]** vẫn được bảo vệ.
+
+`[KHÓA HỌC]` **Mẫu 2 — learning hoặc validation objective (mục tiêu học hỏi hoặc kiểm chứng):**
+
+> Trước **[ngày]**, chúng ta sẽ kiểm chứng **[giả định then chốt]** bằng **[bằng chứng cụ thể]**, cho phép ra quyết định về **[hành động tiếp theo]**.
+
+Quy tắc chọn in trên slide: *"Known path → performance objective. Uncertain path → learning or validation objective."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Khi stakeholder ép cam kết một con số mà team chưa biết có đạt được không: đề nghị chuyển sang Mẫu 2 cho giai đoạn đầu — cam kết *một quyết định có bằng chứng*, không cam kết *một mức kết quả*. Đây là cách phát biểu lại kỳ vọng mà không phải nói "không biết".
+
+## Ví dụ
+`[BỔ SUNG]` Mẫu 1 cho team Data Science: *"Trước 31/12, người dùng mới sẽ thấy gợi ý phù hợp hơn — CTR tăng từ 4,1% lên 5,0% — trong khi tỷ lệ khiếu nại nội dung không vượt 0,2%."*
+
+`[BỔ SUNG]` Mẫu 2 cho một bài toán mới: *"Trước 30/11, chúng ta sẽ kiểm chứng giả định 'nhãn từ collaborator đủ nhất quán để train' bằng một vòng đo inter-annotator agreement trên 2.000 mẫu, cho phép quyết định có mở rộng quy mô gán nhãn hay không."*
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Bỏ phần guardrail là lỗi hay gặp nhất: mục tiêu đạt được bằng cách làm hỏng một thứ khác. Xem thêm `FW-039`.
+- Mẫu 2 không phải chỗ trốn tránh cam kết: nó vẫn phải nêu *bằng chứng cụ thể* và *quyết định sẽ ra*.
+
+## Phân biệt với framework gần giống
+`FW-036` SMART kiểm tra hình thức; `FW-037` kiểm tra nội dung (có outcome không, có baseline không, có guardrail không). `FW-040` OKR là cách tổ chức nhiều objective, không phải cách viết một objective.
+
+## Cách kết hợp với framework khác
+Dùng chuỗi `CON-015` để biết mình đang viết ở bậc nào, `FW-036` để làm rõ, `FW-037` để viết, `FW-038` để chọn chỉ số, `FW-039` để phá thử.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 19]`
+
+=====
+
+---
+id: FW-038
+type: framework
+title_vi: Metric, KPI, baseline, target và chỉ số dẫn dắt / chỉ số kết quả
+title_en: Metric, KPI, Baseline, Target, and Leading vs Lagging Indicators
+aliases: [KPI, metric vs KPI, leading indicator, lagging indicator, baseline, target, variance, benchmark, dashboard]
+keywords: [đo lường, measurement, chỉ số, metric, KPI, mốc xuất phát, baseline, mục tiêu số, target, chỉ số dẫn dắt, leading, chỉ số kết quả, lagging, chuẩn chất lượng, sai lệch, variance, dashboard, biết team có đi đúng hướng không]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-003]
+related_ids: [CON-015, FW-036, FW-037, FW-039, FW-042]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 21, 23–24"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Metric, KPI, Baseline, Target, and Leading vs Lagging Indicators
+
+## Tóm tắt
+`[KHÓA HỌC]` Bộ bốn thuật ngữ đo lường — **Metric · KPI · Baseline · Target** — cộng với cặp **Leading / Lagging indicator**, là từ vựng tối thiểu để trả lời "làm sao biết chúng ta đang đi đúng hướng". Dùng mỗi khi lập bảng theo dõi cho một objective.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 21: *"Metric tạo ra khả năng nhìn thấy; KPI cho biết những kết quả quan trọng nhất có đang chuyển động hay không."*
+
+## Khi nào dùng
+Sau khi objective đã viết xong theo `FW-037`; trước khi dựng dashboard hoặc nhịp review.
+
+## Khi nào KHÔNG dùng
+Khi mục tiêu còn là learning objective và chưa có kết quả để đo — khi đó bằng chứng là thí nghiệm, không phải KPI.
+
+## Các bước áp dụng
+| Thuật ngữ | Nghĩa | Ví dụ của giảng viên (slide 21) |
+|---|---|---|
+| **Metric** | Bất kỳ số nào ta theo dõi được | Số người dùng hoàn tất onboarding |
+| **KPI** | Chỉ số then chốt của thành công | Tỷ lệ hoàn tất onboarding |
+| **Baseline** | Nơi xuất phát | Tỷ lệ hoàn tất hiện tại: 65% |
+| **Target** | Mức bắt buộc phải đạt | Nâng lên 80% trước Q4 |
+
+`[KHÓA HỌC]` Bốn thuật ngữ kiểm soát hiệu suất bổ sung, cũng ở slide 21: **Quality standard** — đầu ra phải tốt tới mức nào? · **Variance** — chúng ta đang cách kế hoạch bao xa? · **Benchmark** — ta so sánh với chuẩn nào? · **Dashboard** — bức tranh hiệu suất hiện tại ra sao?
+
+`[KHÓA HỌC]` Slide 24 — hai loại chỉ số:
+
+| Loại | Câu hỏi | Ví dụ |
+|---|---|---|
+| **Leading** (dẫn dắt) | Chúng ta có đang đi đúng hướng không? | Kích hoạt dùng thử, lặp lại sử dụng, phụ thuộc chưa gỡ |
+| **Lagging** (kết quả) | Chúng ta có đạt outcome không? | Adoption, doanh thu, giữ chân, mức hài lòng |
+
+Diễn giải bảng: leading là *tín hiệu sớm hơn*, lagging là *kết quả muộn hơn*. Slide 21 cho ví dụ cặp đôi: leading = % người dùng tới bước 2; lagging = tỷ lệ hoàn tất cuối quý. Câu chốt slide 24: *"Managers need both: early movement and final value."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Manager check ở slide 21: *"Hỏi xem KPI nào thật sự cho thấy thành công, điểm xuất phát là gì, và phải đạt mức nào trước thời điểm nào?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 23 — cấu trúc một KPI đầy đủ: *KPI: tỷ lệ dùng hàng tuần · Baseline: 18% · Target: 35% · Deadline: 30 tháng 9 · Guardrail: tỷ lệ phải sửa dưới 5%.* Câu chốt: *"Không có baseline, team không thấy mình đã đi được bao xa. Không có target, team không biết thế nào là đủ."*
+
+`[BỔ SUNG]` Team Data Science: lagging là tỷ lệ chuyển đổi sau 30 ngày; leading là tỷ lệ phiên có ít nhất một tương tác với gợi ý trong tuần đầu.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Theo dõi toàn lagging thì biết tin xấu quá muộn; theo dõi toàn leading thì không ai biết có tạo ra giá trị không.
+- Thiếu baseline là lỗi phổ biến nhất khi team báo cáo "đã cải thiện".
+
+## Phân biệt với framework gần giống
+`FW-039` nói về việc *chọn tập chỉ số cân bằng* và *phá thử* từng KPI; `FW-038` chỉ định nghĩa từng thuật ngữ.
+
+## Cách kết hợp với framework khác
+Chọn KPI bằng `FW-038` → phá thử bằng `FW-039` → gắn vào nhịp review bằng `FW-042`.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 21, 23–24]`
+
+=====
+
+---
+id: FW-039
+type: framework
+title_vi: Bộ tín hiệu thực thi cân bằng và phép phá thử KPI
+title_en: Balanced Execution Signal Stack and the KPI Stress-Test
+aliases: [signal stack, outcome driver guardrail flow, KPI stress test, gaming the metric, Goodhart]
+keywords: [chọn KPI, KPI sai, KPI bị lách, gaming, guardrail, lằn ranh an toàn, dòng chảy công việc, flow, tắc nghẽn, bộ chỉ số, một KPI là không đủ, chỉ số nguy hiểm]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-003]
+related_ids: [FW-038, FW-037, CON-015, CON-016, FW-042]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 22, 26–27"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Balanced Execution Signal Stack and the KPI Stress-Test (Bộ tín hiệu thực thi cân bằng và phép phá thử KPI)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 2 đưa hai công cụ đi cùng nhau: **Balanced execution signal stack** — bốn tầng tín hiệu một team cần nhìn — và **KPI stress-test** — bốn câu hỏi phá thử trước khi nhận một KPI. Dùng khi chốt bộ chỉ số cho một quý hoặc một dự án.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 26: *"Một KPI đơn lẻ hiếm khi cho đủ tầm nhìn để ra quyết định thực thi."* Slide 27: *"Trước khi nhận một KPI, hãy thử phá nó."*
+
+## Khi nào dùng
+Khi chốt KPI quý; khi một chỉ số đẹp lên mà cảm giác thực tế xấu đi; khi thiết kế dashboard cho team.
+
+## Khi nào KHÔNG dùng
+Khi mới ở bước làm rõ mục tiêu — bốn tầng tín hiệu chỉ có nghĩa sau khi outcome đã xác định bằng `FW-037`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Bốn tầng tín hiệu (slide 26):**
+
+| Tầng | Câu hỏi |
+|---|---|
+| **Outcome** | Giá trị có xảy ra không? |
+| **Driver** | Chúng ta có đang chuyển động không? |
+| **Guardrail** | Điều gì phải giữ cho khoẻ mạnh? |
+| **Flow** | Công việc đang chờ hay đang dồn ở đâu? |
+
+Diễn giải bảng: Outcome là lagging, Driver là leading, Guardrail là thứ không được hỏng, Flow là tình trạng của chính hệ thống làm việc. Thiếu tầng Flow thì không phát hiện được bottleneck; thiếu tầng Guardrail thì không phát hiện được đánh đổi ngầm.
+
+`[KHÓA HỌC]` **Bốn câu hỏi phá thử (slide 27):**
+1. Con số này có thể tốt lên trong khi outcome xấu đi không?
+2. Team có thể lách nó không?
+3. Cần guardrail chất lượng hay rủi ro nào đi kèm?
+4. Chỉ số này sẽ làm thay đổi quyết định nào?
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu khiêu khích in trên slide 27: *"KPI nguy hiểm nhất là KPI mà team có thể cải thiện trong khi outcome xấu đi."* · Slide 22 rút câu hỏi số 4 thành phép thử một dòng cho mọi KPI: *"Chỉ số này có thể làm thay đổi quyết định nào?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 22 — *"Sai lầm phổ biến: coi mọi metric đều là KPI."*
+
+| KPI yếu | KPI mạnh hơn |
+|---|---|
+| Số cuộc họp đã tổ chức | Thời gian một chu kỳ ra quyết định |
+| Số task đã mở | Tỷ lệ giải quyết vấn đề |
+| Số báo cáo đã gửi | Mức độ sử dụng kèm guardrail chất lượng |
+
+Diễn giải bảng: cột trái đếm *hoạt động*, cột phải đo *kết quả hoặc tốc độ của hệ thống*.
+
+`[BỔ SUNG]` Team Data Science: KPI "số mô hình đưa lên production" lách được bằng cách đẩy nhiều mô hình nhỏ vô nghĩa. Bộ cân bằng: Outcome = CTR gợi ý; Driver = số thí nghiệm A/B kết luận được mỗi tháng; Guardrail = p99 latency và tỷ lệ khiếu nại nội dung; Flow = số ngày trung bình một thí nghiệm nằm chờ review dữ liệu.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Bộ bốn tầng dễ phình thành hai mươi chỉ số; mỗi tầng một tới hai chỉ số là đủ.
+- Phá thử phải làm *trước* khi công bố KPI; sau khi công bố, việc đổi KPI tốn uy tín.
+
+## Phân biệt với framework gần giống
+`FW-038` định nghĩa thuật ngữ đo lường; `FW-039` quyết định *chọn cái gì* và *loại cái gì*.
+
+## Cách kết hợp với framework khác
+Guardrail ở tầng ba chính là phần "[ranh giới chất lượng/rủi ro]" trong mẫu mục tiêu `FW-037`. Tầng Flow nối thẳng sang khái niệm bottleneck trong `FW-041`. Nguyên tắc "đo hệ thống chứ không đo người" ở `CON-016`.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 22, 26–27]`
+
+=====
+
+---
+id: FW-040
+type: framework
+title_vi: Logic OKR và phân rã công việc tới lộ trình giao hàng
+title_en: OKR Logic, Work Breakdown and the Delivery Roadmap
+aliases: [OKR, objective key results, initiative project workstream task, roadmap, milestone, dependency, critical path]
+keywords: [OKR, key result, sáng kiến, initiative, dự án, project, luồng công việc, workstream, nhiệm vụ, task, ưu tiên, priority, đánh đổi, trade-off, lộ trình, roadmap, mốc, milestone, phụ thuộc, dependency, đường găng, critical path, lập kế hoạch]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-001, PRB-003]
+related_ids: [FW-034, FW-035, FW-037, FW-041]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 29"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# OKR Logic, Work Breakdown and the Delivery Roadmap (Logic OKR và phân rã công việc tới lộ trình giao hàng)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 2 slide 29 gom việc lập kế hoạch thành ba mảng: **logic OKR**, **phân rã công việc** và **lộ trình giao hàng**, cộng cặp **Priority / Trade-off**. Dùng khi biến một objective đã rõ thành công việc có thể phân công.
+
+## Mục đích
+`[KHÓA HỌC]` Tiêu đề slide: *"Planning: How will the goal become coordinated work?"* — làm sao mục tiêu trở thành công việc có phối hợp. Manager check in trên slide: *"Một kế hoạch tốt cho thấy sẽ làm gì, cái gì làm trước, cái gì phụ thuộc cái gì, và đang đánh đổi ở đâu."*
+
+## Khi nào dùng
+Đầu quý sau khi chốt objective; khi team có nhiều việc song song và không rõ thứ tự; khi cần chỉ ra cho stakeholder thấy việc nào bị đẩy lùi nếu thêm yêu cầu mới.
+
+## Khi nào KHÔNG dùng
+Khi objective chưa rõ — phân rã một mục tiêu mơ hồ chỉ tạo ra nhiều task mơ hồ (`FW-036` slide 15).
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **1. Logic OKR:** **Objective** — chúng ta muốn đạt gì? **+ Key Results** — làm sao biết đã đạt?
+
+`[KHÓA HỌC]` **2. Phân rã công việc — bốn mức từ to tới nhỏ:**
+
+| Mức | Định nghĩa trên slide |
+|---|---|
+| **Initiative** (sáng kiến) | Nỗ lực lớn để đạt objective |
+| **Project** (dự án) | Nỗ lực có thời hạn, có sản phẩm bàn giao |
+| **Workstream** (luồng công việc) | Nhóm hoạt động liên quan bên trong một nỗ lực lớn hơn |
+| **Action / Task** (hành động/nhiệm vụ) | Đơn vị công việc cụ thể |
+
+Diễn giải bảng: bốn mức là bốn độ phân giải của cùng một việc; sai lầm là nhảy thẳng từ Objective xuống Task, bỏ mất Initiative nên không ai thấy bức tranh.
+
+`[KHÓA HỌC]` **3. Ưu tiên và đánh đổi:** **Priority** — cái gì được chú ý trước? **Trade-off** — chúng ta sẵn sàng từ bỏ cái gì?
+
+`[KHÓA HỌC]` **4. Lộ trình giao hàng:** **Roadmap · Work plan · Timeline · Deadline**, trên đó đặt **Milestone**, **Dependency** (phụ thuộc) và **Critical path** (đường găng). Ví dụ bốn mốc của giảng viên: **M1 Design → M2 Build → M3 Beta → M4 Launch**.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Khi nhận thêm yêu cầu giữa quý, câu hỏi theo slide là: *"Chúng ta sẵn sàng từ bỏ cái gì?"* — buộc đánh đổi hiện ra thay vì âm thầm trễ hạn.
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science, một quý: **Objective** — rút ngắn vòng đời một thí nghiệm gợi ý. **Key Results** — thời gian trung bình từ ý tưởng tới kết luận A/B giảm từ 6 xuống 3 tuần; 8 thí nghiệm kết luận được trong quý. **Initiative** — chuẩn hoá pipeline thí nghiệm. **Project** — dựng feature store dùng chung. **Workstream** — gán nhãn, huấn luyện, đánh giá. **Task** — viết job backfill. **Dependency** — feature store phụ thuộc quyền truy cập dữ liệu từ team Platform; đó là đường găng.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Kế hoạch không ghi **dependency** là kế hoạch sẽ trễ ở đúng chỗ không ai theo dõi.
+- Key Results dễ bị viết thành danh sách task; Key Result phải là *bằng chứng đã đạt*, không phải *việc đã làm*.
+- Lộ trình không nêu **trade-off** sẽ bị hiểu là cam kết làm tất cả.
+
+## Phân biệt với framework gần giống
+`FW-037` viết *một* objective cho đúng; `FW-040` tổ chức *nhiều* objective và công việc bên dưới. `FW-041` Team Delivery System lo phần chạy hằng ngày sau khi kế hoạch đã có.
+
+## Cách kết hợp với framework khác
+Đầu vào từ `FW-034` (tầng Operational) và `FW-037`. Mỗi Initiative cần một Owner theo `FW-041`. Mỗi Key Result cần KPI theo `FW-038`, đã qua phá thử `FW-039`.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 29]`
+- Ghi chú: slide 29 có dòng chân *"Zalo Drive Impact: clarify outcomes, prioritise work, monitor progress, remove bottlenecks and adjust based on evidence."*
+
+=====
+
+---
+id: FW-041
+type: framework
+title_vi: Hệ thống giao hàng của team
+title_en: The Team Delivery System
+aliases: [team delivery system, own coordinate adapt control, RACI, owner responsibility accountability, blocker bottleneck escalation]
+keywords: [chủ sở hữu, owner, trách nhiệm làm, responsibility, trách nhiệm giải trình, accountability, RACI, quyền quyết định, decision rights, nhịp, cadence, trạng thái, status, vật cản, blocker, nút thắt, bottleneck, leo thang, escalation, rủi ro, risk, sự cố, issue, giảm thiểu, mitigation, hiệu chỉnh, bài học, năng lực, capacity]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-003, PRB-005, PRB-001]
+related_ids: [CON-003, CON-014, FW-035, FW-040, FW-042, CON-016]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 30"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Team Delivery System (Hệ thống giao hàng của team)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Team Delivery System (hệ thống giao hàng của team) là cách Topic 2 gói việc vận hành thành một vòng bốn góc — **OWN → COORDINATE → CONTROL → ADAPT** — kèm bộ thuật ngữ cho mỗi góc. Dùng khi dựng cách làm việc cho một team, hoặc khi chẩn đoán vì sao một team đủ người, đủ kế hoạch mà vẫn không giao được hàng.
+
+## Mục đích
+`[KHÓA HỌC]` Câu mở đầu slide 30: *"Operational execution is a management system, not a task list."* — thực thi vận hành là một hệ thống quản trị, không phải một danh sách việc.
+
+## Khi nào dùng
+Khi mới nhận team; khi team mở rộng và cách làm cũ không còn chạy; khi có sự cố mà không ai thấy trước.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề nằm ở *mục tiêu sai* chứ không ở *vận hành kém* — khi đó quay lại `FW-037` và `FW-039`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **OWN — ba lớp sở hữu:** **Owner** (ai sở hữu việc này?) · **Responsibility** (ai phải làm?) · **Accountability** (ai trả lời cho kết quả?). Bổ sung: **RACI** — Responsible, Accountable, Consulted, Informed; **Decision rights** (quyền quyết định); **Resource / Capacity** — cần gì và chịu được bao nhiêu. Quy tắc ngón tay cái in trên slide: *"Nhiều người có thể responsible; chỉ nên có một người accountable."*
+
+`[KHÓA HỌC]` **COORDINATE — bốn câu hỏi:** **Cadence** (bao lâu review một lần?) · **Status** (công việc đang ở đâu?) · **Blocker** (cái gì đang chặn ngay lúc này?) · **Bottleneck** (hệ thống đang chậm ở chỗ nào?) · **Escalation** (khi nào thì phải nâng lên?).
+
+`[KHÓA HỌC]` **CONTROL — quản trị rủi ro:** **Risk** (điều gì có thể xảy ra?) · **Issue** (điều gì đã xảy ra rồi?) · **Mitigation** (giảm rủi ro bằng cách nào?).
+
+`[KHÓA HỌC]` **ADAPT — học và sửa:** **Corrective action / Course correction** (phải đổi gì ngay bây giờ?) · **Lessons learned** · **Feedback loop** (việc học cải thiện hành động thế nào?). Slide ghi: *"Deliver results, then learn and adjust."*
+
+Diễn giải sơ đồ: bốn góc tạo thành một vòng khép kín — sở hữu rõ thì phối hợp được, phối hợp được thì kiểm soát được rủi ro, kiểm soát được thì học và sửa được, rồi quay lại điều chỉnh quyền sở hữu.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Manager check: *"Thực thi thất bại khi quyền sở hữu không rõ, phối hợp yếu, rủi ro không được quản lý, hoặc việc học bị bỏ qua."* — bốn vế này đúng bằng bốn góc, dùng làm bốn câu chẩn đoán.
+
+## Ví dụ
+`[KHÓA HỌC]` Sợi chỉ ví dụ in trên slide 30: *Objective: giảm ma sát onboarding → KPI: tỷ lệ hoàn tất → Target: 80% → Initiative: thiết kế lại hành trình → Owner: PM → Risk: năng lực kỹ thuật → Adjustment: giảm phạm vi hoặc bổ sung nguồn lực.*
+
+`[BỔ SUNG]` Team Data Science: một dự án có Senior DS là **accountable**, hai DS **responsible**, collaborator gán nhãn ở vai **responsible trong phạm vi hẹp**, manager giữ **decision rights** về việc dừng hay tiếp. Bottleneck thường nằm ở khâu duyệt quyền truy cập dữ liệu, không nằm ở khâu model.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Nhầm **blocker** với **bottleneck**: blocker là sự kiện chặn một việc; bottleneck là chỗ hệ thống luôn chậm. Gỡ blocker mãi mà không gỡ bottleneck thì cùng một vấn đề quay lại mỗi tuần.
+- Nhiều người accountable = không ai accountable.
+
+## Phân biệt với framework gần giống
+`CON-003` ghi phần RACI và quyền quyết định theo góc nhìn Topic 6 (giao việc); `FW-041` đặt chúng trong hệ thống vận hành của cả team. `FW-042` là lát cắt nhịp review của góc COORDINATE.
+
+## Cách kết hợp với framework khác
+Kế hoạch từ `FW-040` chạy trong hệ thống `FW-041`; nhịp và ngưỡng phản ứng lấy ở `FW-042`; nguyên tắc quan sát lấy ở `CON-016`.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 30]`
+
+=====
+
+---
+id: FW-042
+type: framework
+title_vi: Nhịp review và ngưỡng phản ứng
+title_en: Review Rhythm and Response Thresholds
+aliases: [review cadence, daily check weekly review milestone gate, response thresholds, act now act this cycle observe and learn]
+keywords: [nhịp họp, cadence, họp hằng ngày, daily check, review tuần, weekly review, cổng mốc, milestone gate, ngưỡng phản ứng, response threshold, leo thang, escalation, khi nào can thiệp, tín hiệu cảnh báo]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+problems_addressed: [PRB-003, PRB-001]
+related_ids: [FW-041, FW-038, FW-039, CON-016]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 31–32"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Review Rhythm and Response Thresholds (Nhịp review và ngưỡng phản ứng)
+
+## Tóm tắt
+`[KHÓA HỌC]` Hai bảng đi cặp ở Topic 2: **Review Rhythm** — ba loại review với mục đích và nhịp khác nhau — và **Response Thresholds** — ba lớp tín hiệu quy định phản ứng tương ứng. Dùng khi thiết kế lịch vận hành của team, và khi muốn quyết trước cách xử lý cảnh báo thay vì ứng biến lúc nóng.
+
+## Mục đích
+Tách ba loại cuộc họp theo *mục đích và thẩm quyền*, và quyết định trước ngưỡng nào thì làm gì.
+
+## Khi nào dùng
+Khi lập lịch vận hành đầu quý; khi team họp nhiều mà vẫn trễ; khi mọi vấn đề đều được xử lý như khủng hoảng.
+
+## Khi nào KHÔNG dùng
+Khi công việc hoàn toàn độc lập giữa các thành viên và không có phụ thuộc — khi đó nhịp dày chỉ tạo chi phí báo cáo (`CON-016`).
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Bảng 1 — Nhịp review (slide 31):**
+
+| Loại review | Mục đích | Nhịp ví dụ |
+|---|---|---|
+| **Daily check** (kiểm tra hằng ngày) | Gỡ vấn đề gấp | 10–15 phút |
+| **Weekly review** (review tuần) | Xu hướng, chất lượng, phụ thuộc | 30–45 phút |
+| **Milestone gate** (cổng mốc) | Tiếp tục, điều chỉnh hay tạm dừng | Trước khi ra mắt hoặc bàn giao |
+
+Diễn giải bảng: ba loại khác nhau ở *quyền quyết định*. Daily chỉ gỡ tắc, không đổi kế hoạch. Weekly đọc xu hướng. Chỉ Milestone gate mới có quyền dừng. Nguyên tắc in trên slide: *"Nhịp phải khớp với tốc độ và rủi ro của công việc."*
+
+`[KHÓA HỌC]` **Bảng 2 — Ngưỡng phản ứng (slide 32):**
+
+| Lớp tín hiệu | Nghĩa | Phản ứng |
+|---|---|---|
+| **Act now** (hành động ngay) | Đã vượt ngưỡng nghiêm trọng | Dừng, khoanh vùng, leo thang |
+| **Act this cycle** (xử lý trong chu kỳ này) | Xu hướng đang yếu đi | Chẩn đoán và điều chỉnh |
+| **Observe and learn** (quan sát và học) | Vẫn trong dung sai | Tiếp tục theo dõi |
+
+Diễn giải bảng: ba lớp gắn với ba mức độ khẩn, và mỗi lớp có một hành động mặc định đã thoả thuận trước, nên không cần tranh luận lúc sự cố.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu chốt slide 32: *"Thời điểm tốt nhất để quyết định sẽ phản ứng thế nào với một cảnh báo là trước khi cảnh báo xuất hiện."*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: daily 10 phút chỉ hỏi "ai đang kẹt"; weekly 45 phút đọc bảng Outcome–Driver–Guardrail–Flow (`FW-039`); milestone gate trước mỗi lần mở A/B test ra 100% lưu lượng. Ngưỡng: p99 latency vượt 200ms = **Act now**; CTR giảm hai tuần liên tiếp = **Act this cycle**; dao động trong ±0,2 điểm phần trăm = **Observe and learn**.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Biến weekly review thành buổi báo cáo một chiều là cách nhanh nhất để mất tín hiệu thật — xem `CON-016`.
+- Không đặt ngưỡng trước thì mọi cảnh báo đều thành "act now", và team kiệt sức.
+
+## Phân biệt với framework gần giống
+`FW-041` nêu *các thành phần* của hệ thống vận hành; `FW-042` là *lịch và quy tắc phản ứng* của hệ thống đó.
+
+## Cách kết hợp với framework khác
+Ngưỡng phản ứng phải gắn với guardrail đã chọn ở `FW-039` và baseline/target ở `FW-038`. Escalation trong `FW-041` chính là hành động của lớp **Act now**.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 31–32]`
+
+=====
+
+---
+id: FW-043
+type: framework
+title_vi: Sáu kỷ luật của tư duy chiến lược
+title_en: The Six Disciplines of Strategic Thinking
+aliases: [Watkins 2024, six disciplines, pattern recognition, systems analysis, mental agility, structured problem-solving, visioning, political savvy]
+keywords: [tư duy chiến lược, strategic thinking, nhận diện mẫu hình, pattern recognition, phân tích hệ thống, systems analysis, linh hoạt tư duy, mental agility, cloud to ground, giải quyết vấn đề có cấu trúc, tạo tầm nhìn, visioning, nhạy bén chính trị, political savvy, tự đánh giá]
+levels: [ORG, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-044, FW-045, FW-047, FW-048, CON-019, FW-014]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 6–9"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Six Disciplines of Strategic Thinking (Sáu kỷ luật của tư duy chiến lược)
+
+## Tóm tắt
+`[KHÓA HỌC]` Watkins (2024) chia tư duy chiến lược thành **sáu kỷ luật có thể luyện tập** chứ không phải một năng khiếu bẩm sinh. Dùng để tự chẩn đoán mình mạnh yếu ở đâu, và để chọn công cụ cần học tiếp.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 6 định nghĩa tư duy chiến lược bằng một câu: *"Nhìn xa hơn hôm nay. Hình dung các tương lai khả dĩ. Rồi chọn nơi đặt nỗ lực của mình."* Và dịch sang việc của người quản lý cấp một thành ba điều: **1. Phát hiện thay đổi sớm** — trước khi nó đập vào team. **2. Nối các điểm** — gắn việc của team với mục tiêu công ty. **3. Ra lựa chọn thật** — đặt ưu tiên, chấp nhận đánh đổi.
+
+## Khi nào dùng
+Khi lập kế hoạch phát triển bản thân; đầu một chu kỳ chiến lược; khi thấy mình chỉ phản ứng với việc trước mắt.
+
+## Khi nào KHÔNG dùng
+Khi đã biết rõ vấn đề và chỉ cần công cụ phân tích cụ thể — khi đó đi thẳng tới `FW-044`, `FW-045` hoặc `FW-047`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Sáu kỷ luật (slide 8):
+
+| # | Kỷ luật | Nội dung trên slide |
+|---:|---|---|
+| 1 | **Pattern recognition** (nhận diện mẫu hình) | Phát hiện những tín hiệu có ý nghĩa |
+| 2 | **Systems analysis** (phân tích hệ thống) | Thấy các phần kết nối với nhau ra sao |
+| 3 | **Mental agility** (linh hoạt tư duy) | Di chuyển giữa bức tranh lớn và chi tiết — *"cloud to ground"* |
+| 4 | **Structured problem-solving** (giải quyết vấn đề có cấu trúc) | Đóng khung đúng vấn đề, rồi cùng nhau giải |
+| 5 | **Visioning** (tạo tầm nhìn) | Mơ lớn, bắt đầu nhỏ |
+| 6 | **Political savvy** (nhạy bén chính trị) | Biết các lợi ích. Lên kế hoạch nói chuyện với ai, khi nào |
+
+Diễn giải bảng: ba kỷ luật đầu là năng lực *nhìn*; kỷ luật 4 và 5 là năng lực *chọn và định hình*; kỷ luật 6 là năng lực *đưa lựa chọn đó đi được trong tổ chức*.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ba câu hỏi khi xem video Watkins (slide 7): *Kỷ luật nào bạn dùng mỗi tuần? Kỷ luật nào bạn hiếm khi dùng? Kỷ luật nào quan trọng nhất với vai trò hiện tại của bạn?*
+
+`[KHÓA HỌC]` Bài tự chấm trên lớp (slide 9, 3 phút): chấm mỗi kỷ luật theo thang 1–5, **1 = hiếm khi, 5 = hằng ngày**; chia sẻ điểm cao nhất và thấp nhất; nói **vì sao** với điểm thấp nhất.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 4 đặt sáu kỷ luật cạnh khung năng lực Zalo *Think Strategically*: ở **L2.2** — hiểu bối cảnh công việc của mình, thấy kết nối trong phạm vi nhỏ, nhận ra các phương án đơn giản và hệ quả của chúng; ở **L2.3** — gắn việc của team với mục tiêu khối, gọi tên giả định và đánh đổi, đề xuất và đánh giá phương án.
+
+`[BỔ SUNG]` Với một Associate DS Manager: *pattern recognition* là nhận ra ba yêu cầu stakeholder khác nhau thực chất cùng một bài toán; *political savvy* là biết phải nói với Legal trước khi nói với ban lãnh đạo.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Người kỹ thuật thường mạnh kỷ luật 2 và 4, yếu kỷ luật 5 và 6 — và chính hai kỷ luật yếu đó quyết định đề xuất có được chấp nhận hay không.
+- Sáu kỷ luật là khung tự chẩn đoán, không phải quy trình chạy theo thứ tự.
+
+## Phân biệt với framework gần giống
+`FW-048` là quy trình ba bước biến phân tích thành khuyến nghị — nó hiện thực hoá kỷ luật 4. `FW-014` (French & Raven, Topic 12) và `FW-015` phục vụ kỷ luật 6.
+
+## Cách kết hợp với framework khác
+Kỷ luật 1 và 2 dùng `FW-044` PESTEL và `FW-045` Five Forces. Kỷ luật 4 dùng `FW-048`. Kỷ luật 6 dùng cụm stakeholder của Topic 12.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 6–9]`
+- Trích dẫn trong slide: Watkins, M. D. (2024). *The six disciplines of strategic thinking*. Harper Business. · Big Think+, *The 6 disciplines of strategic thinking | Michael Watkins* (video).
+
+=====
+
+---
+id: FW-044-01
+type: exercise
+title_vi: Hoạt động quét PESTEL cho team của bạn
+title_en: PESTEL Scanning Activity for Your Team
+aliases: [group activity 1 topic 17, PESTEL poster, environmental scan workshop]
+keywords: [bài tập PESTEL, quét môi trường, sticky note, yếu tố quan trọng nhất, hai ba năm tới, so what, giả định, poster, hoạt động nhóm]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-044, FW-048, CON-019]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 16"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# PESTEL Scanning Activity for Your Team (Hoạt động quét PESTEL cho team của bạn)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-044` PESTEL and the Four Scanning Rules (PESTEL và bốn quy tắc quét môi trường): bản hướng dẫn chạy hoạt động nhóm 30 phút của Topic 17. Dùng khi muốn tổ chức một buổi quét môi trường cho team thật, không chỉ đọc khung.
+
+## Mục đích
+Biến khung PESTEL thành một poster có một yếu tố được chọn, một "so what" và một giả định được ghi tên — đầu vào cho bước ra khuyến nghị.
+
+## Khi nào dùng
+Đầu một chu kỳ lập kế hoạch; trong một buổi offsite của team; trước khi chuẩn bị một business case cần phần bối cảnh.
+
+## Khi nào KHÔNG dùng
+Khi không có ai trong phòng nắm dữ liệu thị trường — quy tắc "dùng bằng chứng, không dùng ý kiến" sẽ bị vi phạm ngay từ đầu.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Group Activity 1 (slide 16, 30 phút):** chọn một sản phẩm team bạn hỗ trợ; ít nhất một yếu tố cho mỗi chữ cái; thống nhất **một** yếu tố quan trọng nhất cho 2–3 năm tới; viết "so what"; ghi một giả định. Debrief: *"Yếu tố nào sẽ quan trọng nhất với team bạn trong hai năm nữa — và bạn đã sẵn sàng chưa?"* Poster dùng tiếp ở Group Activity 2 (`FW-048`).
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Ba câu để dẫn phần debrief: *"Yếu tố nào sẽ quan trọng nhất với team bạn trong hai năm nữa?"* · *"Bằng chứng nào cho thấy nó đang chuyển động?"* · *"Giả định nào đằng sau việc chúng ta xếp nó lên đầu?"*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: yếu tố được chọn là **Legal** — quy định về dữ liệu cá nhân siết chặt. "So what": mọi mô hình personalization phải chứng minh được nguồn dữ liệu và cơ sở pháp lý. Giả định: quy định sẽ siết thêm chứ không nới ra trong hai năm tới.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Nhóm thường dừng ở bước dán sticky note; ba bước sau (chọn một, viết "so what", ghi giả định) mới là phần tạo giá trị.
+- Chọn hai hoặc ba yếu tố "quan trọng nhất" là không chọn gì.
+
+## Phân biệt với framework gần giống
+`FW-044` là khung và quy tắc; `FW-044-01` là kịch bản chạy hoạt động.
+
+## Cách kết hợp với framework khác
+Poster từ hoạt động này là đầu vào bắt buộc của Group Activity 2 trong `FW-048`.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 16]`
+
+=====
+
+---
+id: FW-044
+type: framework
+title_vi: PESTEL và bốn quy tắc quét môi trường
+title_en: PESTEL and the Four Scanning Rules
+aliases: [PESTEL, PEST, environmental scanning, so what test, quét môi trường bên ngoài]
+keywords: [môi trường bên ngoài, external context, chính trị, political, kinh tế, economic, xã hội, social, công nghệ, technological, môi trường, environmental, pháp lý, legal, quét môi trường, scanning, xu hướng, so what, cơ hội, đe dọa, nhân khẩu học, bảo vệ dữ liệu]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-043, FW-044-01, FW-045, FW-047, FW-048, CON-018, CON-019]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 11–16"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# PESTEL and the Four Scanning Rules (PESTEL và bốn quy tắc quét môi trường)
+
+## Tóm tắt
+`[KHÓA HỌC]` PESTEL chia thế giới bên ngoài thành **sáu loại thay đổi** — Political, Economic, Social, Technological, Environmental, Legal — để không bỏ sót loại nào khi quét môi trường. Dùng khi chuẩn bị kế hoạch 2–3 năm, hoặc khi giải thích vì sao ưu tiên của team phải đổi.
+
+## Mục đích
+Nhìn ra ngoài một cách có hệ thống, rồi buộc mỗi phát hiện phải trả lời câu *"so what"* — nó là cơ hội hay đe dọa cho team mình.
+
+## Khi nào dùng
+Trước khi chọn bài toán cho năm sau; khi một đối thủ hoặc công nghệ mới xuất hiện; khi chuẩn bị một business case cần phần bối cảnh.
+
+## Khi nào KHÔNG dùng
+Khi câu hỏi về cấu trúc cạnh tranh trong ngành — dùng `FW-045`. Khi câu hỏi là "chúng ta thắng bằng gì" — dùng `FW-047`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Sáu nhóm và ví dụ in trên slide 13:
+
+| Chữ | Nghĩa | Ví dụ trên slide |
+|---|---|---|
+| **P**olitical | Chính trị | Chính sách, chuyển đổi số |
+| **E**conomic | Kinh tế | Tăng trưởng, chi tiêu, ngân sách quảng cáo |
+| **S**ocial | Xã hội | Nhân khẩu học, thói quen số |
+| **T**echnological | Công nghệ | AI, điện toán đám mây, thanh toán di động |
+| **E**nvironmental | Môi trường | Tiêu thụ năng lượng, rủi ro khí hậu, ESG |
+| **L**egal | Pháp lý | Bảo vệ dữ liệu, an ninh mạng |
+
+`[KHÓA HỌC]` **Bốn quy tắc quét (slide 14):** 1. **Chọn lọc** — vài yếu tố, không phải danh sách dài. 2. **Nhìn tới trước** — cái gì sẽ quan trọng hơn? 3. **Dùng bằng chứng** — dữ liệu, không phải ý kiến. 4. **Kết bằng "so what"** — cơ hội hay đe dọa cho team bạn? Ba câu hỏi lọc: **Future** (2–3 năm tới), **Change** (cái gì đang chuyển động), **Relevant** (cái gì chạm tới team bạn).
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Bảng "so what" bốn cột ở slide 15 — *Yếu tố · Cái gì thay đổi · Tác động tới doanh nghiệp · So what cho team tôi*:
+
+| Yếu tố | Cái gì thay đổi | Tác động tới doanh nghiệp | So what cho team tôi |
+|---|---|---|---|
+| Quy định bảo vệ dữ liệu siết chặt | Phải có đồng ý rõ ràng; bị phạt nếu rò rỉ | Quyền riêng tư gắn sẵn trong sản phẩm; niềm tin bán được hàng | Kiểm tra quyền riêng tư trong mọi lần phát hành |
+| Generative AI lan nhanh | Đối thủ ra sản phẩm nhanh hơn | Người dùng kỳ vọng tính năng thông minh hơn | Thử xem AI rút ngắn cycle time ở đâu |
+
+Diễn giải bảng: ba cột đầu là quan sát, cột thứ tư là cam kết hành động. Một dòng không có cột bốn là một dòng chưa dùng được.
+
+## Ví dụ
+`[KHÓA HỌC]` Hai ví dụ dẫn nhập: **Walmart và Amazon** (slide 11) — vốn hoá 1997–2025, Amazon vượt Walmart năm 2015, cuối 2025 là 2,5 so với 0,9 nghìn tỷ USD; câu hỏi: *"Walmart đã bỏ lỡ điều gì mà Amazon nhìn thấy?"* · **Vinamilk** (slide 12) — tỷ suất sinh Việt Nam giảm từ 5,8 (1974) xuống 1,9 (2024), dưới mức thay thế 2,1, buộc chuyển dịch từ sản phẩm trẻ em sang người trưởng thành và cao tuổi.
+
+**Group Activity 1** (slide 16, 30 phút) và bảng kết quả quét nằm ở `FW-044-01`.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Lỗi kinh điển: liệt kê đủ sáu chữ cái rồi dừng. Quy tắc 1 và 4 chống đúng lỗi đó.
+- PESTEL mô tả bối cảnh, không nói ta thắng bằng gì — cần `CON-018`.
+
+## Phân biệt với framework gần giống
+`FW-045` Five Forces nhìn **trong ngành**; PESTEL nhìn **ngoài ngành**. Cả hai đều là lăng kính outside-in (`CON-018`).
+
+## Cách kết hợp với framework khác
+PESTEL → chọn một yếu tố → `FW-048` reframe thành câu hỏi và khuyến nghị — chính là mạch hai hoạt động nhóm của Topic 17.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 11–16]`
+- Trích dẫn trong slide: Johnson, G., Whittington, R., Regnér, P., Angwin, D., & Scholes, K. (2020). *Exploring strategy* (12th ed.). Pearson. · CompaniesMarketCap.com · World Bank (2025), SP.DYN.TFRT.IN.
+
+=====
+
+---
+id: FW-045-01
+type: framework
+title_vi: Bằng chứng — ngành quyết định lợi nhuận tới mức nào
+title_en: How Much Does Industry Matter? The Evidence Behind Five Forces
+aliases: [Schmalensee 1985, McGahan Porter 1997, Hawawini 2003, industry effects, ROIC by industry]
+keywords: [ngành quan trọng tới mức nào, industry effects, chênh lệch lợi nhuận, ROIC, chọn nơi cạnh tranh, bằng chứng thực nghiệm, Schmalensee, McGahan Porter, Hawawini]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-008, PRB-001]
+related_ids: [FW-045, FW-044, FW-047]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 19"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# How Much Does Industry Matter? (Bằng chứng — ngành quyết định lợi nhuận tới mức nào)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-045` Porter's Five Forces (năm áp lực cạnh tranh): phần bằng chứng thực nghiệm mà Topic 17 dùng để biện minh cho việc dành thời gian phân tích ngành. Dùng khi cần thuyết phục một người cho rằng "chỉ cần làm tốt là thắng, ngành nào cũng vậy".
+
+## Mục đích
+Định lượng câu hỏi: bao nhiêu phần chênh lệch lợi nhuận giữa các doanh nghiệp đến từ *ngành* chứ không từ *bản thân doanh nghiệp*.
+
+## Khi nào dùng
+Khi mở đầu một phân tích ngành; khi bảo vệ đề xuất rời khỏi hoặc tiến vào một mảng.
+
+## Khi nào KHÔNG dùng
+Khi đang nói về một doanh nghiệp cụ thể đã biết rõ — số liệu này nói về *phân phối* giữa nhiều doanh nghiệp, không dự đoán một trường hợp đơn lẻ.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 19 đưa bằng chứng định lượng cho luận điểm *"ngành bạn chọn định đoạt lợi nhuận — với phần lớn doanh nghiệp, nhiều hơn bất cứ yếu tố nào khác"*:
+
+| Nghiên cứu | Phát hiện |
+|---|---|
+| Schmalensee (1985) | Ngành giải thích khoảng 20% chênh lệch lợi nhuận; yếu tố doanh nghiệp gần như không |
+| McGahan & Porter (1997) | Ngành 19%, đơn vị kinh doanh 32% — nhưng ngành chiếm ưu thế ở dịch vụ, bán lẻ và vận tải |
+| Hawawini và cộng sự (2003) | Bỏ ra vài doanh nghiệp dẫn đầu và tụt hậu, ngành quan trọng hơn doanh nghiệp với phần lớn công ty |
+
+Kèm bảng ROIC: cao nhất — môi giới chứng khoán 40,9%, nước giải khát 37,6%, phần mềm đóng gói 37,6%; thấp nhất — khách sạn 10,4%, catalogue 5,9%, hàng không 5,9%. Kết luận: *"Where you compete is a strategic choice."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+*"Chúng ta đang cố thắng trong một ngành cho phép giữ lại bao nhiêu giá trị?"* — câu này đặt trước mọi bàn luận về nỗ lực nội bộ.
+
+## Ví dụ
+`[BỔ SUNG]` Áp vào bối cảnh Zalo: quảng cáo số và nền tảng tin nhắn có cấu trúc ngành rất khác nhau; so sánh hiệu suất hai mảng mà bỏ qua khác biệt đó là so sánh sai gốc.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Ba nghiên cứu không đồng ý hoàn toàn với nhau về tỷ lệ; điểm chung là *ngành giải thích một phần đáng kể*, không phải *ngành quyết định tất cả*.
+- Phát hiện của Hawawini và cộng sự có một điều kiện quan trọng: nó đúng sau khi **loại bỏ vài doanh nghiệp dẫn đầu và tụt hậu**.
+
+## Phân biệt với framework gần giống
+`FW-045` là công cụ phân tích; `FW-045-01` là bằng chứng biện minh cho công cụ đó.
+
+## Cách kết hợp với framework khác
+Dùng làm phần mở đầu khi trình bày một phân tích `FW-045`, trước khi chuyển sang `FW-047` để nói về phần doanh nghiệp tự quyết được.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 19]`
+- Trích dẫn trong slide: Schmalensee (1985), AER · McGahan & Porter (1997), SMJ · Hawawini, Subramanian & Verdin (2003), SMJ · Porter (2007, 2008).
+
+=====
+
+---
+id: FW-045
+type: framework
+title_vi: Năm áp lực cạnh tranh của Porter
+title_en: Porter's Five Forces
+aliases: [five forces, Porter 2008, new entrants, suppliers, buyers, substitutes, rivalry, sixth force]
+keywords: [cấu trúc ngành, industry structure, năm áp lực, five forces, đối thủ mới, new entrants, nhà cung cấp, suppliers, người mua, buyers, sản phẩm thay thế, substitutes, cạnh tranh nội bộ ngành, rivalry, lợi nhuận ngành, chọn nơi cạnh tranh, áp lực lên sản phẩm]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-044, FW-045-01, FW-046, FW-047, CON-018, FW-043]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 19–21"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Porter's Five Forces (Năm áp lực cạnh tranh của Porter)
+
+## Tóm tắt
+`[KHÓA HỌC]` Porter's Five Forces (năm áp lực cạnh tranh) giải thích vì sao một ngành cho phép doanh nghiệp giữ lại nhiều hay ít giá trị. Dùng khi đánh giá sức hấp dẫn của một thị trường, hoặc khi cần biết áp lực lên sản phẩm của mình đến từ đâu.
+
+## Mục đích
+`[KHÓA HỌC]` Nguyên tắc in trên slide 20: **"Strong forces = less attractive industry"** — áp lực càng mạnh, ngành càng kém hấp dẫn.
+
+## Khi nào dùng
+Khi cân nhắc bước vào một mảng mới; khi giải thích cho stakeholder vì sao biên lợi nhuận của mảng này khó cải thiện; trước khi bàn về lợi thế riêng của mình (`FW-047`).
+
+## Khi nào KHÔNG dùng
+Khi câu hỏi về xu hướng ngoài ngành — dùng `FW-044`. Khi về năng lực nội tại — dùng `FW-047`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Năm áp lực và điều kiện khiến mỗi áp lực mạnh (slide 20):
+
+| Áp lực | Mạnh khi… |
+|---|---|
+| **New entrants** (đối thủ mới) | Gia nhập rẻ và dễ |
+| **Suppliers** (nhà cung cấp) | Ít nhà cung cấp, hiếm, đổi thì tốn kém |
+| **Buyers** (người mua) | Người mua lớn hoặc đổi nhà cung cấp dễ dàng |
+| **Substitutes** (sản phẩm thay thế) | Có cách khác rẻ hơn hoặc tốt hơn |
+| **Rivalry** (cạnh tranh nội bộ ngành) | Các đối thủ giống nhau và tăng trưởng chậm |
+
+Diễn giải sơ đồ: Rivalry nằm ở giữa; bốn áp lực còn lại ép vào từ bốn phía — trên là đối thủ mới, dưới là sản phẩm thay thế, trái là nhà cung cấp, phải là người mua.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Năm câu hỏi áp vào sản phẩm của mình (slide 21, table talk 5 phút): *Một start-up hay một nền tảng toàn cầu có thể nhảy vào nhanh không?* (new entrants) · *Chúng ta có phụ thuộc vào vài nhà cung cấp hay nhân sự khan hiếm không?* (suppliers) · *Người dùng hoặc nhà quảng cáo chuyển đi dễ tới mức nào?* (buyers) · *Còn thứ gì khác đáp ứng cùng nhu cầu đó?* (substitutes) · *Chúng ta giống đối thủ gần nhất tới mức nào?* (rivalry). Câu hỏi chốt: **"Áp lực nào đè nặng nhất lên sản phẩm của bạn?"**
+
+## Ví dụ
+`[BỔ SUNG]` Với team Data Science ở Zalo, "suppliers" thường không phải nhà cung cấp hàng hoá mà là **nhân sự khan hiếm và quyền truy cập dữ liệu nội bộ** — đó là áp lực thực tế nhất.
+
+Bằng chứng định lượng về vai trò của ngành (ba nghiên cứu và bảng ROIC, slide 19) nằm ở `FW-045-01`.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Năm áp lực mô tả *ngành*, không mô tả *một doanh nghiệp*; công ty xuất sắc vẫn thắng được trong ngành xấu, nhưng đó là ngoại lệ mà nghiên cứu Hawawini chỉ rõ.
+- `[KHÓA HỌC]` Slide 21 báo trước: buổi chiều, Prof Trung Nguyen (Topic 18) **bổ sung AI như "áp lực thứ sáu"** — khi xử lý Topic 18 cần nối lại điểm này.
+
+## Phân biệt với framework gần giống
+`FW-044` quét ngoài ngành; `FW-045` phân tích trong ngành; `FW-046` giải thích giá trị được tạo và chia ra sao.
+
+## Cách kết hợp với framework khác
+Five Forces trả lời *"nên cạnh tranh ở đâu"*; `FW-047` trả lời *"thắng bằng gì"*; `CON-018` nói cần cả hai.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 19–21]`
+- Trích dẫn trong slide: Porter, M. E. (2008). *The five competitive forces that shape strategy*. HBR, 86(1), 78–93. · Porter (2007). *Understanding industry structure* (Note 9-707-493). · Schmalensee (1985), AER. · McGahan & Porter (1997), SMJ. · Hawawini, Subramanian & Verdin (2003), SMJ.
+
+=====
+
+---
+id: FW-046
+type: framework
+title_vi: Khoảng cách giữa mức sẵn lòng trả và chi phí
+title_en: The Value Stick — Willingness to Pay versus Cost
+aliases: [value stick, willingness to pay, WTP, willingness to sell, Oberholzer-Gee, Brandenburger Stuart]
+keywords: [lợi thế cạnh tranh, competitive advantage, mức sẵn lòng trả, willingness to pay, chi phí, cost, biên lợi nhuận, margin, giá trị cho khách hàng, customer delight, supplier surplus, nới rộng khoảng cách, quyết định của team có tạo giá trị không]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-045, FW-047, CON-017, CON-019]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 23–24"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Value Stick — Willingness to Pay versus Cost (Khoảng cách giữa mức sẵn lòng trả và chi phí)
+
+## Tóm tắt
+`[KHÓA HỌC]` Lợi thế cạnh tranh, theo Topic 17 slide 23, nghĩa là **khoảng cách giữa willingness to pay (mức sẵn lòng trả của khách hàng) và cost (chi phí) rộng hơn của đối thủ**. Dùng làm phép thử một dòng cho mọi quyết định của team: nó có nới rộng khoảng cách đó không?
+
+## Mục đích
+Biến khái niệm trừu tượng "lợi thế cạnh tranh" thành một thanh đo có thể trỏ tay vào, và cho người quản lý cấp một một tiêu chí chọn việc.
+
+## Khi nào dùng
+Khi cân nhắc giữa nhiều đề xuất; khi phải giải thích giá trị của một dự án kỹ thuật cho người ngoài kỹ thuật; khi xét bỏ bớt một tính năng.
+
+## Khi nào KHÔNG dùng
+Khi giá trị không đi qua khách hàng trả tiền (ví dụ sản phẩm nội bộ bắt buộc dùng) — khi đó thanh đo cần được diễn giải lại, không áp thẳng.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Thanh giá trị xếp từ trên xuống: **Willingness to pay** (đỉnh) → **Price** → **Cost** → **Willingness to sell** (đáy). Ba khoảng tạo thành:
+
+| Khoảng | Giữa hai mốc | Ai hưởng |
+|---|---|---|
+| **Customer delight** | Willingness to pay ↔ Price | Khách hàng |
+| **Firm margin** | Price ↔ Cost | Doanh nghiệp |
+| **Supplier surplus** | Cost ↔ Willingness to sell | Nhà cung cấp |
+
+Diễn giải sơ đồ: tổng giá trị tạo ra là khoảng cách từ đỉnh xuống đáy; giá và chi phí chỉ quyết định *chia* phần đó cho ai. Vì vậy **hai cách thắng** in trên slide: **1. Nâng willingness to pay** — tốt hơn, dễ hơn, đáng tin hơn. **2. Hạ chi phí** — làm thông minh hơn; là nơi người ta muốn tới làm việc.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu hỏi chốt của slide 23: *"Hỏi với bất kỳ quyết định nào của team: nó có nới rộng khoảng cách không?"* · Slide 24 bổ sung hai câu: *"Người dùng của bạn thật sự trả tiền cho tính năng nào?"* và *"Làm sao nâng mức người dùng sẵn lòng trả — hoặc hạ chi phí của bạn?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 24 — khảo sát willingness to pay của người dùng Spotify (USD/tháng, giá trị trung vị, N = 7.458 người dùng Spotify Free và Premium tại Mỹ):
+
+| Tính năng | WTP tăng thêm mỗi tháng |
+|---|---|
+| Âm thanh lossless | 22,08 |
+| Tối đa 5 người dùng | 18,96 |
+| Nghe offline | 10,08 |
+| Bỏ qua bài không giới hạn | 9,33 |
+| Không quảng cáo | 8,13 |
+| Phát bất kỳ bài nào | 7,74 |
+
+Diễn giải bảng: cách đọc in trên slide là *"người dùng cho biết họ sẵn sàng trả thêm bao nhiêu mỗi tháng cho từng tính năng"*. Điểm đáng chú ý: tính năng được nói tới nhiều nhất (bỏ quảng cáo) lại không phải tính năng được định giá cao nhất.
+
+`[BỔ SUNG]` Team Data Science: một mô hình gợi ý chính xác hơn nâng WTP; một pipeline tự động hoá gán nhãn hạ cost. Cả hai đều nới khoảng cách — nhưng chỉ cái thứ nhất nhìn thấy được từ phía người dùng, nên cần đo khác nhau.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Dễ nhầm **price** với **willingness to pay**; giảm giá không nâng WTP, nó chỉ chuyển margin sang customer delight.
+- Khảo sát WTP là lời khai, không phải hành vi; dùng làm giả thuyết cần kiểm chứng, không làm kết luận.
+
+## Phân biệt với framework gần giống
+`FW-045` Five Forces giải thích ngành cho phép giữ lại bao nhiêu giá trị; `FW-046` giải thích doanh nghiệp tạo ra và chia bao nhiêu giá trị. `FW-047` VRIN giải thích vì sao khoảng cách đó *giữ được lâu*.
+
+## Cách kết hợp với framework khác
+Dùng `FW-046` để chọn việc, `CON-019` để kiểm tra việc đó có nối lên định hướng tổ chức không, `FW-048` để trình bày thành khuyến nghị.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 23–24]`
+- Trích dẫn trong slide: Brandenburger, A. M., & Stuart, H. W. (1996). *Value-based business strategy*. JEMS, 5(1), 5–24. · Oberholzer-Gee, F. (2021). *Better, simpler strategy*. HBR Press. · Paddle (ProfitWell), *Willingness to pay*.
+
+=====
+
+---
+id: FW-047-01
+type: framework
+title_vi: Hào cạnh tranh và việc team nới rộng hay thu hẹp nó
+title_en: The Competitive Moat and How Teams Widen or Narrow It
+aliases: [moat, hào cạnh tranh, widen the moat, technical debt]
+keywords: [hào, moat, lợi thế bền vững, nợ kỹ thuật, technical debt, sao chép đối thủ, cạnh tranh bằng giá, quy trình khó sao chép, team làm gì hằng ngày, Zalo competitive advantage]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-008, PRB-001]
+related_ids: [FW-047, CON-017, CON-018, CON-019]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 29–30, 37"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Competitive Moat and How Teams Widen or Narrow It (Hào cạnh tranh và việc team nới rộng hay thu hẹp nó)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-047` VRIN and the Competitive Moat (VRIN và hào bảo vệ lợi thế): phần dịch VRIN xuống cấp hành vi hằng ngày của một team. Dùng khi muốn nối một khái niệm chiến lược với những quyết định nhỏ mà team thật sự ra mỗi tuần.
+
+## Mục đích
+Trả lời câu hỏi của người quản lý cấp một: *"Tôi làm gì với VRIN khi tôi không quyết chiến lược công ty?"*
+
+## Khi nào dùng
+Khi review nợ kỹ thuật; khi quyết định sao chép một tính năng của đối thủ; khi một người chủ chốt sắp rời đi.
+
+## Khi nào KHÔNG dùng
+Khi chưa xác định được nguồn lực hoặc năng lực nào là ứng viên cho hào — làm `FW-047` và `CON-017` trước.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Ba câu hỏi về **moat** (hào) ở slide 29: *1. Hào của chúng ta là gì? 2. Nó có đang rộng ra không? 3. Team của tôi làm nó rộng ra bằng cách nào?*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Đặt ba câu trên vào một cuộc họp review quý và yêu cầu mỗi người trả lời câu thứ ba bằng một ví dụ cụ thể từ công việc của chính họ.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 30 — *"Team của bạn nới rộng hoặc thu hẹp hào mỗi ngày"*:
+
+| Lĩnh vực | Nới rộng hào | Thu hẹp hào |
+|---|---|---|
+| Technology | Hệ thống tin cậy ở quy mô lớn | Nợ kỹ thuật; người chủ chốt rời đi |
+| Product | Hiểu sâu người dùng bản địa | Sao chép đối thủ từng tính năng một |
+| Business | Quan hệ đối tác đáng tin | Chỉ cạnh tranh bằng giá |
+| Support & operations | Quy trình trơn tru, khó sao chép | Giải pháp chắp vá mà chỉ một người biết |
+
+Diễn giải bảng: cột phải là những việc *vẫn hoàn thành KPI ngắn hạn* nhưng bào mòn I và N của VRIN — đó là lý do bảng này đứng ngay sau thang hiệu suất.
+
+`[KHÓA HỌC]` Bài tập sau lớp (slide 37, đăng trên Canvas trước Tuần 11, ngày 6 tháng 11): *"Lợi thế cạnh tranh của Zalo là gì?"* — nêu một nguồn lực hoặc năng lực khiến Zalo khác biệt, kiểm nó bằng VRIN, đề xuất một cách Zalo hoặc team bạn dùng nó nhiều hơn. Quy định: tối đa một đoạn, tự nghĩ, chỉ dùng AI cho dịch hoặc ngữ pháp, trả lời một đồng nghiệp.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Cột "Thu hẹp hào" gồm những việc *vẫn hoàn thành KPI ngắn hạn*; đó là lý do chúng khó bị phát hiện.
+- "Chỉ một người biết" là dạng thu hẹp hào nguy hiểm nhất với team nhỏ: nó trông như năng lực, thực chất là rủi ro.
+
+## Phân biệt với framework gần giống
+`FW-047` chấm điểm nguồn lực bằng bốn phép thử; `FW-047-01` nói về việc giữ và nới điểm đó theo thời gian.
+
+## Cách kết hợp với framework khác
+Dùng cùng `CON-019`: một việc nới rộng hào nhưng không nối lên định hướng nào thì vẫn phải xếp sau.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 29–30, 37]`
+
+=====
+
+---
+id: FW-047
+type: framework
+title_vi: VRIN và hào bảo vệ lợi thế
+title_en: VRIN and the Competitive Moat
+aliases: [VRIN, VRIO, Barney 1991, valuable rare inimitable non-substitutable, moat, hào cạnh tranh]
+keywords: [lợi thế cạnh tranh bền vững, sustained competitive advantage, VRIN, có giá trị, valuable, hiếm, rare, khó sao chép, inimitable, khó thay thế, non-substitutable, hào, moat, parity, lợi thế tạm thời, AI có sao chép được không, ba năm tới]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [CON-017, CON-018, FW-045, FW-046, FW-047-01, FW-048]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 27–28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# VRIN and the Competitive Moat (VRIN và hào bảo vệ lợi thế)
+
+## Tóm tắt
+`[KHÓA HỌC]` VRIN là bốn phép thử Barney (1991) dùng để biết một nguồn lực hay năng lực có tạo được **lợi thế cạnh tranh bền vững** hay không: **Valuable · Rare · Inimitable · Non-substitutable**. Topic 17 thêm một tầng thứ hai — hỏi lại đúng bốn câu đó cho **ba năm tới**, trong đó có AI.
+
+## Mục đích
+Phân biệt thứ khiến ta *thắng hôm nay* với thứ khiến ta *còn thắng sau ba năm*, và biến nó thành câu hỏi team trả lời được.
+
+## Khi nào dùng
+Khi đánh giá một đề xuất đầu tư dài hạn; khi trả lời "lợi thế của chúng ta là gì"; khi lo một năng lực đang bị AI san bằng.
+
+## Khi nào KHÔNG dùng
+Khi quyết định mang tính vận hành ngắn hạn — VRIN là lăng kính nhiều năm, không phải tiêu chí chọn việc trong quý (dùng `FW-046`).
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Tầng 1 — hôm nay (slide 27):**
+
+| Phép thử | Câu hỏi |
+|---|---|
+| **V**aluable (có giá trị) | Nó giúp thắng hoặc giúp phòng thủ không? |
+| **R**are (hiếm) | Ít đối thủ có nó không? |
+| **I**nimitable (khó sao chép) | Khó bắt chước không? |
+| **N**on-substitutable (khó thay thế) | Không có thứ gì khác làm được việc đó chứ? |
+
+`[KHÓA HỌC]` **Tầng 2 — nhìn tới ba năm (slide 27):** *Người dùng còn coi trọng nó không?* · *Đối thủ — hoặc AI — có đuổi kịp không?* · *AI có làm việc sao chép trở nên dễ không?* · *Công nghệ mới có thay thế được nó không?* Đạt cả hai tầng = **lasting advantage** (lợi thế lâu bền).
+
+`[KHÓA HỌC]` **Thang hiệu suất (slide 28)** — mỗi phép thử vượt qua đẩy ta lên một bậc:
+
+| V | R | I | N | Kết quả | Hiệu suất |
+|---|---|---|---|---|---|
+| ✘ | ✘ | ✘ | ✘ | Disadvantage (bất lợi) | Dưới trung bình |
+| ✔ | ✘ | ✘ | – | Parity (ngang bằng) | Trung bình |
+| ✔ | ✔ | ✘ | – | Temporary advantage (lợi thế tạm thời) | Trên trung bình, trong một thời gian |
+| ✔ | ✔ | ✔ | ✔ | Sustained advantage (lợi thế bền vững) | Trên trung bình, lâu dài |
+
+Diễn giải bảng: "Valuable" một mình chỉ đưa ta tới mức ngang bằng. "Rare" cho lợi thế tạm thời. Chỉ "Inimitable" và "Non-substitutable" mới giữ được lợi thế qua thời gian.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Hai câu kiểm tra nhanh một nguồn lực: *"Đối thủ cần bao lâu để có thứ này?"* và *"Nếu AI làm được việc này vào năm sau, chúng ta còn lại gì?"* Phần về **moat** (hào) và bảng "team bạn nới rộng hay thu hẹp hào" nằm ở `FW-047-01`.
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: "dùng được LLM" là Valuable nhưng không Rare — parity. "Có bộ dữ liệu hội thoại tiếng Việt đã gán nhãn trong nhiều năm" là Valuable, Rare và khó sao chép — nhưng phép thử tầng 2 phải hỏi: mô hình nền tiếng Việt thế hệ sau có làm bộ dữ liệu đó mất giá không?
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Hay bị áp cho *sản phẩm* thay vì cho *nguồn lực hoặc năng lực đứng sau sản phẩm*.
+- Bỏ qua tầng 2 là lỗi nguy hiểm nhất của năm 2026: nhiều năng lực từng Inimitable nay bị AI hạ xuống mức parity.
+
+## Phân biệt với framework gần giống
+`CON-017` phân loại cái ta có; `FW-047` chấm điểm chúng. `FW-045` Five Forces nói ngành có hấp dẫn không; `FW-047` nói ta có giữ được phần của mình trong ngành đó không.
+
+## Cách kết hợp với framework khác
+`FW-044` + `FW-045` (outside-in) và `CON-017` + `FW-047` (inside-out) là hai nửa của `CON-018`. Kết quả cả hai nửa đi vào `FW-048` để thành khuyến nghị.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 27–28]`
+- Trích dẫn trong slide: Barney, J. (1991). *Firm resources and sustained competitive advantage*. Journal of Management, 17(1), 99–120.
+
+=====
+
+---
+id: FW-048
+type: framework
+title_vi: Reframe → Gọi tên giả định → So sánh và khuyến nghị
+title_en: Reframe, Surface Assumptions, Compare and Recommend
+aliases: [options table, bảng phương án, reframe the problem, riskiest assumption, Binder Watkins 2024]
+keywords: [biến phân tích thành quyết định, ra khuyến nghị, đóng khung lại vấn đề, reframe, giả định, assumption, giả định rủi ro nhất, riskiest assumption, so sánh phương án, options table, tác động, impact, tính khả thi, feasibility, rủi ro, risk, đánh đổi, trade-off, pitch 90 giây]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+problems_addressed: [PRB-001, PRB-002, PRB-008]
+related_ids: [FW-043, FW-044, FW-047, CON-019, FW-018, FW-019, FW-052]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 33–35"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Reframe, Surface Assumptions, Compare and Recommend (Reframe → Gọi tên giả định → So sánh và khuyến nghị)
+
+## Tóm tắt
+`[KHÓA HỌC]` Quy trình ba bước biến một phân tích chiến lược thành một khuyến nghị trình bày được. Dùng khi đã có dữ liệu và bối cảnh nhưng chưa có đề xuất, hoặc khi cuộc họp quay vòng không ra quyết định.
+
+## Mục đích
+`[KHÓA HỌC]` Tiêu đề slide 33: *"Good analysis ends in a recommendation."* — phân tích tốt phải kết thúc bằng một khuyến nghị.
+
+## Khi nào dùng
+Khi trình bày một đề xuất lên cấp trên; sau một buổi quét PESTEL; khi hai phương án đang giằng co và không ai nêu rõ đang đánh đổi cái gì.
+
+## Khi nào KHÔNG dùng
+Khi việc của bạn chỉ là cung cấp dữ liệu; khi vấn đề chưa được chẩn đoán đủ — dùng `FW-050` trước.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Ba bước (slide 33), gắn với learning outcome của Topic 17:
+
+| # | Bước | Câu hỏi | LO |
+|---:|---|---|---|
+| 1 | **Reframe** (đóng khung lại) | Chúng ta thật sự đang giải vấn đề gì? | LO2 |
+| 2 | **Surface assumptions** (gọi tên giả định) | Điều gì phải đúng? Giả định nào rủi ro nhất? | LO2 |
+| 3 | **Compare and recommend** (so sánh và khuyến nghị) | Tác động, tính khả thi, rủi ro. Gọi tên đánh đổi. | LO3 |
+
+Câu hỏi then chốt in trên slide: **"Giả định nào, nếu sai, sẽ làm đổi câu trả lời của chúng ta?"**
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` **Group Activity 2 (slide 35, 25 phút):** chọn một vấn đề từ poster PESTEL → đóng khung thành *một* câu hỏi → ba giả định, đánh dấu cái rủi ro nhất → so sánh 2–3 phương án theo impact, feasibility, risk → khuyến nghị một phương án, pitch 90 giây. Debrief: *"Giả định nào, nếu sai, sẽ làm đổi khuyến nghị của bạn?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Ví dụ đã giải ở slide 34. Câu hỏi sau khi reframe: *"Làm sao cắt 30% thời gian phát hành mà không làm hỏng chất lượng?"*
+
+| Phương án | Impact | Feasibility | Risk | Giả định then chốt |
+|---|---|---|---|---|
+| A. Tuyển thêm hai kỹ sư | Medium | Low | Medium | Ngân sách được duyệt |
+| B. Kiểm thử có AI hỗ trợ | High | Medium | Medium | Công cụ hợp với code và quy định dữ liệu của ta |
+| C. Phát hành nhỏ hơn, thường xuyên hơn | Medium | High | Low | Người dùng chấp nhận bản cập nhật nhỏ |
+
+**Khuyến nghị in trên slide:** *thí điểm B với một squad; bắt đầu C ngay. Đánh đổi: tính năng mới ra chậm hơn.* Ghi chú của giảng viên: với cột Risk, *"Low" là tốt*.
+
+Diễn giải bảng: ba cột đánh giá không cộng lại thành điểm tổng. Khuyến nghị cuối cùng kết hợp hai phương án và nêu rõ cái phải hy sinh — đó mới là phần làm cho nó thành một khuyến nghị chứ không phải một bảng so sánh.
+
+`[BỔ SUNG]` Team Data Science: reframe *"Làm sao rút ngắn chu kỳ thí nghiệm xuống một nửa?"*; giả định rủi ro nhất thường là "đánh giá offline dự báo được kết quả online" — sai thì mọi phương án tăng tốc đều vô nghĩa.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Bỏ bước 1: cả team tối ưu lời giải cho một câu hỏi sai.
+- Liệt kê giả định mà không xếp hạng rủi ro: ba giả định đều "quan trọng" thì không giả định nào được kiểm chứng.
+- Trình bày bảng phương án mà không chọn: người nghe sẽ hiểu là bạn đẩy quyết định lên họ.
+
+## Phân biệt với framework gần giống
+`FW-018` và `FW-019` (Topic 19) lo *cấu trúc trình bày*; `FW-048` lo việc *tạo ra* khuyến nghị. `FW-052` (Topic 16) đóng khung vấn đề ở cấp blocker vận hành, `FW-048` ở cấp chiến lược.
+
+## Cách kết hợp với framework khác
+Đầu vào: `FW-044`, `FW-045`, `FW-047`. Kiểm tra gắn kết: `CON-019`. Đầu ra đi vào `FW-018`/`FW-019` — mạch Topic 17 → Topic 19 nêu ở slide 38.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 33–35]`
+- Trích dẫn trong slide: Binder, J., & Watkins, M. D. (2024). *To solve a tough problem, reframe it*. Harvard Business Review, 102(1), 80–87.
+
+=====
+
+---
+id: FW-049-01
+type: framework
+title_vi: Phân vai người và AI trong từng pha Design Thinking
+title_en: Human-AI Role Split Across the Design Thinking Phases
+aliases: [AI in design thinking, human must own, AI can accelerate, problem-first not prompt-first]
+keywords: [AI hỗ trợ, AI augmentation, phân vai người và AI, AI làm gì, con người phải sở hữu, trách nhiệm giải trình, accountability, công cụ AI được duyệt, dữ liệu không bảo mật, tốc độ cộng học hỏi]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-003]
+related_ids: [FW-049, FW-010, FW-050, FW-051]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 14, 16"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Human-AI Role Split Across the Design Thinking Phases (Phân vai người và AI trong từng pha Design Thinking)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-049` AI-Augmented Design Thinking (Design Thinking có AI hỗ trợ). Nó trả lời đúng một câu hỏi: trong từng pha của quy trình, AI được làm gì và con người bắt buộc phải sở hữu gì. Dùng khi team đã quyết dùng AI trong việc giải quyết vấn đề và cần một ranh giới rõ ràng.
+
+## Mục đích
+Ngăn hai lỗi ngược chiều nhau: dùng AI thay cho tiếp xúc với stakeholder, và không dùng AI ở những chỗ nó thật sự rút ngắn được thời gian.
+
+## Khi nào dùng
+Trước khi một nhóm mở công cụ AI trong buổi giải quyết vấn đề; khi viết quy ước dùng AI cho team.
+
+## Khi nào KHÔNG dùng
+Khi dữ liệu là bảo mật hoặc chưa có công cụ AI được duyệt — khi đó chạy `FW-049` không có phần AI.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Vai trò của AI trong từng pha (slide 16):** Empathise — người đi trước, hiểu các bên thật; AI có thể tóm tắt quan sát đã ẩn danh. · Define — con người đóng khung vấn đề; AI có thể đề xuất cách đóng khung khác để lộ thiên kiến hoặc điểm mù. · Ideate — ý tưởng của người trước; rồi dùng AI để mở rộng góc nhìn, tạo đối chiếu và tìm phương án còn thiếu. · Prototype — AI có thể dựng nhanh quy trình, script hay mock-up; con người chọn cái nào đem đi thử. · Test — người thật phản hồi; AI có thể sắp xếp phản hồi, con người phán xét tác động, rủi ro và hành động tiếp theo.
+
+**Hai nguyên tắc in trên slide 16:** **Nguyên tắc 1 — Problem-first, not prompt-first** (vấn đề trước, prompt sau). **Nguyên tắc 2 — chỉ dùng công cụ AI đã được duyệt và dữ liệu đầu vào không bảo mật.**
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Bảng phân vai ở slide 14 — *AI có thể tăng tốc · Con người phải sở hữu · Dịch chuyển lãnh đạo*:
+
+| AI có thể tăng tốc | Con người phải sở hữu | Dịch chuyển lãnh đạo |
+|---|---|---|
+| Tóm tắt đầu vào đã ẩn danh | Thấu cảm thật với các bên | Problem-first, không phải prompt-first |
+| Tạo cách đóng khung thay thế | Đóng khung vấn đề | Phương án do AI gợi, không phải câu trả lời của AI |
+| Mở rộng độ đa dạng ý tưởng | Kiểm chứng bằng chứng | Tốc độ **cộng** học hỏi, không phải tốc độ đơn thuần |
+| Dựng bản thử thô | Đánh đổi, đạo đức và rủi ro | |
+| Mô phỏng câu hỏi phản biện | Quyết định cuối và trách nhiệm giải trình | |
+
+Diễn giải bảng: cột trái là việc *nhanh hơn nhờ AI*; cột giữa là việc *không được giao cho AI dù nhanh hơn*. Câu chốt slide 14: *"Dùng AI để mở rộng và thách thức tư duy — không phải để thay thế tiếp xúc với stakeholder hay phán đoán quản lý."*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: AI tóm tắt 12 ghi chú phỏng vấn đã bỏ tên thành năm chủ đề (được); AI tự sinh "chân dung kỹ sư backend điển hình" thay cho việc đi hỏi một kỹ sư thật (không được).
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Cột "Con người phải sở hữu" không phải lời khuyên mềm: nó bao gồm *quyết định cuối và trách nhiệm giải trình*, thứ không giao đi được.
+- Dùng AI ở pha Empathise trước khi có dữ liệu người thật là cách tạo ra một vấn đề nghe rất hợp lý mà không ai gặp phải.
+
+## Phân biệt với framework gần giống
+`FW-049` là quy trình năm pha; `FW-049-01` chỉ là lát cắt phân vai người–AI của quy trình đó. `FW-010` (Topic 6) phân bổ Human / AI / HAI ở cấp giao việc.
+
+## Cách kết hợp với framework khác
+Đọc cùng `FW-049`; áp dụng khi chạy `FW-050`, `FW-051`, `FW-052`.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 14, 16]`
+
+=====
+
+---
+id: FW-049
+type: framework
+title_vi: Design Thinking có AI hỗ trợ
+title_en: AI-Augmented Design Thinking
+aliases: [design thinking, Stanford d.school model, empathise define ideate prototype test, understand create deliver, problem-first not prompt-first]
+keywords: [tư duy thiết kế, design thinking, năm pha, empathise, define, ideate, prototype, test, understand create deliver, AI hỗ trợ, AI augmentation, lấy con người làm trung tâm, human-centred, nguyên tắc dùng AI, dữ liệu không bảo mật, giải quyết vấn đề, gỡ blocker]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-003, PRB-001]
+related_ids: [FW-050, FW-051, FW-052, FW-053, FW-010, CON-020]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 9–12, 14, 16, 36"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# AI-Augmented Design Thinking (Design Thinking có AI hỗ trợ)
+
+## Tóm tắt
+`[KHÓA HỌC]` Design Thinking (tư duy thiết kế) là quy trình lấy con người làm trung tâm, lặp đi lặp lại, trong đó **AI tăng tốc từng pha nhưng con người kiểm chứng bối cảnh, bằng chứng, hệ quả và quyết định**. Topic 16 dùng nó làm khung xương cho cả buổi. Dùng khi một blocker vừa kỹ thuật vừa tổ chức mà giải pháp ai cũng nghĩ tới lại không chạm vào gốc.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 9 đặt vấn đề: *"Thực tế có nhiều vấn đề và phần lớn khó giải. Khi cộng thêm vận hành liên phòng ban, nó còn khó hơn. Những công ty như Apple đã dùng Design Thinking để hỗ trợ việc này."*
+
+## Khi nào dùng
+Khi blocker có nhiều cách nhìn khác nhau từ các bên; khi họp nhiều mà tiến độ không nhúc nhích; khi team đang nhảy thẳng vào giải pháp giả định.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề đã rõ nguyên nhân và chỉ cần thực thi — dùng `FW-041`. Khi dữ liệu bảo mật và không có công cụ AI được duyệt — vẫn chạy Design Thinking nhưng bỏ phần AI (`FW-049-01`).
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Mô hình Stanford năm pha (slide 11):**
+
+| Pha | Việc làm trong pha (slide 11) |
+|---|---|
+| **Empathize** (thấu cảm) | Phỏng vấn · quan sát theo chân · tìm cách hiểu · không phán xét |
+| **Define** (định nghĩa) | Chân dung người dùng · mục tiêu vai trò · quyết định · thách thức · điểm đau |
+| **Ideate** (phát ý tưởng) | Chia sẻ ý tưởng · mọi ý tưởng đều đáng · mở rộng rồi thu hẹp · tư duy "yes and" · xếp ưu tiên |
+| **Prototype** (dựng thử) | Bản phác · storyboard · giữ đơn giản · thất bại nhanh · lặp nhanh |
+| **Test** (kiểm thử) | Hiểu các cản trở · cái gì chạy được? · đóng vai · lặp nhanh |
+
+`[KHÓA HỌC]` **Ba chặng (slide 10):** **Understand** (Empathy + Define) — *"Understanding ends in Insight"*; **Create** (Ideate) — *"Creation ends in ideas"*; **Deliver** (Prototype + Test) — *"Delivery ends in reality"*. Sơ đồ vẽ bằng các tam giác mở rộng rồi thu hẹp xen kẽ, thể hiện nhịp phân kỳ – hội tụ.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Hai câu dùng được ngay trong một buổi làm việc: *"Chúng ta đang giải vấn đề gì — trước khi mở công cụ AI?"* và *"AI đang thêm giá trị hay thêm nhiễu ở bước này?"* (slide 4). Chi tiết phân vai người–AI cho từng pha nằm ở `FW-049-01`.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 15 đưa prompt mẫu cho pha Empathy: *"Đây là vấn đề cốt lõi của chúng tôi: <vấn đề của team>. Hãy dựng problem tree."* Ghi chú của giảng viên: kết quả sẽ chung chung; mẹo là yêu cầu AI đóng một vai cụ thể, ví dụ *"Đóng vai trưởng nhóm phát triển phần mềm, dựng lại problem tree."*
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- `[KHÓA HỌC]` Slide 14: *"AI làm việc tạo và phân tích vấn đề nhanh hơn. Nó không loại bỏ nhu cầu thấu cảm, bối cảnh và phán đoán CỦA BẠN."*
+- Năm pha không phải checklist tuyến tính: tài liệu của giảng viên (slide 36, IDEO) nhấn mạnh design thinking *linh hoạt và lặp*.
+
+## Phân biệt với framework gần giống
+`FW-010` (Topic 6) phân bổ việc Human / AI / HAI ở cấp giao việc; `FW-049` phân vai người–AI bên trong một quy trình giải quyết vấn đề.
+
+## Cách kết hợp với framework khác
+Empathize: `FW-050`, `FW-051`. Define: `FW-052`, `CON-020`. Ideate–Prototype–Test: `FW-053`. Quyết định đường đi tiếp theo: `FW-054`.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 9–12, 14, 16, 36]`
+- Trích dẫn trong slide: Stanford d.school (dschool.stanford.edu); Sprouts (23/10/2017) *The Design Thinking Process*; IDEO U — *AI x Design Thinking Certificate*; IDEO — *Design Thinking Process*; Stanford d.school (2025) *Why AI Makes Design Skills More Valuable Than Ever*.
+- `[KHÓA HỌC]` Quy tắc ngón tay cái (slide 36): *"Human context first → AI expands or challenges → humans validate → real people test → leaders decide and own the consequences."* Kèm cảnh báo tuân thủ chính sách Zalo/RMIT về AI và dữ liệu.
+
+=====
+
+---
+id: FW-050
+type: framework
+title_vi: Phân tích Cây vấn đề
+title_en: Problem Tree Analysis
+aliases: [problem tree, cây vấn đề, causes and effects]
+keywords: [phân tích nguyên nhân, root cause, cây vấn đề, problem tree, nguyên nhân, causes, hệ quả, effects, thấu cảm, không phán xét, chẩn đoán vấn đề, blocker, vấn đề cốt lõi]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-003, PRB-001]
+related_ids: [FW-049, FW-051, FW-052, CON-020]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 13, 15"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Problem Tree Analysis (Phân tích Cây vấn đề)
+
+## Tóm tắt
+`[KHÓA HỌC]` Problem Tree Analysis (phân tích cây vấn đề) xếp **nguyên nhân** xuống phần rễ và **hệ quả** lên phần tán, quanh một vấn đề cốt lõi đặt ở thân cây. Ở Topic 16 nó là hoạt động đầu tiên của pha Empathy — dùng khi team mới chỉ thấy triệu chứng và đang bất đồng về chuyện gì thật sự đang xảy ra.
+
+## Mục đích
+Chuyển một mớ phàn nàn thành một cấu trúc nhân – quả mà cả team nhìn chung được, trước khi ai kịp đề xuất giải pháp.
+
+## Khi nào dùng
+Ngay sau khi chọn được một blocker thật (Activity 1 của Topic 16); trước khi viết problem statement.
+
+## Khi nào KHÔNG dùng
+Khi nguyên nhân đã rõ và được đồng thuận; khi vấn đề nằm ở một người cụ thể chứ không ở hệ thống — khi đó là cuộc trò chuyện hiệu suất, không phải cây vấn đề.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Activity 2 "Empathy — Problem tree analysis" (slide 13) đặt hai nguyên tắc thái độ và hai câu hỏi:
+
+**Nguyên tắc:** *Seek to understand* (tìm cách hiểu) · *Be open and no judgement* (cởi mở, không phán xét).
+
+**Hai câu hỏi dựng cây:** *What are the effects of the problem?* (vấn đề gây ra hệ quả gì?) · *Which causes?* (do những nguyên nhân nào?)
+
+Trình tự thực hành: 1. Viết vấn đề cốt lõi vào thân cây. 2. Hỏi "hệ quả là gì" và xếp lên phía trên. 3. Hỏi "nguyên nhân là gì" và xếp xuống phía dưới, đào tiếp từng nhánh. 4. Rà lại xem nhánh nào có bằng chứng, nhánh nào mới là phỏng đoán.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Slide 15 — cách dùng AI cho bước này nếu muốn: prompt *"Đây là vấn đề cốt lõi của chúng tôi: <vấn đề của team>. Hãy dựng problem tree."* Ghi chú của giảng viên: *"Kết quả sẽ chung chung."* Mẹo kèm theo: yêu cầu chatbot đóng một vai cụ thể, ví dụ *"Đóng vai trưởng nhóm phát triển phần mềm, dựng lại problem tree."*
+
+## Ví dụ
+`[KHÓA HỌC]` Case thật của buổi học (slide 7): một team liên chức năng đang chuẩn bị ra mắt tính năng số trước một chiến dịch khách hàng quan trọng; tính năng đang chậm hai tuần. Product nói yêu cầu đã thay đổi · Engineering nói đã đánh giá thấp độ phức tạp · Data nói bị kéo vào quá muộn · QA liên tục tìm ra lỗi lặp lại · Họp nhiều lên nhưng tiến độ không cải thiện · Ban lãnh đạo vẫn kỳ vọng ngày ra mắt ban đầu. Giảng viên chỉ ra năm điều làm case này thực tế: nguyên nhân kỹ thuật và tổ chức trộn vào nhau · các bên nhìn blocker khác nhau · có đánh đổi giữa ngày, phạm vi và chất lượng · thẩm quyền quyết định không rõ · giải pháp đầu tiên có thể không chạm vào vấn đề thật. Câu chốt: *"Mục tiêu không phải là tìm ra câu trả lời. Mục tiêu là luyện một quy trình tốt hơn để đóng khung và chẩn đoán vấn đề."*
+
+`[BỔ SUNG]` Team Data Science: vấn đề cốt lõi "mô hình mất 6 tuần mới lên được production"; hệ quả — bỏ lỡ cửa sổ sản phẩm, DS mất động lực; nguyên nhân — chờ duyệt quyền dữ liệu, thiếu môi trường staging, tiêu chí chấp nhận không thống nhất với Product.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Cây dễ trở thành danh sách phàn nàn nếu bỏ nguyên tắc *no judgement*; nguyên nhân phải là điều kiện hệ thống, không phải tên người.
+- Nhánh không có bằng chứng vẫn được giữ, nhưng phải ghi rõ là giả định — slide 19 gọi đó là *assumption*, khác với *possible cause*.
+
+## Phân biệt với framework gần giống
+`FW-051` Empathy Map lấy góc nhìn **một stakeholder**; `FW-050` dựng cấu trúc **nhân – quả của vấn đề**. Hai công cụ bổ sung nhau trong cùng pha Empathy.
+
+## Cách kết hợp với framework khác
+Cây vấn đề + bản đồ thấu cảm → `FW-052` Problem Statement → `CON-020` "How Might We" → `FW-053` thử nghiệm 7 ngày. Ở cấp chiến lược, công cụ tương đương là bước Reframe của `FW-048`.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 13, 15]`
+- Case nền: `[MEGROW | Topic 16 | … | Slide 7]`
+
+=====
+
+---
+id: FW-051
+type: framework
+title_vi: Bản đồ thấu cảm stakeholder
+title_en: Stakeholder Empathy Map
+aliases: [empathy map, empathy map canvas, stakeholder empathy]
+keywords: [thấu cảm, empathy, bản đồ thấu cảm, empathy map, góc nhìn stakeholder, phỏng vấn, interview, họ cần gì, họ cảm thấy gì, hiểu người khác, đóng vai, insight, liên phòng ban]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-002, PRB-003, PRB-010]
+related_ids: [FW-049, FW-050, FW-052, FW-011, FW-015]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 17–18"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Stakeholder Empathy Map (Bản đồ thấu cảm stakeholder)
+
+## Tóm tắt
+`[KHÓA HỌC]` Stakeholder Empathy Map (bản đồ thấu cảm stakeholder) là bài tập hiểu **một** bên liên quan thật trước khi team định nghĩa vấn đề. Dùng khi các bộ phận mô tả cùng một blocker theo những cách mâu thuẫn nhau, và ta cần biết thế giới trông thế nào từ chỗ họ đứng.
+
+## Mục đích
+`[KHÓA HỌC]` Câu dẫn của Activity 3 (slide 17): *"Hiểu một stakeholder thật trước khi nhóm của bạn định nghĩa vấn đề. AI không thay thế được sự thấu cảm."*
+
+## Khi nào dùng
+Trong pha Empathize của `FW-049`, song song hoặc ngay sau `FW-050`; trước khi viết problem statement.
+
+## Khi nào KHÔNG dùng
+Khi không tiếp cận được người thật và chỉ còn cách tưởng tượng — slide 17 nói rõ AI *"không được bịa ra nhu cầu của stakeholder"*. Khi đó ghi lại là khoảng trống bằng chứng.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Ba bước của Activity 3 (nhóm bàn, 20 phút):
+
+1. **Chọn stakeholder** — một thành viên đóng vai một bên liên quan chủ chốt, hoặc phỏng vấn người thật. Chọn vai nằm ở trung tâm vấn đề: Product, Engineering, Project Manager, lãnh đạo cấp cao hoặc khách hàng/thương mại.
+2. **Lập bản đồ góc nhìn** — hỏi những câu như: *Thách thức của bạn khi làm X là gì? · Bạn đang cố đạt điều gì? · Bạn biết gì, thiếu gì, và cần gì? · Bạn cảm thấy thế nào? · Bạn đã làm gì / sẽ làm gì?*
+3. **Gọi tên insight** — thảo luận các insight, rồi **cập nhật lại cách nhóm hiểu blocker hoặc định nghĩa vấn đề**.
+
+**Sản phẩm nhóm:** một empathy map + một insight.
+
+`[KHÓA HỌC]` Slide 18 ghi chú có hai phiên bản: bản đơn giản dùng trong hoạt động này và bản đầy đủ **Empathy Map Canvas**. *"Dù dùng phiên bản nào, kết quả then chốt vẫn là hiểu được stakeholder và đóng khung lại vấn đề."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Năm câu ở bước 2 dùng được nguyên văn trong một cuộc nói chuyện 1-1 với đồng nghiệp bộ phận khác. Thứ tự quan trọng: hỏi *thách thức* và *mục tiêu* trước, hỏi *cảm xúc* sau — hỏi cảm xúc trước khi có bối cảnh thường bị hiểu là dò xét.
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science, stakeholder là Product Manager đang sốt ruột vì mô hình chậm: *thách thức* — bị hỏi ngày ra mắt mỗi tuần; *mục tiêu* — giữ cam kết với chiến dịch; *biết* — lịch chiến dịch; *thiếu* — hiểu biết về độ bất định của kết quả thí nghiệm; *cảm thấy* — mất kiểm soát; *đã làm* — thêm một cuộc họp hằng tuần. Insight: họ không cần mô hình nhanh hơn, họ cần một mốc quyết định đáng tin — điều đó đổi hẳn cách định nghĩa vấn đề.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- `[KHÓA HỌC]` Nguyên tắc human-first ở slide 18: *"Thấu cảm đến từ con người và bằng chứng. Chỉ dùng AI về sau để sắp xếp các quan sát đã ẩn danh — không phải để bịa ra điều stakeholder nghĩ."*
+- Đóng vai là phương án thay thế khi không mời được người thật, và kết quả phải được ghi nhận là *giả định cần kiểm chứng*.
+
+## Phân biệt với framework gần giống
+`FW-011` Stakeholder Ecosystem Map và `FW-012` Power–Interest Matrix (Topic 12) trả lời *ai quan trọng*; `FW-051` trả lời *người đó nhìn thấy gì*. `FW-015` Influence Without Authority dùng hiểu biết đó để tác động; `FW-051` dừng ở việc hiểu.
+
+## Cách kết hợp với framework khác
+Bản đồ thấu cảm là đầu vào trực tiếp cho `FW-052`: chính nó giúp tách triệu chứng, giả định và nguyên nhân.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 17–18]`
+
+=====
+
+---
+id: FW-052
+type: framework
+title_vi: Mẫu phát biểu vấn đề và phép tách triệu chứng – giả định – nguyên nhân
+title_en: The Problem Statement Template
+aliases: [problem statement template, symptom assumption cause, stakeholder needs because]
+keywords: [phát biểu vấn đề, problem statement, triệu chứng, symptom, giả định, assumption, nguyên nhân có thể, possible cause, định nghĩa vấn đề trước khi giải, bằng chứng, evidence, mẫu câu, viết vấn đề]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-003, PRB-001, PRB-002]
+related_ids: [FW-049, FW-050, FW-051, CON-020, FW-048]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 19–21"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Problem Statement Template (Mẫu phát biểu vấn đề)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 16 đưa một mẫu câu để biến triệu chứng thành **một phát biểu vấn đề chung, dựa trên bằng chứng**, kèm phép tách ba cột triệu chứng – giả định – nguyên nhân. Dùng khi team đã thấu cảm xong và cần chốt một câu mà tất cả cùng đứng sau trước khi bàn giải pháp.
+
+## Mục đích
+`[KHÓA HỌC]` Tiêu đề slide 19: *"Define the problem before you solve."* Câu chốt: *"Một khẳng định chỉ hữu ích khi team nối được nó với bằng chứng và bối cảnh."*
+
+## Khi nào dùng
+Sau `FW-050` và `FW-051`; trước khi phát ý tưởng; khi viết phần mở đầu của một đề xuất.
+
+## Khi nào KHÔNG dùng
+Khi chưa có bằng chứng nào — mẫu này buộc có mục "evidence", và điền bừa vào đó còn tệ hơn để trống.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Bước 1 — tách ba cột (slide 19):**
+
+| Symptom (triệu chứng) | Assumption (giả định) | Possible cause (nguyên nhân có thể) |
+|---|---|---|
+| Điều ta quan sát được | Điều ta tin là đúng | Điều có thể giải thích nó |
+| *"Bản phát hành bị chậm."* | *"Engineering đã đánh giá thấp khối lượng."* | *"Quyền quyết định không rõ ràng."* |
+
+Diễn giải bảng: cột 1 có dữ liệu, cột 2 là niềm tin chưa kiểm chứng, cột 3 là giả thuyết cần bằng chứng. Phỏng vấn và empathy map chính là thứ giúp tách ba cột này ra.
+
+`[KHÓA HỌC]` **Bước 2 — mẫu đơn giản (slide 20):** *"[Stakeholder] cần ___ bởi vì ___."*
+
+`[KHÓA HỌC]` **Bước 3 — mẫu đầy đủ (slide 21):** *"[Stakeholder] cần… bởi vì… dẫn tới… bằng chứng là…"* Nguyên tắc kèm theo: *"Dùng ngôn ngữ chính xác, chỉ về phía hành động mà không kê sẵn giải pháp quá sớm."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` **Activity 4 "Problem Statement Lab" (slide 20, nhóm bàn, 20 phút):** 1. Viết phát biểu theo mẫu. 2. **Một nhóm khác kiểm tra** bằng chứng, giả định và phạm vi; sau đó, nếu có công cụ AI được duyệt, hỏi AI hai cách đóng khung thay thế — *chỉ giữ lại những gì bằng chứng ủng hộ*. Sản phẩm nhóm: một phát biểu vấn đề đã chỉnh sửa, do con người sở hữu, sau khi qua phản biện của đồng nghiệp và AI.
+
+## Ví dụ
+`[KHÓA HỌC]` Ví dụ mẫu đơn giản (slide 20), lấy lại tình huống chậm triển khai chương trình sau khi phỏng vấn: *"Seng, program manager, cần trao đổi với team Melbourne bởi vì các learning outcome của khóa học cần được làm rõ."*
+
+`[KHÓA HỌC]` Ví dụ mẫu đầy đủ (slide 21): *"Product và engineering cần thống nhất sớm hơn về yêu cầu dữ liệu bởi vì việc làm rõ muộn tạo ra làm lại lặp đi lặp lại, dẫn tới chậm sprint và lỗi chất lượng. Bằng chứng: ba lần thay đổi yêu cầu gần đây và bốn vấn đề QA lặp lại."* Ghi chú của giảng viên: *"Phát biểu vấn đề tốt thì cụ thể, dựa trên bằng chứng và lấy stakeholder làm trung tâm. AI có thể đề xuất câu chữ; team vẫn chịu trách nhiệm về việc cách đóng khung đó có đúng hay không."*
+
+`[BỔ SUNG]` Team Data Science: *"Product cần một mốc quyết định đáng tin cho mỗi thí nghiệm bởi vì hiện tại ngày kết luận trượt liên tục, dẫn tới chiến dịch phải lùi hai lần. Bằng chứng: 5/7 thí nghiệm quý trước trễ trên 10 ngày so với dự kiến."*
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Lỗi phổ biến nhất: phát biểu vấn đề đã chứa sẵn giải pháp ("cần thêm hai kỹ sư"). Mẫu yêu cầu nêu *nhu cầu*, không nêu *biện pháp*.
+- Phát biểu không có mục bằng chứng sẽ bị chính bước phản biện nhóm khác đánh gãy.
+
+## Phân biệt với framework gần giống
+`CON-020` "How Might We" chuyển phát biểu vấn đề thành **câu hỏi thiết kế** — đó là bước kế tiếp, không phải bước thay thế. `FW-048` bước Reframe làm việc tương tự ở cấp chiến lược.
+
+## Cách kết hợp với framework khác
+`FW-050` + `FW-051` → `FW-052` → `CON-020` → `FW-053`.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 19–21]`
+
+=====
+
+---
+id: FW-053-01
+type: framework
+title_vi: Kế hoạch thử nghiệm 7 ngày và vòng phản biện chéo
+title_en: The 7-Day Test Plan and Peer Challenge
+aliases: [7-day plan, one team one week one result, peer check, action commitment]
+keywords: [kế hoạch 7 ngày, thử nghiệm nhỏ, một team một tuần một kết quả, ai làm, khi nào bắt đầu, kết quả kỳ vọng, phản biện chéo, peer check, cam kết hành động, chuyển hoá vào công việc]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-003]
+related_ids: [FW-053, FW-054, CON-020, FW-042]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 28–30, 34–35"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The 7-Day Test Plan and Peer Challenge (Kế hoạch thử nghiệm 7 ngày và vòng phản biện chéo)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-053` The 7-Day Test (thử nghiệm 7 ngày). Nó chứa ba bước cuối: viết kế hoạch sáu ô, để một nhóm khác phản biện, rồi chốt một câu cam kết. Dùng ngay sau khi đã chọn được một giải pháp để thử.
+
+## Mục đích
+Biến một ý tưởng đã chọn thành một kế hoạch nhỏ tới mức bắt đầu được trong tuần này, và để người ngoài nhóm bắt lỗi trước khi tiêu công sức.
+
+## Khi nào dùng
+Sau bước chọn giải pháp của `FW-053`; cuối một buổi workshop giải quyết vấn đề.
+
+## Khi nào KHÔNG dùng
+Khi chưa chọn được một giải pháp duy nhất — kế hoạch cho hai thí nghiệm song song sẽ không kết luận được gì.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **3. Biến thành thử nghiệm 7 ngày (Activity 7, slide 28, 15 phút):** *Chúng ta sẽ thử gì?* — mô tả thay đổi nhỏ trong một câu · *Ai + khi nào?* — ai làm, bắt đầu khi nào, giữ nhỏ: một team hoặc một tuần · *Kết quả gì?* — chọn **một** kết quả nhìn thấy hoặc đo được. Khung kế hoạch sáu ô ở slide 29: *vấn đề đang giải · thay đổi nhỏ sẽ thử · ai làm · bắt đầu khi nào · một kết quả kỳ vọng · kiểm tra kết quả bằng cách nào*. Quy tắc: **MỘT team · MỘT tuần · MỘT kết quả để kiểm tra.**
+
+`[KHÓA HỌC]` **4. Nhóm khác kiểm tra (Activity 8, slide 30, 12 phút):** trình bày thử nghiệm trong một phút → nhóm kia trả lời ba câu: *Điều gì đã rõ? · Điều gì có thể không chạy? · Một gợi ý là gì?* → nhóm gốc chọn **một** thay đổi hữu ích và cải thiện kế hoạch.
+
+`[KHÓA HỌC]` **5. Chốt hành động (slide 34, 7 phút):** cập nhật kế hoạch Activity 7 bằng những gì học được — *"đừng bắt đầu lại từ số không"* — rồi viết một câu: **"Trước [ngày], [ai] sẽ [làm gì], và chúng ta sẽ kiểm tra [cái gì]."**
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Vòng chia sẻ cuối buổi (slide 35): *"Vấn đề của chúng tôi là… Hành động 7 ngày của chúng tôi là… Chúng tôi sẽ biết nó có ích khi…"*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: *"Trước thứ Sáu tuần sau, Senior DS sẽ yêu cầu mọi thí nghiệm mới kèm một decision memo nửa trang thống nhất với Product, và chúng ta sẽ kiểm tra số lần phải giải thích lại kết quả sau khi chạy xong."*
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Chọn nhiều hơn một kết quả để đo là cách chắc chắn nhất để sau 7 ngày không ai kết luận được gì.
+- `[KHÓA HỌC]` Slide 34 nhắc: cập nhật kế hoạch cũ bằng những gì học được, *"đừng bắt đầu lại từ số không"*.
+- Nhận quá một thay đổi từ nhóm phản biện sẽ làm kế hoạch phình trở lại thành dự án.
+
+## Phân biệt với framework gần giống
+`FW-053` lo phần *chọn làm gì*; `FW-053-01` lo phần *viết ra và kiểm tra lại*. `FW-042` (Topic 2) là nhịp vận hành liên tục, không phải thí nghiệm có thời hạn.
+
+## Cách kết hợp với framework khác
+Kết quả kế hoạch quyết định đường đi ở `FW-054`. Câu tổng kết hành trình ở slide 35: *1. Hiểu vấn đề · 2. Hiểu con người · 3. Tìm vài giải pháp · 4. Chọn một · 5. Thử nhỏ · 6. Học và hành động.* Kèm nhận định của giảng viên: *"Người lãnh đạo mạnh không cần câu trả lời hoàn hảo. Họ hiểu vấn đề, chọn bước tiếp theo thực tế, học từ kết quả và xin trợ giúp rõ ràng khi cần."*
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 28–30, 34–35]`
+
+=====
+
+---
+id: FW-053
+type: framework
+title_vi: Thử nghiệm 7 ngày — từ ba phương án tới một thay đổi nhỏ
+title_en: The 7-Day Test
+aliases: [7-day test, small test not a perfect solution, four choice questions, prototype small]
+keywords: [thử nghiệm nhỏ, small test, prototype, bản thử, chọn giải pháp, bốn câu hỏi chọn, 7 ngày, một team một tuần một kết quả, thử trước khi triển khai rộng, phản hồi nhóm khác, peer check, hành động cụ thể]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-003, PRB-001]
+related_ids: [FW-049, FW-052, CON-020, FW-054, FW-042]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 24–30, 34–35"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The 7-Day Test (Thử nghiệm 7 ngày)
+
+## Tóm tắt
+`[KHÓA HỌC]` The 7-Day Test (thử nghiệm 7 ngày) là chuỗi: từ câu hỏi "How Might We" → ba phương án → chọn một bằng bốn câu hỏi → **một thử nghiệm nhỏ chạy trong 7 ngày**. Dùng khi team đã hiểu vấn đề và cần thoát vòng phân tích để học bằng hành động.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 27: *"Prototype đơn giản nghĩa là: thử một phiên bản nhỏ trước, rồi học từ nó."* Quy tắc đơn giản in trên slide: *"Đừng xây giải pháp cuối cùng. Hãy thử một thay đổi nhỏ và học."*
+
+## Khi nào dùng
+Sau khi có problem statement và câu HMW; khi giải pháp "đúng" còn chưa chắc chắn; khi chi phí thử nhỏ hơn chi phí tranh luận.
+
+## Khi nào KHÔNG dùng
+Khi thay đổi không thể thu nhỏ an toàn (ảnh hưởng dữ liệu người dùng thật, tuân thủ pháp lý) — câu hỏi 4 trong bộ bốn chính là để lọc trường hợp này.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **1. Tìm ba phương án (Activity 5, slide 25):** đảm bảo mọi người hiểu cùng một vấn đề → mỗi người đưa 1–2 ý tưởng, chưa phán xét → AI là tuỳ chọn, chỉ hỏi *"Ý tưởng nào chúng ta có thể đã bỏ sót?"* và chỉ dùng thông tin an toàn → giữ ba ý tưởng phục vụ tốt nhất vấn đề đã định nghĩa.
+
+`[KHÓA HỌC]` **2. Chọn một phương án bằng bốn câu hỏi (Activity 6, slide 26, 8 phút):**
+
+| # | Câu hỏi | Ý nghĩa |
+|---:|---|---|
+| 1 | Nó có giúp cho vấn đề không? | Có chạm nguyên nhân hoặc nhu cầu chính không? |
+| 2 | Chúng ta thử sớm được không? | Có bắt đầu được trong 7 ngày không? |
+| 3 | Chúng ta có ảnh hưởng được không? | Phần lớn có nằm trong tầm kiểm soát không? |
+| 4 | Rủi ro có chấp nhận được không? | Có đủ an toàn để thử ở quy mô nhỏ không? |
+
+Cách chấm: đánh dấu ✓ cho mỗi câu trả lời "Có"; chọn ý tưởng khớp mạnh nhất; nếu hai ý sát nhau thì cả nhóm bỏ phiếu.
+
+Bước 3 (lập kế hoạch 7 ngày), bước 4 (nhóm khác phản biện) và bước 5 (chốt hành động) nằm ở chunk con `FW-053-01`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Phép kiểm tra sau mỗi ý tưởng (slide 25): *"Ý tưởng này có giúp cho vấn đề chúng ta đã định nghĩa không?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Sáu dạng thử nghiệm nhỏ gợi ý ở slide 27: một checklist cho **một** việc · đổi **một** cuộc họp (agenda hoặc quy tắc ra quyết định) · làm rõ **một** điểm bàn giao giữa hai team · **một** mẫu biểu đơn giản · thử với **một** team, đừng triển khai khắp nơi · thử trong **một** tuần rồi kiểm tra và cải thiện.
+
+`[BỔ SUNG]` Team Data Science: thay vì xây cả quy trình thí nghiệm chuẩn, thử một việc trong 7 ngày — mỗi thí nghiệm mới kèm một "decision memo" nửa trang thống nhất với Product trước khi chạy.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Chọn *nhiều hơn một* kết quả để đo là cách chắc chắn nhất để sau 7 ngày không ai kết luận được gì.
+- Biến thử nghiệm thành dự án: nếu không bắt đầu được trong 7 ngày thì nó đã trượt câu hỏi 2.
+
+## Phân biệt với framework gần giống
+`FW-042` Nhịp review và ngưỡng phản ứng (Topic 2) là cơ chế vận hành **liên tục**; `FW-053` là một **thí nghiệm có thời hạn** để học. `FW-054` quyết định điều gì xảy ra *sau* thử nghiệm.
+
+## Cách kết hợp với framework khác
+`CON-020` cho câu hỏi HMW → `FW-053` cho việc chọn → `FW-053-01` cho kế hoạch 7 ngày → `FW-054` cho đường đi tiếp theo.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 24–30, 34–35]`
+
+=====
+
+---
+id: FW-054
+type: framework
+title_vi: Bốn đường đi tiếp theo và cách xin trợ giúp rõ ràng
+title_en: Four Next Steps and the Three-Line Ask
+aliases: [try it work together test first ask manager, three-line ask, escalation ask, clear request for help]
+keywords: [bước tiếp theo, next step, tự làm, phối hợp liên team, thử thêm bằng chứng, leo thang, escalation, xin trợ giúp, ask for help, trình bày với sếp, ba dòng, problem evidence ask, làm việc với cấp trên, xin phê duyệt, xin nguồn lực]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+problems_addressed: [PRB-008, PRB-002, PRB-003]
+related_ids: [FW-053, FW-049, FW-018, FW-019, FW-041]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 31–33"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Four Next Steps and the Three-Line Ask (Bốn đường đi tiếp theo và cách xin trợ giúp rõ ràng)
+
+## Tóm tắt
+`[KHÓA HỌC]` Sau một thử nghiệm, Topic 16 buộc chọn **một trong bốn đường đi**: tự làm, phối hợp liên team, thử thêm để lấy bằng chứng, hoặc hỏi quản lý — và nếu chọn đường thứ tư thì dùng mẫu **ba dòng**. Dùng khi team đã làm hết phần của mình và cần quyết định có leo thang hay không.
+
+## Mục đích
+Thay câu hỏi mơ hồ "giờ làm gì tiếp" bằng bốn lựa chọn rõ ràng, và ngăn kiểu leo thang dài dòng mà không nêu được mình cần gì.
+
+## Khi nào dùng
+Cuối một vòng giải quyết vấn đề; khi đang định gửi một email dài cho cấp trên về một blocker.
+
+## Khi nào KHÔNG dùng
+Khi chưa thử gì — dòng thứ hai của mẫu ("chúng tôi biết / đã thử…") sẽ trống; đó là dấu hiệu nên quay lại `FW-053`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Bốn đường đi (slide 31):**
+
+| # | Lựa chọn | Khi nào |
+|---:|---|---|
+| 1 | **TRY IT** (tự làm) | Team của chúng ta làm được |
+| 2 | **WORK TOGETHER** (phối hợp) | Cần một team khác |
+| 3 | **TEST FIRST** (thử trước) | Cần thêm một chút bằng chứng |
+| 4 | **ASK MANAGER** (hỏi quản lý) | Cần một quyết định, nguồn lực hoặc phê duyệt |
+
+Diễn giải bảng: bốn lựa chọn xếp theo mức độ cần người ngoài team. Chỉ lựa chọn 4 mới là leo thang thật; ba lựa chọn đầu là những việc team tự quyết được — và phần lớn trường hợp rơi vào đó.
+
+`[KHÓA HỌC]` **Mẫu ba dòng khi cần quản lý (slide 31–32):** *1. Vấn đề là…* (vấn đề / kết quả đang bị đe doạ) · *2. Chúng tôi biết / đã thử…* (những gì đã biết hoặc đã làm) · *3. Chúng tôi cần anh/chị…* (cần gì ở người đó). Nguyên tắc in trên slide: *"Một lời đề nghị rõ ràng tốt hơn một lời giải thích dài."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` **Activity 9 "Ask for help clearly" (slide 32, luyện theo cặp, 10 phút):** chuẩn bị ba dòng → nói trong **45 giây**, nhóm kia nghe với vai quản lý → người nghe hỏi đúng một câu: **"Chính xác thì anh/chị cần gì ở tôi?"** → nhóm trình bày cải thiện lại lời đề nghị. Sản phẩm: một lời đề nghị ngắn, rõ.
+
+`[KHÓA HỌC]` **Phép kiểm tra phản hồi (slide 33):** người nghe chỉ kiểm tra xem thông điệp có dễ hiểu không, theo ba câu — *Vấn đề đã rõ chưa?* (tôi có hiểu cái gì đang sai không) · *Bằng chứng đã rõ chưa?* (tôi có biết họ biết gì, đã thử gì không) · *Lời đề nghị đã rõ chưa?* (tôi có biết họ cần trợ giúp gì không). Mẫu câu phản hồi: *"Một điều đã rõ là… Một điều cần làm rõ hơn là…"*
+
+## Ví dụ
+`[BỔ SUNG]` Associate DS Manager leo thang: *"Thí nghiệm gợi ý sẽ trễ chiến dịch tháng 12 vì chờ quyền truy cập bảng hành vi. · Chúng tôi đã thử mẫu ẩn danh chạy offline, nhưng sai số quá lớn để kết luận. · Chúng tôi cần anh/chị duyệt quyền đọc bảng đó trong 30 ngày, hoặc chỉ định một đầu mối ở Platform trong tuần này."*
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Sai lầm hay gặp: leo thang bằng cách kể lại toàn bộ bối cảnh và để quản lý tự suy ra mình cần gì. Dòng thứ ba tồn tại để chống đúng việc đó.
+- Chọn **ASK MANAGER** khi thật ra đang ở tình huống **WORK TOGETHER** làm hao uy tín; thử phối hợp ngang trước.
+
+## Phân biệt với framework gần giống
+`FW-018` và `FW-019` (Topic 19) dành cho một bản trình bày đầy đủ; mẫu ba dòng dành cho lời đề nghị 45 giây. **Escalation** trong `FW-041` là cơ chế; `FW-054` là cách phát biểu.
+
+## Cách kết hợp với framework khác
+Chạy `FW-053` trước để có bằng chứng, rồi dùng `FW-054` để quyết định đường đi. Nếu lời đề nghị lớn tới mức cần một business case, chuyển sang `FW-018` và `FW-019`.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 31–33]`

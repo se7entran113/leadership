@@ -744,3 +744,366 @@ Diễn giải bảng: hai thứ gắn chặt nhau — tự nhận thức giúp t
 
 ## Nguồn
 - `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 14–27]`
+
+=====
+
+---
+id: CON-014
+type: concept
+title_vi: Thực thi vận hành là một hệ thống, không phải nỗ lực
+title_en: Operational Execution as a System
+aliases: [operational execution, execution is not effort, activity vs results]
+keywords: [thực thi, execution, hoạt động thay cho kết quả, activity replaces results, hệ thống giao hàng, delivery system, chuyển dịch vai trò quản lý, giá trị của quản lý]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+related_ids: [FW-033, FW-041, FW-035, CON-016]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 9–10"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Thực thi vận hành là một hệ thống, không phải nỗ lực (Operational Execution as a System)
+
+## Định nghĩa
+`[KHÓA HỌC]` Định nghĩa nguyên văn ở Topic 2 slide 10: *Operational execution (thực thi vận hành) là quá trình chuyển mục tiêu thành hành động có phối hợp, theo dõi xem hành động có tạo ra kết quả mong muốn không, và sửa kế hoạch khi bằng chứng cho thấy việc giao hàng đang chệch hướng.*
+
+Chuỗi năm mắt xích in trên slide: **Goal → Coordinated action → Evidence → Correction → Result** (mục tiêu → hành động phối hợp → bằng chứng → hiệu chỉnh → kết quả). Câu chốt: *"Execution is not just effort. It is a system for turning effort into results."* — thực thi không chỉ là nỗ lực, mà là một hệ thống biến nỗ lực thành kết quả.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 9 đặt bốn cặp đối chiếu giữa individual contributor (người đóng góp cá nhân) và manager (người quản lý):
+
+| Individual contributor | Manager |
+|---|---|
+| Hoàn thành công việc của mình | Tạo ra hệ thống giao hàng của team |
+| Giải các vấn đề được giao | Làm rõ outcome và thứ tự ưu tiên |
+| Báo cáo tiến độ | Tạo khả năng nhìn thấy và nhịp ra quyết định |
+| Leo thang blocker | Gỡ ràng buộc và điều chỉnh việc thực thi |
+
+Diễn giải bảng: cả bốn dòng đều đi từ *làm việc trong hệ thống* sang *làm ra hệ thống*. Kết luận in trên slide: *"Chuyển dịch lãnh đạo trong thực tế: giá trị của bạn đến từ việc hệ thống vận hành tốt tới đâu, không chỉ từ việc bạn tự giải được gì."*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: một manager vẫn tự viết mô hình tốt nhất team nhưng không có nhịp review nào, không ai biết ba dự án còn lại đang kẹt ở đâu — theo định nghĩa trên, đó là nỗ lực cao mà thực thi yếu. Dấu hiệu ngược lại: manager không viết dòng code nào trong quý nhưng mọi dự án đều có chủ sở hữu, KPI, nhịp review và ngưỡng phản ứng.
+
+## Liên quan
+- `FW-041` Team Delivery System — hệ thống cụ thể mà định nghĩa này nói tới.
+- `FW-033` Strategic Management Cycle — chỗ đứng của thực thi trong chu trình lớn.
+- `CON-016` Giám sát hệ thống công việc, không giám sát con người.
+- `PRB-004` Chuyển dịch từ người làm chuyên môn sang người quản lý.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 9–10]`
+
+=====
+
+---
+id: CON-015
+type: concept
+title_vi: Chuỗi Goal → Objective → Output → Outcome → Impact
+title_en: The Goal-to-Impact Chain
+aliases: [output vs outcome, outcome vs impact, input process output outcome, chuỗi giá trị kết quả]
+keywords: [mục tiêu, goal, objective, đầu ra, output, kết quả, outcome, tác động, impact, nhầm hoạt động với kết quả, đo sai thứ, success criteria, scope, constraint, assumption]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+related_ids: [FW-036, FW-037, FW-038, FW-039, FW-035]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 14–15, 25"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Chuỗi Goal → Objective → Output → Outcome → Impact (The Goal-to-Impact Chain)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 2 slide 14 xếp năm bậc từ định hướng rộng tới giá trị:
+
+| Bậc | Câu hỏi | Ví dụ của giảng viên |
+|---|---|---|
+| **Goal** (mục tiêu rộng) | Chúng ta đang cố đạt điều gì? | Cải thiện onboarding |
+| **Objective** (kết quả cụ thể) | Cụ thể phải đạt được gì? | Giảm 20% thời gian hoàn tất onboarding trước Q4 |
+| **Output** (thứ tạo ra) | Chúng ta sẽ sản xuất ra gì? | Ra mắt tính năng onboarding mới |
+| **Outcome** (thay đổi tạo ra) | Thay đổi hay giá trị nào sẽ xuất hiện? | Người dùng mới hoàn tất onboarding nhanh hơn |
+| **Impact** (giá trị rộng hơn) | Vì sao kết quả này quan trọng? | Tỷ lệ kích hoạt và giữ chân cao hơn |
+
+Diễn giải bảng: ba bậc đầu nằm trong tầm kiểm soát của team; hai bậc cuối là thứ team ảnh hưởng chứ không ra lệnh được. Slide 14 gọi Output–Outcome–Impact là *"ba thuật ngữ người học hay nhầm"*; câu mở đầu của slide là *"Sai lầm thực thi đầu tiên là nhầm hoạt động với tác động."*
+
+`[KHÓA HỌC]` Slide 25 kéo dài chuỗi về phía trước bằng bốn bậc đo lường: **Input** (giờ công, ngân sách, nhân sự) → **Process** (thời gian review, cycle time, làm lại) → **Output** (tính năng ra mắt, ticket đóng) → **Outcome** (người dùng thành công, giữ chân, giảm công sức). Câu chốt: *"Chất lượng thực thi cải thiện khi team thôi nhầm output với outcome."*
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 14 còn liệt kê **năm ranh giới thực thi** phải làm rõ trước khi giao việc: **Success criteria** — "làm tốt" trông như thế nào? · **Scope** — cái gì nằm trong, cái gì nằm ngoài? · **Requirement** — giải pháp bắt buộc phải cung cấp gì? · **Constraint** — điều gì giới hạn lựa chọn của chúng ta? · **Assumption** — chúng ta đang mặc nhiên coi điều gì là đúng? Manager check in trên slide: *"Trước khi giao việc, làm rõ thay đổi mong đợi, sản phẩm bàn giao, các ranh giới và các giả định."*
+
+`[KHÓA HỌC]` Slide 15 thêm bậc **Task** (công việc phải làm — ví dụ: thiết kế lại màn hình hướng dẫn) nằm dưới Objective, kèm cảnh báo: *"Nếu objective mơ hồ thì đo lường và phối hợp cũng mơ hồ theo."*
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: Output là "mô hình xếp hạng mới lên production"; Outcome là "tỷ lệ click vào gợi ý tăng từ 4,1% lên 5,0%"; Impact là "người dùng ở lại lâu hơn trong phiên". Báo cáo chỉ dừng ở Output là báo cáo chưa xong.
+
+## Liên quan
+- `FW-036` SMART — làm rõ bậc Objective.
+- `FW-037` Mẫu mục tiêu outcome–evidence–guardrail — viết Objective chạm tới bậc Outcome.
+- `FW-038` Metric, KPI, baseline, target — đo các bậc.
+- `FW-039` Balanced execution signal stack — tránh chỉ đo một bậc.
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 14–15, 25]`
+
+=====
+
+---
+id: CON-016
+type: principle
+title_vi: Giám sát hệ thống công việc, không giám sát con người
+title_en: Monitor the Work System, Not the Person
+aliases: [good visibility vs poor visibility, bad news travels at the speed permitted by the team climate]
+keywords: [giám sát, monitoring, micromanagement, quản lý vi mô, khả năng nhìn thấy, visibility, an toàn tâm lý, psychological safety, giấu tin xấu, gánh nặng báo cáo, tin xấu đi chậm, bầu không khí team]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-02]
+related_ids: [FW-041, FW-042, FW-039, CON-014]
+source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 33"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Giám sát hệ thống công việc, không giám sát con người (Monitor the Work System, Not the Person)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 2 slide 33 đối chiếu hai kiểu khả năng nhìn thấy (visibility):
+
+| Good visibility (nhìn thấy tốt) | Poor visibility (nhìn thấy kém) |
+|---|---|
+| Giúp team thấy trạng thái công việc | Theo dõi con người |
+| Làm lộ các phụ thuộc | Tạo ra nỗi sợ |
+| Phát hiện rủi ro sớm | Khuyến khích giấu giếm |
+| Hỗ trợ ra quyết định | Tăng gánh nặng báo cáo |
+
+Diễn giải bảng: cùng một hành vi — hỏi tiến độ — có thể rơi vào cột nào tuỳ vào *đối tượng được nhìn*. Nhìn vào trạng thái công việc và các phụ thuộc là cột trái; nhìn vào từng người đang làm gì là cột phải.
+
+Câu nhấn mạnh của giảng viên: *"Bad news travels at the speed permitted by the team climate."* — tin xấu đi nhanh hay chậm là do bầu không khí của team cho phép tới đâu.
+
+## Ý nghĩa trong thực tế quản lý
+Nguyên tắc này quyết định chất lượng đầu vào của toàn bộ hệ thống thực thi. Mọi công cụ ở `FW-038`, `FW-039`, `FW-041`, `FW-042` đều chạy bằng dữ liệu do chính team báo lên; nếu team thấy việc báo cáo là bị soi, dữ liệu sẽ đẹp và sai. Hệ quả thực hành: thiết kế dashboard quanh *công việc và phụ thuộc* chứ không quanh *năng suất cá nhân*; phản ứng đầu tiên với tin xấu quyết định có còn tin xấu nào được báo nữa hay không.
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science: bảng theo dõi ghi "thí nghiệm A đang chờ quyền truy cập dữ liệu từ 9 ngày" là nhìn vào hệ thống. Bảng ghi "DS X tuần này đóng 2 task, DS Y đóng 5 task" là nhìn vào người — và với một team có cả nhân sự chính thức lẫn collaborator ở mức độ gắn kết khác nhau, cách nhìn thứ hai làm hỏng thông tin trước khi làm hỏng động lực.
+
+## Liên quan
+- `FW-042` Nhịp review và ngưỡng phản ứng — nơi nguyên tắc này được thể hiện qua cách dẫn cuộc họp.
+- `FW-041` Team Delivery System.
+- `CON-014` Thực thi vận hành là một hệ thống.
+- Vấn đề số 9 trong `problem_index.md` — văn hóa thử nghiệm và an toàn tâm lý (chưa có chunk `PRB`, chờ Topic 13).
+
+## Nguồn
+- `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 33]`
+
+=====
+
+---
+id: CON-017
+type: concept
+title_vi: Nguồn lực, năng lực và năng lực cốt lõi
+title_en: Resources, Capabilities and Core Competence
+aliases: [resources vs capabilities, tangible intangible, core competence, resource-based view]
+keywords: [nguồn lực, resources, hữu hình, tangible, vô hình, intangible, năng lực, capabilities, năng lực cốt lõi, core competence, chúng ta có gì, chúng ta làm tốt gì, thương hiệu, dữ liệu, niềm tin người dùng]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+related_ids: [FW-047, CON-018, FW-046]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 26"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Nguồn lực, năng lực và năng lực cốt lõi (Resources, Capabilities and Core Competence)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 17 slide 26 phân biệt bằng một câu: *"Resources are what you have; capabilities are what you do well."* — nguồn lực là thứ bạn **có**; năng lực là thứ bạn **làm tốt**.
+
+| Tangible resources (nguồn lực hữu hình) | Intangible resources (nguồn lực vô hình) | Capabilities (năng lực) |
+|---|---|---|
+| Tiền mặt | Know-how | Giao hàng nhanh, an toàn |
+| Trung tâm dữ liệu | Thương hiệu, danh tiếng | Vận hành ở quy mô lớn |
+| Hệ thống, nền tảng | Niềm tin của người dùng, dữ liệu | Hiểu người dùng bản địa |
+
+Diễn giải bảng: hai cột đầu là **danh từ** — thứ nằm trên bảng cân đối hoặc trong đầu người; cột thứ ba là **động từ** — thứ chỉ tồn tại khi tổ chức làm.
+
+**Core competence** (năng lực cốt lõi), theo định nghĩa in trên slide: thứ **vừa quan trọng với khách hàng, vừa là thứ bạn làm tốt hơn đối thủ**. Hai điều kiện phải đồng thời đúng.
+
+## Ý nghĩa trong thực tế quản lý
+Phân biệt này quyết định cách đầu tư. Mua thêm nguồn lực thì nhanh và đối thủ cũng mua được; xây năng lực thì chậm và khó sao chép — đó là lý do `FW-047` VRIN xét năng lực nhiều hơn xét tài sản. Với người quản lý cấp một, câu hỏi thực tế là: việc team mình làm hằng ngày đang **tích luỹ một năng lực** hay chỉ **tiêu một nguồn lực**.
+
+## Ví dụ
+`[BỔ SUNG]` Team Data Science ở Zalo: dữ liệu hành vi người dùng Việt là *nguồn lực vô hình*; khả năng biến dữ liệu đó thành mô hình chạy ổn định ở quy mô hàng chục triệu người dùng là *năng lực*; nếu khả năng đó vừa quan trọng với người dùng vừa hơn đối thủ thì nó là *năng lực cốt lõi*. Một GPU cluster mới là nguồn lực — ai cũng mua được.
+
+## Liên quan
+- `FW-047` VRIN — bốn phép thử xem nguồn lực hoặc năng lực nào tạo lợi thế bền vững.
+- `CON-018` Outside-in và inside-out — vị trí của góc nhìn này trong hai lăng kính.
+- `FW-046` Value stick — năng lực tốt thể hiện ra thành WTP cao hơn hoặc chi phí thấp hơn.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 26]`
+- Trích dẫn trong slide: Barney (1991); Hitt, M. A., Ireland, R. D., & Hoskisson, R. E. (2020). *Strategic management* (13th ed.). Cengage.
+
+=====
+
+---
+id: CON-018
+type: principle
+title_vi: Hai lăng kính outside-in và inside-out
+title_en: Outside-In and Inside-Out Lenses
+aliases: [outside-in, inside-out, Porter vs resource-based view, RBV]
+keywords: [nhìn từ ngoài vào, outside-in, nhìn từ trong ra, inside-out, Porter, resource-based view, RBV, cạnh tranh ở đâu, thắng bằng gì, cần cả hai lăng kính]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+related_ids: [FW-044, FW-045, FW-047, CON-017]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 25"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Hai lăng kính outside-in và inside-out (Outside-In and Inside-Out Lenses)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 17 slide 25 đặt hai trường phái phân tích chiến lược cạnh nhau:
+
+| | **Outside-in** (nhìn từ ngoài vào) | **Inside-out** (nhìn từ trong ra) |
+|---|---|---|
+| Công cụ | PESTEL, five forces | Resources, capabilities, VRIN |
+| Câu hỏi | *Chúng ta nên cạnh tranh ở đâu?* | *Chúng ta có thể thắng bằng gì?* |
+| Gắn với | Porter | Resource-Based View (Barney, 1991) |
+
+Diễn giải bảng: outside-in bắt đầu từ cấu trúc thị trường rồi suy ra chỗ nên vào; inside-out bắt đầu từ thứ tổ chức đang có rồi suy ra chỗ có thể thắng. Kết luận in trên slide chỉ gồm bốn chữ: **"You need both lenses."**
+
+## Ý nghĩa trong thực tế quản lý
+Chỉ dùng outside-in thì ra được những thị trường hấp dẫn mà tổ chức không đủ sức chơi. Chỉ dùng inside-out thì tự hào về năng lực của mình trong một ngành đang teo lại — đúng điều đã xảy ra với các ví dụ ở slide 11 và 12 của Topic 17. Với người quản lý cấp một, hai lăng kính tương ứng với hai câu hỏi phải trả lời được khi đề xuất một bài toán: *thị trường/bối cảnh đang đẩy về hướng nào* và *team mình có gì để thắng ở hướng đó*.
+
+## Ví dụ
+`[BỔ SUNG]` Đề xuất một bài toán DS mới: lăng kính outside-in nói "quy định bảo vệ dữ liệu siết chặt, personalization dựa trên dữ liệu thô sẽ khó dần"; lăng kính inside-out nói "team mình mạnh ở mô hình học từ tín hiệu ẩn danh". Giao điểm của hai câu đó là bài toán đáng làm.
+
+## Liên quan
+- `FW-044` PESTEL và `FW-045` Five Forces — công cụ outside-in.
+- `CON-017` Nguồn lực và năng lực, `FW-047` VRIN — công cụ inside-out.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 25]`
+- Trích dẫn trong slide: Barney, J. (1991). *Firm resources and sustained competitive advantage*. Journal of Management, 17(1), 99–120.
+
+=====
+
+---
+id: CON-019
+type: principle
+title_vi: Phép thử đường ngắm từ việc của team tới định hướng tổ chức
+title_en: The Line-of-Sight Test
+aliases: [line of sight, line-of-sight test, from mission to my decisions]
+keywords: [gắn với chiến lược, alignment, đường ngắm, line of sight, sứ mệnh, mission, mục tiêu khối, department goals, mục tiêu team, nói không, say no, ba ưu tiên, giải thích vì sao làm việc này]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-17]
+related_ids: [FW-034, FW-043, FW-048, FW-046]
+source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 32"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Phép thử đường ngắm (The Line-of-Sight Test)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 17 slide 32 dựng một thang năm bậc từ sứ mệnh tập đoàn xuống quyết định của tuần này, rồi đặt một phép thử duy nhất lên nó:
+
+| Bậc | Nội dung trên slide |
+|---|---|
+| VNG mission | *"Build technology and grow people. From Vietnam to the world."* |
+| Zalo direction | *"The platform for Vietnamese people to access AI"* |
+| Department goals | Khối của bạn phải giao gì trong năm nay |
+| Team goals | Ba ưu tiên của team bạn |
+| Your decisions | Những gì bạn nói có — và nói không — trong tuần này |
+
+**Line-of-sight test:** *"Can every person on your team say how their work moves the level above?"* — mỗi người trong team có nói được việc của mình đẩy bậc ngay trên nó thế nào không?
+
+Diễn giải bảng: thang này đọc được theo hai chiều. Từ trên xuống, nó là việc dịch định hướng. Từ dưới lên, nó là bài kiểm tra: nếu một việc đang làm không nối lên được bậc nào, việc đó là ứng viên để nói không.
+
+## Ý nghĩa trong thực tế quản lý
+Phép thử nhắm vào *từng thành viên*, không nhắm vào bản kế hoạch. Một team có thể có OKR gắn đúng chiến lược trên giấy mà không ai trong team nói được mối liên hệ đó — theo phép thử này thì vẫn là chưa đạt. Đây cũng là công cụ từ chối: khi một yêu cầu ngoài luồng tới, câu hỏi "việc này đẩy bậc nào trong thang đường ngắm?" chuyển cuộc tranh luận từ *ai mạnh hơn ai* sang *cái gì gắn với định hướng*.
+
+## Ví dụ
+`[BỔ SUNG]` Associate DS Manager tại Zalo: ba ưu tiên quý của team phải đọc ngược lên được tới "nền tảng để người Việt tiếp cận AI". Một yêu cầu phân tích ad-hoc từ một bộ phận khác, lặp lại hằng tuần, không nối lên bậc nào — đó là chỗ để đề nghị tự phục vụ bằng dashboard thay vì nhận thêm việc.
+
+## Liên quan
+- `FW-034` Thang chuyển dịch chiến lược (Topic 2) — cùng ý tưởng, bốn tầng tổ chức thay vì năm bậc mục tiêu.
+- `FW-043` Sáu kỷ luật — kỷ luật "nối các điểm".
+- `FW-048` Reframe → giả định → khuyến nghị.
+
+## Nguồn
+- `[MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 32]`
+- Trích dẫn trong slide: VNG Corporation mission statement; Lê Hồng Minh, VNG Chairman, Mekong ASEAN, 6/6/2026.
+
+=====
+
+---
+id: CON-020
+type: concept
+title_vi: Câu hỏi "How Might We" và việc đóng khung lại nhiều lần
+title_en: "How Might We" and Iterative Reframing
+aliases: [how might we, HMW, iterative reframe, câu hỏi thiết kế]
+keywords: [how might we, HMW, đóng khung lại, reframe, câu hỏi thiết kế, design question, lấy con người làm trung tâm, mở, có thể hành động, không phải giải pháp, dẫn dắt ý tưởng]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-16]
+related_ids: [FW-052, FW-050, FW-053, FW-049, FW-048]
+source: ["MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 22"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Câu hỏi "How Might We" và việc đóng khung lại nhiều lần ("How Might We" and Iterative Reframing)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 16 slide 22 nêu hai ý gắn với nhau. Thứ nhất: *"Phát biểu vấn đề có thể được đóng khung lại nhiều lần."* Thứ hai: phát biểu đó **chuyển được thành một câu hỏi thiết kế mang tính xây dựng, dùng để dẫn dắt việc phát ý tưởng** — dạng *"How might we…"* (Làm thế nào chúng ta có thể…).
+
+Năm tiêu chí của một câu HMW tốt, theo slide: **human-centred** (lấy con người làm trung tâm) · **focused** (có trọng tâm) · **open-ended** (mở) · **actionable** (có thể hành động) · **not already a solution** (bản thân nó chưa phải là một giải pháp).
+
+## Ý nghĩa trong thực tế quản lý
+Một phát biểu vấn đề mô tả hiện trạng; một câu HMW mở ra không gian phương án. Chuyển đổi này quyết định chất lượng của pha Ideate: câu hỏi hẹp quá thì chỉ ra được một giải pháp đã định sẵn; rộng quá thì nhóm bàn lan man. Năm tiêu chí trên là bộ lọc để câu hỏi nằm đúng giữa.
+
+Chi tiết dễ bỏ qua: *đóng khung lại nhiều lần*. Sau vòng ý tưởng đầu hoặc sau phản hồi từ nhóm khác, câu HMW thường phải viết lại — đó là biểu hiện của tính lặp trong `FW-049`, không phải dấu hiệu làm sai.
+
+## Ví dụ
+`[KHÓA HỌC]` Cặp đối chiếu trên slide 22:
+
+| Yếu | Mạnh hơn |
+|---|---|
+| *"Làm thế nào để engineering đi nhanh hơn?"* | *"Làm thế nào chúng ta có thể làm rõ yêu cầu liên chức năng sớm hơn, để các team giảm việc làm lại và bảo vệ chất lượng bản phát hành?"* |
+
+Diễn giải bảng: câu yếu vi phạm hai tiêu chí — nó quy trách nhiệm cho một bộ phận (không human-centred) và đã giả định sẵn giải pháp là "tăng tốc". Câu mạnh nêu được *ai*, *thay đổi gì*, *vì kết quả nào*, mà chưa chỉ định cách làm.
+
+`[BỔ SUNG]` Team Data Science: yếu — *"Làm sao để mô hình train nhanh hơn?"*; mạnh hơn — *"Làm thế nào chúng ta có thể rút ngắn thời gian từ ý tưởng tới một kết luận A/B đáng tin, mà không hạ chuẩn đánh giá?"*
+
+## Liên quan
+- `FW-052` Problem Statement Template — bước ngay trước.
+- `FW-053` Thử nghiệm 7 ngày — bước ngay sau; slide 24 yêu cầu giữ cây vấn đề và câu HMW trên bàn vì *"mọi thứ sau giờ nghỉ đều bắt đầu từ chúng"*.
+- `FW-048` bước Reframe — phiên bản cấp chiến lược của cùng động tác.
+
+## Nguồn
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 22]`

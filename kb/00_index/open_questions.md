@@ -161,6 +161,20 @@ Tuy nhiên **không slide nào trong Topic 12 giải thích phần Edmondson** �
 
 ---
 
+## OQ-010 — Topic 02 có trang tiêu đề "Case in point" nhưng không có slide nội dung
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 34 của Topic 2 là một trang tiêu đề mục: *"Case in point — IMPROVING NEW-ACCOUNT ACTIVATION"*. Slide 35 ngay sau đó là lời cảm ơn. Không có slide nào trình bày case này.
+
+Các con số ví dụ xuyên suốt deck (onboarding completion 65% → 80%, weekly active use 18% → 35%) gợi ý case được giảng trực tiếp trên bảng hoặc qua handout riêng.
+
+**Đã làm.** Slide 34 ghi `không có nội dung kiến thức` trong `coverage_matrix.md` kèm tham chiếu tới OQ-010. `TOP-MEGROW-02` ghi nhận nguyên trạng với nhãn `[CẦN XÁC NHẬN]`.
+
+**Cần người dùng.** Nếu có ghi chép tại lớp hoặc handout về case "Improving new-account activation" thì gửi để tạo một chunk `CASE` cho Topic 02.
+
+---
+
 ## Mục `[KHÓ ĐỌC]`
 
 **Không có.** Cả 805 trang đều đọc được: 668 trang trích được text trực tiếp bằng `pdftotext`, 137 trang còn lại (chủ yếu slide dạng ảnh của Topic 5 và Topic 6) đã được **đọc bằng thị giác** qua `pdftoppm` và mô tả trong `slide_inventory.md` với nhãn `[HÌNH]`. Không trang nào mờ, lỗi OCR hay không đọc được.

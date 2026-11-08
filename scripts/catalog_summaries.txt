@@ -66,3 +66,41 @@ PRB-006	Ưu tiên **Trung bình**. Góp ý rồi không đổi, ngại nói th�
 TOP-MEGROW-04	Từ đánh giá quá khứ sang quản trị hiệu suất bền vững; AMO chẩn đoán, SAIL dẫn cuộc trò chuyện
 TOP-MEGROW-08	Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE
 TOP-MEGROW-09	Coach nhiều hơn không làm nhân viên giỏi hơn; Connector Manager và lộ trình D–R–C
+CON-014	Thực thi là hệ thống biến nỗ lực thành kết quả, không phải nỗ lực; bảng IC vs Manager
+CON-015	Goal → Objective → Output → Outcome → Impact, cộng năm ranh giới thực thi và bốn bậc Input–Outcome
+CON-016	Nhìn vào trạng thái công việc và phụ thuộc, không nhìn vào người; tin xấu đi nhanh hay chậm là do bầu không khí
+CON-017	Nguồn lực là thứ bạn có, năng lực là thứ bạn làm tốt; năng lực cốt lõi cần cả hai điều kiện
+CON-018	Outside-in hỏi nên cạnh tranh ở đâu, inside-out hỏi thắng bằng gì — cần cả hai
+CON-019	Mỗi người có nói được việc mình làm đẩy bậc ngay trên nó không; thang VNG → Zalo → khối → team → quyết định tuần này
+CON-020	Chuyển phát biểu vấn đề thành câu hỏi "How might we"; năm tiêu chí và việc đóng khung lại nhiều lần
+FW-033	Năm chặng Research → Formulation → Translation → Execution → Evaluation, nối vòng bằng feedback loop
+FW-034	Bốn tầng Corporate → Business → Functional → Operational, kèm bốn câu hỏi phiên bản Zalo
+FW-035	Translate · Coordinate · Adjust, cộng sáu nhóm thuật ngữ thực thi dùng làm từ vựng chung
+FW-036	Năm tiêu chí rõ ràng tối thiểu — và lời cảnh báo SMART vẫn có thể đo sai kết quả
+FW-037	Hai mẫu câu viết objective: performance khi biết đường, learning khi còn bất định
+FW-038	Metric vs KPI vs baseline vs target; leading cho tín hiệu sớm, lagging cho giá trị cuối
+FW-039	Bốn tầng Outcome–Driver–Guardrail–Flow và bốn câu hỏi phá thử một KPI trước khi nhận
+FW-040	OKR, bốn mức phân rã Initiative → Project → Workstream → Task, ưu tiên, đánh đổi và lộ trình
+FW-041	Vòng OWN → COORDINATE → CONTROL → ADAPT; một người accountable, nhiều người responsible
+FW-042	Daily check, weekly review, milestone gate; ba lớp ngưỡng Act now / Act this cycle / Observe
+FW-043	Watkins: pattern recognition, systems analysis, mental agility, structured problem-solving, visioning, political savvy
+FW-044	Sáu nhóm thay đổi bên ngoài, bốn quy tắc quét và bảng "so what cho team tôi"
+FW-045	Năm áp lực quyết định ngành cho giữ lại bao nhiêu giá trị; Topic 18 sẽ thêm AI làm áp lực thứ sáu
+FW-046	Lợi thế là khoảng cách WTP – chi phí; hai cách thắng, minh hoạ bằng dữ liệu WTP của Spotify
+FW-047	Bốn phép thử Valuable–Rare–Inimitable–Non-substitutable, thang hiệu suất và câu hỏi về hào
+FW-048	Reframe → gọi tên giả định rủi ro nhất → bảng phương án impact/feasibility/risk → khuyến nghị kèm đánh đổi
+FW-049	Năm pha Stanford nhóm thành Understand–Create–Deliver; AI mở rộng, con người kiểm chứng và quyết
+FW-050	Dựng nguyên nhân bên dưới, hệ quả bên trên quanh vấn đề cốt lõi; tìm hiểu, không phán xét
+FW-051	Hiểu một stakeholder thật trước khi định nghĩa vấn đề; AI không được bịa nhu cầu của họ
+FW-052	Tách triệu chứng – giả định – nguyên nhân, rồi viết "ai cần gì, vì sao, dẫn tới gì, bằng chứng là gì"
+FW-053	Ba ý tưởng → bốn câu hỏi chọn một → một team, một tuần, một kết quả → nhóm khác phản biện
+FW-054	TRY IT / WORK TOGETHER / TEST FIRST / ASK MANAGER, kèm mẫu xin trợ giúp ba dòng trong 45 giây
+PRB-001	Ưu tiên **Cao**. Không biết cho team làm gì trước; bận cả quý mà không có outcome để kể
+TOP-MEGROW-02	Năm chặng từ "vì sao thực thi quan trọng" tới hệ thống giao hàng có chủ sở hữu và nhịp review
+TOP-MEGROW-16	Lab ba tiếng: chín hoạt động từ chọn blocker thật tới cam kết hành động 7 ngày
+TOP-MEGROW-17	Nhìn ra ngoài bằng PESTEL và Five Forces, nhìn vào trong bằng VRIN, kết bằng một khuyến nghị
+FW-044-01	Kịch bản chạy Group Activity 1: sticky note theo sáu chữ cái, chọn một yếu tố, viết "so what", ghi một giả định
+FW-045-01	Schmalensee, McGahan & Porter, Hawawini: ngành giải thích bao nhiêu phần chênh lệch lợi nhuận, kèm bảng ROIC
+FW-047-01	Ba câu hỏi về hào và bảng bốn lĩnh vực team nới rộng hay thu hẹp hào mỗi ngày
+FW-049-01	AI được làm gì và con người phải sở hữu gì trong từng pha; hai nguyên tắc problem-first và công cụ được duyệt
+FW-053-01	Kế hoạch sáu ô, vòng phản biện chéo 12 phút và câu cam kết "Trước [ngày], [ai] sẽ [làm gì]"
