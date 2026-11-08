@@ -240,7 +240,7 @@ levels: [TEAM]
 courses: [MEGROW]
 topics: [TOP-MEGROW-06]
 problems_addressed: [PRB-005, PRB-003]
-related_ids: [CON-003, CON-004, CON-002, FW-001, FW-009]
+related_ids: [CON-003, CON-004, CON-002, FW-001, FW-009, CON-016]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 3, 5, 64–65"]
 source_type: course
 confidence: high
@@ -282,6 +282,7 @@ Slide 5 đặt đây làm câu hỏi then chốt của cả buổi: *"How can yo
 - `CON-002` Ba cái bẫy — bẫy số 2 là nỗi sợ mất kiểm soát nằm dưới hành vi này.
 - `FW-001` Situational Leadership — mức checkpoint phù hợp phụ thuộc vào mức sẵn sàng.
 - `FW-009` Psychological Ownership — kiểm soát quá mức làm hỏng thành tố self-efficacy.
+- `CON-016` Giám sát hệ thống công việc, không giám sát con người (Topic 02) — cùng nguyên tắc ở quy mô cả team thay vì một người: nhìn vào trạng thái công việc, không nhìn vào từng cá nhân.
 
 ## Nguồn
 - `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 3, 5, 64–65]`
@@ -864,7 +865,7 @@ keywords: [giám sát, monitoring, micromanagement, quản lý vi mô, khả nă
 levels: [TEAM, SELF]
 courses: [MEGROW]
 topics: [TOP-MEGROW-02]
-related_ids: [FW-041, FW-042, FW-039, CON-014, PRB-009, FW-080]
+related_ids: [FW-041, FW-042, FW-039, CON-014, PRB-009, FW-080, CON-005]
 source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 33"]
 source_type: course
 confidence: high
@@ -900,6 +901,7 @@ Nguyên tắc này quyết định chất lượng đầu vào của toàn bộ 
 - `FW-041` Team Delivery System.
 - `CON-014` Thực thi vận hành là một hệ thống.
 - `PRB-009` Văn hóa thử nghiệm và an toàn tâm lý — giám sát hệ thống thay vì giám sát người là một điều kiện để tin xấu đi nhanh; xem thêm `FW-080`.
+- `CON-005` Có tầm nhìn mà không kiểm soát (Topic 06) — cùng nguyên tắc ở quy mô một người: checkpoint thỏa thuận trước giữ quyền tự chủ, hỏi liên tục thì không.
 
 ## Nguồn
 - `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 33]`

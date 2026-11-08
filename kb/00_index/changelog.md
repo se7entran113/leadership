@@ -4,6 +4,32 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Rà soát tổng thể, việc 1–2: hoàn thiện `problem_index.md`, quét trùng lặp
+
+**Lệnh:** "làm 1-2 trước" — hai việc đầu của "Rà soát tổng thể" (CLAUDE.md §9), tách riêng khỏi việc viết `PB` và `QUICK_REFERENCE.md`.
+
+### Việc 2 — Hoàn thiện `problem_index.md` (phát hiện chính của đợt này)
+
+Phần bảng chi tiết theo từng `PRB` (không phải bảng tổng quan) **chưa được cập nhật đồng bộ từ đợt xử lý Topic 01/06/10 ban đầu** — tìm thấy **23 dòng `_chưa có_`** dù chunk thật đã tồn tại từ lâu, cộng với tiêu đề mục 9 còn ghi placeholder `PRB-?` thay vì `PRB-009`, và mục "Khoảng trống đã nhận diện" ở cuối file vẫn ghi "sau khi xử lý 9 topic" dù nay đã xong cả 19.
+
+Đã điền đủ 23 dòng bằng chunk ID thật (ví dụ: "Stakeholder Journey Map · SIT · Creative Matrix" → `FW-084`, `FW-084-01`, `FW-085`, `FW-086`; "TRUST Framework" → `FW-078`; "T-GROW coaching model" → `FW-095`…), sửa tiêu đề `PRB-009`, viết lại mục "Khoảng trống đã nhận diện" cho khớp trạng thái 19/19 topic. Cũng sửa dòng 11 trong bảng tổng quan (phát hiện từ đợt đối chiếu Study Guide trước đó — `PRB-011` ghi "một phần" dù đã `verified`).
+
+### Việc 1 — Quét chunk trùng lặp/chồng chéo
+
+Hai phương pháp: (a) tính độ chồng lấn Jaccard của `keywords`+`aliases` giữa mọi cặp trong 153 chunk `CON`/`FW`/`PRB`; (b) tìm câu trích dẫn tiếng Anh dài (>40 ký tự) xuất hiện ở nhiều hơn một chunk, để bắt lỗi dán lặp nội dung.
+
+**Kết quả: không có chunk nào cần gộp.** Tám cặp có độ chồng lấn keyword cao nhất đều đã được liên kết sẵn qua `related_ids` (ví dụ `PRB-009`↔`FW-080`, `CON-003`↔`FW-041`). Một cặp **chưa liên kết** được tìm thấy ở ngưỡng thấp hơn: **`CON-005`** (Có tầm nhìn mà không kiểm soát, Topic 06 — cấp một người) và **`CON-016`** (Giám sát hệ thống công việc không giám sát con người, Topic 02 — cấp cả team) cùng một nguyên tắc ở hai quy mô khác nhau, không trùng nội dung nên **không gộp**, chỉ bổ sung liên kết hai chiều.
+
+Mọi câu trích trùng lặp tìm được (ví dụ `FW-013`↔`FW-090`, `FW-087`↔`FW-088`) đều là cặp cha-con hoặc cặp đã chủ động gộp nguồn từ trước — không phát hiện lỗi dán lặp nội dung nào.
+
+### Kết quả
+`scripts/validate.py`: **0 ERROR**. Không chunk nào bị gộp hoặc xóa — chỉ bổ sung ID và liên kết còn thiếu.
+
+### Còn lại của "Rà soát tổng thể"
+Việc 3 (viết 5 chunk `PB` cho nhóm ưu tiên Cao) và việc 4 (`QUICK_REFERENCE.md`) — người dùng quyết định chuyển sang Opus cho hai việc này vì cần tổng hợp và nén nội dung giữ chất lượng, khác với việc 1–2 mang tính hệ thống.
+
+---
+
 ## 2026-11-08 — Đối chiếu Leadership Study Guide (bạn của người dùng) với kho
 
 **Lệnh:** người dùng cung cấp `raw/megrow/Leadership_Study_Guide_Topics_01-19_RMIT_Zalo.docx` — tài liệu do bạn của người dùng biên soạn (có hỗ trợ AI), tổng hợp Topic 01–19, và yêu cầu đối chiếu trước khi viết playbook.

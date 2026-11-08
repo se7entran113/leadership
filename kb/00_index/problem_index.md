@@ -16,7 +16,7 @@ Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dù
 | 8 | Trung bình | `PRB-008` | ✅ đã có (T02, 12, 16, 17, 19) |
 | 9 | Thấp | `PRB-009` | ✅ đã có (T07, 13, 16) |
 | 10 | Thấp | `PRB-010` | ✅ đã có (T08, 11, 12, 13, 14, 16) |
-| 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
+| 11 | Thấp | `PRB-011` | ✅ đã có (T05, 06, 12, 13, 18) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).
 
@@ -38,9 +38,9 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | SMART + mẫu outcome/evidence/guardrail; Output–Outcome–Impact | T2 | `FW-036`, `FW-037`, `CON-015` |
 | Metric/KPI/baseline/target · Signal stack · phá thử KPI · OKR | T2 | `FW-038`, `FW-039`, `FW-040`, `FW-035` |
 | PESTEL · Five Forces · WTP–cost · VRIN · options table · line-of-sight | T17 | `FW-043`, `FW-044`, `FW-044-01`, `FW-045`, `FW-045-01`, `FW-046`, `FW-047`, `FW-047-01`, `FW-048`, `CON-017`, `CON-018`, `CON-019` |
-| Stakeholder Journey Map · Systematic Inventive Thinking (SIT) · Creative Matrix | T15 | _chưa có_ |
+| Stakeholder Journey Map · Systematic Inventive Thinking (SIT) · Creative Matrix | T15 | `FW-084`, `FW-084-01`, `FW-085`, `FW-086` |
 | Design Thinking · Problem Tree · Empathy Map · Problem Statement · HMW · 7-day test | T16 | `FW-049`, `FW-049-01`, `FW-050`, `FW-051`, `FW-052`, `CON-020`, `FW-053`, `FW-053-01`, `FW-054` |
-| FranklinCovey Time Matrix · Eisenhower Matrix · GTD | T5 | _chưa có_ |
+| FranklinCovey Time Matrix · Eisenhower Matrix · GTD | T5 | `FW-061`, `FW-062` |
 
 ### `PRB-002` · 2. Làm việc với stakeholder để xây dựng và thống nhất bài toán
 *Thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business sang bài toán DS, quản lý kỳ vọng về độ bất định, biết từ chối.*
@@ -61,7 +61,7 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Pre-wiring | T19 | `CON-007` |
 | Đừng tranh cãi với mục tiêu của họ | T19 | `CON-008` |
 | Power–Interest Grid (bản của T19) | T19 | `FW-012` |
-| Yukl & Tracey (1992) influence tactics · Mayer, Davis & Schoorman (1995) trust = ability·benevolence·integrity | T3 | _chưa có_ |
+| Yukl & Tracey (1992) influence tactics · Mayer, Davis & Schoorman (1995) trust = ability·benevolence·integrity | T3 | `FW-058` |
 | Ladder of Inference (Argyris) | T14 | `FW-020` |
 | Advocacy ↔ Inquiry | T14 | `FW-021` |
 
@@ -75,7 +75,7 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Owner / Responsibility / Accountability / RACI · Decision rights | T2, T6 | `CON-003` (phần T6) |
 | AI-augmented Design Thinking · Empathy Map · 7-day test | T16 | `FW-049`, `FW-051`, `FW-053` |
 | Vroom–Yetton–Jago Model (AI / AII / CI / CII / GII) | T10 | `FW-006` |
-| Human–AI Decision Rights (4 mức) | T18 | _chưa có_ |
+| Human–AI Decision Rights (4 mức) | T18 | `FW-094` |
 | HAI — phân bổ việc Human / AI / HAI; giao cho AI không giảm trách nhiệm người | T6 | `FW-010` |
 
 ### `PRB-004` · 4. Chuyển dịch từ người làm chuyên môn sang người quản lý
@@ -88,10 +88,10 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Hill (2007) Five Myths · Ba cái bẫy (làm thay, né giao việc, kỳ vọng ngầm) | T1 | `FW-002`, `CON-002` |
 | Watkins (2013) First 90 Days · STARS · Break-even point · 12 hành động | T1 | `FW-003` |
 | IC → Manager mindset shift | T1, T2, T8 | `CON-001` (phần T1) |
-| Expert bias · 5-Step Bias Self-Audit · Audit Mindset | T3 | _chưa có_ |
+| Expert bias · 5-Step Bias Self-Audit · Audit Mindset | T3 | `CON-022`, `FW-055`, `FW-055-01` |
 | Tự nhận thức và tự quản lý cảm xúc | T8 | `CON-013` |
-| Knowledge–Behaviour Gap Model (Knowledge → Acceptance → Intention → Behaviour) | T5, T6 | _chưa có_ |
-| FranklinCovey Time Matrix · Eisenhower Matrix · GTD · Human Artificial Intelligence (HAI) | T5 | _chưa có_ |
+| Knowledge–Behaviour Gap Model (Knowledge → Acceptance → Intention → Behaviour) | T5, T6 | `FW-064` |
+| FranklinCovey Time Matrix · Eisenhower Matrix · GTD · Human Artificial Intelligence (HAI) | T5 | `FW-061`, `FW-062`, `FW-010` (T6) |
 | Self-awareness & Self-management (Emotional Intelligence) | T8, T11 | `CON-013` (phần T8) |
 
 ### `PRB-005` · 5. Giao việc và phát triển theo năng lực từng người
@@ -133,18 +133,18 @@ Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 | Bốn kiểu quản lý và ba huyền thoại của Always-On | T9 | `FW-027` |
 | Connector Manager — 5 phẩm chất, 3 kết nối | T9 | `FW-032` |
 | Lộ trình D–R–C (Diagnose → Readiness → Coach & Connect) | T9 | `FW-030` |
-| T-GROW coaching model | T18 | _chưa có_ |
+| T-GROW coaching model | T18 | `FW-095` |
 
 ### `PRB-007` · 7. Động lực, gắn kết và giữ người
 **Level:** TEAM
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| McClelland — Need for Achievement / Affiliation / Power | T11 | _chưa có_ |
-| Alderfer ERG Theory (Existence · Relatedness · Growth) | T11 | _chưa có_ |
+| McClelland — Need for Achievement / Affiliation / Power | T11 | `FW-074` |
+| Alderfer ERG Theory (Existence · Relatedness · Growth) | T11 | `FW-074` (cùng chunk với McClelland) |
 | Ba kết nối của Connector Manager: Employee · Team · Organisation | T9 | `FW-032` |
 | Personal Competitive Advantage · EDGE growth strategy | T9 | `FW-031` |
-| Apprenticeship Gap · EEE diagnostic (Environment · Equipping · Experience) | T18 | _chưa có_ |
+| Apprenticeship Gap · EEE diagnostic (Environment · Equipping · Exposure) | T18 | `FW-093` |
 | Social influence levers (Socium 7) | T6 | `FW-008` |
 
 ### `PRB-008` · 8. Làm việc với cấp trên và gắn với chiến lược tổ chức
@@ -152,12 +152,12 @@ Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| Line-of-sight test (VNG mission → Zalo direction → department goals → team goals) | T17 | _chưa có_ |
+| Line-of-sight test (VNG mission → Zalo direction → department goals → team goals) | T17 | `CON-019` |
 | SCQA · Pyramid Principle · Action titles · Pre-wiring | T19 | `FW-018`, `FW-019`, `FW-019-01`, `CON-007` |
-| Reframe → Surface assumptions → Compare & recommend · Options table | T17 | _chưa có_ |
+| Reframe → Surface assumptions → Compare & recommend · Options table | T17 | `FW-048` |
 | (đã gộp ở dòng trên) | | |
 | Influencing upwards (Cohen & Bradford exchange) | T12 | `FW-015` |
-| "Năm cuộc trò chuyện rõ ràng với sếp" trong First 90 Days | T1 | _chưa có_ |
+| "Năm cuộc trò chuyện rõ ràng với sếp" trong First 90 Days | T1 | `FW-003` (một hành động trong 12 hành động) |
 
 ---
 
@@ -165,17 +165,19 @@ Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 
 Yêu cầu: tạo `PRB` khi khóa học có nội dung liên quan. **Cả ba vấn đề dưới đây đều có nội dung trong MEGROW**, nên sẽ có chunk `PRB`.
 
-### PRB-? · 9. Văn hóa thử nghiệm và an toàn tâm lý
+### `PRB-009` · 9. Văn hóa thử nghiệm và an toàn tâm lý
 **Level:** TEAM
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| Psychological Safety (Edmondson) · Ma trận Comfort / Learning / Apathy / Anxiety Zone · Phân biệt Trust vs Psychological Safety | T13 | _chưa có_ |
-| TRUST Framework (Transparency · Reliability · Understanding · Safety · Team First) | T13 | _chưa có_ |
-| Trust Equation (Maister): (Credibility + Reliability + Intimacy) ÷ Self-Orientation | T13 | _chưa có_ |
-| 6 Signature Traits of an Inclusive Leader (Bourke/Deloitte) | T13 | _chưa có_ |
+| Psychological Safety (Edmondson) · Ma trận Comfort / Learning / Apathy / Anxiety Zone · Phân biệt Trust vs Psychological Safety | T13 | `FW-080` |
+| TRUST Framework (Transparency · Reliability · Understanding · Safety · Team First) | T13 | `FW-078` |
+| Trust Equation (Maister): (Credibility + Reliability + Intimacy) ÷ Self-Orientation | T13 | `FW-079` |
+| 6 Signature Traits of an Inclusive Leader (Bourke/Deloitte) | T13 | `FW-081` |
 | Kouzes & Posner (2023) The Leadership Challenge — 5 practices | T12, T18 | `FW-013` |
 | Psychological safety with accountability | T6 | `CON-005` (một phần) |
+| Case "The Silent Team" · bảng STOP / START / CONTINUE | T13 | `FW-082` |
+| AI đã thiết kế lại mất thao trường học nghề, cần an toàn tâm lý để hỏi | T18 | `FW-093` (phần Environment) |
 
 ### `PRB-010` · 10. Xung đột trong team hoặc giữa các team
 **Level:** TEAM, ORG
@@ -186,9 +188,9 @@ Yêu cầu: tạo `PRB` khi khóa học có nội dung liên quan. **Cả ba v�
 | Ladder of Inference (Argyris) | T14 | `FW-020` |
 | Seek first to understand (Inquiry) rồi Advocacy | T14 | `FW-021` |
 | Cùng dữ liệu, khác kết luận — chọn lọc dữ liệu khác nhau (case BCPC) | T14 | `FW-020` |
-| Role Play: Mediating Different Working Styles | T11 | _chưa có_ |
+| Role Play: Mediating Different Working Styles | T11 | `FW-077` (kịch bản 2) |
 | Mời góp ý và vẫn giữ quyền chốt (thế lưỡng nan giả) | T14 | `CON-009` |
-| "When they push back": LISTEN → ACKNOWLEDGE → REFOCUS → HOLD | T8 | _chưa có_ |
+| "When they push back": LISTEN → ACKNOWLEDGE → REFOCUS → HOLD | T8 | `FW-025` |
 
 ### `PRB-011` · 11. Dẫn dắt thay đổi
 **Level:** ORG
@@ -198,15 +200,15 @@ Yêu cầu: tạo `PRB` khi khóa học có nội dung liên quan. **Cả ba v�
 | Kotter (2012) Leading Change Through Stakeholder Coalitions (dùng chọn lọc) | T12 | `FW-017` |
 | Transformation Design Framework — 8 yếu tố | T6 | `FW-007` |
 | Knowledge–Behaviour Gap Model · Stages of Transformation | T5, T6 | `FW-007` (phần Circles) |
-| AI as the Sixth Force · C-FISH / E-MICE / O-LION Leadership OS | T18 | _chưa có_ |
+| AI as the Sixth Force · C-FISH / E-MICE / O-LION Leadership OS | T18 | `FW-087`, `FW-090`, `FW-091`, `FW-013` (E-MICE), `FW-092` |
 | Case: Microsoft Rebuilding Trust from the Top (Nadella) | T12 + case reading | `FW-013` |
 
 ---
 
 ## Khoảng trống đã nhận diện
 
-Chưa phát hiện vấn đề nào trong 11 vấn đề **không có** framework ứng viên nào trong MEGROW. Sẽ xác nhận lại sau khi xử lý hết 20 topic và ghi vào `open_questions.md` nếu có khoảng trống thật.
+**Đã xác nhận sau khi xử lý toàn bộ 19/19 topic trong phạm vi (2026-11-08):** không vấn đề nào trong 11 vấn đề thiếu hẳn framework ứng viên trong MEGROW — mọi mục từng đặt chỗ `_chưa có_` ở các đợt trước nay đã có chunk thật, liệt kê đủ ở các bảng trên. Bảng chi tiết trong file này trước đó **không được cập nhật đồng bộ** với các đợt xử lý topic sau (01, 06, 10 ban đầu, sau đó 17 đợt tiếp theo) — đã rà soát và điền lại toàn bộ 23 dòng `_chưa có_` ngày 2026-11-08.
 
-**Đã xác nhận sau khi xử lý 9 topic:** mọi framework ứng viên liệt kê cho các topic này đều có thật trong tài liệu — không mục nào phải gỡ. Phát hiện thêm sáu framework không có trong danh sách ứng viên ban đầu: **HAI** và **Theory of Psychological Ownership** (Topic 06), **chuỗi sáu chặng MAP→ACT** (Topic 12), **Action titles và skim test** (Topic 19), **Connector Manager** và **lộ trình D–R–C** (Topic 09).
+Framework không có trong danh sách ứng viên ban đầu (lập lúc inventory, trước khi đọc nội dung) nhưng xuất hiện thật khi xử lý topic: **HAI** và **Theory of Psychological Ownership** (Topic 06) · **chuỗi sáu chặng MAP→ACT** (Topic 12) · **Action titles và skim test** (Topic 19) · **Connector Manager** và **lộ trình D–R–C** (Topic 09) · **The Leak, chiến thuật ảnh hưởng theo đối tượng** (Topic 03) · **Four-Decision Triage, Guiding Arrows, mô hình Colson** (Topic 05) · **Team Life enablers/barriers, Team Landscape** (Topic 07) · **C-FISH, O-LION, T-GROW, bảy kịch bản AI** (Topic 18).
 
 Lưu ý riêng cho bối cảnh người dùng: MEGROW không có nội dung chuyên biệt về **quản lý cộng tác viên (collaborator)** — nhân sự không chính thức, mức gắn kết khác nhân viên chính thức. Khả năng cần `[BỔ SUNG]` khi viết `PB` cho vấn đề số 5. Xem `open_questions.md` (OQ-005).
