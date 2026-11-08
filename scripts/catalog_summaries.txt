@@ -1,0 +1,49 @@
+# Tóm tắt một dòng cho catalog.md — biên tập tay, mỗi dòng: <ID><TAB><tóm tắt>
+CON-001	Thành công đổi từ kết quả cá nhân sang kết quả của đội; công việc đã đổi nên bạn phải đổi theo
+CON-002	Làm thay, né giao việc, và để kỳ vọng ngầm — ba hành vi khiến ~50% quản lý mới dưới kỳ vọng
+CON-003	Tách ba khái niệm hay bị trộn; accountability = clarity + ownership + follow-through
+CON-004	Giao việc đủ phải nói rõ bốn thứ: kết quả mong đợi, quyền sở hữu, quyền quyết định, tiêu chí thành công
+CON-005	Ranh giới và checkpoint thỏa thuận trước giữ được quyền tự chủ; hỏi cập nhật liên tục thì không
+CON-006	Gỡ nút thắt thay vì thúc mạnh hơn; thiết kế sự rõ ràng ở vai trò, ưu tiên, kênh, luồng việc, quyền quyết
+CON-007	Giành đồng thuận trước cuộc họp: Map → Pre-meet → Adapt → Present; khuyến nghị không đổi, chỉ trọng tâm đổi
+CON-008	Đừng tranh cãi với mục tiêu của người quyết — chỉ ra ý tưởng của bạn bảo vệ mục tiêu đó thế nào
+CON-009	Mời góp ý và giữ quyền chốt không loại trừ nhau; mấu chốt là nói rõ mức tham gia ngay từ đầu
+FW-001	Điều chỉnh mức chỉ đạo và hỗ trợ theo mức sẵn sàng của từng người cho từng việc — S1 đến S4
+FW-001-01	Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate
+FW-001-02	Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau
+FW-002	Hill (2007): quyền hạn → phụ thuộc lẫn nhau, kiểm soát → cam kết, quản từng người → dẫn cả đội
+FW-003	Chẩn đoán tình huống thừa hưởng rồi chạy 12 hành động theo ba chặng 30/60/90 để sớm chạm break-even
+FW-004	Dalton et al. (1977): lên quản lý là chuyển từ đóng góp độc lập sang đóng góp qua người khác
+FW-005	Blake & Mouton: định vị xu hướng tự nhiên trên hai trục Task-Oriented và People-Oriented
+FW-006	AI · AII · CI · CII · GII — chọn mức tham gia của nhân viên theo loại quyết định
+FW-007	Stibe: Triangle · Curve · Metric · Circles · Architecture · Socium · Moderation · Ethics
+FW-008	Comparison · Competition · Recognition · Cooperation · Learning · Norms · Facilitation
+FW-009	Năm thành tố biến "được giao" thành "thấy mình sở hữu": identity, accountability, self-efficacy, belongingness, responsibility
+FW-010	Đặt đúng loại trí tuệ vào đúng việc: Human, AI hay HAI — giao thêm cho AI không giảm trách nhiệm người
+FW-011	Freeman (1984): đổi câu hỏi từ "ai báo cáo cho tôi" sang "ai tác động tới kết quả và ai bị tác động"
+FW-012	Mendelow (1991): bốn ô Manage Closely · Keep Satisfied · Keep Informed · Monitor để dồn đúng sự chú ý
+FW-013	Kouzes & Posner: năm thực hành — Model the Way, Inspire, Challenge, Enable, Encourage; kèm case Nadella
+FW-014	French & Raven: sáu nguồn quyền lực và công cụ Power Audit cho người không có quyền chỉ đạo
+FW-015	Cohen & Bradford: đổi "làm sao để họ ủng hộ tôi" thành "giá trị chung nằm ở đâu"; Influence Map và Planner
+FW-016	Thomas–Kilmann: năm chế độ trên trục assertiveness × cooperativeness, kèm Conflict Response Planner
+FW-017	Kotter dùng chọn lọc: xây liên minh dẫn dắt và dịch chuyển nhóm Undecided bằng lời "có" ít rủi ro
+FW-018	Situation → Complication → Question → Answer: mở đầu bằng điều người nghe đã đồng ý
+FW-019	Câu trả lời ở đỉnh, 3–4 trụ MECE ở giữa, bằng chứng ở đáy; reasons so với chain
+FW-019-01	Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không
+FW-020	Argyris: năm nấc từ dữ liệu tới kết luận; kết luận đối nghịch thường do chọn tập dữ liệu khác nhau
+FW-021	Seek first to understand: hỏi về intentions, resources, situation của họ trước khi trình bày của mình
+FW-022	Khung tổng hợp Topic 12: MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT, mỗi chặng một công cụ
+PRB-002	Ưu tiên **Cao**. Thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business, quản lý kỳ vọng, biết từ chối
+PRB-003	Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ
+PRB-004	Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi
+PRB-005	Ưu tiên **Cao**. Giao rồi vẫn phải làm lại, người giỏi gánh hết, không biết giao đến đâu thì vừa
+PRB-007	Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó
+PRB-008	Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì
+PRB-010	Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp
+PRB-011	Ưu tiên **Thấp**. Thông báo cách làm mới rồi không ai theo; được vài tuần rồi đâu lại vào đấy
+TOP-MEGROW-01	Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày
+TOP-MEGROW-06	Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức
+TOP-MEGROW-10	Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định
+TOP-MEGROW-12	Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày
+TOP-MEGROW-14	Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau
+TOP-MEGROW-19	Ba công cụ cho ba câu hỏi của người quyết: SCQA, Pyramid Principle, Stakeholder Mapping

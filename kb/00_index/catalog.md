@@ -2,17 +2,17 @@
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 26 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
+**Trạng thái kho: 48 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 6 |
-| `FW` Framework | 12 |
-| `PRB` Vấn đề | 5 |
+| `CON` Khái niệm & nguyên tắc | 9 |
+| `FW` Framework | 25 |
+| `PRB` Vấn đề | 8 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 3 |
+| `TOP` Topic | 6 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **26** |
+| **Tổng** | **48** |
 
 ---
 
@@ -22,37 +22,56 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 |---|---|---|---|---|---|
 | `CON-001` | Chuyển dịch tư duy từ chuyên môn sang quản lý (The IC-to-Manager Mindset Shift) | concept | SELF | MEGROW | Thành công đổi từ kết quả cá nhân sang kết quả của đội; công việc đã đổi nên bạn phải đổi theo |
 | `CON-002` | Ba cái bẫy của quản lý mới (The Three Traps of the New Manager) | concept | SELF, TEAM | MEGROW | Làm thay, né giao việc, và để kỳ vọng ngầm — ba hành vi khiến ~50% quản lý mới dưới kỳ vọng |
-| `CON-003` | Responsibility, accountability và decision rights | concept | TEAM | MEGROW | Tách ba khái niệm hay bị trộn; accountability = clarity + ownership + follow-through |
+| `CON-003` | Responsibility, accountability và decision rights (Responsibility, Accountability and Decision Rights) | concept | TEAM | MEGROW | Tách ba khái niệm hay bị trộn; accountability = clarity + ownership + follow-through |
 | `CON-004` | Giao kết quả, không giao đầu việc (Delegate outcomes, not just tasks) | concept | TEAM | MEGROW | Giao việc đủ phải nói rõ bốn thứ: kết quả mong đợi, quyền sở hữu, quyền quyết định, tiêu chí thành công |
 | `CON-005` | Có tầm nhìn mà không kiểm soát (Visibility without control) | concept | TEAM | MEGROW | Ranh giới và checkpoint thỏa thuận trước giữ được quyền tự chủ; hỏi cập nhật liên tục thì không |
-| `CON-006` | Tải nhận thức của quản lý và của team (Cognitive load) | concept | TEAM, SELF | MEGROW | Gỡ nút thắt thay vì thúc mạnh hơn; thiết kế sự rõ ràng ở vai trò, ưu tiên, kênh, luồng việc, quyền quyết |
+| `CON-006` | Tải nhận thức của quản lý và của team (Cognitive load of the manager and the team) | concept | TEAM, SELF | MEGROW | Gỡ nút thắt thay vì thúc mạnh hơn; thiết kế sự rõ ràng ở vai trò, ưu tiên, kênh, luồng việc, quyền quyết |
+| `CON-007` | Pre-wiring — thắng quyết định trước cuộc họp (Pre-wiring) | concept | ORG | MEGROW | Giành đồng thuận trước cuộc họp: Map → Pre-meet → Adapt → Present; khuyến nghị không đổi, chỉ trọng tâm đổi |
+| `CON-008` | Đừng tranh cãi với mục tiêu của họ (Don't argue against their goal) | concept | ORG | MEGROW | Đừng tranh cãi với mục tiêu của người quyết — chỉ ra ý tưởng của bạn bảo vệ mục tiêu đó thế nào |
+| `CON-009` | Mời góp ý và vẫn giữ quyền chốt (Invite input and still reserve the call) | concept | TEAM, ORG | MEGROW | Mời góp ý và giữ quyền chốt không loại trừ nhau; mấu chốt là nói rõ mức tham gia ngay từ đầu |
 
 ## Framework (FW)
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
 | `FW-001` | Lãnh đạo theo tình huống (Situational Leadership) | framework | TEAM | MEGROW | Điều chỉnh mức chỉ đạo và hỗ trợ theo mức sẵn sàng của từng người cho từng việc — S1 đến S4 |
-| `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của `FW-001`: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
-| `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-002` | Năm ngộ nhận của quản lý mới (Five Myths of the New Manager) | framework | SELF | MEGROW | Hill (2007): quyền hạn → phụ thuộc lẫn nhau, kiểm soát → cam kết, quản từng người → dẫn cả đội |
 | `FW-003` | 90 ngày đầu và chẩn đoán STARS (The First 90 Days & STARS) | framework | SELF, TEAM | MEGROW | Chẩn đoán tình huống thừa hưởng rồi chạy 12 hành động theo ba chặng 30/60/90 để sớm chạm break-even |
 | `FW-004` | Bốn giai đoạn đóng góp trong sự nghiệp (Four Stages of Contribution) | framework | SELF | MEGROW | Dalton et al. (1977): lên quản lý là chuyển từ đóng góp độc lập sang đóng góp qua người khác |
-| `FW-005` | Lưới Lãnh đạo và hai nhóm hành vi (The Leadership Grid) | framework | TEAM, SELF | MEGROW | Blake & Mouton: định vị xu hướng tự nhiên trên hai trục Task-Oriented và People-Oriented |
-| `FW-006` | Năm phong cách ra quyết định Vroom–Yetton–Jago | framework | TEAM | MEGROW | AI · AII · CI · CII · GII — chọn mức tham gia của nhân viên theo loại quyết định |
-| `FW-007` | Khung Thiết kế Chuyển đổi, 8 yếu tố (Transformation Design Framework) | framework | TEAM, ORG | MEGROW | Stibe: Triangle · Curve · Metric · Circles · Architecture · Socium · Moderation · Ethics |
-| `FW-008` | Bảy đòn bẩy ảnh hưởng xã hội (Socium) | framework | TEAM | MEGROW | Comparison · Competition · Recognition · Cooperation · Learning · Norms · Facilitation |
-| `FW-009` | Lý thuyết Sở hữu Tâm lý (Theory of Psychological Ownership) | framework | TEAM | MEGROW | Năm thành tố biến "được giao" thành "thấy mình sở hữu": identity, accountability, self-efficacy, belongingness, responsibility |
-| `FW-010` | Phân bổ việc giữa người và AI (HAI) | framework | TEAM, SELF | MEGROW | Đặt đúng loại trí tuệ vào đúng việc: Human, AI hay HAI — giao thêm cho AI không giảm trách nhiệm người |
+| `FW-005` | Lưới Lãnh đạo và hai nhóm hành vi (The Leadership Grid & the two behaviour dimensions) | framework | TEAM, SELF | MEGROW | Blake & Mouton: định vị xu hướng tự nhiên trên hai trục Task-Oriented và People-Oriented |
+| `FW-006` | Năm phong cách ra quyết định Vroom–Yetton–Jago (Vroom-Yetton-Jago Decision Styles) | framework | TEAM | MEGROW | AI · AII · CI · CII · GII — chọn mức tham gia của nhân viên theo loại quyết định |
+| `FW-007` | Khung Thiết kế Chuyển đổi (8 yếu tố) (Transformation Design Framework) `needs_review` | framework | TEAM, ORG | MEGROW | Stibe: Triangle · Curve · Metric · Circles · Architecture · Socium · Moderation · Ethics |
+| `FW-008` | Bảy đòn bẩy ảnh hưởng xã hội (Socium - Seven Social Influence Levers) `needs_review` | framework | TEAM | MEGROW | Comparison · Competition · Recognition · Cooperation · Learning · Norms · Facilitation |
+| `FW-009` | Lý thuyết Sở hữu Tâm lý (Theory of Psychological Ownership) `needs_review` | framework | TEAM | MEGROW | Năm thành tố biến "được giao" thành "thấy mình sở hữu": identity, accountability, self-efficacy, belongingness, responsibility |
+| `FW-010` | Phân bổ việc giữa người và AI (HAI) (Human Artificial Intelligence (HAI) task allocation) | framework | TEAM, SELF | MEGROW | Đặt đúng loại trí tuệ vào đúng việc: Human, AI hay HAI — giao thêm cho AI không giảm trách nhiệm người |
+| `FW-011` | Lý thuyết Các bên liên quan (Stakeholder Theory) | framework | ORG | MEGROW | Freeman (1984): đổi câu hỏi từ "ai báo cáo cho tôi" sang "ai tác động tới kết quả và ai bị tác động" |
+| `FW-012` | Ma trận Quyền lực – Mức quan tâm (The Power-Interest Matrix) | framework | ORG | MEGROW | Mendelow (1991): bốn ô Manage Closely · Keep Satisfied · Keep Informed · Monitor để dồn đúng sự chú ý |
+| `FW-013` | Năm thực hành lãnh đạo Kouzes & Posner (The Leadership Challenge - Five Practices) | framework | ORG, TEAM | MEGROW | Kouzes & Posner: năm thực hành — Model the Way, Inspire, Challenge, Enable, Encourage; kèm case Nadella |
+| `FW-014` | Sáu nguồn quyền lực xã hội (Sources of Social Power) | framework | ORG | MEGROW | French & Raven: sáu nguồn quyền lực và công cụ Power Audit cho người không có quyền chỉ đạo |
+| `FW-015` | Gây ảnh hưởng khi không có quyền chỉ đạo (Influence Without Authority (the Exchange)) | framework | ORG | MEGROW | Cohen & Bradford: đổi "làm sao để họ ủng hộ tôi" thành "giá trị chung nằm ở đâu"; Influence Map và Planner |
+| `FW-016` | Năm chế độ ứng xử với xung đột Thomas–Kilmann (Thomas-Kilmann Conflict Mode Instrument) | framework | ORG, TEAM | MEGROW | Thomas–Kilmann: năm chế độ trên trục assertiveness × cooperativeness, kèm Conflict Response Planner |
+| `FW-017` | Dẫn dắt thay đổi qua liên minh các bên (Leading Change Through Stakeholder Coalitions) | framework | ORG | MEGROW | Kotter dùng chọn lọc: xây liên minh dẫn dắt và dịch chuyển nhóm Undecided bằng lời "có" ít rủi ro |
+| `FW-018` | Cấu trúc mở đầu SCQA (SCQA) | framework | ORG | MEGROW | Situation → Complication → Question → Answer: mở đầu bằng điều người nghe đã đồng ý |
+| `FW-019` | Nguyên lý Kim tự tháp và MECE (The Pyramid Principle & MECE) | framework | ORG | MEGROW | Câu trả lời ở đỉnh, 3–4 trụ MECE ở giữa, bằng chứng ở đáy; reasons so với chain |
+| `FW-020` | Thang Suy luận (The Ladder of Inference) | framework | ORG, TEAM | MEGROW | Argyris: năm nấc từ dữ liệu tới kết luận; kết luận đối nghịch thường do chọn tập dữ liệu khác nhau |
+| `FW-021` | Hỏi trước, trình bày sau (Inquiry before Advocacy) | framework | ORG, TEAM | MEGROW | Seek first to understand: hỏi về intentions, resources, situation của họ trước khi trình bày của mình |
+| `FW-022` | Chuỗi sáu chặng làm việc với stakeholder (MAP - PRIORITISE - TRUST - INFLUENCE - ALIGN - ACT) | framework | ORG | MEGROW | Khung tổng hợp Topic 12: MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT, mỗi chặng một công cụ |
+| `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
+| `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
+| `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
 
 ## Vấn đề (PRB)
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
-| `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
-| `PRB-004` | Chuyển dịch từ người làm chuyên môn sang người quản lý | problem | SELF | MEGROW | Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi |
-| `PRB-005` | Giao việc và phát triển theo năng lực từng người | problem | TEAM | MEGROW | Ưu tiên **Cao**. Giao rồi vẫn phải làm lại, người giỏi gánh hết, không biết giao đến đâu thì vừa |
-| `PRB-007` | Động lực, gắn kết và giữ người | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
-| `PRB-011` | Dẫn dắt thay đổi | problem | ORG, TEAM | MEGROW | Ưu tiên **Thấp**. Thông báo cách làm mới rồi không ai theo; được vài tuần rồi đâu lại vào đấy |
+| `PRB-002` | Làm việc với stakeholder để xây dựng và thống nhất bài toán (Working with stakeholders to define and agree the problem) | problem | ORG | MEGROW | Ưu tiên **Cao**. Thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business, quản lý kỳ vọng, biết từ chối |
+| `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team (Designing the team's way of working and decision process) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
+| `PRB-004` | Chuyển dịch từ người làm chuyên môn sang người quản lý (Moving from individual contributor to manager) | problem | SELF | MEGROW | Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi |
+| `PRB-005` | Giao việc và phát triển theo năng lực từng người (Delegating and developing according to each person's capability) | problem | TEAM | MEGROW | Ưu tiên **Cao**. Giao rồi vẫn phải làm lại, người giỏi gánh hết, không biết giao đến đâu thì vừa |
+| `PRB-007` | Động lực, gắn kết và giữ người (Motivation, engagement and retention) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
+| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức (Managing upward and linking to organisational strategy) `needs_review` | problem | ORG | MEGROW | Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì |
+| `PRB-010` | Xung đột trong team hoặc giữa các team (Conflict within or between teams) `needs_review` | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp |
+| `PRB-011` | Dẫn dắt thay đổi (Leading change) `needs_review` | problem | ORG, TEAM | MEGROW | Ưu tiên **Thấp**. Thông báo cách làm mới rồi không ai theo; được vài tuần rồi đâu lại vào đấy |
 
 ## Playbook (PB)
 
@@ -64,17 +83,18 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
-| `TOP-MEGROW-01` | Navigating the Leadership Transition | topic | SELF, TEAM | MEGROW | Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày |
-| `TOP-MEGROW-06` | Delegation & Accountability in Fast-Paced Teams | topic | TEAM, SELF | MEGROW | Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức |
-| `TOP-MEGROW-10` | Adapt Your Leadership Style | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
-| _(17 topic MEGROW còn lại đã đăng ký trong `topic_map.md`, chưa xử lý)_ | | | | | |
+| `TOP-MEGROW-01` | Điều hướng bước chuyển sang vai trò lãnh đạo (Navigating the Leadership Transition) | topic | SELF, TEAM | MEGROW | Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày |
+| `TOP-MEGROW-06` | Giao việc và trách nhiệm trong team tốc độ cao (Delegation & Accountability in Fast-Paced Teams) `needs_review` | topic | TEAM, SELF | MEGROW | Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức |
+| `TOP-MEGROW-10` | Điều chỉnh phong cách lãnh đạo (Adapt Your Leadership Style) | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
+| `TOP-MEGROW-12` | Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ (Stakeholder Influence & Leadership in Technology) | topic | ORG | MEGROW | Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày |
+| `TOP-MEGROW-14` | Ra quyết định trong nhóm liên chức năng (Decision Making in Cross-functional Teams) | topic | ORG, TEAM | MEGROW | Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau |
+| `TOP-MEGROW-19` | Trình bày business case để được duyệt (Presenting Business Cases - Getting Buy-in) | topic | ORG | MEGROW | Ba công cụ cho ba câu hỏi của người quyết: SCQA, Pyramid Principle, Stakeholder Mapping |
 
 ## Tình huống thực tế (CASE)
 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
 | _(chưa có — tạo bằng lệnh "Thêm case")_ | | | | | |
-
 ---
 
 ## Bộ đếm ID tiếp theo

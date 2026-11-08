@@ -340,3 +340,172 @@ Câu hỏi lãnh đạo tương ứng ở slide 2–3: *"What should we stop, po
 
 ## Nguồn
 - `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 65]`
+
+=====
+
+---
+id: CON-007
+type: concept
+title_vi: Pre-wiring — thắng quyết định trước cuộc họp
+title_en: Pre-wiring
+aliases: [pre-wiring, pre-meet, gặp trước, vận động trước họp]
+keywords: [pre-wiring, gặp riêng trước, không gây bất ngờ trong phòng họp, xử lý phản đối trước, trình bày, xin phê duyệt, vì sao đề xuất bị bác trong họp]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-19]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-012, FW-018, FW-019, FW-015, CON-008]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 26, 28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Pre-wiring — thắng quyết định trước cuộc họp
+
+## Định nghĩa
+`[KHÓA HỌC]` Pre-wiring là việc **giành được sự đồng thuận trước cuộc họp quyết định, chứ không phải trong cuộc họp đó**. Topic 19 slide 26 nêu thành bốn bước:
+
+| # | Bước | Nội dung |
+|---|---|---|
+| 1 | **Map** | Đặt từng bên lên Power–Interest Grid. Ghi lập trường và mối bận tâm chính của họ. |
+| 2 | **Pre-meet** | Nói chuyện 1:1 với những nhân vật then chốt. Thử lập luận của bạn và **nghe phản đối từ sớm**. |
+| 3 | **Adapt** | Gia cố đúng cái trụ mà từng người nghe quan tâm. **Giữ nguyên khuyến nghị.** |
+| 4 | **Present** | Không có bất ngờ nào trong phòng họp. Các phản đối đã được trả lời sẵn trong bộ slide. |
+
+Diễn giải bảng: ba bước đầu diễn ra **trước** cuộc họp. Đến bước 4, cuộc họp chỉ còn là nơi xác nhận một đồng thuận đã được xây từ trước.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Nguyên tắc then chốt ở bước 3 và được nhắc lại ở slide 28: **khuyến nghị không bao giờ đổi giữa các nhóm người nghe — chỉ trọng tâm và bằng chứng đổi.** Đây là ranh giới giữa pre-wiring và việc nói mỗi người một kiểu: bạn điều chỉnh *cách chứng minh*, không điều chỉnh *điều mình đề xuất*.
+
+`[KHÓA HỌC]` Slide 28 đặt pre-wiring vào trình tự đầy đủ của Topic 19: Stakeholder Mapping (lập bản đồ người nghe) → Pyramid Principle (dựng lập luận) → SCQA (mở câu chuyện) → **cả ba: pre-wire và trình bày**.
+
+## Ví dụ
+`[KHÓA HỌC]` Với California Fitness: gặp riêng **founder và các nhà đầu tư trước**, rồi đưa các head sales vào sớm — để hội đồng quản trị tranh luận **về các cổng kiểm tra, chứ không tranh luận về tiền đề** (slide 26).
+
+`[BỔ SUNG]` Trước khi trình đề xuất đổi hướng một bài toán DS trong họp planning: gặp riêng PM để nghe phản đối về timeline, gặp riêng Data Engineering để xác nhận khả thi về dữ liệu. Vào họp, hai người đó đã biết nội dung và phản đối lớn nhất đã có câu trả lời trong slide.
+
+## Liên quan
+- `FW-012` Power–Interest Matrix — bước 1 của pre-wiring; ô **Manage Closely** chính là danh sách người cần gặp 1:1.
+- `FW-019` Pyramid Principle — bước 3 gia cố trụ nào là gia cố trong kim tự tháp này.
+- `FW-018` SCQA — phần mở đầu được chuẩn bị sau cùng, khi đã biết mối bận tâm của từng người.
+- `FW-015` Influence Without Authority — cách tiến hành chính các cuộc gặp 1:1 ở bước 2.
+- `CON-008` Đừng tranh cãi với mục tiêu của họ — nguyên tắc đóng khung dùng trong các cuộc pre-meet.
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 26, 28]`
+
+=====
+
+---
+id: CON-008
+type: concept
+title_vi: Đừng tranh cãi với mục tiêu của họ
+title_en: Don't argue against their goal
+aliases: [frame your idea as protecting their goal, đóng khung đề xuất]
+keywords: [thuyết phục, đóng khung, framing, đề xuất bị bác, bảo vệ mục tiêu của họ, vì sao ý tưởng tốt bị từ chối, nói chuyện với sếp, pitch]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-19]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-018, FW-015, CON-007, FW-019]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 4, 9, 11"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Đừng tranh cãi với mục tiêu của họ (Don't argue against their goal)
+
+## Định nghĩa
+`[KHÓA HỌC]` Nguyên tắc đóng khung của Topic 19, slide 9: **đừng tranh cãi chống lại mục tiêu của người ra quyết định — hãy chỉ ra ý tưởng của bạn bảo vệ mục tiêu đó như thế nào.**
+
+Một đề xuất đúng về mặt nội dung vẫn bị bác nếu nó được nghe thành lời phản đối chiến lược. Ví dụ của slide, đặt vào California Fitness năm 2017 khi công ty đang đặt mục tiêu doanh thu trên 110 triệu USD:
+
+| Bạn khuyên | Lãnh đạo nghe thành |
+|---|---|
+| "Mở ít câu lạc bộ hơn." | "Trao vị trí dẫn đầu thị trường cho đối thủ." |
+| "Bảo vệ biên lợi nhuận." | "Hụt chỉ tiêu doanh thu năm nay." |
+| "Giảm rủi ro." | "Làm thất vọng nhà đầu tư đã mua câu chuyện tăng trưởng." |
+
+Diễn giải bảng: cột trái là nội dung kỹ thuật đúng; cột phải là thứ người nghe thực sự nghe thấy. Khoảng cách giữa hai cột là lý do đề xuất bị bác.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Cách sửa được thể hiện ngay trong pitch mẫu ở slide 11: thay vì đề xuất **"chậm lại"**, đề xuất **"tăng trưởng có kiểm soát"** — ba cổng kiểm tra độ sẵn sàng được đóng khung là thứ *bảo vệ vị trí dẫn đầu thị trường*, không phải thứ từ bỏ nó. Nội dung kỹ thuật không đổi; cách đóng khung đổi hoàn toàn.
+
+`[KHÓA HỌC]` Slide 4 nối thẳng nguyên tắc này với trải nghiệm của chính người học: bài tập mở đầu buổi là kể lại *một ý tưởng từng có thể cải thiện công việc nhưng bị gạt đi* — và câu hỏi thứ hai là **"Vì sao bạn nghĩ nó không nhận được sự ủng hộ?"**
+
+Áp dụng trực tiếp vào phần **Complication** của `FW-018` SCQA: biến cố phải là rủi ro mà *người ra quyết định* cảm thấy, không phải vấn đề của bạn.
+
+## Ví dụ
+`[BỔ SUNG]` Với một leader Data Science muốn dừng một mô hình đang chạy để làm lại:
+- Đóng khung sai: "Mô hình hiện tại không đủ tốt, cần ba tháng làm lại." → nghe thành "công sức quý vừa rồi là vô ích, và quý này sẽ không có gì ra mắt."
+- Đóng khung đúng: "Để giữ được mức tin cậy mà business đang dựa vào khi ra quyết định, mình cần một vòng kiểm định trước khi mở rộng sang nhóm người dùng mới."
+
+## Liên quan
+- `FW-018` SCQA — nguyên tắc này quyết định cách viết phần Complication.
+- `CON-007` Pre-wiring — đóng khung được thử nghiệm trong các cuộc gặp 1:1 trước họp.
+- `FW-015` Influence Without Authority — cùng logic: bắt đầu từ *điều quan trọng với họ*.
+- `FW-019` Pyramid Principle — các trụ nên được đặt tên theo thứ chúng **bảo vệ**, không theo thứ chúng hạn chế.
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 4, 9, 11]`
+
+=====
+
+---
+id: CON-009
+type: concept
+title_vi: Mời góp ý và vẫn giữ quyền chốt
+title_en: Invite input and still reserve the call
+aliases: [false dichotomy, dictatorial vs consensus, mời đóng góp nhưng vẫn quyết]
+keywords: [ra quyết định, lắng nghe ý kiến, đồng thuận, consensus, độc đoán, ai chốt, quyền quyết định, họp mãi không ra quyết định, sợ bị coi là độc đoán]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-14]
+problems_addressed: [PRB-003, PRB-010]
+related_ids: [FW-006, FW-020, FW-021, CON-003, CON-005]
+source: ["MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Mời góp ý và vẫn giữ quyền chốt (Invite input and still reserve the call)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 14 slide 13 nêu một thế lưỡng nan mà nhiều người lãnh đạo tự đặt cho mình:
+
+> *Tôi có thể tự ra quyết định và chịu rủi ro bị coi là độc đoán — **HOẶC** tôi có thể mở ra lấy đồng thuận và chịu rủi ro mất thời gian hoặc ra quyết định tệ hơn.*
+
+`[KHÓA HỌC]` Slide chốt thẳng: **đây là một thế lưỡng nan giả.** Người lãnh đạo hiệu quả **có thể và phải mời team góp ý — VÀ họ có thể (và thường phải) giữ lại quyền ra quyết định cuối cùng.**
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 13 nêu hai lý do khiến việc đưa tiếng nói của người khác vào là đáng làm:
+
+1. **Họ có thể nắm thông tin có giá trị** liên quan tới quyết định.
+2. **Họ cần cảm thấy mình đã tham gia định hình kế hoạch** thì mới thực sự cam kết với nó.
+
+Hai lý do này khác nhau về bản chất: lý do thứ nhất cải thiện *chất lượng* quyết định, lý do thứ hai cải thiện *khả năng triển khai*. Một quyết định đúng mà không ai cam kết vẫn hỏng khi thực thi.
+
+`[SUY LUẬN]` Điều khiến thế lưỡng nan tan biến là **nói rõ từ đầu mức tham gia**. Rắc rối không nằm ở việc bạn chốt, mà ở việc người khác tưởng mình đang cùng quyết rồi phát hiện ra không phải. `FW-006` Vroom–Yetton–Jago cung cấp đúng từ vựng để nói rõ điều đó: năm mức AI, AII, CI, CII, GII.
+
+## Ví dụ
+`[BỔ SUNG]` Mở đầu một buổi chọn metric cho mô hình: "Buổi này mình bàn cả nhóm, nhưng cuối buổi tôi sẽ là người chốt — đây là CII, không phải GII. Tôi muốn nghe hết các phản đối trước khi chốt." Câu đó loại bỏ toàn bộ phần hiểu lầm về sau.
+
+`[KHÓA HỌC]` Bài tập BCPC của Topic 14 chính là một minh họa: các nhóm có cùng tình huống và cùng giới hạn thời gian nhưng ra những quyết định khác nhau (slide 6) — khác biệt nằm ở **quy trình nhóm**, không ở dữ liệu.
+
+## Liên quan
+- `FW-006` Vroom–Yetton–Jago — năm mức tham gia cụ thể, công cụ để nói rõ bạn đang ở mức nào.
+- `FW-020` Ladder of Inference và `FW-021` Inquiry before Advocacy — cách lấy được thông tin có giá trị ở lý do thứ nhất.
+- `CON-003` Responsibility, accountability và decision rights — ai sở hữu quyết định sau khi đã nghe.
+- `CON-005` Có tầm nhìn mà không kiểm soát — cùng nguyên tắc, áp dụng cho khâu thực thi.
+
+## Nguồn
+- `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13]`

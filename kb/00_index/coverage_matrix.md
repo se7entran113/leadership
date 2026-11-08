@@ -4,7 +4,7 @@ Mọi trang slide của **các topic đã xử lý** phải xuất hiện ở đ
 
 Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide_inventory.md`. File này chỉ theo dõi **độ phủ**.
 
-**Trạng thái: 3 / 20 topic đã xử lý. Độ phủ 132 / 805 trang (16.4%).**
+**Trạng thái: 6 / 20 topic đã xử lý. Độ phủ 231 / 805 trang (28.7%).**
 
 | Khóa | Topic | File | Tổng trang | Đã ánh xạ | Không có nội dung | Độ phủ | Trạng thái |
 |---|---:|---|---:|---:|---:|---:|---|
@@ -19,18 +19,18 @@ Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide
 | MEGROW | 9 | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 10 | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | 32 | 6 | 100% | đã xử lý |
 | MEGROW | 11 | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 12 | `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf` | 41 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 12 | `[Case Reading] Microsoft’s Turnaround – The Satya Nadella Story.pdf` | 7 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 12 | `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf` | 41 | 36 | 5 | 100% | đã xử lý |
+| MEGROW | 12 | `[Case Reading] Microsoft’s Turnaround – The Satya Nadella Story.pdf` | 7 | 4 | 3 | 100% | đã xử lý |
 | MEGROW | 13 | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 14 | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 14 | `[Case Reading] of topic 14 .pdf` | 4 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 14 | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | 11 | 3 | 100% | đã xử lý |
+| MEGROW | 14 | `[Case Reading] of topic 14 .pdf` | 4 | 4 | 0 | 100% | đã xử lý |
 | MEGROW | 15 | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 16 | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 17 | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 19 | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 19 | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | 24 | 9 | 100% | đã xử lý |
 | MEGROW | 20 | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | 0 | 0 | 0% | chưa xử lý |
-| | | **Tổng** | **805** | **110** | **22** | **16.4%** | 3/20 topic |
+| | | **Tổng** | **805** | **189** | **42** | **28.7%** | 6/20 topic |
 
 ---
 
@@ -185,6 +185,130 @@ Mỗi trang của topic đã xử lý ánh xạ tới chunk chứa nội dung tr
 | 37 | `TOP-MEGROW-10` |
 | 38 | `TOP-MEGROW-10` |
 
+### Topic 12 — `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | không có nội dung kiến thức (khung ngày học) |
+| 3 | `FW-022` |
+| 4 | `FW-022` |
+| 5 | `FW-022` |
+| 6 | không có nội dung kiến thức (divider) |
+| 7 | `FW-011` |
+| 8 | `FW-012` |
+| 9 | `FW-011`, `FW-012` |
+| 10 | `FW-011`, `FW-012` |
+| 11 | `FW-011` |
+| 12 | `FW-013` |
+| 13 | `FW-013` |
+| 14 | `FW-013` |
+| 15 | `FW-011`, `FW-012` |
+| 16 | `FW-015` |
+| 17 | `FW-015` |
+| 18 | `FW-015` |
+| 19 | `FW-015` |
+| 20 | `FW-022` |
+| 21 | không có nội dung kiến thức (divider) |
+| 22 | `FW-014` |
+| 23 | `FW-014` |
+| 24 | `FW-014` |
+| 25 | `FW-014` |
+| 26 | `FW-014` |
+| 27 | `FW-014` |
+| 28 | `FW-015` |
+| 29 | `FW-015` |
+| 30 | `FW-015` |
+| 31 | `FW-016` |
+| 32 | `FW-016` |
+| 33 | `FW-016` |
+| 34 | `FW-017` |
+| 35 | `FW-017` |
+| 36 | `FW-017` |
+| 37 | `FW-017` |
+| 38 | không có nội dung kiến thức (divider) |
+| 39 | `FW-022` |
+| 40 | `FW-022` |
+| 41 | `TOP-MEGROW-12` |
+
+### Topic 12 — `[Case Reading] Microsoft’s Turnaround – The Satya Nadella Story.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa bài báo) |
+| 2 | không có nội dung kiến thức (ảnh minh họa) |
+| 3 | `FW-013` |
+| 4 | `FW-013` |
+| 5 | `FW-013` |
+| 6 | `FW-013` |
+| 7 | không có nội dung kiến thức (thông báo bản quyền) |
+
+### Topic 14 — `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-14` |
+| 3 | không có nội dung kiến thức (divider) |
+| 4 | `FW-020` |
+| 5 | `FW-020` |
+| 6 | `FW-020` |
+| 7 | `FW-020` |
+| 8 | `FW-020` |
+| 9 | `FW-020` |
+| 10 | `FW-020` |
+| 11 | `FW-021` |
+| 12 | `FW-021` |
+| 13 | `CON-009` |
+| 14 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 14 — `[Case Reading] of topic 14 .pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | `TOP-MEGROW-14` |
+| 2 | `TOP-MEGROW-14` |
+| 3 | `TOP-MEGROW-14` |
+| 4 | `TOP-MEGROW-14` |
+
+### Topic 19 — `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | không có nội dung kiến thức (mục tiêu học tập) |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | `CON-008`, `TOP-MEGROW-19` |
+| 5 | `TOP-MEGROW-19` |
+| 6 | `TOP-MEGROW-19` |
+| 7 | không có nội dung kiến thức (divider) |
+| 8 | `FW-018` |
+| 9 | `CON-008` |
+| 10 | `FW-018` |
+| 11 | `FW-018` |
+| 12 | `FW-018` |
+| 13 | `FW-018` |
+| 14 | không có nội dung kiến thức (giải lao) |
+| 15 | không có nội dung kiến thức (divider) |
+| 16 | `FW-019` |
+| 17 | `FW-019` |
+| 18 | `FW-019` |
+| 19 | `FW-019` |
+| 20 | `FW-019` |
+| 21 | `FW-019-01` |
+| 22 | `FW-019` |
+| 23 | không có nội dung kiến thức (divider) |
+| 24 | `FW-012` |
+| 25 | `FW-012` |
+| 26 | `CON-007` |
+| 27 | không có nội dung kiến thức (divider) |
+| 28 | `CON-007`, `FW-018`, `FW-019`, `FW-012` |
+| 29 | `TOP-MEGROW-19` |
+| 30 | `TOP-MEGROW-19` |
+| 31 | `FW-019` |
+| 32 | `TOP-MEGROW-19` |
+| 33 | không có nội dung kiến thức (danh mục nguồn) |
+
 ### Các topic chưa xử lý
 
-Bảng chi tiết được thêm cho từng topic ngay khi topic đó được xử lý. 17 topic còn lại chưa có.
+Bảng chi tiết được thêm cho từng topic ngay khi topic đó được xử lý. 14 topic còn lại chưa có.

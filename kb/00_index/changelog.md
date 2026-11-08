@@ -4,6 +4,38 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — MEGROW Topic 12, 19, 14: thêm 22 chunk (tổng 48)
+
+**Lệnh:** `Xử lý megrow topic 12, 19, 14` (CLAUDE.md §9)
+
+Ba topic chọn cùng đợt vì cùng phục vụ **vấn đề ưu tiên Cao số 2** — làm việc với stakeholder khi không có quyền chỉ đạo.
+
+### Chunk đã tạo (22)
+
+**Framework (13):** `FW-011` Stakeholder Theory · `FW-012` Power–Interest Matrix · `FW-013` The Leadership Challenge · `FW-014` Sources of Social Power · `FW-015` Influence Without Authority · `FW-016` Thomas–Kilmann · `FW-017` Kotter Coalitions · `FW-018` SCQA · `FW-019` Pyramid Principle & MECE · `FW-019-01` Action titles · `FW-020` Ladder of Inference · `FW-021` Inquiry before Advocacy · `FW-022` chuỗi sáu chặng MAP→ACT
+
+**Khái niệm (3):** `CON-007` Pre-wiring · `CON-008` Đừng tranh cãi với mục tiêu của họ · `CON-009` Mời góp ý và vẫn giữ quyền chốt
+
+**Vấn đề (3):** `PRB-002` (Cao, người dùng nêu đích danh) · `PRB-008` · `PRB-010`
+
+**Topic (3):** `TOP-MEGROW-12` · `TOP-MEGROW-19` · `TOP-MEGROW-14`
+
+### Quyết định đáng ghi
+- **`FW-012` Power–Interest Matrix gộp hai nguồn** (Topic 12 slide 8–11 và Topic 19 slide 24–25) thành MỘT chunk, ghi rõ mỗi topic bổ sung góc nhìn gì.
+- **`FW-022`** được tạo riêng cho chuỗi sáu chặng của Topic 12 vì nó là điểm vào truy xuất cho câu hỏi "làm việc với stakeholder bắt đầu từ đâu".
+- **Tách `FW-019-01`** (action title, skim test) khỏi `FW-019` để chunk chính không vượt ngưỡng độ dài.
+- **Hai case reading đã xử lý cùng topic chủ:** Microsoft → Topic 12 (`FW-013`), BCPC → Topic 14 (`FW-020`, `TOP-MEGROW-14`). Không tạo chunk `CASE` — loại đó dành cho tình huống thực tế của người dùng.
+- **Cập nhật ngược chunk cũ:** `FW-006` (liên kết `CON-009`), `PRB-003` (thêm Topic 14), `PRB-011` (thêm Kotter từ Topic 12).
+- Thêm **OQ-009**: Topic 12 ghi chặng TRUST dựa trên Edmondson nhưng không có slide nào giải thích.
+
+### Index đã cập nhật
+`catalog.md` (48 chunk) · `coverage_matrix.md` (231/805 trang, 28.7%, chi tiết từng slide cho 6 topic) · `topic_map.md` (6 topic `đã xử lý`) · `problem_index.md` · `glossary.md` (thêm 36 thuật ngữ, 3 nhóm mới) · `open_questions.md`
+
+### Công cụ mới
+`scripts/gen_catalog.py` — sinh lại các bảng chunk trong `catalog.md` từ frontmatter, kèm `scripts/catalog_summaries.txt` giữ tóm tắt một dòng biên tập tay. Trước đó catalog phải sửa tay và đã sót chunk.
+
+---
+
 ## 2026-11-08 — MEGROW Topic 01, 06, 10: 26 chunk đầu tiên
 
 **Lệnh:** `Xử lý megrow topic 1, 10, 6` (CLAUDE.md §9)

@@ -522,8 +522,8 @@ keywords: [ra quyết định, decision making, mức tham gia, participation, t
 levels: [TEAM]
 courses: [MEGROW]
 topics: [TOP-MEGROW-10]
-problems_addressed: [PRB-003, PRB-005]
-related_ids: [FW-001, FW-005, CON-003, CON-005]
+problems_addressed: [PRB-003, PRB-005, PRB-010]
+related_ids: [FW-001, FW-005, CON-003, CON-005, CON-009, FW-021]
 source: ["MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–36"]
 source_type: course
 confidence: high
@@ -575,7 +575,7 @@ Sai lầm phổ biến nhất là **nói CII nhưng hành xử AII**: mời team
 - `FW-005` Leadership Grid — xu hướng hành vi cố định, không phải lựa chọn theo từng quyết định.
 
 ## Cách kết hợp với framework khác
-Chọn mức tham gia bằng `FW-006`, rồi chốt ai sở hữu kết quả bằng `CON-003` (decision rights). Khi đã chọn GII, giữ `CON-005` để không can thiệp ngược.
+Chọn mức tham gia bằng `FW-006`, chốt ai sở hữu kết quả bằng `CON-003`, giữ `CON-005` để không can thiệp ngược. `CON-009` giải thích vì sao "mời góp ý" và "giữ quyền chốt" không loại trừ nhau.
 
 ## Nguồn
 - `[MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–36]`
@@ -858,3 +858,1006 @@ Phân bổ việc bằng `FW-010` → chốt chủ sở hữu bằng `CON-003` �
 
 ## Nguồn
 - `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 3–4, 7, 47, 53, 64–65]`
+
+=====
+
+---
+id: FW-011
+type: framework
+title_vi: Lý thuyết Các bên liên quan
+title_en: Stakeholder Theory
+aliases: [Freeman 1984, stakeholder theory, stakeholder ecosystem map, bản đồ hệ sinh thái các bên]
+keywords: [stakeholder, các bên liên quan, ai bị ảnh hưởng, ai ảnh hưởng tới kết quả, ngoài sơ đồ tổ chức, org chart, bản đồ các bên, ai cần quan tâm trong dự án]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-002]
+related_ids: [FW-012, FW-022, FW-014, FW-017]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 7, 9–11"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Stakeholder Theory (Lý thuyết Các bên liên quan)
+
+## Tóm tắt
+`[KHÓA HỌC]` Stakeholder Theory (lý thuyết các bên liên quan) của Freeman (1984) nói rằng nên hiểu một tổ chức hay một sáng kiến qua **mạng lưới quan hệ với nhiều nhóm liên quan**, chứ không chỉ qua cổ đông, cấp bậc hay cấu trúc nội bộ. Dùng ở bước đầu tiên khi khởi động một sáng kiến có nhiều bên tham gia.
+
+## Mục đích
+`[KHÓA HỌC]` Đổi câu hỏi: từ **"Ai báo cáo cho tôi?"** sang **"Ai có thể tác động tới kết quả, và lợi ích của ai bị kết quả đó tác động?"** Định nghĩa stakeholder: bất kỳ ai *có thể ảnh hưởng tới*, hoặc *bị ảnh hưởng bởi*, tổ chức hoặc sáng kiến.
+
+## Khi nào dùng
+Khởi động một dự án cắt ngang nhiều bộ phận; khi một sáng kiến bị chặn mà không rõ ai chặn; trước khi lập kế hoạch truyền thông.
+
+## Khi nào KHÔNG dùng
+Khi đã biết rõ ai quan trọng và cần quyết định dồn sức vào đâu — lúc đó chuyển sang `FW-012`. Lý thuyết này **không tự nói cho bạn biết bên nào quan trọng nhất**.
+
+## Các bước áp dụng
+1. **Liệt kê mọi bên có lợi ích liên quan**, vượt ra ngoài tuyến báo cáo trực tiếp. `[KHÓA HỌC]` Slide 10 đặt mục tiêu tối thiểu **10 bên**.
+2. Phân theo nhóm: **Business · Technology · Governance & Risk · Customers · External Partners**.
+3. Vẽ Stakeholder Ecosystem Map (bản đồ hệ sinh thái các bên) — hình dung toàn bộ, không chỉ sơ đồ tổ chức.
+4. `[KHÓA HỌC]` **Khoanh tròn bên nào bạn xếp vào mà còn do dự** — slide 10: sự do dự đó thường là tín hiệu của một bên đang bị đánh giá thấp.
+5. Chuyển sang `FW-012` để quyết định dồn sự chú ý vào đâu.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu hỏi coaching ở slide 11: *"Ai có thể ảnh hưởng tới thành công của sáng kiến này mà tôi đang đánh giá thấp?"* · Câu hỏi debrief slide 10: *"Ai xuất hiện trong điểm mù của bạn, và vì sao bạn đã không coi họ là quan trọng?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 7 nêu lĩnh vực áp dụng: áp dụng AI, chuyển đổi ERP, an ninh mạng, quản trị dữ liệu và chuyển đổi số — những nơi nhiều nhóm liên quan cùng ảnh hưởng tới thành công.
+
+`[BỔ SUNG]` Một bài toán Data Science tưởng chỉ có PM và team DS, nhưng bản đồ đầy đủ còn gồm: team Data Engineering (nguồn dữ liệu), Legal (quyền sử dụng dữ liệu người dùng), team vận hành (người thực sự dùng output), và bộ phận đang bị đo bằng chỉ số mà mô hình sẽ làm thay đổi.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 7 liệt kê hạn chế: có thể tạo ra một danh sách bên liên quan **quá lớn**; không tự động cho biết bên nào quan trọng nhất; lợi ích giữa các bên có thể xung đột; dễ dẫn tới **tham vấn quá mức**; đòi hỏi phán đoán về việc ưu tiên lợi ích của ai.
+
+## Phân biệt với framework gần giống
+- `FW-012` **Power–Interest Matrix** là bước ngay sau: đã có danh sách rồi thì xếp ưu tiên. Freeman mở rộng tầm nhìn, Mendelow thu hẹp sự chú ý.
+- `FW-017` **Stakeholder Coalition Map** phân loại theo *lập trường* (ủng hộ, chặn, chưa quyết), không phải theo *quyền lực và mức quan tâm*.
+
+## Cách kết hợp với framework khác
+Đây là chặng **MAP** của chuỗi `FW-022`: MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT. Lập bản đồ bằng `FW-011`, xếp ưu tiên bằng `FW-012`.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 7, 9–11]`
+- Trích dẫn trong slide: Freeman, R. E. (1984). *Strategic Management: A Stakeholder Approach*. Pitman.
+- `[KHÓA HỌC]` Thông điệp chốt slide 7: *"Map the system before trying to influence the system."*
+
+=====
+
+---
+id: FW-012
+type: framework
+title_vi: Ma trận Quyền lực – Mức quan tâm
+title_en: The Power-Interest Matrix
+aliases: [Mendelow 1991, power-interest grid, manage closely, keep satisfied, keep informed, monitor]
+keywords: [stakeholder, ưu tiên các bên liên quan, quyền lực, power, mức quan tâm, interest, nên dành thời gian cho ai, ai có thể chặn mình, quản lý sát, giữ hài lòng, thông tin đầy đủ, theo dõi]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12, TOP-MEGROW-19]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-011, FW-014, FW-015, FW-017, FW-022, CON-007]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 8–11", "MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 24–25"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Power-Interest Matrix (Ma trận Quyền lực – Mức quan tâm)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Power–Interest Matrix (ma trận quyền lực – mức quan tâm) của Mendelow (1991) xếp từng bên liên quan theo hai trục — **quyền lực họ nắm** và **mức quan tâm họ dành** — để quyết định dồn sự chú ý vào đâu. Dùng khi đã có danh sách các bên và phải phân bổ quỹ thời gian quan hệ có hạn.
+
+## Mục đích
+`[KHÓA HỌC]` Trả lời câu hỏi ở slide 8: *"Tôi nên dồn năng lực quan hệ và giao tiếp có hạn của mình vào đâu?"* Nguyên tắc: **không phải bên nào cũng cần sự chú ý như nhau — nhưng đúng bên thì cần đúng loại chú ý.**
+
+## Khi nào dùng
+Sau khi lập bản đồ bằng `FW-011`; trước khi soạn kế hoạch truyền thông; trước khi trình một business case.
+
+## Khi nào KHÔNG dùng
+Khi cần biết *lập trường* của từng bên — đó là `FW-017`. Khi cần biết *nguồn quyền lực* của họ — đó là `FW-014`.
+
+## Các bước áp dụng
+Xếp từng bên vào một trong bốn ô, rồi làm đúng việc tương ứng:
+
+| | **Mức quan tâm thấp** | **Mức quan tâm cao** |
+|---|---|---|
+| **Quyền lực cao** | **Keep Satisfied** (giữ hài lòng) — họ có thể chặn bạn nhưng chưa để ý. Báo cáo ngắn gọn và sớm. | **Manage Closely** (quản lý sát) — nhân vật then chốt. Gặp riêng từng người và cùng định hình đề xuất. |
+| **Quyền lực thấp** | **Monitor** (theo dõi) — chạm nhẹ. Để mắt phòng khi lập trường của họ đổi. | **Keep Informed** (thông tin đầy đủ) — quan tâm nhiều, quyết ít. Cập nhật đều: họ sẽ thành đồng minh hoặc thành người chặn. |
+
+Diễn giải bảng: trục dọc là khả năng tác động tới quyết định; trục ngang là mức họ để tâm tới sáng kiến. Hai ô bên phải cần đối thoại; hai ô bên trái cần thông tin.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+"Người này có thể chặn việc này không? Họ có đang để tâm không?" — hai câu đó đủ để xếp ô. · `[KHÓA HỌC]` Debrief slide 10: *"Ai xuất hiện trong điểm mù của bạn?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Topic 19 slide 25, đề xuất "ba cổng kiểm tra độ sẵn sàng" ở California Fitness 2017: **Manage Closely** — Founder/CEO, head sales; **Keep Satisfied** — nhà đầu tư PE; **Keep Informed** — quản lý câu lạc bộ, hội viên; **Monitor** — chủ mặt bằng. Thứ tự bắt đầu: Founder (đóng khung cổng kiểm tra như thứ *bảo vệ vị trí dẫn đầu*), rồi head sales (thưởng theo tái ký chứ không chỉ hợp đồng mới), rồi quản lý câu lạc bộ (dùng câu chuyện của họ làm bằng chứng).
+
+`[BỔ SUNG]` Bài toán DS: Giám đốc sản phẩm thường là Manage Closely; Legal có quyền chặn nhưng ít để tâm tới phút cuối — đó là Keep Satisfied, phải báo sớm chứ không phải báo khi xong.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+- Sai lầm phổ biến: dồn hết thời gian cho ô **Keep Informed** vì họ nhiệt tình và dễ nói chuyện, trong khi ô **Keep Satisfied** mới là chỗ dự án chết.
+- Vị trí trên ma trận **đổi theo thời gian** khi sáng kiến chạm vào chỉ số của ai đó.
+
+## Phân biệt với framework gần giống
+- `FW-011` **Stakeholder Theory** mở rộng danh sách; `FW-012` thu hẹp sự chú ý.
+- `FW-017` **Coalition Map** phân theo lập trường: Champions · Influencers · Decision Makers · Blockers · Undecided.
+
+## Cách kết hợp với framework khác
+Chặng **PRIORITISE** của `FW-022`. Lấy ba bên ưu tiên cao nhất rồi chạy `FW-015`. Ở Topic 19, ma trận là **bước đầu tiên** của quy trình trình business case, trước `FW-019` và `FW-018` — xem `CON-007`.
+
+## Các phiên bản và góc nhìn khác
+Hai topic dùng cùng bốn ô, cùng tên gọi. Khác trọng tâm: **Topic 12** dùng để lập chiến lược quan hệ 90 ngày cho một sáng kiến công nghệ; **Topic 19** dùng như bước chuẩn bị trước một buổi trình bày, và slide 24 bổ sung mô tả hành động cho từng ô.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 8–11]`
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 24–25]`
+- Trích dẫn trong slide: Mendelow, A. L. (1991). *Environmental Scanning: The Impact of the Stakeholder Concept*. Proceedings of the Second International Conference on Information Systems.
+
+=====
+
+---
+id: FW-013
+type: framework
+title_vi: Năm thực hành lãnh đạo Kouzes & Posner
+title_en: The Leadership Challenge - Five Practices
+aliases: [Kouzes and Posner 2023, five practices, model the way, inspire shared vision, challenge the process, enable others to act, encourage the heart, E-MICE]
+keywords: [uy tín lãnh đạo, credibility, làm gương, model the way, tầm nhìn chung, thách thức quy trình, trao quyền hành động, khích lệ, hành vi lãnh đạo quan sát được]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-002]
+related_ids: [FW-014, FW-015, FW-022, FW-017]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 12–14"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Leadership Challenge — Five Practices (Năm thực hành lãnh đạo)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Leadership Challenge của Kouzes & Posner (2023) nêu **năm thực hành** gắn với lãnh đạo hiệu quả. Tiền đề: **lãnh đạo thể hiện qua hành vi quan sát được, không phải qua vị trí hay quyền hạn.** Dùng khi bạn cần xây uy tín trước khi đòi hỏi người khác thay đổi.
+
+## Mục đích
+`[KHÓA HỌC]` Thông điệp chốt slide 12: **ảnh hưởng của bạn được định hình bởi cách người khác trải nghiệm sự lãnh đạo của bạn — không chỉ bởi chức danh.**
+
+## Khi nào dùng
+`[KHÓA HỌC]` Slide 12: lãnh đạo công nghệ phải **xây uy tín trong khi đang yêu cầu người khác áp dụng hệ thống mới, AI và cách làm việc chưa quen**.
+
+## Khi nào KHÔNG dùng
+Khi cần xếp ưu tiên các bên — `FW-012`. Khi cần chiến thuật cho một cuộc trao đổi cụ thể — `FW-015`.
+
+## Các bước áp dụng
+Năm thực hành (slide 12):
+
+| # | Thực hành | Nội dung |
+|---|---|---|
+| 1 | **Model the Way** (làm gương) | Hành xử trước theo đúng chuẩn mực bạn muốn thấy |
+| 2 | **Inspire Shared Vision** (truyền tầm nhìn chung) | Làm cho người khác thấy và muốn tương lai bạn mô tả |
+| 3 | **Challenge the Process** (thách thức quy trình) | Chủ động tìm cách làm tốt hơn, chấp nhận thử và sai |
+| 4 | **Enable Others to Act** (trao quyền hành động) | Tạo điều kiện và năng lực để người khác tự làm được |
+| 5 | **Encourage the Heart** (khích lệ) | Ghi nhận đóng góp, ăn mừng tiến bộ |
+
+Diễn giải bảng: năm thực hành là **hành vi lặp lại**, không phải phẩm chất bẩm sinh — luyện được và quan sát được.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu hỏi thảo luận slide 14: *"Ở đâu trong tổ chức của bạn, việc nói ra 'điều tôi chưa biết' sẽ xây được nhiều uy tín hơn là giả vờ đã có câu trả lời?"*
+
+## Ví dụ
+`[KHÓA HỌC]` **Case study Microsoft — Rebuilding Trust from the Top** (slide 14). Khi Satya Nadella thành CEO năm 2014, văn hóa Microsoft bị mô tả là chia tách thành ốc đảo và cạnh tranh nội bộ, các đơn vị giữ địa bàn thay vì hợp tác. Ba bước:
+
+1. **Model the way** — Nadella công khai đề cao "growth mindset", nêu đích danh việc *học* thay vì *tỏ ra biết tuốt* là chuẩn mực lãnh đạo ở mọi cấp.
+2. **Build psychological safety** — lãnh đạo được khuyến khích nói "tôi không biết" và coi canh bạc thất bại là dữ liệu, giảm cái giá khi đưa tin xấu ra sớm.
+3. **Convert trust into influence** — uy tín đó cho phép Nadella chuyển hướng sang đám mây và các canh bạc đa nền tảng (Office trên iOS) mà phe nội bộ trước đó phản đối.
+
+`[KHÓA HỌC]` Bài đọc bổ sung (*Bloomberg Businessweek*, 6/5/2019): Microsoft vượt mốc 1 nghìn tỷ USD vốn hóa ngày 25/4/2019, tăng hơn 230% từ khi Nadella nhậm chức tháng 2/2014; ông cắt ngân sách Windows để dồn xây đám mây và xóa sổ 7,6 tỷ USD từ thương vụ thời Ballmer. Bài báo ghi nhận quá trình xoay chuyển **đau đớn hơn** cách kể "chữa lành văn hóa" của marketing.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 12 nêu hạn chế: **rộng hơn là có tính chẩn đoán**; không có phương pháp xếp ưu tiên stakeholder; cần điều chỉnh theo văn hóa; dễ thành khẩu hiệu nếu thiếu luyện tập và phản hồi; **không giải quyết được động lực quyền lực** trong tổ chức.
+
+## Phân biệt với framework gần giống
+`FW-014` phân loại *nguồn* quyền lực; `FW-013` mô tả *hành vi* xây uy tín — và uy tín chính là nguồn referent power trong `FW-014`.
+
+## Cách kết hợp với framework khác
+Chặng **TRUST** của `FW-022`. `[KHÓA HỌC]` Slide 39 ghi chặng TRUST dựa trên **Kouzes & Posner kết hợp Edmondson**, công cụ *Trust & Safety Check*. `[SUY LUẬN]` Phần Edmondson không có slide giải thích riêng trong Topic 12 — nội dung nằm ở Topic 13, sẽ liên kết khi xử lý.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 12–14]`
+- `[MEGROW | Topic 12 | [Case Reading] Microsoft's Turnaround – The Satya Nadella Story.pdf | Trang 3–6]`
+- Trích dẫn trong slide: Kouzes, J. M., & Posner, B. Z. (2023). *The Leadership Challenge* (7th ed.). Wiley.
+
+=====
+
+---
+id: FW-014
+type: framework
+title_vi: Sáu nguồn quyền lực xã hội
+title_en: Sources of Social Power
+aliases: [French and Raven 1959, bases of social power, power audit, legitimate reward coercive expert referent informational]
+keywords: [quyền lực, power, ảnh hưởng không có quyền chỉ đạo, chuyên môn, expert power, referent, thông tin, informational, kiểm toán quyền lực, không có chức mà vẫn ảnh hưởng được]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-002]
+related_ids: [FW-012, FW-015, FW-013, FW-022, FW-017]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 22–27"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Sources of Social Power (Sáu nguồn quyền lực xã hội)
+
+## Tóm tắt
+`[KHÓA HỌC]` Sources of Social Power (các nguồn quyền lực xã hội) của French & Raven (1959) chỉ ra rằng quyền lực đến từ **nhiều nguồn khác nhau, không chỉ từ quyền hạn chính thức**. Dùng khi bạn phải tạo ảnh hưởng lên người mình không có quyền chỉ đạo.
+
+## Mục đích
+`[KHÓA HỌC]` Đổi câu hỏi: không chỉ hỏi *"Tôi có quyền hạn gì?"* mà hỏi **"Tôi có những nguồn ảnh hưởng nào?"**
+
+Slide 22 định nghĩa: Power (quyền lực) là *tiềm năng tác động tới hành vi, thay đổi diễn biến sự việc, vượt qua kháng cự và làm xong việc thông qua người khác* — và nhấn mạnh **quyền lực tự nó trung tính**, cách thực thi mới quyết định kết quả.
+
+## Khi nào dùng
+Khi bạn cần một bên khác hành động mà không có quyền ra lệnh; khi thấy mình "yếu thế" trước một stakeholder; khi muốn tăng ảnh hưởng dài hạn.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là xung đột lợi ích cần dàn xếp — dùng `FW-016`. Khi cần một cuộc trao đổi cụ thể — dùng `FW-015`.
+
+## Các bước áp dụng
+Sáu nguồn (slide 24):
+
+| Nguồn | Nội dung |
+|---|---|
+| **Legitimate** (chính danh) | Quyền hạn đến từ vai trò hoặc chức danh chính thức |
+| **Reward** (thưởng) | Kiểm soát nguồn lực quan trọng và có khả năng thưởng cho người đi theo |
+| **Coercive** (cưỡng chế) | Dùng đe dọa trừng phạt để buộc tuân thủ |
+| **Expert** (chuyên môn) | Đến từ chuyên môn mà người khác nể phục và nghe theo |
+| **Referent** (quy chiếu) | Đến từ việc người khác quý mến, ngưỡng mộ và trung thành với bạn |
+| **Informational** (thông tin) | Kiểm soát thông tin trọng yếu, dùng để định hình nhận thức và thái độ của người khác |
+
+Diễn giải bảng: ba nguồn đầu gắn với **vị trí** trong tổ chức; ba nguồn sau gắn với **con người bạn** và thứ bạn biết — và đó là phần bạn tự xây được.
+
+**Công cụ Power Audit** (slide 25), chạy cho từng stakeholder:
+1. Họ có quyền lực gì?
+2. Tôi có quyền lực gì?
+3. Tôi có thể xây thêm quyền lực nào?
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu hỏi coaching slide 27: *"Tôi đang dùng chưa đủ nguồn quyền lực nào với những stakeholder quan trọng nhất của mình?"* · Debrief slide 26: *"Bạn đã quá dựa vào quyền lực chính danh (theo chức danh) ở đâu, trong khi một nguồn khác sẽ hiệu quả hơn?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 25: một kiến trúc sư trưởng, chuyên gia an ninh mạng hoặc product leader được nể trọng có thể có **ảnh hưởng rất lớn dù quyền hạn chính thức hạn chế** — nhờ expert, referent và informational power chứ không nhờ chức danh.
+
+`[BỔ SUNG]` Một Associate DS Manager không có quyền với team Data Engineering. Nguồn khả dụng: **expert** (là người hiểu rõ nhất chất lượng dữ liệu ảnh hưởng thế nào tới mô hình) và **informational** (nắm số liệu về tỷ lệ lỗi theo từng nguồn). Dùng hai nguồn đó thay vì leo thang lên cấp trên.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 23 nêu hạn chế: các nhóm **chồng lấn** trong thực tế; dễ khuyến khích cái nhìn **giao dịch** về ảnh hưởng; không giải thích việc quyền lực **đổi theo thời gian**; đạo đức khi dùng quyền lực cần cân nhắc riêng.
+
+`[SUY LUẬN]` Hai nguồn **Coercive** và **Reward** thường không khả dụng với một leader L2 đối với các bộ phận khác — nên thực tế bài toán là xây **Expert**, **Referent** và **Informational**.
+
+## Phân biệt với framework gần giống
+- `FW-015` là *cách tiến hành một cuộc trao đổi*; `FW-014` là *bản kiểm kê tài sản ảnh hưởng* bạn đang có.
+- `FW-013` nói về hành vi xây uy tín; `FW-014` phân loại nguồn gốc của ảnh hưởng.
+
+## Cách kết hợp với framework khác
+Chặng **INFLUENCE** của `FW-022`, chạy ngay sau `FW-012`. Chạy Power Audit cho các bên ở ô Manage Closely, rồi dùng `FW-015` để thiết kế cuộc trao đổi cụ thể.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 22–27]`
+- Trích dẫn trong slide: French, J. R. P., & Raven, B. (1959). *The Bases of Social Power*. In D. Cartwright (Ed.), *Studies in Social Power* (pp. 150–167). University of Michigan Press. Slide ghi rõ **Informational** được bổ sung sau này.
+
+=====
+
+---
+id: FW-015
+type: framework
+title_vi: Gây ảnh hưởng khi không có quyền chỉ đạo
+title_en: Influence Without Authority (the Exchange)
+aliases: [Cohen and Bradford 2017, influence without authority, executive influence map, influence conversation planner, trao đổi có đi có lại]
+keywords: [thuyết phục, ảnh hưởng, influence, không có quyền chỉ đạo, trao đổi, exchange, có đi có lại, reciprocity, họ cần gì ở mình, thuyết phục bộ phận khác, xin nguồn lực]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-012, FW-014, FW-016, FW-017, FW-022, CON-008]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 16–19, 28–30"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Influence Without Authority (Gây ảnh hưởng khi không có quyền chỉ đạo)
+
+## Tóm tắt
+`[KHÓA HỌC]` Influence Without Authority (gây ảnh hưởng khi không có quyền chỉ đạo) của Cohen & Bradford (2017) đặt **sự trao đổi có đi có lại** làm trung tâm của việc thuyết phục. Dùng khi bạn cần người khác hành động nhưng không thể ra lệnh cho họ.
+
+## Mục đích
+`[KHÓA HỌC]` Đổi câu hỏi (slide 28):
+
+| Thay vì hỏi | Hãy hỏi |
+|---|---|
+| *"Làm sao để họ ủng hộ đề xuất của tôi?"* | *"Điều gì quan trọng với họ, và làm sao chúng ta tạo giá trị cho nhau?"* |
+
+Slide 16 định nghĩa Influence (ảnh hưởng): *năng lực hoặc sức mạnh của một người hay sự vật trở thành lực tác động lên hành động, hành vi hoặc quan điểm của người khác.*
+
+## Khi nào dùng
+`[KHÓA HỌC]` Slide 17 nêu bốn hướng cần ảnh hưởng mà không có quyền:
+- **Upwards** — tác động tới nhà tài trợ, hội đồng, lãnh đạo cấp cao nắm nguồn lực và thứ tự ưu tiên.
+- **Across Functions** — đồng thuận với đồng cấp ở tài chính, vận hành, pháp chế và các bộ phận khác.
+- **Across Technical / Business Boundaries** — chuyển đánh đổi kỹ thuật sang ngôn ngữ kinh doanh và ngược lại.
+- **Through Informal Networks** — huy động những người kết nối đáng tin, vốn định hình dư luận ngoài hệ thống chính thức.
+
+## Khi nào KHÔNG dùng
+Khi hai bên có xung đột lợi ích thật sự cần dàn xếp — chuyển sang `FW-016`. Khi bạn chưa biết nên nói chuyện với ai — quay lại `FW-012`.
+
+## Các bước áp dụng
+**Công cụ 1 — Executive Influence Map** (slide 18), chạy cho từng stakeholder ưu tiên:
+
+> Họ coi trọng điều gì? → Họ sợ điều gì? → Họ cần gì ở tôi? → Tôi cần gì ở họ? → Cuộc trò chuyện nào nên diễn ra tiếp theo?
+
+`[KHÓA HỌC]` Slide 18: chuỗi này đi từ **đồng cảm** (giá trị và nỗi sợ của họ) sang **có đi có lại** (nhu cầu hai chiều) sang **hành động cụ thể** — xương sống của ảnh hưởng không cần quyền hạn.
+
+**Công cụ 2 — Influence Conversation Planner** (slide 29), sáu ô:
+
+| 1. Điều gì quan trọng với họ? | 2. Điều gì quan trọng với tôi? | 3. Giá trị chung nằm ở đâu? |
+|---|---|---|
+| **4. Tôi có thể đưa ra cái gì?** | **5. Tôi cần gì?** | **6. Cam kết kế tiếp là gì?** |
+
+Diễn giải bảng: hàng trên xác định vùng giao nhau giữa hai bên; hàng dưới biến vùng đó thành một giao dịch cụ thể kết thúc bằng một cam kết.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Debrief slide 19: *"Trong ba cuộc trò chuyện bạn đã lên kế hoạch, cuộc nào khiến bạn thấy khó chịu nhất — và điều đó nói lên gì?"*
+
+`[BỔ SUNG]` Mở đầu theo kiểu trao đổi: "Em biết quý này anh đang bị đo bằng tỷ lệ lỗi dữ liệu. Nếu team em dựng được bộ kiểm tra chất lượng tự động, anh đỡ được phần đó — đổi lại em cần quyền đọc trực tiếp bảng nguồn."
+
+## Ví dụ
+`[KHÓA HỌC]` Bài tập slide 19: từ Power–Interest Matrix chọn **ba** stakeholder ưu tiên cao nhất, chạy chuỗi năm câu hỏi cho từng người, rồi ghi **cuộc trò chuyện nào làm trước và khi nào**. Slide 30: hoàn thành Conversation Planner cho một kịch bản, dựng thành pitch, trình bày trước lớp.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Hai ô dễ bị bỏ qua nhất là ô số 2 (**họ sợ điều gì**) và ô số 4 (**tôi có thể đưa ra cái gì**). Bỏ ô 4 thì cuộc trao đổi thành lời xin, không còn là trao đổi.
+
+## Phân biệt với framework gần giống
+`FW-014` kiểm kê *nguồn* ảnh hưởng bạn có; `FW-015` thiết kế *cuộc trao đổi* cụ thể. `FW-019` Pyramid Principle lo phần **lập luận** của đề xuất, `FW-015` lo phần **quan hệ** quanh nó.
+
+## Cách kết hợp với framework khác
+Chặng **INFLUENCE** của `FW-022`. Thứ tự: `FW-012` chọn ba bên → `FW-014` kiểm kê quyền lực → `FW-015` thiết kế cuộc trao đổi → `CON-007` pre-wiring trước cuộc họp chính thức.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 16–19, 28–30]`
+- Trích dẫn trong slide: Cohen, A. R., & Bradford, D. L. (2017). *Influence Without Authority* (3rd ed.). Wiley.
+
+=====
+
+---
+id: FW-016
+type: framework
+title_vi: Năm chế độ ứng xử với xung đột Thomas–Kilmann
+title_en: Thomas-Kilmann Conflict Mode Instrument
+aliases: [TKI, Thomas Kilmann, conflict modes, avoiding competing compromising accommodating collaborating, conflict response planner]
+keywords: [xung đột, conflict, bất đồng, né tránh, cạnh tranh, thỏa hiệp, nhường nhịn, hợp tác, assertiveness, cooperativeness, xử lý bất đồng giữa các bộ phận, cuộc trò chuyện khó]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-010, PRB-002]
+related_ids: [FW-015, FW-020, FW-021, FW-022, FW-017]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Thomas-Kilmann Conflict Mode Instrument (Năm chế độ ứng xử với xung đột)
+
+## Tóm tắt
+`[KHÓA HỌC]` Thomas–Kilmann Conflict Mode Instrument (công cụ đo chế độ ứng xử với xung đột) mô tả **năm cách phản ứng trước xung đột**, đặt trên hai trục: **assertiveness** (mức theo đuổi mối quan tâm của chính mình) và **cooperativeness** (mức đáp ứng mối quan tâm của bên kia). Dùng trước một cuộc trò chuyện khó, để chọn cách phản ứng có chủ đích thay vì rơi vào phản xạ.
+
+## Mục đích
+`[KHÓA HỌC]` Thông điệp chốt slide 31: **mục tiêu không phải là tránh xung đột — mà là chọn cách phản ứng phục vụ tốt nhất cho kết quả.** Không chế độ nào luôn đúng; tình huống khác nhau đòi hỏi phản ứng khác nhau.
+
+## Khi nào dùng
+Trước một cuộc trò chuyện bạn dự đoán sẽ căng; khi hai bộ phận bế tắc; khi bạn nhận ra mình luôn phản ứng theo một kiểu.
+
+## Khi nào KHÔNG dùng
+Khi bất đồng đến từ việc hai bên **nhìn vào dữ liệu khác nhau** chứ không từ xung đột lợi ích — lúc đó dùng `FW-020` Ladder of Inference để tìm gốc trước.
+
+## Các bước áp dụng
+Năm chế độ trên hai trục (slide 31–32):
+
+| | Cooperativeness thấp | Cooperativeness cao |
+|---|---|---|
+| **Assertiveness cao** | **Competing** (cạnh tranh) | **Collaborating** (hợp tác) |
+| **Ở giữa** | — **Compromising** (thỏa hiệp) — | |
+| **Assertiveness thấp** | **Avoiding** (né tránh) | **Accommodating** (nhường nhịn) |
+
+Diễn giải bảng: Competing là theo đuổi mục tiêu của mình bất chấp bên kia; Collaborating là tìm giải pháp đáp ứng cả hai; Compromising nằm giữa, mỗi bên nhường một phần; Avoiding là không xử lý; Accommodating là nhường để giữ quan hệ.
+
+**Công cụ Conflict Response Planner** (slide 33) — chạy trước cuộc trò chuyện khó:
+1. Vấn đề thật sự là gì?
+2. Cái gì có thể thương lượng?
+3. Cái gì không thể thương lượng?
+4. Bên kia cần gì?
+5. Kết quả nào bảo vệ được mục tiêu của tổ chức?
+6. Chế độ xung đột nào là phù hợp?
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ghi chú điều phối ở slide 32: đi qua cả năm chế độ, rồi hỏi **người học mặc định rơi vào chế độ nào khi bị áp lực — và cái mặc định đó đã khiến họ trả giá ở đâu.**
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 31 nêu các cặp đánh đổi thường gặp trong công nghệ cần cân bằng: **bảo mật và tốc độ · đổi mới và rủi ro · tập trung hóa và tự chủ · ngân sách và năng lực · deadline và chất lượng.**
+
+`[BỔ SUNG]` Team DS muốn thêm hai tuần để kiểm định mô hình; PM muốn ra đúng hạn. Nếu rủi ro là sai lệch ảnh hưởng người dùng thật thì đây là vùng **non-negotiable** (câu 3 của planner) và chế độ phù hợp là Competing hoặc Collaborating, không phải Compromising.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 31 nêu hạn chế: có thể **đơn giản hóa** các xung đột phức tạp; người ta dễ **tự đồng hóa** với một phong cách ưa thích; công cụ tự nó **không giải quyết vấn đề nền**; bối cảnh, văn hóa và quyền lực có thể làm đổi tình huống; xung đột còn nhiều yếu tố ngoài phong cách giữa cá nhân.
+
+`[SUY LUẬN]` Compromising hay bị dùng như lựa chọn mặc định vì nó dễ chịu nhất, nhưng khi vấn đề thật sự quan trọng thì nó để lại một kết quả không bên nào thực sự ủng hộ.
+
+## Phân biệt với framework gần giống
+- `FW-020` **Ladder of Inference** chẩn đoán *vì sao* hai bên bất đồng; `FW-016` chọn *cách phản ứng* với bất đồng đó.
+- `FW-015` tìm vùng giá trị chung; `FW-016` dùng khi vùng chung đó không tồn tại hoặc chưa tìm ra.
+
+## Cách kết hợp với framework khác
+Chặng **ALIGN** của `FW-022`. Trước khi chọn chế độ, chạy `FW-020` và `FW-021` để chắc rằng bất đồng là thật chứ không phải do hai bên đứng trên hai tập dữ liệu khác nhau.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33]`
+- Trích dẫn trong slide: Thomas, K. W., & Kilmann, R. H. (1974/2008). *Thomas–Kilmann Conflict Mode Instrument*. CPP, Inc.
+
+=====
+
+---
+id: FW-017
+type: framework
+title_vi: Dẫn dắt thay đổi qua liên minh các bên
+title_en: Leading Change Through Stakeholder Coalitions
+aliases: [Kotter 2012, guiding coalition, stakeholder coalition map, champions influencers blockers undecided]
+keywords: [dẫn dắt thay đổi, change, liên minh, coalition, người ủng hộ, người chặn, người chưa quyết, undecided, tạo cảm giác cấp bách, urgency, làm sao để thay đổi được chấp nhận]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-011, PRB-002]
+related_ids: [FW-011, FW-012, FW-014, FW-015, FW-022, FW-007]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 34–37"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Leading Change Through Stakeholder Coalitions (Dẫn dắt thay đổi qua liên minh các bên)
+
+## Tóm tắt
+`[KHÓA HỌC]` Kotter (2012) được Topic 12 dùng **có chọn lọc, không phải đủ mô hình tám bước**. Ý quan trọng nhất cho lãnh đạo stakeholder: **xây một liên minh đáng tin, đủ ảnh hưởng để dịch chuyển tổ chức**. Dùng khi một thay đổi cần sự ủng hộ vượt ra ngoài team của bạn.
+
+## Mục đích
+`[KHÓA HỌC]` Thay đổi lớn đòi hỏi người lãnh đạo **huy động người, tạo đà và xây sự ủng hộ** — chứ không chỉ công bố một hướng đi mới. Slide 35 nhấn: một cuộc chuyển đổi hiếm khi được dẫn dắt bởi riêng đội dự án; nó được dẫn dắt bởi **một liên minh các bên có ảnh hưởng**.
+
+## Khi nào dùng
+Khi triển khai thay đổi chạm nhiều bộ phận; khi một sáng kiến đã được phê duyệt trên giấy nhưng không ai thực sự làm; khi bạn có người phản đối rõ ràng.
+
+## Khi nào KHÔNG dùng
+Khi thay đổi nằm hoàn toàn trong team bạn — lúc đó dùng `FW-007` để thiết kế hành vi. Khi vấn đề là một cuộc trao đổi tay đôi — `FW-015`.
+
+## Các bước áp dụng
+Năm chặng được Topic 12 dùng (slide 35):
+
+> **Create Urgency** (tạo cảm giác cấp bách) → **Build a Guiding Coalition** (dựng liên minh dẫn dắt) → **Communicate** (truyền thông) → **Enable Action** (tạo điều kiện hành động) → **Reinforce Change** (củng cố thay đổi)
+
+`[KHÓA HỌC]` Slide 35 nối thẳng vào phần còn lại của buổi học: **liên minh dẫn dắt của bạn được xây từ chính các quan hệ, niềm tin và nguồn quyền lực bạn đã lập bản đồ cả ngày.**
+
+**Công cụ Stakeholder Coalition Map** (slide 36) — xếp các bên vào năm nhóm:
+
+| Nhóm | Ý nghĩa |
+|---|---|
+| **Champions** | Đã ủng hộ tích cực, sẵn sàng lên tiếng |
+| **Influencers** | Định hình quan điểm người khác |
+| **Decision Makers** | Người nắm quyền phê duyệt |
+| **Blockers** | Đang phản đối |
+| **Undecided** | Chưa cam kết theo hướng nào |
+
+`[KHÓA HỌC]` **Câu hỏi then chốt của công cụ:** *"Làm sao tôi dịch chuyển nhóm Undecided sang phía ủng hộ?"* Lý do: Champions và Influencers hiếm khi cần thuyết phục — **đòn bẩy của bạn nằm ở việc cho nhóm Undecided một cách nói "có" ít rủi ro**, dùng niềm tin và quyền lực bạn đã xây.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Debrief slide 37 — câu hỏi sắc nhất của cả buổi: *"Người Blocker nào thật ra là một Undecided mà bạn đã phân loại nhầm?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Bài tập slide 37 (25 phút, nhóm nhỏ): xếp các bên vào năm nhóm cho một sáng kiến có thật; thảo luận ai đang ở cột Undecided và **vì sao bạn tin là họ chưa cam kết**; brainstorm xem **lời "có" ít rủi ro nào** có thể dịch chuyển từng người; chọn một người và soạn **câu mở đầu** của cuộc trò chuyện sẽ dịch chuyển họ.
+
+`[BỔ SUNG]` Đổi quy trình review mô hình trong team DS mà cần Data Engineering đồng ý đổi cách bàn giao dữ liệu: một "lời có ít rủi ro" là đề xuất chạy thử trên **một** pipeline trong **một** sprint, có thể dừng bất cứ lúc nào.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 34 nêu hạn chế: tám bước **có cảm giác tuyến tính**, trong khi thay đổi thật thường lặp đi lặp lại chứ không tuần tự. Chính vì vậy Topic 12 chỉ dùng chọn lọc.
+
+`[SUY LUẬN]` Sai lầm thường gặp: dồn công sức vào việc thuyết phục Blockers trong khi nhóm Undecided mới là nơi tỷ lệ chuyển đổi cao nhất.
+
+## Phân biệt với framework gần giống
+- `FW-012` **Power–Interest Matrix** phân theo *quyền lực và mức quan tâm*; `FW-017` phân theo *lập trường*. Hai bản đồ bổ sung nhau — một người có thể vừa Manage Closely vừa Undecided.
+- `FW-007` **Transformation Design Framework** thiết kế thay đổi *hành vi* trong nhóm bạn quản lý; `FW-017` huy động *chính trị tổ chức* bên ngoài nhóm đó.
+
+## Cách kết hợp với framework khác
+Chặng **ACT** của `FW-022`, chặng cuối. Chạy sau khi đã có `FW-012`, `FW-013`, `FW-014`, `FW-015` — vì liên minh được xây từ chính những quan hệ đó.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 34–37]`
+- Trích dẫn trong slide: Kotter, J. P. (2012). *Leading Change*. Harvard Business Review Press.
+
+=====
+
+---
+id: FW-018
+type: framework
+title_vi: Cấu trúc mở đầu SCQA
+title_en: SCQA
+aliases: [Situation Complication Question Answer, Minto SCQA, mở đầu business case]
+keywords: [trình bày, pitch, thuyết trình, business case, mở đầu, tình huống, biến cố, câu hỏi, câu trả lời, xin phê duyệt, đề xuất bị bác, làm sao mở đầu để họ muốn nghe]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-19]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-019, FW-012, CON-007, CON-008]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 5–13"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# SCQA (Cấu trúc mở đầu Situation – Complication – Question – Answer)
+
+## Tóm tắt
+`[KHÓA HỌC]` SCQA biến một đề xuất thành **một câu chuyện người nghe đi theo được**: mở bằng điều họ đã đồng ý, nêu cái đã thay đổi, đặt câu hỏi, rồi đưa câu trả lời. Dùng khi có ý tưởng cần phê duyệt và chỉ vài phút đầu để giữ sự chú ý.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 5: **ý tưởng tốt mất ủng hộ không phải vì sai, mà vì người nghe không thấy vì sao nó quan trọng, nó gắn kết ra sao, và ai khác đã đồng ý.** SCQA giải vế đầu — *vì sao nó quan trọng*.
+
+## Khi nào dùng
+Mở đầu buổi trình bày xin phê duyệt; email đề xuất; họp xin nguồn lực.
+
+## Khi nào KHÔNG dùng
+Khi người nghe đã đồng ý, chỉ cần chi tiết triển khai. Khi vấn đề là lập luận chưa chặt — dùng `FW-019`.
+
+## Các bước áp dụng
+
+| | Thành phần | Nội dung |
+|---|---|---|
+| **S** | **Situation** (tình huống) | Sự thật người nghe đã chấp nhận; tạo đồng thuận **trước khi** bạn xin gì. |
+| **C** | **Complication** (biến cố) | Cái đã thay đổi: vấn đề, rủi ro hoặc cơ hội khiến giữ hiện trạng là không ổn. |
+| **Q** | **Question** (câu hỏi) | Câu hỏi biến cố đặt ra, thường là *"Chúng ta nên làm gì?"* |
+| **A** | **Answer** (câu trả lời) | Khuyến nghị: cụ thể, hành động được, chính là thứ bạn muốn duyệt. |
+
+Diễn giải bảng: S và C xây nền chung; Q biến nền đó thành quyết định cần ra; A là thứ bạn xin. Thiếu C thì không có lý do hành động; thiếu Q thì người nghe không biết mình đang được hỏi gì.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Bốn cái bẫy và cách sửa (slide 12):
+- Situation dài năm phút → giữ hai, ba câu người nghe đã chấp nhận.
+- Complication là vấn đề **của bạn** → đóng khung thành rủi ro hoặc cơ hội bị bỏ lỡ mà **người ra quyết định cảm thấy**.
+- Question không được nói ra → nói thành lời.
+- Answer mơ hồ ("khám phá các phương án") → nêu hành động cụ thể, kèm phạm vi, chi phí, thời điểm.
+
+## Ví dụ
+`[KHÓA HỌC]` Case thật California Fitness & Yoga Vietnam, pitch lại năm 2017 (slide 11):
+
+- **S:** Bạn dẫn đầu thị trường fitness Việt Nam với khoảng 30 câu lạc bộ và 150.000 hội viên; năm nay nhắm doanh thu trên 110 triệu USD.
+- **C:** Mỗi câu lạc bộ mới cần nhân sự đã đào tạo và hội viên tái ký. Nếu tốc độ mở vượt cả hai, dịch vụ tụt và tái ký giảm — trong khi mỗi câu lạc bộ vẫn gánh hợp đồng thuê dài hạn và hội viên đã trả trước nhiều năm.
+- **Q:** Làm sao tiếp tục tăng trưởng và giữ vị trí số một mà tăng trưởng không vượt khả năng phục vụ?
+- **A:** Đưa vào ba cổng kiểm tra độ sẵn sàng. Chỉ mở câu lạc bộ mới khi hệ thống đạt chỉ tiêu về quản lý đã đào tạo, tỷ lệ tái ký, và tiền mặt phủ hợp đồng thuê.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 9 — cái bẫy nặng nhất: **đừng tranh cãi với mục tiêu của họ**. Năm 2017, lời khuyên "chậm lại" bị bác ngay vì nó tấn công chiến lược:
+
+"Mở ít câu lạc bộ hơn" bị nghe thành "trao vị trí dẫn đầu cho đối thủ"; "bảo vệ biên lợi nhuận" thành "hụt chỉ tiêu doanh thu"; "giảm rủi ro" thành "làm thất vọng nhà đầu tư đã mua câu chuyện tăng trưởng". Nguyên tắc: **chỉ ra ý tưởng của bạn bảo vệ mục tiêu của họ thế nào.** Xem `CON-008`.
+
+## Phân biệt với framework gần giống
+`FW-018` lo **mở đầu**; `FW-019` lo **chứng minh**. Slide 16: *"SCQA đưa bạn tới 'kể tiếp đi'. Pyramid đưa bạn tới 'duyệt'."*
+
+## Cách kết hợp với framework khác
+`[KHÓA HỌC]` Slide 6: học theo thứ tự SCQA → Pyramid → Stakeholder Mapping, nhưng **dùng ngược lại — bản đồ trước, lập luận thứ hai, mở đầu sau cùng** (`FW-012` → `FW-019` → `FW-018`).
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 5–13]`
+- Số liệu case: Forbes (2017); nguồn tổng hợp 24HMoney, AusLeisure, CafeF, Dân trí, Người Quan Sát, Tuổi Trẻ, Vietdata, VnExpress (2017–2026).
+
+=====
+
+---
+id: FW-019-01
+type: framework
+title_vi: Action title và phép thử lướt
+title_en: Action titles and the skim test
+aliases: [action title, skim test, tiêu đề nêu kết luận, slide title]
+keywords: [tiêu đề slide, action title, skim test, phép thử lướt, viết slide, kết luận thay vì chủ đề, bộ slide kể được câu chuyện]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-19]
+problems_addressed: [PRB-008]
+related_ids: [FW-019, FW-018]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 21"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Action titles and the skim test (Action title và phép thử lướt)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-019` Pyramid Principle. **Action title** là tiêu đề slide nêu một **kết luận**, không nêu một **chủ đề**. Dùng khi bạn đã có kim tự tháp lập luận và đang chuyển nó thành bộ slide.
+
+## Mục đích
+Làm cho bộ slide tự kể được câu chuyện, kể cả khi người nhận chỉ lướt qua — điều mà người ra quyết định bận rộn gần như luôn làm.
+
+## Khi nào dùng
+Khi đặt tiêu đề cho từng slide của một board paper hoặc bộ slide xin phê duyệt.
+
+## Khi nào KHÔNG dùng
+Slide thuần tham chiếu (phụ lục, bảng số liệu thô) không cần action title.
+
+## Các bước áp dụng
+Đổi mỗi tiêu đề chủ đề thành một mệnh đề đầy đủ (slide 21):
+
+| Tiêu đề chủ đề (yếu) | Action title (mạnh) |
+|---|---|
+| Tổng quan thị trường | Chúng ta dẫn đầu thị trường, và chính tăng trưởng nhanh tạo ra vị thế đó |
+| Vận hành | Câu lạc bộ mới đang mở nhanh hơn tốc độ chúng ta đào tạo quản lý |
+| Tài chính | Mỗi hợp đồng thuê mới khóa chi phí cố định trong nhiều năm |
+| Các bước tiếp theo | Chúng ta cần duyệt các cổng kiểm tra trước kế hoạch mở năm sau |
+
+Diễn giải bảng: cột trái chỉ gọi tên nội dung trên slide; cột phải nói ra **điều người nghe nên kết luận** từ nội dung đó. Bốn action title trên ghép lại chính là mạch SCQA của `FW-018`.
+
+**Skim test:** `[KHÓA HỌC]` đọc riêng các tiêu đề slide theo đúng thứ tự, bỏ qua toàn bộ phần thân. **Nếu chúng kể được trọn câu chuyện thì kim tự tháp của bạn đứng vững.** Nếu không, lỗi nằm ở cấu trúc lập luận chứ không ở cách trình bày.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+"Nếu sếp chỉ đọc tiêu đề các slide, họ có hiểu tôi đang xin gì không?"
+
+## Ví dụ
+`[BỔ SUNG]` Slide báo cáo một thí nghiệm DS: đổi "Kết quả A/B test" thành "Phiên bản mới tăng tỷ lệ hoàn tất onboarding từ 65% lên 78%, đủ để triển khai rộng."
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Action title dài quá sẽ mất tác dụng. Một mệnh đề, một kết luận — nếu cần hai câu thì nhiều khả năng slide đang gộp hai ý và nên tách.
+
+## Phân biệt với framework gần giống
+Đây là bước **trình bày** của `FW-019`, không phải một framework lập luận độc lập. Nội dung logic nằm ở `FW-019`.
+
+## Cách kết hợp với framework khác
+Dựng kim tự tháp bằng `FW-019`, chuyển mỗi trụ thành một action title, rồi kiểm bằng skim test. Nếu skim test thất bại, quay lại kiểm MECE ở `FW-019`.
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 21]`
+
+=====
+
+---
+id: FW-019
+type: framework
+title_vi: Nguyên lý Kim tự tháp và MECE
+title_en: The Pyramid Principle & MECE
+aliases: [Minto Pyramid Principle, MECE, governing thought, action title, skim test]
+keywords: [lập luận, cấu trúc lập luận, kim tự tháp, MECE, không chồng lấn không bỏ sót, luận điểm, bằng chứng, tiêu đề slide, action title, trình bày có logic, chứng minh đề xuất]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-19]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-019-01, FW-018, FW-012, CON-007, CON-008]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 15–22"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Pyramid Principle & MECE (Nguyên lý Kim tự tháp và MECE)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Pyramid Principle (nguyên lý kim tự tháp) dựng lập luận theo ba tầng: **câu trả lời ở đỉnh, các luận điểm chống đỡ ở giữa, bằng chứng ở đáy**. Dùng khi đề xuất đã được chú ý và giờ phải chứng minh được.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 16: *"SCQA đưa bạn tới 'kể tiếp đi'. Pyramid đưa bạn tới 'duyệt'."* Slide 17: đọc từ trên xuống, nó trả lời **"Anh khuyến nghị gì?"**; đọc từ dưới lên, nó trả lời **"Vì sao tôi nên tin anh?"**
+
+## Khi nào dùng
+Soạn board paper hoặc slide xin phê duyệt; chuẩn bị trả lời câu hỏi khó; rà một lập luận thấy lỏng mà không rõ lỏng ở đâu.
+
+## Khi nào KHÔNG dùng
+Chưa biết người nghe quan tâm gì — làm `FW-012` trước. Vấn đề ở mở đầu — `FW-018`.
+
+## Các bước áp dụng
+**Ba tầng** (slide 17):
+
+| Tầng | Nội dung |
+|---|---|
+| **Governing thought** (luận điểm chủ đạo) | Khuyến nghị của bạn, gói trong một câu |
+| **Key arguments** (3–4 luận điểm) | Mỗi luận điểm là một mệnh đề đầy đủ |
+| **Evidence** (bằng chứng) | Dữ liệu, ví dụ, phân tích cho từng luận điểm |
+
+**Kiểm tra MECE** ("mee-see", slide 18) — Mutually Exclusive, Collectively Exhaustive: **không chồng lấn, không bỏ sót**.
+
+| Việc | Không MECE | MECE |
+|---|---|---|
+| Phân nhóm khách hàng | Sinh viên, người đi làm trẻ, Gen Z, người dùng Hà Nội *(một người lọt ba nhóm)* | Theo tuổi: dưới 25 · 25–40 · trên 40 |
+| Tăng lợi nhuận | Cắt chi phí, giảm tiền thuê, tăng doanh số *(thuê là một loại chi phí; thiếu giá bán)* | Tăng doanh thu (giá × lượng) hoặc cắt chi phí |
+| Lập luận cho ba cổng | Dịch vụ tốt hơn, hội viên hài lòng hơn, chi phí thấp hơn *(chồng lấn; thiếu doanh thu)* | Dịch vụ · doanh thu · tiền mặt |
+
+**Một loại logic cho một nhóm** (slide 19):
+- **Reasons — "và thêm nữa":** mỗi lý do đứng độc lập; bỏ một cái, phần còn lại vẫn vững. Dùng cho **các trụ**.
+- **Chain — "do đó":** mỗi bước dẫn tới bước sau; gãy một mắt là đổ cả chuỗi. Dùng **bên trong một trụ**.
+
+Quy tắc: **đừng trộn lý do và các bước trong cùng một danh sách.**
+
+**Action title và skim test** (slide 21): viết tiêu đề slide nêu kết luận chứ không nêu chủ đề. Xem chunk con `FW-019-01`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+"Ba trụ này có MECE không?" · "Cái này là lý do hay một bước trong chuỗi?" · `[KHÓA HỌC]` Slide 22: dưới mỗi trụ ghi bằng chứng cần có; chưa có dữ liệu thì viết *"chúng ta cần tìm hiểu…"*
+
+## Ví dụ
+`[KHÓA HỌC]` Kim tự tháp California Fitness 2017 (slide 20). Khuyến nghị: *Đưa vào ba cổng kiểm tra độ sẵn sàng trước khi mở bất kỳ câu lạc bộ mới nào.*
+
+| Trụ | Bằng chứng cần thu thập |
+|---|---|
+| Cổng bảo vệ **dịch vụ** | Tỷ lệ câu lạc bộ mới có quản lý đã đào tạo; khiếu nại ở câu lạc bộ mới so với lâu năm |
+| Cổng bảo vệ **doanh thu tái ký** | Tỷ lệ tái ký theo tuổi câu lạc bộ; chi phí có thêm hội viên mới so với giữ hội viên cũ |
+| Cổng bảo vệ **tiền mặt** | Cam kết thuê so với tiền mặt đang có; nghĩa vụ dịch vụ còn nợ hội viên trả trước |
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Lỗi hay gặp nhất: các trụ nghe hay nhưng **chồng lấn** — "dịch vụ tốt hơn" và "hội viên hài lòng hơn" thực chất là một. Bài kiểm tra MECE ở slide 18 tồn tại để bắt lỗi này.
+
+## Phân biệt với framework gần giống
+`FW-018` SCQA là phần **mở**; `FW-019` là phần **chứng minh**. `[KHÓA HỌC]` Slide 16: Complication trong SCQA của bạn cho biết người nghe sẽ **mong đợi những trụ nào**.
+
+## Cách kết hợp với framework khác
+Thứ tự thực hành (slide 6, 28): `FW-012` → `FW-019` → `FW-018` → `CON-007` pre-wiring rồi trình bày.
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 15–22]`
+- Đọc thêm được giới thiệu ở slide 31: Scott Berinato, *Good Charts* (Harvard Business Review Press, 2023), chương 4–7.
+
+=====
+
+---
+id: FW-020
+type: framework
+title_vi: Thang Suy luận
+title_en: The Ladder of Inference
+aliases: [Argyris, ladder of inference, conclusion rung, thang suy diễn]
+keywords: [bất đồng, hiểu lầm, vì sao hai người nhìn cùng việc lại kết luận khác nhau, dữ liệu chọn lọc, suy diễn, kết luận, họp cross-functional, tranh cãi không đi tới đâu]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-14]
+problems_addressed: [PRB-010, PRB-003]
+related_ids: [FW-021, FW-016, CON-009]
+source: ["MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–10"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Ladder of Inference (Thang Suy luận)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Ladder of Inference (thang suy luận) của Chris Argyris mô tả cách con người đi từ **dữ liệu sẵn có** lên tới **kết luận** qua bốn nấc. Dùng khi hai người nhìn cùng một sự việc mà ra hai kết luận trái ngược và tranh luận không đi tới đâu.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 8: **quá nhiều cuộc trò chuyện ở nơi làm việc diễn ra trên nấc Kết luận** — hai bên ném kết luận vào nhau mà không ai xuống kiểm xem mình đã chọn dữ liệu nào.
+
+## Khi nào dùng
+Họp liên bộ phận bế tắc; hai người cùng nói một câu nhưng ý khác hẳn; trước khi phản bác ai đó.
+
+## Khi nào KHÔNG dùng
+Khi bất đồng đến từ lợi ích thật sự xung đột chứ không từ cách diễn giải — lúc đó dùng `FW-016`.
+
+## Các bước áp dụng
+Bốn nấc, từ dưới lên (slide 7–8):
+
+| Nấc | Nội dung |
+|---|---|
+| **Conclusion** | Điều tôi tin là đúng |
+| **Reasoning** | Cách tôi nối các mảnh lại |
+| **Inferences** | Ý nghĩa tôi gán cho những gì đã chọn |
+| **Selected Evidence** | Phần dữ liệu tôi thực sự để ý |
+| *(nền)* **Pool of Available Data** | Toàn bộ dữ liệu, chung cho mọi người |
+
+Diễn giải bảng: mọi người đứng trên **cùng một kho dữ liệu**, nhưng mỗi người chỉ chọn một phần nhỏ để leo lên. Càng lên cao càng xa dữ liệu gốc.
+
+**Cách dùng:** khi bất đồng, đừng cãi ở nấc trên. **Tụt xuống**: hỏi bên kia đang nhìn dữ liệu nào, rồi nói mình đang nhìn dữ liệu nào.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Slide 7: *"Cuộc họp BCPC của bạn dành phần lớn thời gian ở nấc nào?"* · Slide 6: *"Chris có thể hỏi Robin câu gì thay vì cãi lại?"*
+
+`[BỔ SUNG]` Câu tụt thang: "Anh đang nhìn số liệu nào khi nói vậy? Em đang nhìn cái này — mình xem chênh ở đâu." 
+
+## Ví dụ
+`[KHÓA HỌC]` Case BCPC (Big City Phone Company), slide 4–5. Hai lãnh đạo cùng nói một câu gần như giống hệt:
+
+- **Robin:** *"Sẽ tốn quá nhiều nếu ta làm vậy."*
+- **Chris:** *"Sẽ tốn quá nhiều nếu ta KHÔNG làm vậy."*
+
+Slide hỏi: **họ có đang nói về cùng một loại chi phí không?**
+
+| | Chris | Robin |
+|---|---|---|
+| **Kết luận** | Tung HIP mạnh ra Big City dưới thương hiệu BCPC | Không tự tung ra, bán dung lượng mạng cho bên khác |
+| **Lập luận** | HIP là sản phẩm chiến lược trong tầm nhìn dẫn đầu công nghệ; chi phí sớm muộn cũng phải chịu | Công nghệ còn non, hạ tầng chưa sẵn sàng; thương hiệu sẽ hỏng vì một thất bại ai cũng thấy |
+
+`[KHÓA HỌC]` Slide 10 tổng quát thành nguyên tắc: **kết luận đối nghịch thường bắt nguồn từ việc chọn những tập dữ liệu khác nhau.**
+
+| | Giám đốc Vận hành | Giám đốc Marketing |
+|---|---|---|
+| **Kết luận** | "Mình không kham nổi!" | "Tung ra nhanh đi!" |
+| **Lập luận** | Công ty không đủ năng lực làm tốt, mà làm dở còn tệ hơn không làm | Công ty cần mảng này, và cửa sổ cơ hội là lúc này |
+| **Dữ liệu** | Báo cáo nhân sự, năng lực công nghệ, hạ tầng | Dự báo tài chính, khảo sát khách hàng |
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Dùng thang này để **chất vấn người khác** sẽ phản tác dụng. Hiệu quả nhất là dùng lên chính mình trước: "Tôi kết luận vậy vì đang nhìn vào ba con số này."
+
+## Phân biệt với framework gần giống
+- `FW-021` là *cách hành động* sau khi hiểu thang này: hỏi trước, trình bày sau.
+- `FW-016` chọn chế độ ứng xử với xung đột; `FW-020` kiểm tra xung đột đó có thật hay chỉ là hai góc nhìn dữ liệu.
+
+## Cách kết hợp với framework khác
+Chạy `FW-020` tìm gốc bất đồng, `FW-021` mở lại trao đổi, chỉ dùng `FW-016` khi xác nhận lợi ích thật sự xung đột.
+
+## Nguồn
+- `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–10]`
+- Slide 8: Chris Argyris; slide ghi bản quyền Amy C. Edmondson (2016).
+- Case nền: `[MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4]` — Edmondson, HBS 604-035.
+
+=====
+
+---
+id: FW-021
+type: framework
+title_vi: Hỏi trước, trình bày sau
+title_en: Inquiry before Advocacy
+aliases: [advocacy and inquiry, seek first to understand, hỏi để hiểu, perception fundamentals]
+keywords: [lắng nghe, đặt câu hỏi, hiểu trước khi được hiểu, inquiry, advocacy, họp liên bộ phận, bất đồng, học từ người không đồng ý với mình]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-14]
+problems_addressed: [PRB-010, PRB-002]
+related_ids: [FW-020, FW-016, FW-015, CON-009]
+source: ["MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 11–12"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Inquiry before Advocacy (Hỏi trước, trình bày sau)
+
+## Tóm tắt
+`[KHÓA HỌC]` Nguyên tắc **"Seek first to understand"** (tìm hiểu trước, rồi mới tìm cách được hiểu): trong một cuộc bất đồng, chạy **Inquiry** (hỏi để hiểu) trước, rồi mới tới **Advocacy** (trình bày quan điểm của mình). Dùng ngay sau khi `FW-020` cho thấy hai bên đang đứng trên hai tập dữ liệu khác nhau.
+
+## Mục đích
+Biến một cuộc tranh luận hai chiều thành một cuộc trao đổi trong đó mỗi bên thực sự biết bên kia đang dựa vào cái gì.
+
+## Khi nào dùng
+Họp liên bộ phận khi hai bên bế tắc; khi bạn thấy mình đang chuẩn bị câu phản bác trong lúc người kia còn đang nói.
+
+## Khi nào KHÔNG dùng
+Khi cần quyết nhanh và thông tin đã đủ. Khi vấn đề là ai được quyền quyết chứ không phải ai hiểu đúng — xem `CON-009` và `FW-006`.
+
+## Các bước áp dụng
+Hai vế, theo đúng thứ tự (slide 11):
+
+| Bước 1 — **Inquiry** (hỏi để hiểu) | Bước 2 — **Advocacy** (trình bày để được hiểu) |
+|---|---|
+| **Intentions** — nguyện vọng và mục tiêu của họ | Ý định của bạn |
+| **Resources** — kỹ năng, thông tin, trải nghiệm họ có | Nguồn lực của bạn |
+| **The Situation** — họ đang phải đối mặt với cái gì | Bạn đang phải đối mặt với cái gì |
+
+Diễn giải bảng: ba dòng là ba lớp cần hiểu ở bên kia **trước khi** nói về mình. `[KHÓA HỌC]` Slide 11 chốt nguyên tắc nền về nhận thức bằng ba chữ in hoa: **ASK QUESTIONS** — hãy đặt câu hỏi.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Bài tập slide 12 yêu cầu mỗi người **viết ra một câu hỏi mình sẽ dùng trong cuộc họp liên bộ phận tiếp theo**.
+
+`[BỔ SUNG]` Một số câu dùng được ngay:
+- "Anh đang nhìn vào dữ liệu nào khi kết luận như vậy?"
+- "Nếu việc này làm theo cách của em thì rủi ro lớn nhất với bộ phận anh là gì?"
+- "Anh đang phải chịu trách nhiệm trước chỉ số nào mà em có thể chưa thấy?"
+
+## Ví dụ
+`[KHÓA HỌC]` Áp dụng vào case BCPC: thay vì Chris cãi lại Robin ở nấc kết luận, slide 6 đặt câu hỏi *"Chris có thể hỏi Robin câu gì thay vì cãi lại?"* Câu hỏi đúng sẽ chạm vào **The Situation** của Robin: Robin đang chịu trách nhiệm về hạ tầng, nên "chi phí" trong đầu Robin là chi phí của một thất bại hạ tầng ai cũng nhìn thấy.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 6 đặt thẳng câu hỏi gốc: **"Vì sao học được từ người bất đồng với mình lại khó đến thế?"** `[SUY LUẬN]` Lỗi thường gặp là làm Inquiry hình thức — hỏi một câu lấy lệ rồi chuyển ngay sang Advocacy. Dấu hiệu nhận biết: bạn đã biết mình sẽ nói gì tiếp theo trước khi họ trả lời xong.
+
+## Phân biệt với framework gần giống
+- `FW-020` **Ladder of Inference** giải thích *vì sao* cần hỏi; `FW-021` là *cách* hỏi.
+- `FW-015` **Influence Without Authority** cũng bắt đầu bằng việc hiểu bên kia, nhưng nhằm tìm vùng trao đổi có lợi cho cả hai; `FW-021` nhằm tìm ra sự thật chung trước một quyết định.
+
+## Cách kết hợp với framework khác
+Trình tự xử lý một bất đồng liên bộ phận: `FW-020` tụt thang để thấy dữ liệu khác nhau → `FW-021` hỏi để hiểu → nếu vẫn xung đột lợi ích thật thì `FW-016` chọn chế độ → `CON-009` quyết ai chốt.
+
+## Nguồn
+- `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 11–12]`
+- Bối cảnh case: slide 6; `[MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4]`
+
+=====
+
+---
+id: FW-022
+type: framework
+title_vi: Chuỗi sáu chặng làm việc với stakeholder
+title_en: MAP - PRIORITISE - TRUST - INFLUENCE - ALIGN - ACT
+aliases: [sáu chặng stakeholder, stakeholder strategy sequence, the day in one framework]
+keywords: [quy trình làm việc với stakeholder, chiến lược stakeholder, 90 ngày, lập bản đồ, xếp ưu tiên, xây niềm tin, gây ảnh hưởng, đồng thuận, hành động, bắt đầu từ đâu với các bên liên quan]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12]
+problems_addressed: [PRB-002]
+related_ids: [FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 5, 39"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT (Chuỗi sáu chặng làm việc với stakeholder)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chuỗi sáu chặng là xương sống của Topic 12: nó ghép bảy lý thuyết rời rạc thành **một quy trình chạy được từ đầu đến cuối**, mỗi chặng gắn với một lý thuyết lõi và một công cụ thực hành. Dùng khi bạn cần một chiến lược stakeholder cho một sáng kiến có thật, không chỉ một mô hình lẻ.
+
+## Mục đích
+`[KHÓA HỌC]` Đầu ra của cả buổi (slide 3, 40): **một chiến lược stakeholder 90 ngày khả thi, gắn với một sáng kiến công nghệ có thật.** Tiền đề ở slide 4: **sáng kiến công nghệ thành công hay chết là do quan hệ, không chỉ do roadmap.**
+
+## Khi nào dùng
+Khởi động sáng kiến cắt ngang nhiều bộ phận; dự án bế tắc vì lý do chính trị chứ không phải kỹ thuật; lập kế hoạch 90 ngày cho vai trò mới.
+
+## Khi nào KHÔNG dùng
+Khi chỉ cần một công cụ lẻ — vào thẳng chunk tương ứng. Khi vấn đề nằm trong nội bộ team bạn quản lý trực tiếp.
+
+## Các bước áp dụng
+
+| Chặng | Câu hỏi lõi | Lý thuyết chính | Công cụ thực hành | Chunk |
+|---|---|---|---|---|
+| **MAP** | Ai quan trọng? | Freeman | Stakeholder Ecosystem | `FW-011` |
+| **PRIORITISE** | Tôi nên tập trung vào đâu? | Mendelow | Power–Interest Matrix | `FW-012` |
+| **TRUST** | Tôi xây uy tín thế nào? | Kouzes & Posner / Edmondson | Trust & Safety Check | `FW-013` |
+| **INFLUENCE** | Tôi dịch chuyển người ta thế nào? | French & Raven / Cohen & Bradford | Influence Planner | `FW-014`, `FW-015` |
+| **ALIGN** | Tôi xử lý bất đồng thế nào? | Thomas–Kilmann | Conflict Planner | `FW-016` |
+| **ACT** | Tôi huy động thay đổi thế nào? | Kotter | Coalition Map | `FW-017` |
+
+Diễn giải bảng: ba chặng đầu là **hiểu và chuẩn bị**; ba chặng sau là **hành động**. Slide 2 chia đúng theo đó: sáng *Understand the Landscape, Build Credibility*, chiều *Influence, Alignment and Action*.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ba câu tự kiểm ở slide 3 và 40:
+1. *"Tôi biết bản đồ stakeholder của mình."* — ai có ảnh hưởng, họ quan tâm gì, rủi ro ở đâu.
+2. *"Tôi biết cách gây ảnh hưởng tới họ."* — điều chỉnh được theo niềm tin, quyền lực, động cơ và bản chất quan hệ.
+3. *"Tôi biết mình sẽ làm gì tiếp theo."* — có chiến lược 90 ngày gắn với sáng kiến có thật.
+
+## Ví dụ
+`[KHÓA HỌC]` Đầu ra buổi sáng (slide 20): **một bản đồ stakeholder đã xếp ưu tiên** trên Power–Interest Matrix, và **ba quan hệ ưu tiên** từ Executive Influence Map, mỗi quan hệ kèm một cuộc trò chuyện kế tiếp đã lên lịch.
+
+`[BỔ SUNG]` Đề xuất đổi hướng bài toán DS: MAP ra cả Legal và team vận hành chứ không chỉ PM → PRIORITISE thấy Legal ở ô Keep Satisfied cần báo sớm → TRUST xây bằng việc nói thẳng chỗ mô hình chưa chắc → INFLUENCE trao đổi có đi có lại với Data Engineering → ALIGN khi PM muốn bỏ bước kiểm định → ACT xếp ai là Undecided trong hội đồng duyệt.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Chuỗi này **không bắt buộc tuyến tính**. Thực tế bạn sẽ quay lại MAP khi phát hiện một bên bị bỏ sót ở chặng ALIGN. Sai lầm thường gặp là nhảy thẳng vào INFLUENCE mà bỏ TRUST — thuyết phục khi chưa có uy tín thì mọi công cụ đều kém hiệu lực.
+
+## Phân biệt với framework gần giống
+Đây là **khung tổng hợp**, không phải lý thuyết độc lập — mỗi chặng trỏ tới một chunk riêng. `FW-007` cũng là khung nhiều yếu tố nhưng hướng vào **thiết kế hành vi trong nhóm**; `FW-022` hướng ra **chính trị tổ chức bên ngoài nhóm**.
+
+## Cách kết hợp với framework khác
+Sau chặng ACT, nếu cần trình bày chính thức để xin phê duyệt thì chuyển sang bộ công cụ của Topic 19: `FW-018` SCQA, `FW-019` Pyramid Principle và `CON-007` pre-wiring.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 5, 39]`
+- Bối cảnh: slide 2–4 (khung ngày học), slide 20 (đầu ra buổi sáng), slide 40 (tự kiểm cuối ngày).

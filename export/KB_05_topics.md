@@ -202,3 +202,209 @@ Buổi học bằng trải nghiệm: bốn hoạt động liên tiếp để ng�
 
 ## Nguồn
 `[MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 1–38]`
+
+=====
+
+---
+id: TOP-MEGROW-12
+type: topic
+title_vi: Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ
+title_en: Stakeholder Influence & Leadership in Technology
+aliases: [Topic 12 megrow, stakeholder influence]
+keywords: [stakeholder, ảnh hưởng, quyền lực, xung đột, liên minh, uy tín, Freeman, Mendelow, French Raven, Cohen Bradford, Thomas Kilmann, Kotter, Kouzes Posner]
+levels: [ORG]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-002, PRB-010, PRB-011, PRB-008]
+related_ids: [FW-022, FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017, TOP-MEGROW-19, TOP-MEGROW-14]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41", "MEGROW | Topic 12 | [Case Reading] Microsoft's Turnaround – The Satya Nadella Story.pdf | Trang 1–7"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 12: Stakeholder Influence & Leadership in Technology
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`**. Level **ORG**. Giảng viên: Prof Seng Kiat Kok. 41 slide, cả ngày, kèm bài đọc 7 trang.
+
+## Tóm tắt topic
+Buổi có cấu trúc chặt nhất khóa: **bảy lý thuyết, mỗi lý thuyết một công cụ**, ghép thành chuỗi sáu chặng chạy từ đầu đến cuối. Câu hỏi lõi (slide 1, 4): *"Làm sao tôi xây được quan hệ, niềm tin và ảnh hưởng cần thiết để đẩy một chương trình công nghệ phức tạp tiến lên?"* Đầu ra: chiến lược stakeholder 90 ngày cho một sáng kiến có thật.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Khung ngày học** — bảy mảng trọng tâm chia sáng/chiều (s2), ba câu tự kiểm đầu ra (s3), câu hỏi lõi (s4).
+2. **Chuỗi sáu chặng** MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT (s5) → `FW-022`.
+3. **Sáng — hiểu bối cảnh, xây uy tín** (slide 6): Theory 1 Freeman (s7) → `FW-011`; Theory 2 Mendelow (s8) → `FW-012`; công cụ và hoạt động lập bản đồ (s9–11); Theory 3 Kouzes & Posner (s12–13) → `FW-013`; case Microsoft (s14); định nghĩa Influence và bốn hướng (s15–17) → `FW-015`; Executive Influence Map (s18–19); đầu ra buổi sáng (s20).
+4. **Chiều — ảnh hưởng, đồng thuận, hành động** (slide 21): định nghĩa Power và Theory 4 French & Raven (s22–27) → `FW-014`; Theory 5 Cohen & Bradford (s28–30) → `FW-015`; Theory 6 Thomas–Kilmann (s31–33) → `FW-016`; Theory 7 Kotter (s34–37) → `FW-017`.
+5. **Tổng kết** — bảng sáu chặng × lý thuyết × công cụ (s39), ba câu tự kiểm (s40), danh mục nguồn (s41).
+
+## Các chunk thuộc topic (ID)
+`FW-022` · `FW-011` · `FW-012` · `FW-013` · `FW-014` · `FW-015` · `FW-016` · `FW-017`
+
+## Bài tập và hoạt động trong lớp
+- **Lập bản đồ stakeholder** (slide 10): liệt kê ít nhất 10 bên ngoài tuyến báo cáo; xếp lên ma trận; **khoanh tròn tên nào xếp mà còn do dự**. Debrief: *"Ai xuất hiện trong điểm mù của bạn?"*
+- **Build Your Executive Influence Map** (slide 19): chọn ba bên ưu tiên nhất, chạy chuỗi năm câu hỏi, ghi cuộc trò chuyện làm trước và hạn chót. Debrief: *"Cuộc nào khiến bạn khó chịu nhất — điều đó nói lên gì?"*
+- **Run a Power Audit** (slide 26): chọn bên bạn thấy mình yếu thế; chạy ba câu hỏi; xác định **một nguồn quyền lực dùng chưa đủ**; cam kết một hành động trong quý. Debrief: *"Bạn quá dựa vào quyền lực chức danh ở đâu?"*
+- **Plan and Rehearse an Exchange** (s30): hoàn thành Conversation Planner cho một kịch bản, dựng pitch, trình bày.
+- **Map Your Coalition, Move the Undecided** (slide 37, 25 phút): xếp năm nhóm; vì sao nhóm Undecided chưa cam kết; brainstorm **lời "có" ít rủi ro**; soạn câu mở đầu. Debrief: *"Người Blocker nào thật ra là Undecided bị phân loại nhầm?"*
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Map the system before trying to influence the system."* (s7)
+- *"Not every stakeholder needs equal attention — but the right stakeholders need the right attention."* (s8)
+- *"Your influence is shaped by how people experience your leadership — not just by your title."* (s12)
+- *"Ask not only 'What authority do I have?' but 'What sources of influence do I have?'"* (s23)
+- *"The goal is not to avoid conflict — it is to choose the response that best serves the outcome."* (s31)
+- *"Power is in itself neutral."* (s22) · Slide 4: **sáng kiến công nghệ thành hay bại là do quan hệ, không chỉ do roadmap.**
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-19` nối thẳng: có bản đồ và liên minh rồi thì Topic 19 dạy cách trình bày để được duyệt. Dùng chung chunk `FW-012`.
+- `TOP-MEGROW-14` bổ sung chặng ALIGN: Thomas–Kilmann chọn *cách phản ứng*, `FW-020` chẩn đoán *vì sao* có bất đồng.
+- `[SUY LUẬN]` Slide 39 ghi chặng TRUST dựa trên **Kouzes & Posner kết hợp Edmondson** nhưng không có slide giải thích phần Edmondson; nội dung đó nằm ở Topic 13, sẽ liên kết khi xử lý.
+- `[SUY LUẬN]` `FW-017` Kotter chồng chủ đề với `FW-007` của Topic 06: một bên chính trị tổ chức, một bên thiết kế hành vi.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41]`
+- `[MEGROW | Topic 12 | [Case Reading] Microsoft's Turnaround – The Satya Nadella Story.pdf | Trang 1–7]` — *Bloomberg Businessweek*, 6/5/2019, Austin Carr & Dina Bass.
+
+=====
+
+---
+id: TOP-MEGROW-14
+type: topic
+title_vi: Ra quyết định trong nhóm liên chức năng
+title_en: Decision Making in Cross-functional Teams
+aliases: [Topic 14 megrow, BCPC, decision making cross-functional]
+keywords: [ra quyết định, nhóm liên chức năng, cross-functional, động lực nhóm, group dynamics, thang suy luận, ladder of inference, advocacy inquiry, BCPC, Edmondson]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-010, PRB-003, PRB-002]
+related_ids: [FW-020, FW-021, CON-009, FW-006, FW-016, TOP-MEGROW-12]
+source: ["MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14", "MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 14: Decision Making in Cross-functional Teams
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`**. Level **ORG**, phụ **TEAM**. Giảng viên: Dr Phuong Nguyen, 16/10/2026. 14 slide — deck ngắn nhất khóa — kèm case 4 trang.
+
+## Tóm tắt topic
+Buổi xoay quanh **một bài tập đóng vai duy nhất**: team chiến lược Internet của Big City Phone Company (BCPC) phải khuyến nghị CEO nên tung sản phẩm HIP theo hướng nào. Deck ngắn vì phần lớn thời gian lớp dành cho bài tập; slide là phần rút ra sau đó.
+
+Câu hỏi trung tâm (slide 6): **cùng thử thách, cùng giới hạn thời gian, vì sao các nhóm lại đi tới những quyết định khác nhau?** Câu trả lời: vì **quy trình nhóm**, không vì dữ liệu.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Phản tư sau bài tập** (s2): thảo luận diễn ra thế nào; lúc đầu có đồng ý không; có học được gì từ người khác không; nhóm chốt bằng cách nào.
+2. **Vai trò của động lực nhóm trong ra quyết định quản trị** (s3).
+3. **Đối thoại trong BCPC** (s4): Robin nói *"Sẽ tốn quá nhiều nếu ta làm vậy"*, Chris nói *"Sẽ tốn quá nhiều nếu ta KHÔNG làm vậy"* — **cùng một loại chi phí không?**
+4. **Hiểu sự bất đồng** (s5): bày song song hai cách kể của Chris và Robin. **Gỡ bế tắc** (s6): Chris có thể hỏi gì thay vì cãi lại; vì sao học từ người bất đồng lại khó.
+6. **Thang Suy luận** (s7–10) → `FW-020`: năm nấc; ví dụ Vận hành so với Marketing cho thấy **kết luận đối nghịch bắt nguồn từ việc chọn những tập dữ liệu khác nhau**.
+7. **Để tiến lên được** (s11–12) → `FW-021`: Inquiry trước Advocacy, **ASK QUESTIONS**.
+8. **Dẫn dắt nhóm** (s13) → `CON-009`: thế lưỡng nan giả giữa độc đoán và đồng thuận.
+
+## Các chunk thuộc topic (ID)
+`FW-020` · `FW-021` · `CON-009`
+
+## Bài tập và hoạt động trong lớp
+- **Bài tập đóng vai BCPC** (chạy trước khi vào slide; tài liệu `[Case Reading] of topic 14 .pdf`). BCPC là một "Baby Bell" thành công, 30 triệu đường dây, cạnh tranh bằng chất lượng dịch vụ. Sản phẩm HIP (modem tốc độ cao trên đường dây sẵn có) đã thử nghiệm thành công; công ty đứng trước hai lựa chọn: **(1) tự triển khai HIP thành dịch vụ bán lẻ toàn vùng**, hoặc **(2) làm nhà bán sỉ, học từ sai lầm của các nhà bán lẻ khác**.
+- **Cơ chế:** nhóm sáu người, mỗi người một phiếu vai riêng. Các vai trải trên nhiều cấp bậc — trưởng nhóm phát triển kinh doanh, cùng tài chính, marketing, hệ thống thông tin, vận hành, nhân sự — **tạo thách thức thật về giao tiếp cởi mở**.
+- `[KHÓA HỌC]` Quy tắc (Exhibit 1): **không chia sẻ phiếu vai với người khác**; được tự do đưa thông tin mình nắm theo đúng vai; làm bảng tên nhân vật.
+- Hai câu nhóm phải trả lời trước khi báo cáo CEO: **(1) khuyến nghị BCPC làm gì với việc tung HIP? (2) nhóm đã cân nhắc những vấn đề then chốt nào?**
+- **Bài tập cá nhân** (s12): viết ra **một câu hỏi sẽ dùng trong cuộc họp liên chức năng tiếp theo**.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Are they arguing about the same cost?"* (s4)
+- *"Too many workplace conversations take place on the Conclusion Rung."* (s8)
+- *"Opposing conclusions usually stem from the selection of different data."* (s10)
+- *"Seek first to understand"* rồi mới *"seek to be understood"* — **ASK QUESTIONS** (s11)
+- *"This is a false dichotomy!"* và *"Effective leaders can and must invite input from the team – AND they can (and often must) reserve the right to make the call."* (s13)
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-12` bổ sung ở chặng ALIGN: `FW-016` chọn *cách phản ứng*, `FW-020` chẩn đoán *vì sao* có bất đồng. Chạy `FW-020` trước `FW-016`.
+- `FW-006` Vroom–Yetton–Jago từ Topic 10 cung cấp **từ vựng cụ thể** cho thế lưỡng nan giả ở slide 13: năm mức AI, AII, CI, CII, GII.
+- `[SUY LUẬN]` Case BCPC do Amy C. Edmondson viết, gắn với chủ đề an toàn tâm lý — nội dung đó nằm ở Topic 13, chưa xử lý.
+
+## Nguồn
+- `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14]`
+- `[MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4]` — Edmondson, A. C. *The BCPC Internet Strategy Team: An Exercise*, HBS 604-035, rev. 7/1/2016.
+
+=====
+
+---
+id: TOP-MEGROW-19
+type: topic
+title_vi: Trình bày business case để được duyệt
+title_en: Presenting Business Cases - Getting Buy-in
+aliases: [Topic 19 megrow, present business case, getting buy-in]
+keywords: [business case, trình bày, xin phê duyệt, SCQA, Pyramid Principle, MECE, stakeholder mapping, pre-wiring, action title, California Fitness, VNG AI debate]
+levels: [ORG]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-008, PRB-002]
+related_ids: [FW-018, FW-019, FW-019-01, FW-012, CON-007, CON-008, TOP-MEGROW-12]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 19: Presenting Business Cases (Getting buy-in)
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`**. Level **ORG**. Giảng viên: Dr Tony Nguyen. 33 slide, buổi 3 tiếng.
+
+## Tóm tắt topic
+Ba công cụ trả lời ba câu hỏi mọi người ra quyết định đều hỏi (slide 5–6):
+
+| Câu hỏi của người nghe | Công cụ |
+|---|---|
+| **Vì sao việc này quan trọng?** | SCQA → `FW-018` |
+| **Lập luận có đứng vững không?** | Pyramid Principle → `FW-019` |
+| **Ai khác đã đồng ý?** | Stakeholder Mapping → `FW-012` |
+
+`[KHÓA HỌC]` Chẩn đoán nền (slide 5): **ý tưởng tốt mất ủng hộ không phải vì sai, mà vì người nghe không thấy vì sao nó quan trọng, nó gắn kết ra sao, và ai khác đã đồng ý.**
+
+Trình tự (slide 6, 28): **học theo SCQA → Pyramid → Mapping, nhưng dùng ngược lại — bản đồ trước, lập luận thứ hai, mở đầu sau cùng.**
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Mở đầu** — kết quả học tập (s2), agenda (s3), thảo luận về *một ý tưởng từng bị gạt đi* (s4), chẩn đoán và bộ ba công cụ (s5–6).
+2. **Part 01 — SCQA** (s7–13) → `FW-018`: case California Fitness (s8), bẫy "đừng tranh cãi với mục tiêu của họ" (s9) → `CON-008`, cấu trúc (s10), pitch mẫu (s11), bốn cái bẫy (s12), bài tập (s13). Nghỉ (s14).
+3. **Part 02 — Pyramid Principle** (s15–22) → `FW-019`: nối với SCQA (s16), ba tầng (s17), MECE (s18), reasons vs chain (s19), kim tự tháp đầy đủ (s20), action title (s21) → `FW-019-01`, board paper (s22).
+4. **Part 03 — Stakeholder Mapping** (s23–26) → `FW-012`: Power–Interest Grid (s24), bản đồ California Fitness (s25), pre-wiring (s26) → `CON-007`.
+
+5. **Part 04 — Ghép lại** (s27–30): trình tự bốn bước (s28), Final Challenge (s29–30). **Kết** — đọc thêm (s31), key takeaway *"Map. Build. Open."* (s32), nguồn (s33).
+
+## Các chunk thuộc topic (ID)
+`FW-018` · `FW-019` · `FW-019-01` · `FW-012` · `CON-007` · `CON-008`
+
+
+## Bài tập và hoạt động trong lớp
+- **Table Discussion, Handout 1** (s4, 15 phút): kể một ý tưởng từng bị gạt đi — là gì, vì sao không được ủng hộ, nhìn lại sẽ làm khác thế nào. `[KHÓA HỌC]` **Giữ ẩn danh, bỏ tên người và mọi chi tiết nhận dạng.**
+- **Rebuild your story with SCQA, Handout 2** (s13, 40 phút): viết lại câu chuyện thành SCQA, nêu đích danh người ra quyết định, bốn câu cho thấy ý tưởng **bảo vệ mục tiêu của họ**, rà bốn cái bẫy; đọc trong bàn, chọn một bản lên flipchart; chia sẻ cả phòng 60 giây mỗi bàn — **cả phòng đóng vai người quyết: "duyệt" hoặc "chưa", kèm một lý do.**
+- **Board paper** (s22, 15 phút): dựng kim tự tháp dưới pitch của bàn; 5 phút cuối **đổi bàn**, để lại hai ghi chú — một chỗ chồng lấn hoặc thiếu, một câu hỏi khó nhất.
+- **Final Challenge** (s29–30, 37 phút): tranh biện *"VNG nên tăng mạnh đầu tư AI trong 2027"*, dùng bộ dữ kiện chung ở slide 29. Luật chơi: chỉ dùng dữ kiện đó và thông tin công khai, **không dùng thông tin nội bộ**; phe phản đối **phải đưa phương án thay thế**. Debrief: *"Điều gì thuyết phục được hội đồng — cách đóng khung, bằng chứng, hay lời đề nghị?"*
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Don't argue against their goal. Show how your idea protects it."* (s9)
+- *"SCQA gets you to 'tell me more.' The Pyramid gets you to 'approved.'"* (s16)
+- *"The skim test: read only your slide titles, in order. If they tell the whole story, your pyramid works."* (s21)
+- *"Win the decision before the meeting, not in it."* (s26)
+- *"The recommendation never changes between audiences. The emphasis and evidence do."* (slide 28)
+- Key takeaway (s32): **Map. Build. Open.** — biết ai phải nói "có", cho họ lập luận rõ, mở đầu bằng câu chuyện họ đã đồng ý.
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-12` đi trước về logic: lập bản đồ và xây liên minh; Topic 19 là bước trình bày để chốt. `FW-012` dùng chung cho cả hai.
+- `[SUY LUẬN]` Topic 17 cung cấp phần **nội dung** của business case (PESTEL, options table, line-of-sight test); Topic 19 cung cấp phần **cấu trúc trình bày**. Slide 38 của Topic 17 xác nhận Topic 19 diễn ra sau.
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33]`
+- Số liệu Final Challenge: The Investor (9/2026), TNGlobal (8/2026).

@@ -5,6 +5,87 @@ Bản gộp tự động bởi `scripts/export.py`. Mỗi chunk giữ nguyên fr
 =====
 
 ---
+id: PRB-002
+type: problem
+title_vi: Làm việc với stakeholder để xây dựng và thống nhất bài toán
+title_en: Working with stakeholders to define and agree the problem
+aliases: [stakeholder, thuyết phục không có quyền, quản lý kỳ vọng, biết từ chối]
+keywords: [stakeholder, thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business sang bài toán DS, quản lý kỳ vọng, độ bất định, biết từ chối, đề xuất bị bác, bị giao việc không hợp lý, làm việc với bộ phận khác]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12, TOP-MEGROW-19, TOP-MEGROW-14]
+problems_addressed: []
+related_ids: [FW-022, FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017, FW-018, FW-019, FW-020, FW-021, CON-007, CON-008]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41", "MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–12"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Làm việc với stakeholder để xây dựng và thống nhất bài toán
+
+Mức ưu tiên: **Cao** (vấn đề số 2) — người dùng nêu đích danh.
+
+## Cách người dùng thường mô tả
+"Không có quyền chỉ đạo họ mà vẫn phải làm cho xong." · "Đề xuất bị bác mà không hiểu vì sao." · "Business nói một kiểu, mình hiểu một kiểu." · "Họ kỳ vọng mô hình chắc chắn, mà bài toán vốn bất định." · "Không biết từ chối thế nào." · "Họp xong mỗi người hiểu một kiểu."
+
+## Triệu chứng quan sát được
+- Sáng kiến bị chặn mà không rõ ai đang chặn.
+- Người quan trọng nhất chỉ biết tới dự án ở phút cuối rồi phản đối.
+- Hai bên dùng cùng một từ với hai nghĩa khác nhau.
+- Dành hết thời gian cho người nhiệt tình nhưng không có quyền quyết.
+- Đề xuất đúng kỹ thuật nhưng bị nghe thành phản đối chiến lược.
+
+## Câu hỏi chẩn đoán
+1. Ai ảnh hưởng tới thành công của sáng kiến mà tôi đang **đánh giá thấp**? (`FW-011`)
+2. Dồn năng lực quan hệ có hạn vào đâu — ai Manage Closely, ai Keep Satisfied? (`FW-012`)
+3. Tôi đang dùng chưa đủ **nguồn quyền lực** nào? (`FW-014`)
+4. Điều gì quan trọng với họ, và hai bên tạo giá trị cho nhau thế nào? (`FW-015`)
+5. Đây là xung đột lợi ích thật, hay hai bên đứng trên hai tập dữ liệu khác nhau? (`FW-020`)
+6. Đề xuất đang **tấn công** hay **bảo vệ** mục tiêu của họ? (`CON-008`)
+7. Ai trong nhóm Undecided dịch chuyển được bằng một lời "có" ít rủi ro? (`FW-017`)
+
+## Nguyên nhân gốc rễ và framework tương ứng
+
+| Nguyên nhân gốc rễ | Biểu hiện | Framework |
+|---|---|---|
+| Chưa lập bản đồ đầy đủ các bên | Người quan trọng xuất hiện phút cuối | `FW-011` |
+| Phân bổ sai sự chú ý | Dồn cho người nhiệt tình, bỏ quên người có quyền phủ quyết | `FW-012` |
+| Thiếu uy tín để được nghe | Nói đúng nhưng không ai theo | `FW-013` |
+| Chỉ dựa vào quyền hạn chính thức mình không có | Bế tắc vì "họ không thuộc quyền mình" | `FW-014` |
+| Đi xin thay vì đi trao đổi | Đề nghị một chiều, thiếu vế "tôi đưa gì" | `FW-015` |
+| Khác tập dữ liệu, bị tưởng là xung đột | Cãi ở nấc kết luận, không đi tới đâu | `FW-020`, `FW-021` |
+| Xung đột thật nhưng phản ứng theo phản xạ | Luôn né, hoặc luôn thỏa hiệp | `FW-016` |
+| Đóng khung đề xuất sai | Nghe thành lời phản đối chiến lược | `CON-008` |
+| Lập luận lỏng, trụ chồng lấn | Sụp ở phần Q&A | `FW-019` |
+| Mở đầu không chạm mối bận tâm người nghe | Mất phòng họp trong ba phút đầu | `FW-018` |
+| Vào họp mới thuyết phục | Bị bác bởi phản đối lẽ ra xử lý được từ trước | `CON-007` |
+| Thay đổi cần ủng hộ rộng nhưng không có liên minh | Duyệt trên giấy, không ai làm | `FW-017` |
+
+Diễn giải bảng: sáu dòng đầu là vấn đề **quan hệ**; sáu dòng sau là vấn đề **truyền đạt**.
+
+## Dấu hiệu cần leo thang hoặc can thiệp khác
+- Bất đồng về **quyền quyết định** chứ không phải nội dung → `CON-003`, `CON-009`.
+- Bài toán chưa được định nghĩa rõ chứ không phải thiếu thuyết phục → vấn đề số 1. `[SUY LUẬN]` Topic 02, 16, 17 phụ trách, chưa xử lý.
+- Stakeholder liên tục đổi yêu cầu → vấn đề ưu tiên cấp tổ chức, ngoài tầm công cụ ảnh hưởng.
+
+## Chỉ số theo dõi sau xử lý
+- Tỷ lệ bên liên quan xuất hiện muộn giữa chừng (kỳ vọng: giảm).
+- Tỷ lệ đề xuất được duyệt ngay lần trình đầu.
+- Số cuộc pre-meet 1:1 trước mỗi quyết định lớn (kỳ vọng: > 0).
+- Số phản đối lớn xuất hiện lần đầu **trong** phòng họp (kỳ vọng: về 0).
+- Số người nhóm Undecided dịch chuyển sang ủng hộ mỗi quý.
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41]`
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33]`
+- `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–12]`
+
+=====
+
+---
 id: PRB-003
 type: problem
 title_vi: Thiết kế framework làm việc và giải quyết vấn đề cho team
@@ -13,10 +94,10 @@ aliases: [quy trình làm việc, cách ra quyết định của team, chuẩn c
 keywords: [quy trình, process, phối hợp, coordination, ra quyết định, decision making, tiêu chuẩn chất lượng, nút thắt, bottleneck, team làm việc lộn xộn, ai quyết cái gì, họp nhiều mà không ra quyết định]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-10]
+topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14]
 problems_addressed: []
-related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006]
-source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–37"]
+related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021]
+source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–37", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13"]
 source_type: course
 confidence: medium
 status: needs_review
@@ -28,7 +109,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 
-> `[SUY LUẬN]` Chunk này mới phủ phần **ra quyết định và quyền sở hữu** từ Topic 06 và 10. Phần **đo lường, nhịp review và hệ thống giao hàng** nằm ở Topic 02, phần **quy trình giải quyết vấn đề** nằm ở Topic 16 — cả hai chưa xử lý. Vì vậy `status: needs_review`.
+> `[SUY LUẬN]` Chunk này phủ phần **ra quyết định và quyền sở hữu** từ Topic 06, 10 và 14. Phần **đo lường, nhịp review và hệ thống giao hàng** nằm ở Topic 02, phần **quy trình giải quyết vấn đề** nằm ở Topic 16 — cả hai chưa xử lý. Vì vậy `status: needs_review`.
 
 ## Cách người dùng thường mô tả
 "Mỗi người làm một kiểu." · "Họp nhiều mà không chốt được gì." · "Không rõ ai quyết cái gì." · "Lúc nào cũng bận mà việc quan trọng vẫn trễ." · "Việc gì cũng phải chờ tôi."
@@ -56,6 +137,8 @@ Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 | Không có chủ sở hữu duy nhất cho kết quả | Mỗi bên chứng minh phần mình đã đúng | `CON-003` |
 | Tải nhận thức không được thiết kế | Phê duyệt thừa, phụ thuộc chéo, người quá tải | `CON-006` |
 | Chưa có quy ước về vai trò của AI | Không rõ ai chịu trách nhiệm cho đầu ra có AI tham gia | `FW-010` |
+| Mức tham gia không được nói rõ từ đầu | Người ta tưởng mình cùng quyết rồi thấy không phải | `CON-009` |
+| Bất đồng do khác tập dữ liệu, bị tưởng là xung đột quy trình | Cùng một tranh luận lặp lại qua nhiều cuộc họp | `FW-020`, `FW-021` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Vấn đề nằm ở mục tiêu và cách đo chứ không ở quy trình → thuộc vấn đề số 1. `[SUY LUẬN]` Topic 02 phụ trách, chưa xử lý.
@@ -287,6 +370,153 @@ Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 =====
 
 ---
+id: PRB-008
+type: problem
+title_vi: Làm việc với cấp trên và gắn với chiến lược tổ chức
+title_en: Managing upward and linking to organisational strategy
+aliases: [quản lý ngược lên, managing up, báo cáo cấp trên, xin phê duyệt]
+keywords: [làm việc với sếp, managing up, xin phê duyệt, xin nguồn lực, báo cáo lên, gắn với chiến lược, business case, trình bày với ban lãnh đạo, bị cắt ngân sách]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-19, TOP-MEGROW-12]
+problems_addressed: []
+related_ids: [FW-018, FW-019, FW-019-01, FW-012, FW-015, CON-007, CON-008]
+source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33", "MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 17"]
+source_type: course
+confidence: medium
+status: needs_review
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Làm việc với cấp trên và gắn với chiến lược tổ chức
+
+Mức ưu tiên: **Trung bình** (vấn đề số 8 trong `problem_index.md`).
+
+> `[SUY LUẬN]` Chunk này phủ phần **trình bày và xin phê duyệt** (Topic 19) cùng phần **ảnh hưởng ngược lên** (Topic 12). Phần **gắn mục tiêu team với chiến lược công ty** — line-of-sight test, PESTEL, options table — nằm ở Topic 17, chưa xử lý. `status: needs_review`.
+
+## Cách người dùng thường mô tả
+"Xin nguồn lực mà không được duyệt." · "Sếp hỏi mấy câu là em đuối." · "Không biết diễn đạt giá trị của việc này cho ban lãnh đạo." · "Mình trình bày kỹ thuật, họ không quan tâm."
+
+## Triệu chứng quan sát được
+- Đề xuất bị hoãn vô thời hạn thay vì bị từ chối thẳng.
+- Phần hỏi đáp làm sụp cả bài trình bày.
+- Sếp nghe xong vẫn không rõ bạn đang xin gì.
+- Bạn trình bày quá trình làm, trong khi người nghe cần kết luận.
+
+## Câu hỏi chẩn đoán
+1. Ai thực sự phải nói "có", và họ quan tâm điều gì? (`FW-012`)
+2. Đề xuất của tôi đang **bảo vệ** hay **tấn công** mục tiêu của họ? (`CON-008`)
+3. Tôi đã nói thành lời cái **câu hỏi** mình cần họ trả lời chưa? (`FW-018`)
+4. Ba trụ lập luận của tôi có MECE không? Bằng chứng cho từng trụ là gì? (`FW-019`)
+5. Nếu họ chỉ đọc tiêu đề slide, câu chuyện có đứng được không? (`FW-019-01`)
+6. Ai tôi cần gặp riêng **trước** cuộc họp? (`CON-007`)
+
+## Nguyên nhân gốc rễ và framework tương ứng
+
+| Nguyên nhân gốc rễ | Biểu hiện | Framework |
+|---|---|---|
+| Mở đầu không chạm vào mối bận tâm của người nghe | Mất sự chú ý trong ba phút đầu | `FW-018` |
+| Đóng khung đề xuất như lời phản đối chiến lược | Bị bác dù nội dung đúng | `CON-008` |
+| Không nói ra câu hỏi cần quyết | Họ nghe xong không biết phải quyết gì | `FW-018` |
+| Lập luận chồng lấn hoặc thiếu mảng | Sụp ở phần hỏi đáp | `FW-019` |
+| Trình bày theo thứ tự mình làm, không theo thứ tự họ cần | Dẫn dắt dài, kết luận ở cuối | `FW-019` |
+| Tiêu đề slide nêu chủ đề thay vì kết luận | Người lướt slide không nắm được gì | `FW-019-01` |
+| Lần đầu người quyết nghe về đề xuất là trong cuộc họp | Bị chặn bởi phản đối lẽ ra xử lý được từ trước | `CON-007` |
+| Đi xin thay vì trao đổi hai chiều | Không có vế "tôi mang lại gì cho anh" | `FW-015` |
+
+Diễn giải bảng: bốn dòng đầu là lỗi **đóng khung và cấu trúc**; bốn dòng sau là lỗi **chuẩn bị và quan hệ**.
+
+## Dấu hiệu cần leo thang hoặc can thiệp khác
+- Đề xuất bị bác vì **không gắn với ưu tiên chiến lược** chứ không vì cách trình bày → `[SUY LUẬN]` cần line-of-sight test của Topic 17, chưa xử lý.
+- Sếp không có quyền quyết việc này → quay lại `FW-012`, có thể bạn đang thuyết phục nhầm người.
+- Vấn đề là khối lượng việc được giao chứ không phải việc xin nguồn lực → xem `CON-006`.
+
+## Chỉ số theo dõi sau xử lý
+- Tỷ lệ đề xuất được duyệt ngay lần trình đầu.
+- Số phản đối lớn xuất hiện lần đầu trong phòng họp (kỳ vọng: về 0).
+- Bộ slide có qua được skim test không (đọc riêng tiêu đề có kể hết câu chuyện).
+- Thời gian từ lúc trình tới khi có quyết định (kỳ vọng: giảm).
+
+## Nguồn
+- `[MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33]`
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 17]`
+
+=====
+
+---
+id: PRB-010
+type: problem
+title_vi: Xung đột trong team hoặc giữa các team
+title_en: Conflict within or between teams
+aliases: [xung đột, bất đồng, mâu thuẫn giữa bộ phận]
+keywords: [xung đột, conflict, bất đồng, cãi nhau trong họp, hai bộ phận không thống nhất, căng thẳng, tranh luận không đi tới đâu, mâu thuẫn ưu tiên]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-12, TOP-MEGROW-14]
+problems_addressed: []
+related_ids: [FW-016, FW-020, FW-021, CON-009, FW-015]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–13"]
+source_type: course
+confidence: medium
+status: needs_review
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Xung đột trong team hoặc giữa các team
+
+Mức ưu tiên: **Thấp** (vấn đề số 10 trong `problem_index.md`). CLAUDE.md §2 quy định tạo `PRB` cho mức Thấp khi khóa học có nội dung liên quan — Topic 12 và 14 đều có.
+
+> `[SUY LUẬN]` Chunk này phủ **xung đột giữa các bộ phận và trong ra quyết định**. Phần **xung đột về hành vi cá nhân trong team** nằm ở Topic 08, phần **an toàn tâm lý để dám nêu bất đồng** nằm ở Topic 13 — chưa xử lý. `status: needs_review`.
+
+## Cách người dùng thường mô tả
+"Hai bên cãi mãi không đi tới đâu." · "Em với bạn ấy không thống nhất được cách tiếp cận." · "Bộ phận kia lúc nào cũng chặn." · "Cả hai đều có lý mà vẫn không ra quyết định."
+
+## Triệu chứng quan sát được
+- Cùng một từ được hai bên dùng với hai nghĩa khác nhau.
+- Tranh luận lặp lại ở cùng một chỗ qua nhiều cuộc họp.
+- Một bên im lặng rút lui thay vì nêu phản đối.
+- Quyết định được đưa ra rồi lại bị mở lại.
+
+## Câu hỏi chẩn đoán
+1. Hai bên đang ở nấc nào của thang suy luận — đang cãi ở kết luận hay đang so dữ liệu? (`FW-020`)
+2. Mỗi bên đang **chọn tập dữ liệu nào**? (`FW-020`)
+3. Tôi đã thực sự hỏi về ý định, nguồn lực và tình thế của họ chưa? (`FW-021`)
+4. Vấn đề thật sự là gì; cái gì thương lượng được, cái gì không? (`FW-016`)
+5. Chế độ ứng xử nào phù hợp với tình huống này, và tôi đang mặc định rơi vào chế độ nào? (`FW-016`)
+6. Đây là bất đồng về nội dung hay về **ai được quyền chốt**? (`CON-009`)
+
+## Nguyên nhân gốc rễ và framework tương ứng
+
+| Nguyên nhân gốc rễ | Biểu hiện | Framework |
+|---|---|---|
+| Hai bên đứng trên hai tập dữ liệu khác nhau | Kết luận đối nghịch, ai cũng thấy mình đúng | `FW-020` |
+| Cãi ở nấc kết luận, không ai tụt thang | Tranh luận lặp lại không tiến triển | `FW-020` |
+| Advocacy trước Inquiry | Chuẩn bị câu phản bác trong lúc người kia còn nói | `FW-021` |
+| Phản ứng theo phản xạ, không chọn chế độ | Luôn né tránh, hoặc luôn thỏa hiệp | `FW-016` |
+| Chưa tách được cái thương lượng được và không được | Nhượng bộ ở đúng chỗ không nên nhượng | `FW-016` |
+| Mức tham gia vào quyết định không được nói rõ | Người ta tưởng mình cùng quyết rồi thấy không phải | `CON-009`, `FW-006` |
+| Không tìm vùng giá trị chung | Cuộc trao đổi thành cuộc mặc cả thắng–thua | `FW-015` |
+
+## Dấu hiệu cần leo thang hoặc can thiệp khác
+- Xung đột mang tính cá nhân, chạm tới hành vi chứ không tới nội dung công việc → `[SUY LUẬN]` Topic 08 phụ trách, chưa xử lý.
+- Một bên không dám nêu bất đồng → vấn đề an toàn tâm lý. `[SUY LUẬN]` Topic 13 phụ trách, chưa xử lý; ID `PRB-009` đã đặt chỗ cho vấn đề đó.
+- Xung đột bắt nguồn từ việc hai bộ phận bị đo bằng những chỉ số mâu thuẫn nhau → vấn đề thiết kế tổ chức, không giải được bằng kỹ năng hội thoại.
+
+## Chỉ số theo dõi sau xử lý
+- Số lần cùng một tranh luận quay lại qua các cuộc họp (kỳ vọng: giảm).
+- Tỷ lệ quyết định bị mở lại sau khi đã chốt (kỳ vọng: giảm).
+- Trong các cuộc họp liên bộ phận: có ai đặt câu hỏi làm rõ dữ liệu trước khi phản bác không.
+- Mức tham gia được nói rõ ngay đầu buổi họp quyết định (kỳ vọng: luôn có).
+
+## Nguồn
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33]`
+- `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–13]`
+
+=====
+
+---
 id: PRB-011
 type: problem
 title_vi: Dẫn dắt thay đổi
@@ -295,10 +525,10 @@ aliases: [dẫn dắt thay đổi, change management, đổi cách làm việc]
 keywords: [thay đổi, change, chuyển đổi, transformation, thói quen mới, đổi quy trình, thông báo rồi không ai theo, cách làm mới không dính, dẫn dắt thay đổi]
 levels: [ORG, TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06]
+topics: [TOP-MEGROW-06, TOP-MEGROW-12]
 problems_addressed: []
-related_ids: [FW-007, FW-008, FW-009, CON-006]
-source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 12–45"]
+related_ids: [FW-007, FW-008, FW-009, FW-017, FW-012, CON-006]
+source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 12–45", "MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 34–37"]
 source_type: course
 confidence: medium
 status: needs_review
@@ -310,7 +540,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Thấp** (vấn đề số 11 trong `problem_index.md`). CLAUDE.md §2 quy định tạo `PRB` cho mức Thấp khi khóa học có nội dung liên quan — Topic 06 có.
 
-> `[SUY LUẬN]` Chunk này mới phủ góc nhìn **thiết kế thay đổi hành vi** của Topic 06. Góc nhìn **liên minh các bên liên quan** (Kotter) nằm ở Topic 12 và góc nhìn **AI-era change** nằm ở Topic 18 — chưa xử lý. `status: needs_review`.
+> `[SUY LUẬN]` Chunk này phủ góc nhìn **thiết kế thay đổi hành vi** (Topic 06) và **liên minh các bên liên quan** (Topic 12). Góc nhìn **AI-era change** nằm ở Topic 18, chưa xử lý. `status: needs_review`.
 
 ## Cách người dùng thường mô tả
 "Đã thông báo cách làm mới rồi mà không ai theo." · "Được vài tuần rồi đâu lại vào đấy." · "Mọi người gật đầu trong họp nhưng không đổi hành vi."
@@ -326,7 +556,8 @@ Mức ưu tiên: **Thấp** (vấn đề số 11 trong `problem_index.md`). CLAU
 2. Hành vi này hôm nay đo bằng gì? (`FW-007` — Metric)
 3. Team đang ở giai đoạn nào: Self-contained, Social Influencing, Identity Change hay Self-driven? (`FW-007` — Circles)
 4. Đòn bẩy xã hội nào đang bỏ trống? (`FW-008`)
-5. Nếu cách này hiệu quả quá mức, điều tệ nhất có thể xảy ra là gì? (`FW-007` — Ethics)
+5. Ai là Champions, Influencers, Decision Makers, Blockers, Undecided? (`FW-017`)
+6. Nếu cách này hiệu quả quá mức, điều tệ nhất có thể xảy ra là gì? (`FW-007` — Ethics)
 
 ## Nguyên nhân gốc rễ và framework tương ứng
 
@@ -339,9 +570,11 @@ Mức ưu tiên: **Thấp** (vấn đề số 11 trong `problem_index.md`). CLAU
 | Không nghĩ trước hệ quả ngoài ý muốn | Phản tác dụng, gây mất lòng tin | `FW-007` — Ethics |
 | Người thực thi không thấy mình sở hữu thay đổi | Làm cho có | `FW-009` |
 | Thay đổi làm tăng tải nhận thức | Team bỏ qua vì quá tải | `CON-006` |
+| Không có liên minh đủ ảnh hưởng ngoài team | Duyệt trên giấy, không bộ phận nào làm | `FW-017` |
+| Dồn sức thuyết phục Blockers, bỏ quên nhóm Undecided | Tốn công vào nhóm khó chuyển nhất | `FW-017` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
-- Thay đổi cần sự đồng thuận của nhiều phòng ban → cần công cụ liên minh các bên. `[SUY LUẬN]` Topic 12 phụ trách, chưa xử lý.
+- Thay đổi cần đồng thuận nhiều phòng ban → dùng `FW-017` Stakeholder Coalition Map và toàn bộ chuỗi `FW-022`.
 - Lực cản đến từ việc thay đổi mâu thuẫn với chỉ số mà bộ phận khác đang bị đo → vấn đề tổ chức, không giải được bằng thiết kế hành vi.
 
 ## Chỉ số theo dõi sau xử lý

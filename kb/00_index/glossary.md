@@ -2,7 +2,7 @@
 
 Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng Việt. Mỗi chunk vẫn phải tự giải thích thuật ngữ ở lần xuất hiện đầu tiên (CLAUDE.md §5.3) — glossary này là bảng tra cứu chung, không thay thế việc đó.
 
-**Trạng thái:** thuật ngữ từ Topic 01, 06 và 10 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
+**Trạng thái:** thuật ngữ từ Topic 01, 06, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
 
 ## Thuật ngữ vận hành kho tri thức
 
@@ -68,3 +68,45 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Transformation Design Framework | Khung Thiết kế Chuyển đổi | 8 yếu tố thiết kế thay đổi hành vi bền vững | `FW-007` |
 | Socium | Đòn bẩy ảnh hưởng xã hội | 7 đòn bẩy: Comparison, Competition, Recognition, Cooperation, Learning, Norms, Facilitation | `FW-008` |
 | Knowledge–Behaviour Gap | Khoảng cách giữa biết và làm | Biết điều gì quan trọng không đủ; năng suất đến từ việc làm điều đó đều đặn | `FW-007` |
+
+### Stakeholder và ảnh hưởng (Topic 12, 19)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Stakeholder | Bên liên quan | Bất kỳ ai có thể ảnh hưởng tới, hoặc bị ảnh hưởng bởi, tổ chức hay sáng kiến | `FW-011` |
+| Stakeholder Ecosystem Map | Bản đồ hệ sinh thái các bên | Hình dung mọi bên có lợi ích liên quan, vượt ngoài sơ đồ tổ chức | `FW-011` |
+| Power–Interest Matrix | Ma trận quyền lực – mức quan tâm | Bốn ô: Manage Closely · Keep Satisfied · Keep Informed · Monitor | `FW-012` |
+| Power | Quyền lực | Tiềm năng tác động tới hành vi và làm xong việc qua người khác; **tự nó trung tính** | `FW-014` |
+| Legitimate / Reward / Coercive power | Quyền lực chính danh / thưởng / cưỡng chế | Ba nguồn gắn với **vị trí** trong tổ chức | `FW-014` |
+| Expert / Referent / Informational power | Quyền lực chuyên môn / quy chiếu / thông tin | Ba nguồn gắn với **con người bạn** — phần tự xây được | `FW-014` |
+| Power Audit | Kiểm kê quyền lực | Ba câu: họ có quyền lực gì, tôi có gì, tôi xây thêm được gì | `FW-014` |
+| Influence | Ảnh hưởng | Năng lực trở thành lực tác động lên hành động, hành vi hoặc quan điểm người khác | `FW-015` |
+| Influence Without Authority | Gây ảnh hưởng không có quyền chỉ đạo | Đổi "làm sao để họ ủng hộ tôi" thành "giá trị chung nằm ở đâu" | `FW-015` |
+| Executive Influence Map | Bản đồ ảnh hưởng | Chuỗi 5 câu: họ coi trọng gì → sợ gì → cần gì ở tôi → tôi cần gì → trò chuyện gì tiếp | `FW-015` |
+| Champions / Influencers / Decision Makers / Blockers / Undecided | Năm nhóm lập trường | Phân loại các bên theo thái độ với thay đổi | `FW-017` |
+| Guiding Coalition | Liên minh dẫn dắt | Nhóm các bên có ảnh hưởng đủ sức dịch chuyển tổ chức | `FW-017` |
+| Pre-wiring | Vận động trước họp | Giành đồng thuận trước cuộc họp quyết định, không phải trong nó | `CON-007` |
+
+### Xung đột và ra quyết định nhóm (Topic 12, 14)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Assertiveness / Cooperativeness | Mức quyết đoán / mức hợp tác | Hai trục của Thomas–Kilmann | `FW-016` |
+| Avoiding · Competing · Compromising · Accommodating · Collaborating | Né tránh · cạnh tranh · thỏa hiệp · nhường nhịn · hợp tác | Năm chế độ ứng xử với xung đột | `FW-016` |
+| Ladder of Inference | Thang suy luận | Năm nấc từ kho dữ liệu sẵn có lên tới kết luận | `FW-020` |
+| Conclusion Rung | Nấc kết luận | Nơi quá nhiều cuộc trò chuyện ở công sở diễn ra | `FW-020` |
+| Pool of Available Data | Kho dữ liệu sẵn có | Toàn bộ dữ liệu, chung cho mọi người; mỗi người chỉ chọn một phần | `FW-020` |
+| Advocacy / Inquiry | Trình bày / hỏi để hiểu | Hỏi trước, trình bày sau — "seek first to understand" | `FW-021` |
+| False dichotomy | Thế lưỡng nan giả | Tưởng phải chọn giữa độc đoán và đồng thuận; thực ra làm được cả hai | `CON-009` |
+
+### Trình bày business case (Topic 19)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| SCQA | Tình huống – Biến cố – Câu hỏi – Câu trả lời | Cấu trúc mở đầu biến đề xuất thành câu chuyện người nghe đi theo được | `FW-018` |
+| Governing thought | Luận điểm chủ đạo | Khuyến nghị gói trong một câu, đặt ở đỉnh kim tự tháp | `FW-019` |
+| MECE | Không chồng lấn, không bỏ sót | Mutually Exclusive, Collectively Exhaustive | `FW-019` |
+| Reasons / Chain | Lý do / chuỗi | "và thêm nữa" cho các trụ; "do đó" bên trong một trụ | `FW-019` |
+| Action title | Tiêu đề nêu kết luận | Tiêu đề slide nêu kết luận, không nêu chủ đề | `FW-019-01` |
+| Skim test | Phép thử lướt | Đọc riêng tiêu đề các slide; nếu kể được trọn câu chuyện thì lập luận đứng vững | `FW-019-01` |
+

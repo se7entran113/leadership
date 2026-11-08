@@ -2,7 +2,7 @@
 
 Mọi mục `[CẦN XÁC NHẬN]`, `[KHÓ ĐỌC]` và mâu thuẫn chờ người dùng quyết định.
 
-**Trạng thái:** 8 mục — 5 từ bước inventory (2026-11-07), 3 mới từ bước xử lý Topic 01, 06, 10 (2026-11-08).
+**Trạng thái:** 9 mục — 5 từ bước inventory (2026-11-07), 3 từ đợt Topic 01/06/10, 1 từ đợt Topic 12/19/14 (2026-11-08).
 
 | ID | Mức | Tiêu đề | Trạng thái |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Mọi mục `[CẦN XÁC NHẬN]`, `[KHÓ ĐỌC]` và mâu thuẫn chờ ngư�
 | OQ-006 | Thấp | Topic 10 slide 26 dán nhãn D1/D3/D4 cho phong cách thay vì mức phát triển | Đang mở |
 | OQ-007 | Thấp | Tên mô hình "Vroom–Yetton–Jago" không khớp danh mục nguồn của chính deck | Đang mở |
 | OQ-008 | Trung bình | Khung 8 yếu tố của Topic 06 không có slide văn bản giải thích | Đang mở |
+| OQ-009 | Thấp | Topic 12 ghi chặng TRUST dựa trên Edmondson nhưng không có slide nào giải thích | Đang mở |
 
 ---
 
@@ -141,6 +142,20 @@ Nội dung đã được đọc bằng thị giác qua `pdftoppm`, nên biết *
 **Đã làm.** Các chunk `FW-007`, `FW-008`, `FW-009`, `TOP-MEGROW-06`, `PRB-007` và `PRB-011` đều để `confidence: medium` và `status: needs_review`; mọi phần diễn giải đều gắn nhãn `[SUY LUẬN]`.
 
 **Cần người dùng.** Nếu anh có ghi chép tại lớp, handout, hoặc link tài liệu của giảng viên (transforms.me) thì gửi để nâng ba chunk này lên `verified`. Nếu không, chúng vẫn dùng được nhưng nên đọc kèm lưu ý.
+
+---
+
+## OQ-009 — Topic 12 ghi chặng TRUST dựa trên Edmondson nhưng không có slide giải thích
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Bảng tổng hợp ở Topic 12 slide 39 ghi chặng **TRUST** dựa trên *"Kouzes & Posner / Edmondson"* với công cụ *"Trust & Safety Check"*. Danh mục nguồn ở slide 41 cũng liệt kê Edmondson, A. C. (2019), *The Fearless Organization*.
+
+Tuy nhiên **không slide nào trong Topic 12 giải thích phần Edmondson** — không có slide về psychological safety, và không có slide nào mô tả công cụ "Trust & Safety Check". Phần Kouzes & Posner thì có đầy đủ (slide 12) cùng case Microsoft (slide 14).
+
+**Đã làm.** `FW-013` ghi nhận nguyên trạng ở mục "Cách kết hợp với framework khác", gắn nhãn `[SUY LUẬN]`. Không tạo chunk cho phần Edmondson vì không có nội dung nguồn.
+
+**Cần người dùng.** Nếu buổi học có handout hoặc worksheet "Trust & Safety Check" không nằm trong file slide thì gửi để bổ sung. Nếu không, nội dung psychological safety sẽ được lấy từ **Topic 13** khi xử lý topic đó, và `FW-013` sẽ được liên kết sang.
 
 ---
 
