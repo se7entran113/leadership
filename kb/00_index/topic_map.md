@@ -4,7 +4,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 15 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–10, 12, 14, 16, 17, 19) — 637 / 777 trang trong phạm vi, độ phủ 82.0%.
+**Tiến độ MEGROW: 18 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–17, 19) — 733 / 777 trang trong phạm vi, độ phủ 94.3%.
 
 Topic 20 (Capstone, 28 trang) **để riêng, ngoài phạm vi kho** — xem Ghi chú.
 
@@ -34,7 +34,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-08` | 8 | Correcting Behaviour Through Coaching | Dr Thao Luong | TEAM + SELF | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-09` | 9 | Coaching for High Performance | Dr Quyen Dang | TEAM | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-10` | 10 | Adapt Your Leadership Style | Dr Tony Nguyen | TEAM | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-11` | 11 | Customised Approach for Individuals | Dr Gavin Nicholson | TEAM + SELF | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-11` | 11 | Customised Approach for Individuals | Dr Gavin Nicholson | TEAM + SELF | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | **đã xử lý** | 2026-11-07 |
 
 ### P3 `LEAD_ACROSS_ORGANISATION` — Topic 12–20 (level chính ORG)
 
@@ -42,10 +42,10 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-12` | 12 | Stakeholder Influence & Leadership in Technology | Prof Seng Kiat Kok | ORG | `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf` | 41 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-12` | 12 | ↳ *Case reading bổ sung:* Microsoft's Turnaround – The Satya Nadella Story | Bloomberg Businessweek, 6/5/2019 | ORG | `[Case Reading] Microsoft’s Turnaround – The Satya Nadella Story.pdf` | 7 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-13` | 13 | Building Trust & Open Communication in Teams | Dr Justin Xavier Batinadan | ORG + TEAM | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-13` | 13 | Building Trust & Open Communication in Teams | Dr Justin Xavier Batinadan | ORG + TEAM | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-14` | 14 | Decision Making in Cross-functional Teams | Dr Phuong Nguyen | ORG + TEAM | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-14` | 14 | ↳ *Case reading bổ sung:* The BCPC Internet Strategy Team: An Exercise | Amy C. Edmondson, HBS 604-035 | ORG + TEAM | `[Case Reading] of topic 14 .pdf` | 4 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | chưa xử lý | 2026-11-07 |

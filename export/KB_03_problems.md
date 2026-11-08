@@ -13,9 +13,9 @@ aliases: [chọn bài toán, định hướng, ưu tiên, roadmap team, nên là
 keywords: [chọn bài toán đáng làm, định hướng cho team, thứ tự ưu tiên, prioritisation, roadmap, không biết nên làm gì trước, team bận mà không ra kết quả, nhiều yêu cầu cùng lúc, đo sai kết quả, mục tiêu mơ hồ, gắn việc của team với chiến lược, nói không với yêu cầu]
 levels: [TEAM, ORG]
 courses: [MEGROW]
-topics: [TOP-MEGROW-02, TOP-MEGROW-17, TOP-MEGROW-16]
+topics: [TOP-MEGROW-02, TOP-MEGROW-17, TOP-MEGROW-16, TOP-MEGROW-15]
 problems_addressed: []
-related_ids: [FW-033, FW-034, FW-035, FW-036, FW-037, FW-038, FW-039, FW-040, FW-043, FW-044, FW-045, FW-046, FW-047, FW-048, FW-050, FW-052, CON-015, CON-017, CON-018, CON-019, CON-020]
+related_ids: [FW-033, FW-034, FW-035, FW-036, FW-037, FW-038, FW-039, FW-040, FW-043, FW-044, FW-045, FW-046, FW-047, FW-048, FW-050, FW-052, CON-015, CON-017, CON-018, CON-019, CON-020, FW-083, FW-084, FW-084-01, FW-085, FW-086]
 source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 6–8, 13–19, 21–27, 29", "MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 6–9, 13–16, 19–35", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 13–22"]
 source_type: course
 confidence: high
@@ -66,6 +66,10 @@ Mức ưu tiên: **Cao** (vấn đề số 1): *chọn bài toán đáng làm, x
 | Chỉ phân tích, không kết bằng khuyến nghị và đánh đổi | `FW-048` | T17 |
 | Năng lực tư duy chiến lược chưa được luyện có chủ đích | `FW-043` | T17 |
 | Giải sai bài vì chưa tách triệu chứng khỏi nguyên nhân | `FW-050` · `FW-052` · `CON-020` | T16 |
+| Không biết giá trị bị phá vỡ ở đâu trong quy trình liên bộ phận | `FW-084` · `FW-084-01` | T15 |
+| Ý tưởng cải tiến chỉ toàn "thêm người, thêm họp" | `FW-085` | T15 |
+| Nhiều ý tưởng nhưng không chốt được việc nào để làm | `FW-086` | T15 |
+| Chưa sàng ý tưởng qua ba phép thử trước khi xin nguồn lực | `FW-083` | T15 |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Không tầng tổ chức nào phía trên team có định hướng rõ để nối vào: hỏi lên bằng mẫu ba dòng của `FW-054`.
@@ -94,9 +98,9 @@ aliases: [stakeholder, thuyết phục không có quyền, quản lý kỳ vọn
 keywords: [stakeholder, thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business sang bài toán DS, quản lý kỳ vọng, độ bất định, biết từ chối, đề xuất bị bác, bị giao việc không hợp lý, làm việc với bộ phận khác]
 levels: [ORG]
 courses: [MEGROW]
-topics: [TOP-MEGROW-12, TOP-MEGROW-19, TOP-MEGROW-14, TOP-MEGROW-16, TOP-MEGROW-17, TOP-MEGROW-03]
+topics: [TOP-MEGROW-12, TOP-MEGROW-19, TOP-MEGROW-14, TOP-MEGROW-16, TOP-MEGROW-17, TOP-MEGROW-03, TOP-MEGROW-15]
 problems_addressed: []
-related_ids: [FW-022, FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017, FW-018, FW-019, FW-020, FW-021, CON-007, CON-008, FW-037, FW-048, FW-051, FW-052, FW-054, FW-058]
+related_ids: [FW-022, FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017, FW-018, FW-019, FW-020, FW-021, CON-007, CON-008, FW-037, FW-048, FW-051, FW-052, FW-054, FW-058, FW-084, FW-084-01, FW-079, FW-083]
 source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41", "MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–12", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 17–21, 31–33", "MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 33–35"]
 source_type: course
 confidence: high
@@ -151,6 +155,9 @@ Mức ưu tiên: **Cao** (vấn đề số 2).
 | Xin trợ giúp không rõ cần gì | Lời đề nghị bị trôi | `FW-054` |
 | Dùng lập luận đã thuyết phục chính mình cho mọi đối tượng | Hiệu quả với người này, thất bại với người kia | `FW-058` |
 | Chưa kiểm nền tảng niềm tin theo từng quan hệ | Lý lẽ đúng nhưng không được tin | `FW-058` |
+| Không biết giá trị bị phá vỡ ở đâu trong quy trình chung | Họp nhiều, ai cũng đúng, việc vẫn tắc | `FW-084`, `FW-084-01` |
+| Đồng thuận ở bước chốt nhưng hiểu khác nhau khi làm | "Đã thống nhất rồi" mà vẫn làm lại | `FW-084-01`, `FW-020` |
+| Thành phần niềm tin cụ thể đang yếu với một stakeholder | Lý lẽ đúng nhưng không ai nghe | `FW-079` |
 
 Diễn giải bảng: nhóm đầu là **quan hệ**; nhóm giữa là **truyền đạt**; năm dòng cuối là **đóng khung bài toán chung**.
 
@@ -181,9 +188,9 @@ aliases: [quy trình làm việc, cách ra quyết định của team, chuẩn c
 keywords: [quy trình, process, phối hợp, coordination, ra quyết định, decision making, tiêu chuẩn chất lượng, nút thắt, bottleneck, team làm việc lộn xộn, ai quyết cái gì, họp nhiều mà không ra quyết định]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14, TOP-MEGROW-02, TOP-MEGROW-16, TOP-MEGROW-05, TOP-MEGROW-07]
+topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14, TOP-MEGROW-02, TOP-MEGROW-16, TOP-MEGROW-05, TOP-MEGROW-07, TOP-MEGROW-13, TOP-MEGROW-15]
 problems_addressed: []
-related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021, FW-035, FW-038, FW-039, FW-041, FW-042, CON-016, FW-049, FW-050, FW-051, FW-052, CON-020, FW-053, FW-054, FW-060, FW-061, FW-062, FW-065, FW-065-01, FW-070, FW-071]
+related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021, FW-035, FW-038, FW-039, FW-041, FW-042, CON-016, FW-049, FW-050, FW-051, FW-052, CON-020, FW-053, FW-054, FW-060, FW-061, FW-062, FW-065, FW-065-01, FW-070, FW-071, FW-080, FW-084-01, FW-085]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–37", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 13, 21–33", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 9–35"]
 source_type: course
 confidence: medium
@@ -237,6 +244,9 @@ Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 | Việc đến không được phân loại trước khi làm | Ai hỏi trước được làm trước | `FW-060`, `FW-061`, `FW-062` |
 | Rào cản hợp tác chưa được gọi tên | "Phối hợp chưa tốt" lặp lại qua nhiều quý | `FW-070` |
 | Không biết luồng phụ thuộc thật trong team | Tắc ở chỗ không ai dự đoán được | `FW-071` |
+| Không ai dám nêu vấn đề về chính cách làm việc | Quy trình hỏng tồn tại nhiều quý | `FW-080`, `PRB-009` |
+| Quy trình cứng như nhau cho mọi mức rủi ro | Chặt thì chậm, lỏng thì rủi ro | `FW-085` (Attribute Dependency) |
+| Bàn giao giữa các bước không có tiêu chí "xong tốt" | Làm lại nhiều vòng | `FW-084-01`, `CON-004` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Vấn đề nằm ở mục tiêu và cách đo chứ không ở quy trình → thuộc vấn đề số 1. `[SUY LUẬN]` Topic 02 phụ trách, chưa xử lý.
@@ -422,9 +432,9 @@ aliases: [góp ý, phản hồi, coaching, trao đổi hiệu suất]
 keywords: [góp ý, feedback, coaching, trao đổi hiệu suất, nói chuyện khó, nhân viên làm chưa tốt, hành vi không phù hợp, ngại góp ý, góp ý rồi không đổi, phát triển nhân viên]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-04, TOP-MEGROW-08, TOP-MEGROW-09, TOP-MEGROW-03, TOP-MEGROW-07]
+topics: [TOP-MEGROW-04, TOP-MEGROW-08, TOP-MEGROW-09, TOP-MEGROW-03, TOP-MEGROW-07, TOP-MEGROW-11]
 problems_addressed: []
-related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013, FW-055, FW-056, FW-057, FW-069, FW-068-01, CON-022, CON-023, CON-024]
+related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013, FW-055, FW-056, FW-057, FW-069, FW-068-01, CON-022, CON-023, CON-024, FW-072, FW-073, FW-076, FW-077, FW-075]
 source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5–35", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 7–42", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–51", "MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 4–28", "MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 18, 25–28"]
 source_type: course
 confidence: high
@@ -480,6 +490,9 @@ Mức ưu tiên: **Trung bình** (vấn đề số 6).
 | Dùng số liệu hoạt động thay cho bằng chứng hiệu suất | Đếm commit, tin nhắn, ticket | `FW-057` |
 | Thiên kiến rò vào câu chữ | Nhân viên nghe "tôi không được tin" | `FW-056`, `CON-023` |
 | Không có kênh phản hồi ngang hàng | Điểm mù tồn tại vô hạn vì không ai nói | `FW-069`, `FW-068-01` |
+| Dùng một cách giao tiếp cho mọi người | Cùng thông điệp, người hiểu người không | `FW-072`, `FW-076` |
+| Quy hành vi về tính cách, bỏ qua tình huống và môi trường | "Bạn này thiếu chủ động" khi gốc là tình huống yếu | `FW-073` |
+| Không có kịch bản luyện trước cuộc trò chuyện khó | Vào cuộc rồi mới nghĩ cách nói | `FW-077` |
 
 Diễn giải bảng: sáu dòng đầu là lỗi **chẩn đoán và mở đầu**; bảy dòng tiếp là lỗi **cách coach và chốt**; sáu dòng cuối (từ Topic 03 và Topic 07) là lỗi **ở chính phán đoán và ngôn ngữ của người quản lý**, xảy ra trước khi cuộc trò chuyện bắt đầu.
 
@@ -512,9 +525,9 @@ aliases: [động lực, gắn kết, giữ chân nhân sự, engagement]
 keywords: [động lực, motivation, gắn kết, engagement, giữ người, retention, mất lửa, không chủ động, collaborator không gắn bó, nhân viên giỏi muốn nghỉ, team trầm]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-09, TOP-MEGROW-07, TOP-MEGROW-05]
+topics: [TOP-MEGROW-06, TOP-MEGROW-09, TOP-MEGROW-07, TOP-MEGROW-05, TOP-MEGROW-11, TOP-MEGROW-13]
 problems_addressed: []
-related_ids: [FW-008, FW-009, FW-007, FW-028, FW-031, FW-032, CON-005, FW-066, FW-067, FW-068, FW-069, FW-070, FW-071, CON-025]
+related_ids: [FW-008, FW-009, FW-007, FW-028, FW-031, FW-032, CON-005, FW-066, FW-067, FW-068, FW-069, FW-070, FW-071, CON-025, FW-074, FW-080, CON-027, CON-029, CON-028]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 33–39, 59, 65", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 26–38"]
 source_type: course
 confidence: medium
@@ -563,6 +576,10 @@ Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 | Bực bội được chịu đựng thay vì được nói ra | Không ai nêu vấn đề, mọi thứ "vẫn ổn" | `FW-067`, `FW-070` |
 | Thành viên ngoại vi chỉ có một mối nối yếu với team | Cộng tác viên không gắn bó dù việc họ làm là đầu vào sống còn | `FW-071` |
 | Cường độ cao kéo dài không có cơ chế bền | Mất lửa, hết đề xuất, rồi rời đi | `CON-025` |
+| Không biết nhu cầu nền của từng người | Cùng một phần thưởng, người hào hứng người không | `FW-074` |
+| Người đang ở đầu Existence của thang ERG | Lời mời phát triển không có sức nặng | `FW-074` |
+| Niềm tin bị trừ dần mà không ai nói ra | Làm đủ việc, không còn nêu ý kiến | `CON-027`, `CON-029` |
+| Môi trường thiếu an toàn tâm lý | Không ai đề xuất gì mới, không ai nhận sai | `FW-080`, `PRB-009` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Nguyên nhân là lương thưởng hoặc lộ trình thăng tiến → nằm ngoài phạm vi framework trong MEGROW, cần làm việc với cấp trên và HR.
@@ -662,6 +679,83 @@ Diễn giải bảng: bốn dòng đầu là lỗi **đóng khung và cấu trú
 =====
 
 ---
+id: PRB-009
+type: problem
+title_vi: Văn hóa thử nghiệm và an toàn tâm lý
+title_en: A culture of experimentation and psychological safety
+aliases: [an toàn tâm lý, psychological safety, văn hóa thử nghiệm, dám sai]
+keywords: [không ai dám nói, team im lặng, sợ sai, giấu lỗi, không ai đề xuất ý tưởng, chỉ vài người phát biểu, dám thử, học từ thất bại, nêu rủi ro sớm, bàn riêng sau họp]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13, TOP-MEGROW-07, TOP-MEGROW-16]
+problems_addressed: []
+related_ids: [FW-080, FW-078, FW-079, FW-081, FW-082, CON-029, CON-027, CON-028, FW-070, FW-053]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6–27", "MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 10–11, 33", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 28–33"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Văn hóa thử nghiệm và an toàn tâm lý
+
+## Cách người dùng thường mô tả
+Ưu tiên **Thấp** theo CLAUDE.md §2. "Hỏi có ai ý kiến gì không thì cả phòng im." · "Họp xong mới có người nhắn riêng nói là không ổn." · "Không ai đề xuất thử cái gì mới." · "Lỗi chỉ lộ ra lúc sát hạn." · "Chỉ Senior với mình nói, mấy bạn còn lại ngồi nghe."
+
+## Triệu chứng quan sát được
+- Thảo luận bị một hoặc hai người chi phối; thành viên mới gần như không đóng góp.
+- Các lo ngại được bàn **riêng sau họp** thay vì nêu công khai.
+- Tin xấu đi chậm: thí nghiệm thất bại, rủi ro kỹ thuật hoặc trượt tiến độ chỉ được báo khi không giấu được nữa.
+- Không ai xin giúp đỡ; không ai nói "cách này không chạy, mình nên dừng".
+- Nhìn từ ngoài team vẫn bận rộn và không ai phàn nàn — đặc trưng của **Anxiety Zone** (`FW-080`).
+
+## Câu hỏi chẩn đoán
+1. Ba tháng qua, đã có ai nêu một rủi ro mà sau đó **không** xảy ra chưa? Nếu chưa, nhiều khả năng không ai dám nêu rủi ro.
+2. Lần gần nhất có người phản biện quyết định của tôi trong họp là khi nào?
+3. Khi một lỗi lọt lên production, câu hỏi đầu tiên của tôi là *"ai làm"* hay *"quy trình nào lẽ ra phải bắt được"*?
+4. Trong ba lần gần nhất tôi xin ý kiến trước khi quyết, tôi hỏi ai? (`FW-081` — Check the Mirror)
+5. Team đang ở vùng nào trong bốn vùng của Edmondson, và bằng chứng hành vi nào?
+6. Tôi có đang nhầm **trust** (quan hệ đôi một) với **psychological safety** (chuẩn mực nhóm) không?
+
+## Nguyên nhân gốc rễ và framework tương ứng
+
+| Nguyên nhân gốc rễ | Biểu hiện | Framework |
+|---|---|---|
+| Tiêu chuẩn cao nhưng an toàn tâm lý thấp | Team bận rộn, không ai đề xuất gì mới — Anxiety Zone | `FW-080` |
+| Hành vi lãnh đạo chưa nhất quán | Nói mời góp ý nhưng phản ứng khi được góp ý | `FW-078`, `CON-027` |
+| Một thành phần niềm tin cụ thể đang yếu | Tin chuyên môn nhưng không dám thành thật | `FW-079` |
+| Sai lầm bị xử lý như lỗi cá nhân | Không ai báo lỗi sớm | `FW-078` (chữ S), `CON-029` |
+| Câu mời phát biểu quá chung chung | *"Có ai ý kiến gì không?"* rồi im lặng | `FW-080`, `FW-082` |
+| Luôn hỏi cùng một nhóm nhỏ quen thuộc | Người ngoài nhóm đó ngừng cố gắng góp ý | `FW-081` |
+| Chuẩn mực nhóm chưa được đặt ra | Không ai biết nêu rủi ro có được hoan nghênh không | `FW-081`, `FW-066-01` |
+| Khoảng cách quyền lực theo văn hóa | Voice Constraints là điểm **hội tụ** qua các thế hệ VN | `CON-028` |
+| Rào cản cấu trúc chứ không phải thái độ | KPI xung đột, quyền sở hữu không rõ | `FW-070` |
+| Không có cơ chế thử nhỏ, rủi ro thấp | Mọi ý tưởng mới đều là canh bạc lớn | `FW-053`, `FW-053-01` |
+
+Diễn giải bảng: bốn dòng đầu là lỗi **hành vi của người quản lý**; bốn dòng giữa là lỗi **thiết kế chuẩn mực và cấu trúc buổi họp**; hai dòng cuối nằm ngoài tầm hành vi cá nhân — chúng cần đổi KPI, đổi quyền sở hữu, hoặc tạo cơ chế thử nghiệm có chi phí thấp. Thứ tự này cũng là thứ tự nên kiểm: hành vi của chính mình trước, vì đó là thứ đổi được ngay.
+
+## Dấu hiệu cần leo thang hoặc can thiệp khác
+- Im lặng xuất hiện ở **mọi** team trong khối, không riêng team bạn → vấn đề ở cấp tổ chức, không ở cấp quản lý trực tiếp.
+- Nguyên nhân là KPI xung đột giữa các bộ phận → `FW-070`, và phải đi lên cấp đặt KPI.
+- Một cá nhân cụ thể làm người khác không dám nói → đây là vấn đề hành vi cần xử lý riêng bằng `FW-025`, không phải vấn đề văn hóa chung.
+- Team vừa trải qua một đợt cắt giảm hoặc một quyết định gây mất niềm tin → không framework nào rút ngắn được thời gian; `CON-027` nhấn niềm tin là quá trình phụ thuộc lịch sử.
+
+## Chỉ số theo dõi sau xử lý
+- **Tốc độ tin xấu:** khoảng cách giữa lúc một rủi ro được nhận ra và lúc nó được nói ra trong họp.
+- **Độ phủ tiếng nói:** trong một buổi họp, bao nhiêu người phát biểu ít nhất một lần — đếm **ai**, không chỉ đếm **bao nhiêu**.
+- Số lần có người nói "mình sai" hoặc "cách này không chạy" mà không bị hệ quả tiêu cực.
+- Số thí nghiệm nhỏ được chạy và được dừng sớm (`FW-053`).
+- Tỷ lệ lo ngại được nêu trong họp so với nêu riêng sau họp.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6–27]` — nguồn chính.
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 10–11, 33]` — bộ luật chơi và rào cản "lack of trust or psychological safety".
+- `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 28–33]` — thử nghiệm 7 ngày như cơ chế hạ rủi ro của việc thử.
+
+=====
+
+---
 id: PRB-010
 type: problem
 title_vi: Xung đột trong team hoặc giữa các team
@@ -670,9 +764,9 @@ aliases: [xung đột, bất đồng, mâu thuẫn giữa bộ phận]
 keywords: [xung đột, conflict, bất đồng, cãi nhau trong họp, hai bộ phận không thống nhất, căng thẳng, tranh luận không đi tới đâu, mâu thuẫn ưu tiên]
 levels: [TEAM, ORG]
 courses: [MEGROW]
-topics: [TOP-MEGROW-12, TOP-MEGROW-14, TOP-MEGROW-08, TOP-MEGROW-16]
+topics: [TOP-MEGROW-12, TOP-MEGROW-14, TOP-MEGROW-08, TOP-MEGROW-16, TOP-MEGROW-11, TOP-MEGROW-13]
 problems_addressed: []
-related_ids: [FW-016, FW-020, FW-021, FW-026, CON-009, CON-010, FW-015, FW-051, FW-052]
+related_ids: [FW-016, FW-020, FW-021, FW-026, CON-009, CON-010, FW-015, FW-051, FW-052, FW-072, FW-076, FW-080, FW-081]
 source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–13", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 8–10, 38", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 17–21"]
 source_type: course
 confidence: medium
@@ -716,6 +810,9 @@ Mức ưu tiên: **Thấp** (vấn đề số 10 trong `problem_index.md`). CLAU
 | Mức tham gia vào quyết định không được nói rõ | Người ta tưởng mình cùng quyết rồi thấy không phải | `CON-009`, `FW-006` |
 | Không tìm vùng giá trị chung | Cuộc trao đổi thành cuộc mặc cả thắng–thua | `FW-015` |
 | Xung đột thật ra là khác góc nhìn chưa được làm lộ | Hai bên tranh luận về giải pháp trước khi thống nhất vấn đề | `FW-051`, `FW-052` |
+| Khác biệt phong cách làm việc bị đọc thành khác biệt thái độ | "Người kia khó tính", "người kia hấp tấp" | `FW-072`, `FW-076` |
+| Ma sát giao tiếp không được nêu sớm | Để tới khi thành xung đột mới xử lý | `FW-081` (Address Misalignment) |
+| Thiếu an toàn tâm lý nên bất đồng chuyển ra sau hậu trường | Đồng ý trong họp, phản đối sau họp | `FW-080` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Xung đột mang tính cá nhân, chạm tới hành vi chứ không tới nội dung công việc → `FW-026` để quyết có xử lý không, rồi `FW-025` và `CON-010`.

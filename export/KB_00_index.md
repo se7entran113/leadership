@@ -236,7 +236,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 15 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–10, 12, 14, 16, 17, 19) — 637 / 777 trang trong phạm vi, độ phủ 82.0%.
+**Tiến độ MEGROW: 18 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–17, 19) — 733 / 777 trang trong phạm vi, độ phủ 94.3%.
 
 Topic 20 (Capstone, 28 trang) **để riêng, ngoài phạm vi kho** — xem Ghi chú.
 
@@ -266,7 +266,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-08` | 8 | Correcting Behaviour Through Coaching | Dr Thao Luong | TEAM + SELF | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-09` | 9 | Coaching for High Performance | Dr Quyen Dang | TEAM | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-10` | 10 | Adapt Your Leadership Style | Dr Tony Nguyen | TEAM | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-11` | 11 | Customised Approach for Individuals | Dr Gavin Nicholson | TEAM + SELF | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-11` | 11 | Customised Approach for Individuals | Dr Gavin Nicholson | TEAM + SELF | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | **đã xử lý** | 2026-11-07 |
 
 ### P3 `LEAD_ACROSS_ORGANISATION` — Topic 12–20 (level chính ORG)
 
@@ -274,10 +274,10 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-12` | 12 | Stakeholder Influence & Leadership in Technology | Prof Seng Kiat Kok | ORG | `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf` | 41 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-12` | 12 | ↳ *Case reading bổ sung:* Microsoft's Turnaround – The Satya Nadella Story | Bloomberg Businessweek, 6/5/2019 | ORG | `[Case Reading] Microsoft’s Turnaround – The Satya Nadella Story.pdf` | 7 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-13` | 13 | Building Trust & Open Communication in Teams | Dr Justin Xavier Batinadan | ORG + TEAM | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-13` | 13 | Building Trust & Open Communication in Teams | Dr Justin Xavier Batinadan | ORG + TEAM | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-14` | 14 | Decision Making in Cross-functional Teams | Dr Phuong Nguyen | ORG + TEAM | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-14` | 14 | ↳ *Case reading bổ sung:* The BCPC Internet Strategy Team: An Exercise | Amy C. Edmondson, HBS 604-035 | ORG + TEAM | `[Case Reading] of topic 14 .pdf` | 4 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | chưa xử lý | 2026-11-07 |
@@ -304,17 +304,17 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 136 chunk.** Đã xử lý 15/20 topic MEGROW (Topic 01–04, 05, 06–10, 12, 14, 16, 17, 19).
+**Trạng thái kho: 159 chunk.** Đã xử lý **18/19 topic MEGROW trong phạm vi** (Topic 01–17, 19). Còn Topic 18; Topic 20 (Capstone) để riêng, ngoài phạm vi kho.
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 26 |
-| `FW` Framework | 85 |
-| `PRB` Vấn đề | 10 |
+| `CON` Khái niệm & nguyên tắc | 29 |
+| `FW` Framework | 101 |
+| `PRB` Vấn đề | 11 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 15 |
+| `TOP` Topic | 18 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **136** |
+| **Tổng** | **159** |
 
 ---
 
@@ -348,6 +348,9 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON-024` | Quá tự tin và hiệu ứng của mô tả lên đánh giá con người (Overconfidence and the Framing Effect in Judging People) | concept | SELF, TEAM | MEGROW | Hai bài tập mở màn: khoảng tin cậy 90% thất bại, và một dòng mô tả đổi hẳn điểm đánh giá một kỹ sư |
 | `CON-025` | Hiệu suất vượt trội và kiệt sức là hai nhánh của cùng một con đường (Hyper-Performance and Burnout as Two Branches of One Path) | concept | SELF, TEAM | MEGROW | Hyper-performance và burnout là hai nhánh của cùng một đường; đường bền là KNOWLEDGE + BEHAVIOR |
 | `CON-026` | Thay đổi tích lũy 1% và tính dẻo của não (The 1% Compounding Effect and Neuroplasticity) | concept | SELF | MEGROW | 1.01³⁶⁵ = 37.78 so với 0.99³⁶⁵ = 0.03; neuroplasticity và điều kiện relentless honesty |
+| `CON-027` | Niềm tin là kết quả tích lũy của hành vi nhất quán (Trust as the Accumulated Result of Consistent Behaviour) | concept | TEAM, SELF | MEGROW | Robbins: niềm tin là quá trình phụ thuộc lịch sử; integrity là điều kiện, thiếu nó bốn chiều kia vô nghĩa |
+| `CON-028` | Lãnh đạo Gen Z Việt Nam — điểm hội tụ và điểm phân kỳ (Leading Vietnamese Gen Z - Convergent and Divergent Competencies) | concept | TEAM, ORG | MEGROW | Gen Z Việt Nam: tập thể và khoảng cách quyền lực vẫn hội tụ, kỳ vọng phát triển và tự dẫn dắt thì phân kỳ |
+| `CON-029` | Niềm tin là yếu tố thúc đẩy hiệu quả kinh doanh, không phải kỹ năng mềm (Trust as a Business Performance Driver, Not a Soft Skill) | concept | TEAM, ORG | MEGROW | Niềm tin thấp tốn tiền ở ba chỗ đo được: tốc độ quyết định, chất lượng quyết định, chi phí sửa sai |
 
 ## Framework (FW)
 
@@ -424,6 +427,21 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-069` | Cửa sổ Johari (The Johari Window) | framework | TEAM, SELF | MEGROW | Bốn ô Open · External Perspective · Possible you · Unknown; hai cơ chế self-disclosure và feedback |
 | `FW-070` | Team Life — các yếu tố thúc đẩy và cản trở đời sống team (Team Life - Enablers and Barriers) | framework | TEAM, ORG | MEGROW | Sáu enablers và sáu barriers của đời sống team; phần lớn barriers là thứ do thiết kế tổ chức tạo ra |
 | `FW-071` | The Team Landscape — bản đồ kết nối trong team (The Team Landscape - Mapping Connections in a Team) | framework | TEAM, ORG | MEGROW | Bản đồ kết nối theo bốn cặp tính chất; tổ hợp critical + limited là dấu hiệu rủi ro rõ nhất |
+| `FW-072` | Bốn phong cách làm việc — Driver, Amiable, Analytical, Expressive (Four Work Styles - Driver, Amiable, Analytical, Expressive) | framework | TEAM, SELF | MEGROW | Driver · Amiable · Analytical · Expressive — giữ nguyên nội dung, đổi cách mở đầu và mức chi tiết |
+| `FW-073` | Các yếu tố định hình hành vi cá nhân (Factors That Influence Individual Behaviour) | framework | TEAM, SELF | MEGROW | Person / Environment / Situation; chạy ngược Situation → Environment → Person để khỏi quy hết về tính cách |
+| `FW-074` | Hai lý thuyết nhu cầu — McClelland và ERG của Alderfer (Two Needs Theories - McClelland's Three Needs and Alderfer's ERG) | framework | TEAM, SELF | MEGROW | McClelland ba nhu cầu và ERG của Alderfer; thanh trượt giữa Existence và Growth dịch chuyển liên tục |
+| `FW-075` | Bốn địa hạt của trí tuệ cảm xúc (The Four Domains of Emotional Intelligence) | framework | SELF, TEAM | MEGROW | Bốn địa hạt trên hai trục bản thân/xã hội × nhận thức/quản lý, theo HBS Leadership Essentials |
+| `FW-076` | Năm chiến lược quản lý và bốn kỹ thuật giao tiếp với tính cách đa dạng (Five Strategies for Managing and Four Techniques for Communicating Across Personalities) | framework | TEAM, SELF | MEGROW | Năm chiến lược quản lý và bốn kỹ thuật giao tiếp; một cỡ không vừa cho tất cả |
+| `FW-077` | Ba kịch bản đóng vai hội thoại quản lý – nhân viên tại Zalo (Three Manager-Staff Role Play Scenarios at Zalo) | exercise | TEAM, SELF | MEGROW | Ba kịch bản đóng vai viết riêng cho Zalo: chủ động, hòa giải phong cách, và trượt thăng chức |
+| `FW-078` | Khung TRUST — năm hành vi lãnh đạo xây niềm tin (The TRUST Framework - Five Leadership Behaviours) | framework | TEAM, ORG | MEGROW | Transparency · Reliability · Understanding · Safety · Team First, mỗi chữ bốn hành động cụ thể |
+| `FW-079` | Phương trình Niềm tin của Maister (The Trust Equation (Maister)) | framework | TEAM, ORG, SELF | MEGROW | Maister: (Credibility + Reliability + Intimacy) ÷ Self-Orientation — mẫu số chia nhỏ mọi thứ ở tử số |
+| `FW-080` | An toàn tâm lý và bốn vùng của Edmondson (Psychological Safety and Edmondson's Four Zones) | framework | TEAM, ORG | MEGROW | Edmondson: bốn vùng Comfort/Learning/Apathy/Anxiety; trust là tôi→họ, an toàn tâm lý là nhóm→tôi |
+| `FW-081` | Sáu phẩm chất của lãnh đạo bao trùm (Six Signature Traits of an Inclusive Leader) | framework | TEAM, ORG | MEGROW | Bourke: Cognizance · Curiosity · Courage · Cultural intelligence · Commitment · Collaboration |
+| `FW-082` | Case "The Silent Team" và bảng cam kết STOP / START / CONTINUE (The Silent Team Case and the STOP / START / CONTINUE Commitment) | exercise | TEAM, ORG | MEGROW | Case team im lặng với năm câu hỏi dùng đủ bốn công cụ, chốt bằng bảng STOP/START/CONTINUE |
+| `FW-083` | Đổi mới và ba phép thử Desirability – Feasibility – Viability (Innovation and the Desirability-Feasibility-Viability Test) | framework | ORG, TEAM | MEGROW | Novel và Useful; ba phép thử Desirability – Feasibility – Viability là điều kiện cần cùng lúc |
+| `FW-084` | Pain Point và Bản đồ Hành trình Stakeholder (Pain Points and the Stakeholder Journey Map (SJM)) | framework | ORG, TEAM | MEGROW | Pain point ẩn và hiện; tám câu hỏi dựng bản đồ hành trình để tìm nơi giá trị bị phá vỡ |
+| `FW-085` | Năm công cụ Tư duy Sáng tạo Hệ thống (SIT) (The Five Systematic Inventive Thinking (SIT) Tools) | framework | ORG, TEAM | MEGROW | Subtraction · Task Unification · Division · Multiplication · Attribute Dependency cho phối hợp liên chức năng |
+| `FW-086` | Creative Matrix và cách chốt một cải tiến (The Creative Matrix and Validating One Improvement) | framework | ORG, TEAM | MEGROW | Ma trận SIT × điểm giá trị bị phá vỡ, chốt bằng một nút thắt – một cải tiến – một lợi ích |
 | `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
 | `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
@@ -438,6 +456,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-066-01` | Luật chơi LSP® — bảy quy tắc nền và bốn điều không làm (LSP Rules of Engagement - Seven Ground Rules and Four NO GO's) | framework | TEAM | MEGROW | Bảy Ground Rules và bốn NO GO's — ý nghĩa thuộc về người xây, không thuộc về người nhìn |
 | `FW-067-01` | Real Time Identity for YOU — bài tập đóng buổi và cam kết hành động (Real Time Identity for YOU - Closing Reflection and Action Items) | exercise | SELF, TEAM | MEGROW | Bài tập đóng buổi: bốn mục tiêu RTI cá nhân và yêu cầu viết ra 3–4 lĩnh vực sẽ làm khi quay lại công việc |
 | `FW-068-01` | Hoạt động External Identity — xây mô hình về đồng nghiệp rồi trao lại (The External Identity Activity - Building a Model of a Colleague) | exercise | TEAM, SELF | MEGROW | Xây mô hình về cách một đồng nghiệp được trải nghiệm, để cả bàn đoán là ai, rồi trao lại cho họ |
+| `FW-084-01` | Ví dụ Bản đồ Hành trình — từ thống nhất tới thực thi (Stakeholder Journey Map Example - From Agreement to Execution) | framework | ORG, TEAM | MEGROW | Hành trình AGREE→DELIVER: quyết định chung không đảm bảo hiểu biết chung khi thực thi |
 
 ## Vấn đề (PRB)
 
@@ -451,6 +470,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `PRB-006` | Feedback, coaching và trao đổi về hiệu suất (Feedback, coaching and performance conversations) | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Góp ý rồi không đổi, ngại nói thẳng, coach nhiều mà team vẫn phụ thuộc |
 | `PRB-007` | Động lực, gắn kết và giữ người (Motivation, engagement and retention) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
 | `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức (Managing upward and linking to organisational strategy) `needs_review` | problem | ORG | MEGROW | Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì |
+| `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý (A culture of experimentation and psychological safety) | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Không ai dám nói, lỗi lộ muộn, chỉ vài người phát biểu; tin xấu đi chậm |
 | `PRB-010` | Xung đột trong team hoặc giữa các team (Conflict within or between teams) `needs_review` | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp |
 | `PRB-011` | Dẫn dắt thay đổi (Leading change) `needs_review` | problem | ORG, TEAM | MEGROW | Ưu tiên **Thấp**. Thông báo cách làm mới rồi không ai theo; được vài tuần rồi đâu lại vào đấy |
 
@@ -474,8 +494,11 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `TOP-MEGROW-08` | Sửa hành vi thông qua coaching (Correcting Behaviour Through Coaching) | topic | TEAM, SELF | MEGROW | Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE |
 | `TOP-MEGROW-09` | Coaching để đạt hiệu suất cao (Coaching for High Performance) | topic | TEAM | MEGROW | Coach nhiều hơn không làm nhân viên giỏi hơn; Connector Manager và lộ trình D–R–C |
 | `TOP-MEGROW-10` | Điều chỉnh phong cách lãnh đạo (Adapt Your Leadership Style) | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
+| `TOP-MEGROW-11` | Tùy chỉnh cách tiếp cận cho từng cá nhân (Customised Approach for Individuals) | topic | TEAM, SELF | MEGROW | Bốn chặng hiểu người – tự nhận thức – điều chỉnh giao tiếp – động lực, kết bằng ba kịch bản đóng vai |
 | `TOP-MEGROW-12` | Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ (Stakeholder Influence & Leadership in Technology) | topic | ORG | MEGROW | Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày |
+| `TOP-MEGROW-13` | Xây dựng niềm tin và giao tiếp cởi mở trong team (Building Trust & Open Communication in Teams) | topic | ORG, TEAM | MEGROW | Sáu phần từ chi phí của niềm tin thấp tới case team im lặng; mở khóa vấn đề ưu tiên số 9 |
 | `TOP-MEGROW-14` | Ra quyết định trong nhóm liên chức năng (Decision Making in Cross-functional Teams) | topic | ORG, TEAM | MEGROW | Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau |
+| `TOP-MEGROW-15` | Từ hiểu biết về stakeholder tới tác động thị trường (From Stakeholder Insight to Market Impact) | topic | ORG | MEGROW | Chuỗi liền mạch: hành trình stakeholder → năm công cụ SIT → Creative Matrix → chốt một cải tiến |
 | `TOP-MEGROW-16` | Gỡ các blocker kỹ thuật và tổ chức (Solve Tech & Organisational Blockers) | topic | ORG, TEAM | MEGROW | Lab ba tiếng: chín hoạt động từ chọn blocker thật tới cam kết hành động 7 ngày |
 | `TOP-MEGROW-17` | Vận dụng tư duy chiến lược (Apply Strategic Thinking) | topic | ORG | MEGROW | Nhìn ra ngoài bằng PESTEL và Five Forces, nhìn vào trong bằng VRIN, kết bằng một khuyến nghị |
 | `TOP-MEGROW-19` | Trình bày business case để được duyệt (Presenting Business Cases - Getting Buy-in) | topic | ORG | MEGROW | Ba công cụ cho ba câu hỏi của người quyết: SCQA, Pyramid Principle, Stakeholder Mapping |
@@ -491,15 +514,15 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 | Tiền tố | ID tiếp theo | Ghi chú |
 |---|---|---|
-| `CON` | `CON-027` | |
-| `FW` | `FW-072` | |
+| `CON` | `CON-030` | |
+| `FW` | `FW-087` | |
 | `PRB` | `PRB-012` | Xem mục đặt chỗ dưới đây |
 | `PB` | `PB-001` | |
 | `CASE` | `CASE-001` | |
 
 ### ID `PRB` đã đặt chỗ
 
-`PRB-001` … `PRB-011` được **đặt chỗ sẵn** cho đúng 11 vấn đề ưu tiên theo thứ tự ở CLAUDE.md §2 và `problem_index.md`. Mười chunk đã tạo nằm đúng vị trí số của chúng; ID còn lại sẽ được dùng khi topic tương ứng được xử lý — **không tái sử dụng cho mục đích khác**.
+`PRB-001` … `PRB-011` được **đặt chỗ sẵn** cho đúng 11 vấn đề ưu tiên theo thứ tự ở CLAUDE.md §2 và `problem_index.md`. **Cả 11 chunk đã được tạo**, mỗi chunk nằm đúng vị trí số của nó. Không tái sử dụng các ID này cho mục đích khác.
 
 | ID | Vấn đề | Mức | Trạng thái |
 |---|---|---|---|
@@ -511,7 +534,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `PRB-006` | Feedback, coaching và trao đổi về hiệu suất | Trung bình | ✅ đã tạo |
 | `PRB-007` | Động lực, gắn kết và giữ người | Trung bình | ✅ đã tạo (`needs_review`) |
 | `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức | Trung bình | ✅ đã tạo (`needs_review`) |
-| `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý | Thấp | **chưa tạo** — chờ Topic 13 (chưa xử lý) |
+| `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý | Thấp | ✅ đã tạo |
 | `PRB-010` | Xung đột trong team hoặc giữa các team | Thấp | ✅ đã tạo (`needs_review`) |
 | `PRB-011` | Dẫn dắt thay đổi | Thấp | ✅ đã tạo (`needs_review`) |
 
@@ -523,20 +546,20 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dùng framework nào?"*
 
-**Trạng thái:** 10 chunk `PRB`, 85 chunk `FW` và 26 chunk `CON` đã tạo (từ Topic 01–10, 12, 14, 16, 17, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
+**Trạng thái:** **Cả 11 chunk `PRB` đã tạo**, cùng 101 chunk `FW` và 29 chunk `CON` (từ Topic 01–17, 19). Còn Topic 18 chưa xử lý; Topic 20 để riêng. Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
 | Vấn đề | Mức | Chunk PRB | Trạng thái |
 |---:|---|---|---|
-| 1 | Cao | `PRB-001` | ✅ đã có (T02, T16, T17) |
-| 2 | Cao | `PRB-002` | ✅ đã có (T03, 12, 14, 16, 17, 19) |
-| 3 | Cao | `PRB-003` | ✅ đã có (T02, 05, 06, 07, 10, 14, 16) |
+| 1 | Cao | `PRB-001` | ✅ đã có (T02, 15, 16, 17) |
+| 2 | Cao | `PRB-002` | ✅ đã có (T03, 12, 14, 15, 16, 17, 19) |
+| 3 | Cao | `PRB-003` | ✅ đã có (T02, 05, 06, 07, 10, 13, 14, 15, 16) |
 | 4 | Cao | `PRB-004` | ✅ đã có (T01, 02, 03, 05, 06, 08, 10) |
 | 5 | Cao | `PRB-005` | ✅ đã có (T01, 02, 05, 06, 09, 10) |
-| 6 | Trung bình | `PRB-006` | ✅ đã có (T03, 04, 07, 08, 09) |
-| 7 | Trung bình | `PRB-007` | ✅ đã có (T05, 06, 07, 09) |
+| 6 | Trung bình | `PRB-006` | ✅ đã có (T03, 04, 07, 08, 09, 11) |
+| 7 | Trung bình | `PRB-007` | ✅ đã có (T05, 06, 07, 09, 11, 13) |
 | 8 | Trung bình | `PRB-008` | ✅ đã có (T02, 12, 16, 17, 19) |
-| 9 | Thấp | — | chờ Topic 13 |
-| 10 | Thấp | `PRB-010` | ✅ một phần (T08, 12, 14, 16) |
+| 9 | Thấp | `PRB-009` | ✅ đã có (T07, 13, 16) |
+| 10 | Thấp | `PRB-010` | ✅ đã có (T08, 11, 12, 13, 14, 16) |
 | 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).
@@ -977,3 +1000,41 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Self-disclosure / Feedback | Tự bộc lộ / Phản hồi | Hai cơ chế duy nhất làm ô Open mở rộng | `FW-069` |
 | Team Life | Đời sống team | Các đặc tính vận hành thật của team, tích cực lẫn tiêu cực | `FW-070` |
 | Team Landscape | Bản đồ kết nối team | Quan hệ theo bốn cặp: strong/weak · direct/indirect · supportive/difficult · frequent/limited | `FW-071` |
+
+## Tính cách, giao tiếp và động lực (Topic 11)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Driver / Amiable / Analytical / Expressive | Bốn phong cách làm việc | Hướng kết quả · hướng quan hệ · hướng dữ liệu · hướng tầm nhìn | `FW-072` |
+| Strong / weak situation | Tình huống mạnh / yếu | Quy tắc rõ thì ai cũng hành xử giống nhau; mơ hồ thì tính cách bộc lộ | `FW-073` |
+| Self / Social × Awareness / Management | Bốn địa hạt EI | Nhận ra và làm gì với điều đã nhận ra, ở mình và ở người khác | `FW-075` |
+| ERG (Existence · Relatedness · Growth) | Tồn tại · gắn kết · phát triển | Alderfer: thanh trượt hai chiều, không phải bậc thang một chiều | `FW-074` |
+| Need for Achievement / Affiliation / Power | Nhu cầu thành tựu / gắn bó / ảnh hưởng | McClelland: ba nhu cầu **có được**, thay đổi theo trải nghiệm | `FW-074` |
+| Stretch assignment | Việc thử thách vượt mức | Giao việc vượt vùng an toàn để xây self-efficacy | `FW-076` |
+| Convergent / Divergent (Gen Z VN) | Hội tụ / phân kỳ | Điều giống và khác thế hệ trước ở lãnh đạo Gen Z Việt Nam | `CON-028` |
+
+## Niềm tin và an toàn tâm lý (Topic 13)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| TRUST Framework | Khung TRUST | Transparency · Reliability · Understanding · Safety · Team First | `FW-078` |
+| Trust Equation | Phương trình niềm tin | (Credibility + Reliability + Intimacy) ÷ Self-Orientation | `FW-079` |
+| Self-Orientation | Mức quy về bản thân | Mẫu số: càng cao càng chia nhỏ mọi thành phần ở tử số | `FW-079` |
+| Psychological safety | An toàn tâm lý | Niềm tin rằng môi trường an toàn cho việc chấp nhận rủi ro quan hệ | `FW-080` |
+| Comfort / Learning / Apathy / Anxiety Zone | Bốn vùng của Edmondson | An toàn tâm lý × tiêu chuẩn hiệu suất | `FW-080` |
+| Six Signature Traits | Sáu phẩm chất lãnh đạo bao trùm | Cognizance · Curiosity · Courage · Cultural intelligence · Commitment · Collaboration | `FW-081` |
+| STOP / START / SUSTAIN | Dừng / bắt đầu / duy trì | Bảng cam kết hành vi lãnh đạo cuối buổi | `FW-082` |
+
+## Đổi mới và hành trình stakeholder (Topic 15)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Desirability / Feasibility / Viability | Đáng mong muốn / khả thi / bền vững | Ba điều kiện cần cùng lúc để một đổi mới là "useful" | `FW-083` |
+| Pain point | Điểm đau | Thời điểm stakeholder gặp bực bội, khó khăn hoặc bất định; đối lập là Gain | `FW-084` |
+| Explicit / Latent pain point | Điểm đau hiện / ẩn | Hiện thì hỏi là biết; ẩn thì chỉ lộ khi vẽ lại cả hành trình | `FW-084` |
+| Stakeholder Journey Map (SJM) | Bản đồ hành trình stakeholder | Trải nghiệm của một stakeholder qua nhiều team, theo thời gian | `FW-084` |
+| Where does value break | Giá trị bị phá vỡ ở đâu | Chậm trễ, lẫn lộn, làm lại — câu hỏi trung tâm của SJM | `FW-084` |
+| Systematic Inventive Thinking (SIT) | Tư duy sáng tạo hệ thống | Năm phép biến đổi áp lên thứ đang có để sinh ý tưởng | `FW-085` |
+| Attribute Dependency | Phụ thuộc theo thuộc tính | Quy trình thay đổi theo rủi ro, mức khẩn hoặc độ phức tạp | `FW-085` |
+| Creative Matrix | Ma trận sáng tạo | Công cụ SIT × điểm giá trị bị phá vỡ, ép sinh ý tưởng cho từng ô | `FW-086` |
+| One bottleneck – one improvement – one benefit | Một nút thắt – một cải tiến – một lợi ích | Ràng buộc chốt, buộc bỏ phần lớn ý tưởng vừa sinh | `FW-086` |

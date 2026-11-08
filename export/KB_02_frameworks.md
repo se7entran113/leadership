@@ -6313,3 +6313,1284 @@ Chạy `FW-070` để thấy đặc tính chung → `FW-071` để thấy từng
 
 ## Nguồn
 - `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 34–37]`
+
+=====
+
+---
+id: FW-072
+type: framework
+title_vi: Bốn phong cách làm việc — Driver, Amiable, Analytical, Expressive
+title_en: Four Work Styles - Driver, Amiable, Analytical, Expressive
+aliases: [social styles, four work styles, driver amiable analytical expressive, bốn phong cách làm việc]
+keywords: [tính cách khác nhau, phong cách làm việc, người thích số liệu, người thích quan hệ, nói chuyện với từng kiểu người, điều chỉnh cách giao tiếp, nhân viên khó hợp tác, kiểu người trong team]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-076, FW-073, FW-001, FW-005, CON-011]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 9, 23"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Four Work Styles (Bốn phong cách làm việc — Driver, Amiable, Analytical, Expressive)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 11 chia hành vi làm việc thành **bốn phong cách** — Driver, Amiable, Analytical, Expressive — và gắn mỗi phong cách với một cách giao tiếp nên dùng. Dùng khi cùng một thông điệp được tiếp nhận rất khác nhau bởi những người khác nhau trong team.
+
+## Mục đích
+Chuyển câu hỏi *"vì sao người này khó làm việc cùng"* thành câu hỏi *"người này xử lý thông tin theo cách nào"*. Slide 22 nêu rõ một luật kèm theo: **"Avoid Negative Labelling — Don't view different communication styles as difficult or argumentative."**
+
+## Khi nào dùng
+Trước một buổi 1:1 hoặc một buổi trình bày cho nhiều người; khi hai thành viên liên tục va nhau; khi một thông điệp quan trọng cần đến được cả team.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là năng lực hoặc động lực chứ không phải phong cách — dùng `FW-023` AMO. Và không dùng để dán nhãn cố định lên người: phong cách là xu hướng, không phải phân loại vĩnh viễn.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 9 mô tả bốn phong cách, slide 23 ghép mỗi phong cách với cách giao tiếp tương ứng:
+
+| Phong cách | Đặc điểm (slide 9) | Giao tiếp nên dùng (slide 23) |
+|---|---|---|
+| **The Driver / Driven** | Hướng kết quả · trực tiếp · quyết đoán · thiên về hành động | **Be concise** · tập trung vào kết quả · tránh chi tiết thừa |
+| **The Amiable** | Hướng quan hệ · hỗ trợ · hợp tác · kiên nhẫn | **Build rapport** · thể hiện đồng cảm · khuyến khích tham gia |
+| **The Analytical** | Chú ý chi tiết · logic · dựa trên dữ liệu · cân nhắc rủi ro | **Facts and evidence** · cho thời gian xử lý thông tin · trình bày có tổ chức |
+| **The Expressive** | Có tầm nhìn · nhiệt tình · sáng tạo · nghĩ bức tranh lớn | **Focus on possibilities** · khuyến khích ý tưởng · giữ trao đổi sinh động |
+
+Diễn giải bảng: bốn phong cách rơi vào hai trục ẩn. **Driver và Analytical** thiên về *nhiệm vụ*, **Amiable và Expressive** thiên về *con người*; **Driver và Expressive** phản ứng *nhanh*, **Analytical và Amiable** cần *thời gian*. Hai cặp chéo nhau là nơi hay va chạm: Driver thấy Analytical chậm, Analytical thấy Driver hấp tấp.
+
+Điểm then chốt ở cột thứ ba: **cách điều chỉnh không phải là đổi nội dung mà là đổi hình thức trình bày**. Cùng một quyết định, Driver cần một dòng kết luận, Analytical cần bảng số liệu kèm theo, Amiable cần biết nó ảnh hưởng tới ai, Expressive cần thấy nó mở ra điều gì.
+
+`[KHÓA HỌC]` Slide 22 bổ sung hai trục đối lập khác để phân biệt nhanh hơn:
+- **Introverts so với Extroverts:** người hướng ngoại *"process thoughts out loud and prefer rapid interaction"*; người hướng nội *"need quiet time to reflect before responding"*.
+- **Task-Oriented so với People-Oriented:** một số người chỉ tập trung vào sự kiện, dữ liệu và kết quả cuối; số khác ưu tiên quan hệ, cảm xúc và sự hòa hợp của nhóm. Khuyến nghị: **cân bằng thông điệp với cả dữ liệu lẫn sự ấm áp cá nhân**.
+
+Các bước: (1) quan sát người này phản ứng nhanh hay cần thời gian, và hỏi về số liệu hay hỏi về người; (2) định vị vào một ô; (3) giữ nguyên nội dung, đổi cách mở đầu và mức chi tiết; (4) kiểm lại bằng phản ứng thực tế.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Hỏi thẳng thay vì đoán: "Bạn muốn mình gửi trước tài liệu để đọc, hay trao đổi trực tiếp rồi mình gửi sau?"
+- `[BỔ SUNG]` Với Driver khi cần bàn kỹ: "Kết luận là A. Mình cần 10 phút giải thích vì sao — có một rủi ro ảnh hưởng tới quý sau."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: cùng quyết định đổi metric đánh giá mô hình. Senior DS thiên Analytical — gửi trước bảng so sánh trên tập holdout. Product Manager thiên Driver — một dòng: "Đổi sang F1 vì precision đang che mất 30% ca bỏ sót; lịch không đổi." Cộng tác viên gán nhãn thiên Amiable — nói rõ việc này đổi gì trong công việc hằng ngày và ai hỗ trợ.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Luật quan trọng nhất của mô hình nằm ở slide 22: **đừng coi một phong cách giao tiếp khác mình là "khó tính" hay "hay cãi"**.
+
+`[SUY LUẬN]` Hai hạn chế: một người có thể đổi phong cách theo bối cảnh (Analytical với dữ liệu, Expressive khi brainstorm); và mô hình mô tả *cách trao đổi*, không mô tả *mức sẵn sàng cho một việc* — dùng nó để quyết định giao việc tới đâu là nhầm công cụ.
+
+## Phân biệt với framework gần giống
+- `FW-001` Situational Leadership chọn mức chỉ đạo và hỗ trợ theo **mức sẵn sàng cho từng việc**; `FW-072` chọn **cách nói** theo xu hướng xử lý thông tin. Một người Expressive vẫn có thể ở mức S1 cho một việc mới.
+- `FW-005` Leadership Grid định vị **xu hướng của chính người lãnh đạo** trên hai trục task/people; `FW-072` định vị **người đối diện**.
+
+## Cách kết hợp với framework khác
+Định vị phong cách bằng `FW-072` → chọn chiến lược quản lý tương ứng bằng `FW-076` → nếu là vấn đề hiệu suất thì chuyển sang `FW-023` và `FW-024` → nghe đúng cấp độ bằng `CON-011`.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 9, 22–23]`
+
+=====
+
+---
+id: FW-073
+type: framework
+title_vi: Các yếu tố định hình hành vi cá nhân
+title_en: Factors That Influence Individual Behaviour
+aliases: [person environment situation, factors influencing behaviour, yếu tố định hình hành vi, strong and weak situations]
+keywords: [vì sao người ta hành xử như vậy, hiểu nhân viên, hoàn cảnh ảnh hưởng hành vi, tính cách, nhận thức, cảm xúc, văn hóa, trải nghiệm quá khứ, môi trường làm việc]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-006, PRB-007]
+related_ids: [FW-072, CON-012, FW-023, FW-028, CON-022]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 5–7"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Factors That Influence Individual Behaviour (Các yếu tố định hình hành vi cá nhân)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 11 mở đầu bằng một bản đồ các yếu tố định hình hành vi của một con người, chia thành ba nhóm — **The Person · The Environment · The Situation** — rồi mở rộng thành các yếu tố tâm lý và các yếu tố xã hội. Dùng khi muốn hiểu vì sao một người hành xử theo cách họ đang hành xử, trước khi kết luận về họ.
+
+## Mục đích
+Chặn phản xạ quy mọi hành vi về tính cách. Bản đồ này cho thấy tính cách chỉ là **một trong ba nhóm** yếu tố, và hai nhóm còn lại — môi trường và tình huống — thường là thứ người quản lý có thể thay đổi được.
+
+## Khi nào dùng
+Trước khi chẩn đoán một vấn đề hiệu suất hay thái độ; khi một người làm tốt ở nhóm này nhưng không ở nhóm khác; khi một hành vi mới xuất hiện mà không rõ nguyên nhân.
+
+## Khi nào KHÔNG dùng
+Khi đã xác định được nguyên nhân cụ thể và cần hành động — chuyển sang `FW-023` AMO hoặc `FW-028`. Bản đồ này để mở rộng giả thuyết, không để kết luận.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 5 — ba nhóm yếu tố và một điểm chung:
+
+| Nhóm | Nội dung |
+|---|---|
+| **The Person** | Tính cách, kỹ năng, phẩm chất, giá trị, đạo đức |
+| **The Environment** | Công việc, nhóm, đặc điểm vị trí, tổ chức, đời sống cá nhân |
+| **The Situation** | **Strong and weak situations** — tình huống mạnh và tình huống yếu |
+| **Điểm chung ở mọi người** | **Survival and success** — sinh tồn và thành công |
+
+Diễn giải bảng: **strong / weak situation** là phần đáng chú ý nhất. Tình huống *mạnh* có quy tắc, kỳ vọng và hậu quả rõ — ở đó hầu hết mọi người hành xử giống nhau bất kể tính cách. Tình huống *yếu* thì mơ hồ, và khác biệt tính cách bộc lộ mạnh nhất. Hệ quả: nếu một hành vi không mong muốn xuất hiện ở nhiều người khác nhau, nhiều khả năng bạn đang có **tình huống yếu** — vấn đề thiết kế, không phải vấn đề con người. Dòng cuối (*survival and success*) là nền chung: mọi hành vi đều đang phục vụ một trong hai thứ đó, theo cách nhìn của chính người làm.
+
+`[KHÓA HỌC]` Slide 6 — **các yếu tố tâm lý**:
+- **Personality and temperament:** đặc điểm bên trong như rụt rè, cởi mở, locus of control hướng nội — tạo khuôn mẫu nhất quán trong cách nghĩ và phản ứng.
+- **Cognition and perception:** cách xử lý ký ức, ra quyết định và dùng lối tắt tinh thần quyết định cách họ diễn giải sự kiện.
+- **Emotions and motivation:** sợ hãi, vui sướng, giận dữ đẩy người ta vượt trở ngại hoặc phản ứng phòng vệ.
+
+`[KHÓA HỌC]` Slide 7 — **các yếu tố xã hội và môi trường**:
+- **Culture and Norms:** quy tắc xã hội, nhóm mình thuộc về và các giá trị định hình điều gì được coi là chấp nhận được.
+- **Immediate surroundings:** bối cảnh vật lý và sự hiện diện của người khác ảnh hưởng mạnh tới sự tuân thủ và a dua.
+- **Life experiences:** sự kiện quá khứ, nền tảng gia đình và cách nuôi dạy tạo niềm tin ăn sâu dẫn dắt lựa chọn khi trưởng thành, **thường ngoài ý thức**.
+
+Các bước: chạy qua ba nhóm theo thứ tự **Situation → Environment → Person**, không ngược lại — thứ tự này buộc bạn loại trừ các nguyên nhân sửa được trước khi chạm tới nguyên nhân khó sửa nhất.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Hành vi này xuất hiện ở mọi tình huống hay chỉ một loại?"
+- "Kỳ vọng ở đây có rõ không — hay đây là tình huống yếu?"
+- `[BỔ SUNG]` "Có ai khác cũng làm vậy không?" — nếu có, nguyên nhân gần như chắc chắn không ở The Person.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một DS không bao giờ phản biện trong design review. **Situation:** review không có agenda, không ai biết khi nào được nói, hai người nói nhiều nhất là Senior và quản lý — tình huống yếu. **Environment:** người mới nhất nhóm. **Person:** có thể hướng nội. Hai nguyên nhân đầu sửa được trong một tuần; cái thứ ba không cần sửa.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là dừng ở nhóm đầu tiên nghe hợp lý — thường là The Person, vì đó là lời giải thích gọn nhất; chính là fundamental attribution error mà `FW-056` liệt kê ở dòng 4. Slide 7 cảnh báo: phần lớn yếu tố xã hội tác động **ngoài ý thức**, kể cả ý thức người đang hành xử — nên hỏi thẳng "vì sao em làm vậy" thường không cho câu trả lời đúng.
+
+## Phân biệt với framework gần giống
+- `FW-023` AMO chẩn đoán để **hành động**; `FW-073` là bản đồ rộng hơn để **mở giả thuyết** trước khi chẩn đoán.
+- `CON-012` nêu nguyên lý vấn đề tổ chức ngụy trang thành vấn đề nhân viên; `FW-073` cho cấu trúc để kiểm điều đó.
+- `FW-072` mô tả **phong cách giao tiếp**; `FW-073` mô tả **nguồn gốc hành vi** nói chung.
+
+## Cách kết hợp với framework khác
+Mở giả thuyết bằng `FW-073` → thu hẹp bằng `FW-023` AMO hoặc `FW-028` năm lăng kính → nếu gốc ở tình huống yếu, sửa bằng `CON-004` và `FW-042`.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 5–7]`
+
+=====
+
+---
+id: FW-074
+type: framework
+title_vi: Hai lý thuyết nhu cầu — McClelland và ERG của Alderfer
+title_en: Two Needs Theories - McClelland's Three Needs and Alderfer's ERG
+aliases: [ERG theory, Alderfer, McClelland, need for achievement affiliation power, thuyết ERG, nhu cầu thành tựu]
+keywords: [động lực, điều gì thúc đẩy nhân viên, người muốn thăng tiến, người muốn quan hệ tốt, người muốn ảnh hưởng, giữ người, nhu cầu tồn tại, nhu cầu phát triển, tạo động lực khác nhau cho từng người]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-007, PRB-005]
+related_ids: [FW-009, FW-031, FW-028, FW-072, CON-025]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 25–26"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Two Needs Theories (Hai lý thuyết nhu cầu — McClelland và ERG của Alderfer)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 11 đóng lại bằng hai lý thuyết nhu cầu đặt cạnh nhau: **ba nhu cầu có được** của McClelland (achievement, affiliation, power) và **thuyết ERG** của Alderfer (Existence, Relatedness, Growth). Dùng khi cần hiểu vì sao cùng một phần thưởng lại tạo động lực cho người này mà không cho người kia.
+
+## Mục đích
+Thay câu hỏi *"làm sao tạo động lực cho team"* bằng câu hỏi *"người này đang ở đâu trên thang nhu cầu của họ"*. Cả hai lý thuyết cùng bác bỏ giả định rằng mọi người được thúc đẩy bởi cùng một thứ.
+
+## Khi nào dùng
+Khi thiết kế phân công việc; khi một người giỏi bắt đầu mất lửa; trước buổi trao đổi về phát triển nghề nghiệp; khi quyết định phần thưởng hoặc ghi nhận.
+
+## Khi nào KHÔNG dùng
+Khi hiệu suất kém do thiếu năng lực hay thiếu điều kiện làm việc — dùng `FW-023` AMO. Lý thuyết nhu cầu giải thích *hướng* của động lực, không giải thích *khả năng* thực hiện.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Lý thuyết 1 — ba nhu cầu có được** (slide 25): *"Human behaviour and workplace motivation are driven by three acquired needs: achievement, affiliation, and power."*
+
+| Nhu cầu | Nội dung |
+|---|---|
+| **Need for Achievement** | Động lực vượt trội, đạt thành công so với một bộ tiêu chuẩn, và theo đuổi **mục tiêu khó ở mức vừa phải** |
+| **Need for Affiliation** | Mong muốn có quan hệ cá nhân thân thiện, gần gũi và được nhóm chấp nhận |
+| **Need for Power** | Mong muốn gây ảnh hưởng, dẫn dắt, và khiến người khác hành động theo cách họ vốn sẽ không làm |
+
+Diễn giải bảng: từ **acquired** quan trọng — ba nhu cầu hình thành qua trải nghiệm chứ không bẩm sinh, nên thay đổi được. Chi tiết *"moderately challenging goals"* cũng đáng chú ý: người có nhu cầu thành tựu cao **không** bị thúc đẩy bởi mục tiêu quá dễ hay quá khó — giao việc quá an toàn cho họ làm mất động lực không kém giao việc bất khả thi.
+
+`[KHÓA HỌC]` **Lý thuyết 2 — ERG** (slide 26), Alderfer: **Existence · Relatedness · Growth** (tồn tại · gắn kết · phát triển), *"synthesises Maslow"*. Con người có nhu cầu tồn tại và nhu cầu phát triển ở hai đầu; *"the relatedness needs are different for all persons but assist in the sliding scale between existence and growth"* — nhu cầu gắn kết là **thanh trượt** giữa hai đầu, và *"we continually move along the sliding scale"*.
+
+Diễn giải: khác biệt lớn nhất so với Maslow nằm ở hai chữ **sliding scale**. Maslow mô tả các bậc leo lần lượt và chỉ đi lên; ERG nói người ta **đi lại hai chiều, liên tục**. Hệ quả: một người đang tập trung vào Growth có thể trượt về Existence khi hoàn cảnh đổi — con nhỏ, người thân ốm, bất ổn việc làm — và khi đó mọi cơ hội phát triển bạn đưa ra đều không có tác dụng, không phải vì họ mất chí tiến thủ mà vì nhu cầu đang ở đầu kia.
+
+Các bước: (1) xác định người đó nghiêng về nhu cầu nào trong ba nhu cầu McClelland; (2) xác định họ đang ở đâu trên thanh trượt ERG **lúc này**; (3) chọn cách ghi nhận, phân công và phát triển khớp cả hai; (4) kiểm lại định kỳ.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` "Sáu tháng tới, điều gì khiến em thấy công việc đáng làm nhất — làm chủ một mảng khó, làm cùng một nhóm tốt, hay có tiếng nói trong quyết định?"
+- `[BỔ SUNG]` Khi ai đó trượt về Existence: "Có gì ngoài công việc đang chiếm nhiều sức của em không?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một Senior DS có nhu cầu **power** cao không hào hứng khi được giao thêm mô hình khó, nhưng rất gắn bó khi được quyền chốt kiến trúc dữ liệu cho cả team. Một DS có nhu cầu **achievement** cao sẽ mất lửa nếu suốt quý chỉ bảo trì pipeline cũ, dù lương thưởng không đổi. Cộng tác viên gán nhãn thường ở đầu **Existence**: hợp đồng ngắn hạn và thu nhập theo khối lượng khiến lời mời "phát triển kỹ năng" nhẹ hơn sự ổn định về việc và lịch làm.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến nhất là coi vị trí trên thang là **thuộc tính của con người** thay vì trạng thái hiện tại — chính từ *sliding scale* bác bỏ cách đọc đó. Sai lầm thứ hai: dùng ba nhu cầu McClelland như bài test phân loại, trong khi slide ghi rõ chúng là **acquired**.
+
+## Phân biệt với framework gần giống
+- `FW-009` giải thích vì sao người ta **thấy mình sở hữu** một việc; `FW-074` giải thích **nhu cầu nền** khiến họ quan tâm tới việc đó ngay từ đầu.
+- `FW-028` có lăng kính Motivation; `FW-074` là nội dung chi tiết của lăng kính đó.
+- `FW-031` EDGE làm việc ở mức hướng nghề nghiệp dài hạn; `FW-074` ở mức nhu cầu cơ bản hơn.
+
+## Cách kết hợp với framework khác
+Xác định nhu cầu bằng `FW-074` → giao việc bằng `FW-001` và `CON-004` → chuyển sang quyền sở hữu bằng `FW-009` → nếu gốc ở hướng nghề nghiệp thì `FW-031`.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 25–26]`
+- Slide 26 ghi tên Alderfer; slide 25 không ghi tên McClelland — `[BỔ SUNG]` ba nhu cầu achievement/affiliation/power là mô hình của David McClelland, ghi chú của Claude.
+
+=====
+
+---
+id: FW-075
+type: framework
+title_vi: Bốn địa hạt của trí tuệ cảm xúc
+title_en: The Four Domains of Emotional Intelligence
+aliases: [four domains of EI, self-awareness social awareness self-management relationship management, Goleman domains, HBS leadership essentials]
+keywords: [trí tuệ cảm xúc, tự nhận thức, nhận thức xã hội, tự quản lý, quản lý quan hệ, đồng cảm, hiểu mình hiểu người, năng lực lãnh đạo mềm]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-004, PRB-006]
+related_ids: [CON-013, CON-011, FW-072, FW-016, FW-014]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 15–20"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Four Domains of Emotional Intelligence (Bốn địa hạt của trí tuệ cảm xúc)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 11 trình bày trí tuệ cảm xúc dưới dạng **bốn địa hạt** trên hai trục: *bản thân / xã hội* × *nhận thức / quản lý*. Nguồn ghi trên slide: Harvard Business School — Leadership Essentials (2024). Dùng khi muốn định vị mình đang mạnh và yếu ở đâu trong năng lực làm việc với con người.
+
+## Mục đích
+Tách "trí tuệ cảm xúc" — một khái niệm hay bị dùng chung chung — thành bốn nhóm năng lực riêng, mỗi nhóm phát triển bằng một cách khác nhau.
+
+## Khi nào dùng
+Khi tự đánh giá để chọn hướng phát triển; khi chuẩn bị một cuộc trao đổi khó; khi một người giỏi chuyên môn nhưng gặp trục trặc trong phối hợp.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề nằm ở quy trình, nguồn lực hay quyền quyết định — `CON-012` cảnh báo vấn đề tổ chức hay khoác áo vấn đề con người.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Bốn địa hạt (slide 17–19):
+
+| | **Nhận thức (Awareness)** | **Quản lý (Management)** |
+|---|---|---|
+| **Bản thân** | **Self-Awareness** — khả năng hiểu cảm xúc của chính mình và tác động của chúng | **Self-Management** — achievement orientation · adaptability · emotional self-control (điều tiết) · positive outlook |
+| **Xã hội** | **Social Awareness** — đồng cảm; *"remember not everyone values or does things in the same way as you"* | **Social Management** — hiểu các quan hệ **quyền lực** trong nhóm và tổ chức để gắn kết đội và tạo ảnh hưởng |
+
+Diễn giải bảng: cột trái là **nhận ra**, cột phải là **làm gì với điều đã nhận ra** — hai việc khác nhau, và năng lực ở cột trái không tự động tạo ra năng lực ở cột phải. Hàng trên là mình, hàng dưới là người khác. Câu kết của slide 17: *"We recognise the impact we have on others and how others see us"*.
+
+Ô **Social Management** đáng chú ý nhất vì nó không giống cách nói thông thường về EQ: slide định nghĩa nó qua **quan hệ quyền lực** chứ không qua sự dễ chịu, và nêu hai việc cụ thể — *"regulate the halo effect"* (kiềm chế hiệu ứng hào quang) và *"build leadership silos"*.
+
+`[KHÓA HỌC]` **Relationship Management** được mở rộng ở slide 20 thành sáu thành phần: Conflict Management · Coaching and Mentoring · **Power and Influence (Expert and Referent)** · **Inspirational Leadership (lead by bringing out the best in people)** · Teamwork · **Pattern Recognition (Systems and Critical Thinking – Problem Solving)**.
+
+`[KHÓA HỌC]` Slide 15 đặt ba cấp độ bao quanh bốn địa hạt: **Leading Self** — người lãnh đạo giỏi biết điểm mạnh điểm yếu của mình và liên tục phát triển; **Leading Others** — *"Leaders know they need other people. Sometimes you lead and other times you follow. Leaders develop other leaders"*; **Leading Organisations** — có tầm nhìn và khả năng gây ảnh hưởng để đạt mục tiêu tổ chức.
+
+Các bước: (1) chấm bản thân trên bốn ô; (2) tìm ô yếu nhất; (3) chọn một hành vi cụ thể để luyện; (4) kiểm bằng phản hồi của người khác, vì ba trong bốn ô liên quan tới cảm nhận của họ.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Tôi nhận ra cảm xúc của mình nhanh tới đâu — trong lúc đang diễn ra, hay chỉ sau khi về nhà?"
+- "Tôi có biết ai thực sự có ảnh hưởng trong nhóm này không, hay chỉ biết sơ đồ tổ chức?"
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 16 nêu một quan sát thẳng thắn về nghề quản lý: *"You will likely encounter situations as a leader that require you to learn and grow at the very moment others expect you to be an authority. You will inevitably make mistakes in your leadership journey. Do not be embarrassed to do what it takes to develop as a leader."*
+
+`[BỔ SUNG]` Bối cảnh team Data Science: một quản lý mạnh Self-Awareness và Self-Management (biết mình đang bực, vẫn giữ bình tĩnh) nhưng yếu Social Awareness — không nhận ra rằng với cộng tác viên, một câu hỏi làm rõ từ quản lý nghe như lời chất vấn. Hai ô hàng trên đều tốt; ô dưới bên trái mới là chỗ cần luyện.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm thường gặp là coi bốn ô như bốn mức độ phải đi lần lượt. Chúng là bốn **địa hạt song song** — một người có thể rất mạnh ở Social Awareness mà yếu ở Self-Management, và ngược lại.
+
+`[KHÓA HỌC]` Slide 21 có một bộ **Emotional Intelligence – Self-Assessment Questionnaire** nhưng slide chỉ là ảnh, không đọc được nội dung câu hỏi — `[CẦN XÁC NHẬN]`, xem `open_questions.md` (OQ-016).
+
+## Phân biệt với framework gần giống
+- `CON-013` mô tả **hai địa hạt bên trong** (self-awareness, self-management) chi tiết từ Topic 08, kèm định nghĩa cảm xúc và bài tập Emotion Check-In. `FW-075` cho **khung đầy đủ bốn ô** và mở sang hai địa hạt xã hội.
+- `FW-014` Sáu nguồn quyền lực là nội dung chi tiết cho phần Power and Influence; slide 20 chỉ nêu hai nguồn Expert và Referent.
+- `FW-072` nói về **phong cách của người đối diện**; `FW-075` nói về **năng lực của chính bạn** khi làm việc với họ.
+
+## Cách kết hợp với framework khác
+Định vị bằng `FW-075` → đào sâu hai ô bên trong bằng `CON-013` → ô Social Awareness luyện bằng `CON-011` ba cấp độ lắng nghe → ô Social Management dùng `FW-014` và `FW-016`.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 15–21]`
+- Slide 17–19 ghi nguồn: Harvard Business School — Leadership Essentials (2024).
+
+=====
+
+---
+id: FW-076
+type: framework
+title_vi: Năm chiến lược quản lý và bốn kỹ thuật giao tiếp với tính cách đa dạng
+title_en: Five Strategies for Managing and Four Techniques for Communicating Across Personalities
+aliases: [managing diverse personalities, embrace flexibility, leverage strengths, active listening, chiến lược quản lý tính cách đa dạng]
+keywords: [quản lý người khác nhau, giao việc theo điểm mạnh, xử lý xung đột sớm, lắng nghe chủ động, câu hỏi mở, tạo cơ hội phát triển, một cỡ không vừa tất cả, điều chỉnh phong cách quản lý]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-005, PRB-006]
+related_ids: [FW-072, FW-073, FW-001, CON-011, FW-029]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 10–12, 23"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Five Strategies and Four Techniques (Năm chiến lược quản lý và bốn kỹ thuật giao tiếp với tính cách đa dạng)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 11 đưa ra **năm chiến lược quản lý** nhóm có tính cách đa dạng và **bốn kỹ thuật giao tiếp** đi kèm. Dùng khi đã nhận diện được sự khác biệt giữa các thành viên bằng `FW-072` và cần biết làm gì với sự khác biệt đó.
+
+## Mục đích
+`[KHÓA HỌC]` Cụ thể hóa một nguyên tắc nêu ở slide 10: *"Effective Leadership is not a one size fits all."*
+
+## Khi nào dùng
+Khi thiết kế cách làm việc với một team mới; khi phân công việc trong quý; khi căng thẳng giữa hai thành viên bắt đầu xuất hiện.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là hiệu suất cá nhân cụ thể cần xử lý — dùng `FW-023` AMO và `FW-024` SAIL. Năm chiến lược này ở mức thiết kế cách vận hành, không phải can thiệp từng ca.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Năm chiến lược quản lý** (slide 10–12):
+
+| Chiến lược | Nội dung |
+|---|---|
+| **Embrace Flexibility** | Điều chỉnh cách tiếp cận theo nhu cầu của team. Một số người thích chỉ dẫn chi tiết, số khác phát huy tốt với tự do sáng tạo |
+| **Foster Open Communication** | Tạo môi trường để mọi người thoải mái bày tỏ. **Họp 1:1 đều đặn** để nắm nhu cầu, mục tiêu và khó khăn — vừa xây niềm tin vừa giúp bạn hiểu điều gì tạo động lực cho họ |
+| **Leverage Strengths** | Giao việc theo điểm mạnh: người tư duy phân tích hợp lập kế hoạch dự án, người giỏi giao tiếp hợp dẫn buổi trình bày với khách hàng |
+| **Address Conflicts Proactively** | Can thiệp **sớm**: khuyến khích đối thoại cởi mở, giúp các bên tìm điểm chung. Tiếp cận bằng sự đồng cảm, tập trung vào mục tiêu chung và giải pháp **thay vì quy lỗi** |
+| **Provide Growth Opportunities** | Nhận ra tiềm năng ở từng người và tạo cơ hội phát triển: đào tạo, mentoring, hoặc **'stretch' assignments (self-efficacy)** đẩy họ vượt vùng an toàn |
+
+Diễn giải bảng: năm chiến lược chia theo thời điểm tác động. **Flexibility** và **Leverage Strengths** là *thiết kế trước*. **Foster Open Communication** là *duy trì liên tục*, và là chiến lược duy nhất nêu cơ chế cụ thể — họp 1:1 đều đặn. **Address Conflicts** và **Provide Growth** là *phản ứng có chủ đích*. Chi tiết `(self-efficacy)` ở dòng cuối đáng chú ý: stretch assignment nhằm xây **niềm tin của người đó vào khả năng của chính họ**, cùng cơ chế `FW-009` mô tả.
+
+`[KHÓA HỌC]` **Bốn kỹ thuật giao tiếp** (slide 23):
+
+| Kỹ thuật | Nội dung |
+|---|---|
+| **Practice Active Listening** | Tập trung hoàn toàn vào người nói, không ngắt lời. Để ý tín hiệu phi ngôn ngữ như giọng điệu và ngôn ngữ cơ thể để hiểu ý nghĩa thật |
+| **Tailor Your Tone and Pace** | Khớp tốc độ và mức trực diện của mình với mức thoải mái của người đối diện |
+| **Ask Open-Ended Questions** | Dùng câu hỏi bắt đầu bằng *"what"* hoặc *"how"* để người ta mở rộng theo cách tự nhiên với họ |
+| **Build Emotional Intelligence** | Để ý lời mình ảnh hưởng tới người khác thế nào. **Kiểm thiên kiến của chính mình trước khi phán xét một phong cách diễn đạt khác** |
+
+Diễn giải: kỹ thuật thứ tư là điều kiện cho ba kỹ thuật kia. Nếu bạn đã gán nhãn "người này khó tính" thì việc nghe chủ động sẽ chỉ tìm bằng chứng cho nhãn đó — cơ chế mà `CON-022` và `FW-055` mô tả.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Câu hỏi mở theo đúng mẫu slide 23: *"What would make this easier for you?"* · *"How do you prefer to get feedback?"*
+- `[BỔ SUNG]` Mở một buổi 1:1 định kỳ: "Ba điều mình muốn nghe hôm nay: việc gì đang vướng, việc gì em muốn làm nhiều hơn, và mình đang làm gì khiến em khó."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, áp **Leverage Strengths**: DS thiên phân tích thiết kế thí nghiệm A/B và viết tài liệu định nghĩa metric; DS thiên giao tiếp trình bày kết quả với Product và làm đầu mối với Legal — chia vai theo điểm mạnh thay vì chia đều khối lượng.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` **Leverage Strengths** có mặt trái: giao mãi theo điểm mạnh sẽ khóa người ta vào một vai. Slide 12 có đối trọng là *stretch assignments*, nhưng hai chiến lược kéo ngược nhau và phải cân bằng có ý thức. Và **Address Conflicts Proactively** dễ bị hiểu thành can thiệp vào mọi va chạm — can thiệp sớm nghĩa là **nêu sớm**, không phải **giải hộ sớm**.
+
+## Phân biệt với framework gần giống
+- `FW-072` giúp **nhận diện** sự khác biệt; `FW-076` nói **làm gì** với nó.
+- `FW-001` Situational Leadership cũng dạy điều chỉnh theo người, nhưng theo **mức sẵn sàng cho từng việc**; `FW-076` điều chỉnh theo **phong cách và điểm mạnh**.
+- `FW-029` Thang đo Mức sẵn sàng phát triển cho tiêu chí cụ thể để quyết định ai đã sẵn sàng cho stretch assignment.
+
+## Cách kết hợp với framework khác
+Nhận diện bằng `FW-072` → chọn chiến lược bằng `FW-076` → quyết mức stretch bằng `FW-029` → chạy 1:1 bằng `CON-011` và `FW-030` → nếu xung đột leo thang, dùng `FW-016`.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 10–12, 23]`
+
+=====
+
+---
+id: FW-077
+type: exercise
+title_vi: Ba kịch bản đóng vai hội thoại quản lý – nhân viên tại Zalo
+title_en: Three Manager-Staff Role Play Scenarios at Zalo
+aliases: [role play scenarios, đóng vai, kịch bản hội thoại, encouraging ownership, mediating work styles, missed promotion]
+keywords: [nhân viên không chủ động, hai người xung đột phong cách, trượt thăng chức, luyện nói chuyện khó, kịch bản thực hành, hòa giải, feedback giữ động lực, bài tập đóng vai]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-006, PRB-007]
+related_ids: [FW-072, FW-076, FW-024, FW-025, FW-016]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 30, 32–38"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Three Manager-Staff Role Play Scenarios (Ba kịch bản đóng vai hội thoại quản lý – nhân viên tại Zalo)
+
+## Tóm tắt
+`[KHÓA HỌC]` Ba kịch bản đóng vai do Topic 11 thiết kế **riêng cho bối cảnh Zalo**, kèm nhân vật, tình huống, mục tiêu và câu hỏi debrief. Dùng để luyện ba loại hội thoại khó nhất mà một quản lý cấp trung gặp thường xuyên.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 30 giới thiệu cả ba dưới tiêu đề **"Common Manager – Staff Conversations at Zalo?"** — tức đây không phải tình huống giả định mà là ba dạng hội thoại giảng viên coi là phổ biến tại chính tổ chức của người học.
+
+## Khi nào dùng
+Luyện trước một cuộc trò chuyện thật; dùng làm bài tập cho buổi họp team leader; tự chạy bằng cách viết ra câu mở đầu của mình cho từng kịch bản.
+
+## Khi nào KHÔNG dùng
+Không dùng bản thân kịch bản làm kịch bản cho cuộc nói chuyện thật — tình huống thật luôn có dữ kiện riêng, và đọc thuộc sẽ nghe ra ngay.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Kịch bản 1 — Encouraging Ownership and Proactivity** (slide 32–33).
+*Bối cảnh:* một thành viên có năng lực liên tục giao nộp ở mức chấp nhận được nhưng hiếm khi chủ động — chờ chỉ đạo, né quyết định độc lập, bỏ lỡ cơ hội tạo thêm giá trị.
+*Nhân vật:* **Ninh** (quản lý) điềm tĩnh, hỗ trợ, muốn trao quyền · **Quang** có kỹ năng, đáng tin, nhưng ngại nhận quyền sở hữu và tránh rủi ro.
+*Tình huống:* Ninh hẹn 1:1 sau khi thấy Quang chờ duyệt những quyết định nhỏ và không lường trước bước kế tiếp.
+*Mục tiêu:* phản hồi rõ và hành động được · củng cố điểm mạnh · thúc đẩy chủ động · **giữ niềm tin và an toàn tâm lý**.
+*Debrief:* ngôn ngữ nào giữ được động lực? · điều gì làm phản hồi rõ và hành động được? · cân bằng hỗ trợ với trách nhiệm ra sao?
+
+`[KHÓA HỌC]` **Kịch bản 2 — Mediating Different Working Styles** (slide 34–35).
+*Bối cảnh:* hai đồng nghiệp giỏi ngày càng căng thẳng vì khác phong cách — một người quyết nhanh và nói thẳng, người kia phân tích kỹ và trao đổi bằng văn bản. Ma sát làm chậm phối hợp và ảnh hưởng tinh thần team.
+*Nhân vật:* **Trung** (quản lý) *"not experienced"*, cố giữ trung lập · **Ngan** nhanh, trực diện, trao đổi bằng lời · **Thu** cẩn trọng, chi tiết, thích viết và cần thời gian xử lý.
+*Tình huống:* mời cả hai vào một buổi chung. **Mục đích không phải quy lỗi** mà giúp họ hiểu phong cách của nhau.
+*Mục tiêu:* hiểu điều mỗi người coi trọng, điều gì gây bực bội, hai phong cách **bổ sung** nhau thế nào · thống nhất cách trao đổi và ra quyết định.
+*Debrief:* giữ trung lập bằng cách nào? · kỹ thuật nào giảm căng thẳng? · biến khác biệt thành thỏa thuận hành động ra sao?
+
+`[KHÓA HỌC]` **Kịch bản 3 — Managing Disappointment / Missed Promotion** (slide 36–37).
+*Bối cảnh:* một nhân viên hiệu suất cao kỳ vọng thăng chức và thất vọng khi người khác được chọn, cảm thấy đóng góp chưa được ghi nhận.
+*Nhân vật:* **Giang** (quản lý) đồng cảm, minh bạch, tập trung phát triển và giữ người · **Trang** hiệu suất cao, tham vọng, bức xúc vì bị bỏ qua.
+*Tình huống:* Giang mời Trang nói riêng sau khi thấy cô giảm gắn kết. Trang **đã được cân nhắc**, nhưng ứng viên khác được chọn vì **mức sẵn sàng lãnh đạo rộng hơn**.
+*Mục tiêu:* thừa nhận cảm xúc · giải thích minh bạch · khẳng định giá trị của họ · đưa hướng phát triển rõ · giữ động lực.
+*Debrief:* ngôn ngữ nào giữ động lực? · tránh thế phòng thủ bằng cách nào? · **đóng khung kế hoạch phát triển như một cơ hội chứ không phải một sự chỉnh sửa, bằng cách nào?**
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Ba câu debrief lặp ở cả ba kịch bản, dùng được cho bất kỳ cuộc trò chuyện khó nào: điều gì giữ được động lực · điều gì làm phản hồi rõ và hành động được · hỗ trợ và trách nhiệm cân bằng ra sao.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 29 có hoạt động khởi động **Extrovert vs Introvert**: hai nhóm cùng bàn tổ chức một sự kiện công ty (*company picnic* và *family day*) với cùng bộ câu hỏi về ngày giờ, địa điểm, chủ đề, ăn uống, hoạt động. Người học nhận xét **sự khác nhau trong cách hai nhóm thảo luận**, không phải kết quả.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Chi tiết đáng chú ý nhất ở kịch bản 2: quản lý Trung được mô tả là **chưa có kinh nghiệm** — thiết kế có chủ đích, buộc người đóng vai dùng kỹ thuật hòa giải thay vì dựa vào uy tín sẵn có. Kịch bản 3 dễ hỏng nhất vì lý do thật (*broader leadership readiness*) rất dễ bị nói thành lời chê mơ hồ; phải chuẩn bị trước một ví dụ quan sát được, nếu không sẽ rơi đúng cái bẫy `CON-010` cảnh báo.
+
+## Phân biệt với framework gần giống
+`FW-024` SAIL và `FW-025` là **quy trình** cho cuộc trò chuyện; `FW-077` là **ba ca cụ thể** để luyện các quy trình đó, với nhân vật và dữ kiện sẵn.
+
+## Cách kết hợp với framework khác
+Kịch bản 1 luyện `FW-024`, `CON-004`; kịch bản 2 luyện `FW-072`, `FW-016`; kịch bản 3 luyện `FW-029`, `FW-030`. Cả ba kiểm trước bằng `FW-055` và `FW-056`.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 29–30, 32–38]`
+
+=====
+
+---
+id: FW-078
+type: framework
+title_vi: Khung TRUST — năm hành vi lãnh đạo xây niềm tin
+title_en: The TRUST Framework - Five Leadership Behaviours
+aliases: [TRUST framework, transparency reliability understanding safety team first, khung TRUST]
+keywords: [xây niềm tin trong team, minh bạch, giữ lời hứa, lắng nghe sâu, an toàn để lên tiếng, đặt tập thể lên trước, hành vi lãnh đạo, team không tin nhau]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13]
+problems_addressed: [PRB-009, PRB-007]
+related_ids: [CON-027, FW-079, FW-080, FW-081, CON-029]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 10–12"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The TRUST Framework (Khung TRUST — năm hành vi lãnh đạo xây niềm tin)
+
+## Tóm tắt
+`[KHÓA HỌC]` **TRUST Framework** của Topic 13 là năm nhóm hành vi lãnh đạo — **Transparency · Reliability · Understanding · Safety · Team First** — mỗi nhóm kèm bốn hành động cụ thể. Dòng tiêu đề của khung: *"Trust is built through consistent leadership behaviours."* Dùng khi cần một danh sách hành vi kiểm được thay vì một ý định chung chung về việc "xây niềm tin".
+
+## Mục đích
+Biến niềm tin từ một kết quả mong muốn thành **một tập hành vi của người quản lý**, tức thành thứ có thể chọn làm hoặc không làm trong tuần này.
+
+## Khi nào dùng
+Khi nhận một team mới; khi team im lặng trong họp hoặc giấu tin xấu; khi cần chọn một hành vi cụ thể để thay đổi trong 30 ngày tới.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề đã leo thang thành xung đột cụ thể giữa hai bên — dùng `FW-016`. Và khi nguyên nhân nằm ở KPI xung đột hoặc quyền sở hữu không rõ, hành vi của quản lý không gỡ được — xem `FW-070`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 11–12, năm chữ cái:
+
+| Chữ | Nội dung | Bốn hành động | Câu đúc kết |
+|---|---|---|---|
+| **T — Transparency** | Giao tiếp cởi mở và trung thực. Chia sẻ bối cảnh đằng sau quyết định và **thừa nhận sự không chắc chắn khi nó tồn tại** | Giải thích quyết định · chia sẻ thông tin sớm · làm rõ kỳ vọng · trung thực về khó khăn | *"Communicate clearly. Build confidence. Create trust."* |
+| **R — Reliability** | Niềm tin lớn lên khi người lãnh đạo **nhất quán làm điều mình nói sẽ làm** | Giữ cam kết · theo đến cùng · đúng hạn · thể hiện trách nhiệm | *"Keep commitments. Build credibility. Earn trust."* |
+| **U — Understanding** | **Tìm hiểu trước khi được hiểu.** Lắng nghe sâu và thấu cảm | Lắng nghe chủ động · hỏi câu hỏi tò mò · thể hiện đồng cảm · khám phá các góc nhìn | *"Listen deeply. Empathise. Understand others."* |
+| **S — Safety** | Tạo môi trường nơi người ta **thấy an toàn để lên tiếng, phản biện ý tưởng và học từ sai lầm** | Mời phản hồi · khuyến khích quan điểm khác biệt · phản hồi tôn trọng · **coi sai lầm là cơ hội học** | *"Speak openly. Learn openly. Improve together."* |
+| **T — Team First** | Đặt thành công tập thể lên trước sự ghi nhận cá nhân, khuyến khích hợp tác xuyên ranh giới | Chia sẻ công trạng · phá bỏ silo · hỗ trợ người khác · tập trung vào mục tiêu chung | *"Collaborate openly. Succeed together."* |
+
+Diễn giải bảng: năm chữ có thứ tự phụ thuộc. **T và R** là nền — chúng xây *tính dự đoán được*. Chỉ khi có nền đó thì **U và S** mới hoạt động, vì lắng nghe sâu từ một người hay thất hứa sẽ bị đọc là thao túng. **Team First** là chữ duy nhất đòi quản lý **từ bỏ** thứ gì đó (sự ghi nhận cá nhân), nên cũng được quan sát kỹ nhất. Chi tiết trong chữ T đầu: *acknowledge uncertainty when it exists* — minh bạch gồm cả việc nói rõ mình chưa biết.
+
+`[KHÓA HỌC]` Slide 12 gắn năm hành vi với năm kết quả: **Communication improves · Collaboration strengthens · Innovation grows · Performance accelerates · People thrive**, và đúc kết: *"Trust is built through behaviours, strengthened through relationships, and reflected in performance."*
+
+Các bước: (1) tự chấm năm chữ theo bốn hành động của từng chữ; (2) chọn **một** hành động điểm thấp nhất; (3) đổi trong 30 ngày; (4) kiểm bằng hành vi của team, không bằng cảm nhận của mình.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[KHÓA HỌC]` Hoạt động slide 20: *"To increase trust in my team, I will focus on improving:"* — viết ra năm mục.
+- `[BỔ SUNG]` Câu dùng chữ T: "Mình chưa biết quý sau có thêm người không. Khi nào biết mình nói ngay, và trong lúc đó mình ưu tiên thế này."
+- `[BỔ SUNG]` Câu dùng chữ S: "Chỗ nào trong kế hoạch này mọi người thấy có vấn đề mà chưa tiện nói?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, chữ **S**: khi một mô hình production bị phát hiện rò rỉ dữ liệu, phản ứng của quản lý trong 10 phút đầu quyết định cả năm sau — hỏi *"ai làm cái này"* hay *"quy trình nào lẽ ra phải bắt được lỗi này"*. Đó là *treat mistakes as learning opportunities* ở dạng quan sát được.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là chọn chữ mình vốn đã mạnh để cải thiện thêm. Giá trị của khung nằm ở chữ yếu nhất: theo `CON-027`, đó mới là chỗ số dư niềm tin bị trừ.
+
+## Phân biệt với framework gần giống
+- `FW-079` Trust Equation đo **mức niềm tin hiện có**; `FW-078` liệt kê **hành vi để thay đổi nó** — một bên chẩn đoán, một bên kê đơn.
+- `CON-027` là khái niệm nền (năm chiều Robbins); `FW-078` là bộ hành vi thao tác.
+- `FW-080` An toàn tâm lý là nội dung chi tiết của riêng chữ **S**.
+
+## Cách kết hợp với framework khác
+Chẩn đoán bằng `FW-079` → chọn hành vi bằng `FW-078` → nếu yếu ở chữ S thì đi sâu bằng `FW-080` → chốt cam kết bằng STOP/START/CONTINUE ở `FW-082`.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 10–12, 20]`
+
+=====
+
+---
+id: FW-079
+type: framework
+title_vi: Phương trình Niềm tin của Maister
+title_en: The Trust Equation (Maister)
+aliases: [trust equation, Maister, credibility reliability intimacy self-orientation, phương trình niềm tin]
+keywords: [đo niềm tin, vì sao họ không tin tôi, uy tín, đáng tin cậy, sự gần gũi, quy về bản thân, thành phần nào đang yếu, chẩn đoán niềm tin]
+levels: [TEAM, ORG, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13]
+problems_addressed: [PRB-009, PRB-002]
+related_ids: [FW-078, CON-027, FW-058, FW-081, CON-029]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 18–19"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Trust Equation (Phương trình Niềm tin của Maister)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Trust Equation** của David Maister tách niềm tin thành bốn thành phần đặt trong một phân số:
+
+> **TRUST = (Credibility + Reliability + Intimacy) ÷ Self-Orientation**
+
+Dùng khi muốn chẩn đoán **thành phần nào đang yếu** trong một quan hệ cụ thể, thay vì kết luận chung chung rằng "thiếu niềm tin".
+
+## Mục đích
+Chỉ ra rằng niềm tin không phải một đại lượng duy nhất mà là kết quả của ba thứ cộng lại chia cho một thứ — và rằng **mẫu số có sức phá hoại lớn hơn bất kỳ thành phần nào ở tử số**.
+
+## Khi nào dùng
+Khi một quan hệ công việc không chạy mà không rõ vì sao; khi chuẩn bị làm việc với một stakeholder khó; khi phân tích một case như "The Silent Team" ở `FW-082`.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là năng lực thật sự thiếu hoặc quy trình hỏng — niềm tin không phải lời giải thích cho mọi trục trặc.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 19, bốn thành phần kèm câu hỏi chẩn đoán và thứ mỗi thành phần tạo ra:
+
+| Thành phần | Câu hỏi | Biểu hiện | Tạo ra |
+|---|---|---|---|
+| **Credibility** | *"Can I believe what you say?"* | Chuyên môn · kiến thức · phán đoán vững · giao tiếp rõ ràng | **Confidence** (sự tin tưởng vào lời nói) |
+| **Reliability** | *"Can I depend on you?"* | Giữ cam kết · theo đến cùng · nhất quán · có trách nhiệm | **Dependability** (sự đáng cậy) |
+| **Intimacy** | *"Can I be honest with you?"* | Lắng nghe chủ động · đồng cảm · xây dựng quan hệ · tôn trọng sự riêng tư | **Connection** (sự kết nối) |
+| **Self-Orientation** *(mẫu số)* | *"Who are you serving?"* | Chia sẻ công trạng · tập trung vào người khác · khiêm tốn · hướng tới thành công của team | **Intentions** (động cơ) |
+
+Diễn giải bảng: ba thành phần tử số **cộng** nhau, nên yếu chỗ này bù được bằng chỗ khác — người chuyên môn chưa sâu (Credibility thấp) vẫn được tin nếu luôn giữ lời (Reliability cao). Nhưng **Self-Orientation ở mẫu số**: nó **chia** toàn bộ phần còn lại. Ai càng bị nhìn là đang phục vụ lợi ích của chính mình thì chuyên môn và sự đáng cậy của họ càng mất giá trị — ở mức cao còn phản tác dụng vì bị đọc là công cụ.
+
+`[KHÓA HỌC]` Hai câu kết của slide 19: *"Trust grows when Credibility, Reliability and Intimacy increase. Trust declines when Self-Orientation becomes the focus."*
+
+Chú ý thành phần **Intimacy** — câu hỏi của nó không phải "tôi có thân với bạn không" mà **"tôi có thể thành thật với bạn không"**. Đó là một chuẩn khác hẳn và là thành phần hay bị bỏ qua nhất ở quan hệ quản lý – nhân viên.
+
+Các bước: (1) chọn một quan hệ cụ thể; (2) chấm bốn thành phần từ **góc nhìn của người kia**; (3) nếu mẫu số cao thì xử lý trước — cải thiện tử số khi mẫu số còn cao gần như vô ích; (4) chọn hành vi tương ứng từ `FW-078`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Bốn câu hỏi của chính mô hình, hỏi ngược về mình: họ có tin lời tôi nói · họ có cậy được vào tôi · họ có dám thành thật với tôi · họ nghĩ tôi đang phục vụ ai.
+- `[BỔ SUNG]` Hạ mẫu số bằng một câu: "Việc này mình đề xuất vì nó gỡ được điểm nghẽn của team em, không phải vì nó đẹp trong báo cáo của mình."
+
+## Ví dụ
+`[KHÓA HỌC]` Câu của Maister trích ở slide 18: **"Trust is earned in droplets and lost in buckets."** — niềm tin kiếm được từng giọt và mất đi từng thùng.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: một quản lý có Credibility và Reliability rất cao nhưng team vẫn không báo tin xấu sớm. Chấm lại thì **Intimacy thấp** — chưa ai từng thấy quản lý thừa nhận mình sai, nên không ai dám là người đầu tiên. Cải thiện ở đây không phải làm tốt hơn về chuyên môn mà là nói ra một sai lầm của chính mình trong buổi họp gần nhất.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến nhất là tự chấm từ góc nhìn của mình. Self-Orientation đặc biệt khó tự chấm: gần như không ai tự thấy mình đang quy về bản thân. Cách kiểm gián tiếp — trong mười lần phát biểu gần nhất về team, bao nhiêu lần bạn nói "tôi" và bao nhiêu lần nói tên người làm.
+
+## Phân biệt với framework gần giống
+- `FW-078` TRUST Framework cho **hành vi cần làm**; `FW-079` cho **chẩn đoán đang thiếu gì**. Dùng FW-079 trước.
+- `FW-058` Trust = Ability · Benevolence · Integrity (Mayer et al., Topic 03) là mô hình thứ ba; điểm khác biệt là `FW-079` tách riêng Self-Orientation làm mẫu số, trong khi `FW-058` gộp ý đó vào Benevolence.
+- `CON-027` năm chiều của Robbins là cách phân rã thứ ba, nhìn từ góc chiều nào là điều kiện tiên quyết.
+
+## Cách kết hợp với framework khác
+Chẩn đoán bằng `FW-079` → chọn hành vi bằng `FW-078` → nếu thiếu ở Intimacy và Safety thì dùng `FW-080` → với stakeholder ngoài team, kết hợp `FW-058` và `FW-015`.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 18–19]`
+- Maister, D. H., Green, C. H., & Galford, R. M. (2000). *The Trusted Advisor*.
+
+=====
+
+---
+id: FW-080
+type: framework
+title_vi: An toàn tâm lý và bốn vùng của Edmondson
+title_en: Psychological Safety and Edmondson's Four Zones
+aliases: [psychological safety, Edmondson, comfort learning apathy anxiety zone, fearless organization, an toàn tâm lý]
+keywords: [an toàn tâm lý, không ai dám nói, sợ sai, im lặng trong họp, dám nhận lỗi, văn hóa thử nghiệm, dám phản biện, học từ sai lầm, team không ai nêu vấn đề]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13]
+problems_addressed: [PRB-009, PRB-007]
+related_ids: [FW-078, FW-079, FW-081, FW-082, CON-028]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 14–16"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Psychological Safety and Edmondson's Four Zones (An toàn tâm lý và bốn vùng của Edmondson)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Psychological safety** (an toàn tâm lý) là **niềm tin rằng môi trường của bạn an toàn cho việc chấp nhận rủi ro trong quan hệ với người khác** (*"the belief that your environment is safe for interpersonal risk-taking"*). Amy Edmondson đặt nó lên ma trận cùng **tiêu chuẩn hiệu suất**, tạo bốn vùng. Dùng khi team im lặng, giấu lỗi, hoặc chỉ vài người phát biểu.
+
+## Mục đích
+Bác bỏ hai hiểu lầm: rằng an toàn tâm lý là sự dễ chịu, và rằng nó đánh đổi với tiêu chuẩn cao. Ma trận cho thấy **cả hai cùng cao** mới là vùng đáng đến.
+
+## Khi nào dùng
+Khi mọi người đồng ý trong họp rồi phản đối sau họp; khi lỗi chỉ lộ ra phút chót; khi người ít thâm niên gần như không nói gì.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là thiếu năng lực hoặc thiếu quyền quyết định — `FW-070` liệt kê các rào cản cấu trúc mà an toàn tâm lý không gỡ được.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 16 — ma trận **Psychological Safety (trục dọc) × Performance Standards (trục ngang)**:
+
+| | **Tiêu chuẩn hiệu suất THẤP** | **Tiêu chuẩn hiệu suất CAO** |
+|---|---|---|
+| **An toàn tâm lý CAO** | **COMFORT ZONE** — *"People are open and collegial but not challenged. On teams, they fail to make major strides."* Cởi mở, thân thiện, nhưng không bị thử thách và không tiến xa | **LEARNING ZONE** — *"People collaborate and learn in the service of high performance, getting complex and innovative work done."* |
+| **An toàn tâm lý THẤP** | **APATHY ZONE** — *"People show up at work with their hearts and minds elsewhere; choosing self protection over exertion."* Có mặt nhưng tâm trí ở nơi khác, chọn tự bảo vệ thay vì nỗ lực | **ANXIETY ZONE** — *"People are reluctant to offer ideas, try new things, or ask for help, putting the work at risk."* |
+
+Diễn giải bảng: **Anxiety Zone trông rất giống một team hiệu suất cao từ bên ngoài** — tiêu chuẩn cao, ai cũng bận, không ai phàn nàn. Khác biệt lộ ra ở thứ **không** xảy ra: không ai đề xuất ý tưởng mới, không ai xin giúp đỡ, không ai thử cách khác. Vùng này nguy hiểm vì không phát tín hiệu lỗi cho tới khi rủi ro đã tích tụ đủ lâu. Và từ Anxiety sang Learning **không** phải bằng cách hạ tiêu chuẩn: hai trục độc lập, nâng an toàn tâm lý mà giữ nguyên tiêu chuẩn cao là đường duy nhất.
+
+`[KHÓA HỌC]` Slide 16 phân biệt **trust** và **psychological safety** bằng hướng câu hỏi:
+
+| | Câu hỏi | Câu minh họa |
+|---|---|---|
+| **TRUST** | *"Will **YOU** give others the benefit of the doubt when you take a risk?"* | *"Bob is probably going to freak out if I disagree with him."* |
+| **PSYCHOLOGICAL SAFETY** | *"Will **OTHERS** give you the benefit of the doubt when you take a risk?"* | *"My team expects me to speak up. It's how we do things."* |
+
+Diễn giải: trust là **tôi → người kia**, quan hệ đôi một. Psychological safety là **nhóm → tôi**, thuộc tính của môi trường. Hệ quả: bạn có thể tin một người mà vẫn không dám phát biểu trước nhóm; ngược lại, một chuẩn mực nhóm mạnh (*"it's how we do things"*) khiến người ta lên tiếng dù chưa thân ai.
+
+Các bước: (1) định vị team trên bốn vùng bằng bằng chứng hành vi; (2) nếu ở Anxiety, nâng an toàn tâm lý mà **không** hạ tiêu chuẩn; (3) đổi chuẩn mực nhóm, không chỉ đổi quan hệ cá nhân; (4) kiểm bằng việc tin xấu có đi nhanh hơn không.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Thay *"Does anyone have questions?"* bằng *"What am I missing here?"* hoặc *"Who sees this completely differently?"* — hai câu nêu trong bảng cam kết của `FW-082`.
+- `[BỔ SUNG]` Tạo chuẩn mực: "Ở team mình, nêu rủi ro sớm được ghi nhận, kể cả khi rủi ro không xảy ra."
+
+## Ví dụ
+`[KHÓA HỌC]` Câu của Edmondson trích ở slide 28: **"Psychological safety is not about being nice."** — an toàn tâm lý không phải là sự tử tế.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: dấu hiệu Anxiety Zone đặc trưng là không ai báo kết quả thí nghiệm không đạt cho tới sát hạn. Kiểm nhanh: ba tháng qua đã có ai nói "cách này không chạy, mình nên dừng" chưa?
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến nhất là trường hợp của Linh trong case ở `FW-082`: hỏi *"có ai có câu hỏi hay lo ngại gì không"* rồi coi im lặng là ổn. Một câu hỏi mở chung chung không **tạo ra** an toàn, nó chỉ **đo** an toàn đang có. Và với bối cảnh Việt Nam, `CON-028` cho thấy *Voice Constraints* là điểm **hội tụ** qua các thế hệ — mời phát biểu không đủ, phải đổi cấu trúc buổi họp.
+
+## Phân biệt với framework gần giống
+- `FW-078` chữ **S** là một trong năm hành vi xây niềm tin; `FW-080` là nội dung đầy đủ của chữ đó.
+- `FW-079` đo niềm tin trong **một quan hệ**; `FW-080` là thuộc tính của **cả nhóm**.
+- `FW-081` ghi "Ensure Psychological Safety" ở ô *Collaboration* như một hành vi thành phần.
+
+## Cách kết hợp với framework khác
+Định vị vùng bằng `FW-080` → chọn hành vi bằng `FW-078` → kiểm quan hệ bằng `FW-079` → luyện bằng `FW-082`.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 14–16, 28]`
+- Edmondson, A. C. (2018). *The Fearless Organization*. Sketchnote trên slide: Tanmay Vora, QAspire. Đối chiếu trust/psychological safety: wendyhirsch.
+
+=====
+
+---
+id: FW-081
+type: framework
+title_vi: Sáu phẩm chất của lãnh đạo bao trùm
+title_en: Six Signature Traits of an Inclusive Leader
+aliases: [inclusive leadership, six signature traits, Bourke, Deloitte, cognizance curiosity courage, lãnh đạo bao trùm]
+keywords: [đa dạng, hòa nhập, thiên kiến của lãnh đạo, mọi người đều được nghe, khác biệt văn hóa, phong cách làm việc khác nhau, chuẩn mực nhóm, nhóm nhỏ cục bộ, mời góp ý]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13]
+problems_addressed: [PRB-009, PRB-010]
+related_ids: [FW-080, FW-078, CON-022, FW-072, CON-028]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 22–24"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Six Signature Traits of an Inclusive Leader (Sáu phẩm chất của lãnh đạo bao trùm)
+
+## Tóm tắt
+`[KHÓA HỌC]` Sáu phẩm chất của **lãnh đạo bao trùm** theo Bourke (Deloitte): **Cognizance · Curiosity · Courage · Cultural Intelligence · Commitment · Collaboration**. Topic 13 triển khai chúng thành hành vi cụ thể cho hai tình huống: quản lý các góc nhìn khác biệt, và giao tiếp xuyên phong cách làm việc. Dùng khi team đa dạng về nền tảng, thâm niên hoặc chức năng mà chỉ một nhóm nhỏ thực sự có tiếng nói.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 22: *"Inclusive leaders create environments where people feel they belong and where their uniqueness is valued."* — tạo môi trường nơi người ta thấy mình thuộc về **và** sự khác biệt của họ được coi trọng. Hai vế, không phải một.
+
+## Khi nào dùng
+Khi vài người chi phối mọi cuộc họp; khi team nhiều chức năng hoặc nhiều mức thâm niên; khi mình luôn hỏi ý kiến cùng vài người quen.
+
+## Khi nào KHÔNG dùng
+Khi cần quyết nhanh có người chịu trách nhiệm — mở rộng tiếng nói là việc thiết kế trước, không phải việc làm giữa lúc gấp. Dùng `FW-006` để chọn mức tham gia.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Sáu phẩm chất và lý do tồn tại của từng cái (slide 22):
+
+| Phẩm chất | Vì sao |
+|---|---|
+| **Cognizance** | *"Because bias is a leader's Achilles' heel"* — thiên kiến là gót chân Achilles của người lãnh đạo |
+| **Curiosity** | *"Because different ideas and experiences enable growth"* |
+| **Courage** | *"Because talking about imperfections involves personal risk-taking"* |
+| **Cultural intelligence** | *"Because not everyone sees the world through the same cultural frame"* |
+| **Commitment** | *"Because staying the course is hard"* |
+| **Collaboration** | *"Because a diverse-thinking team is greater than the sum of its parts"* |
+
+`[KHÓA HỌC]` **Nhóm 1 — quản lý các góc nhìn khác biệt** (slide 23), khai thác đa dạng nhận thức:
+
+| | Hành vi |
+|---|---|
+| **Cognizance of Bias** *(nền tảng)* | **Check the Mirror:** chủ động tìm điểm mù của chính mình để tránh thiên vị · **Build Fair Processes:** đặt luật có cấu trúc, dựa trên dữ liệu, để mọi tiếng nói được nghe một cách khách quan |
+| **Curiosity** *(chất xúc tác)* | **Listen to Learn:** nghe để học, không nghe để đáp lại hay phán xét · **Seek Friction:** thoải mái với sự mơ hồ và **chào đón phản biện tôn trọng** |
+| **Collaboration** *(môi trường)* | **Ensure Psychological Safety:** tạo văn hóa nơi người ta lên tiếng mà không sợ hậu quả xấu · **Design for Diversity:** cố ý trộn thành phần nhóm để phá silo và các nhóm nhỏ cục bộ |
+
+`[KHÓA HỌC]` **Nhóm 2 — giao tiếp xuyên phong cách làm việc** (slide 24):
+
+| | Hành vi |
+|---|---|
+| **Cultural Intelligence** | **Flex Your Approach:** học cách từng người muốn nhận thông tin (trực tiếp hay gián tiếp, viết hay nói) · **Check Assumptions:** nhận ra phong cách giao tiếp của mình **không phải mặc định hay cách đúng duy nhất** |
+| **Courage** | **Invite Vulnerability:** làm mẫu sự khiêm tốn bằng cách thừa nhận khi mình không có đủ câu trả lời, mở đường cho người khác lên tiếng · **Address Misalignment:** nêu ma sát giao tiếp một cách nhẹ nhàng nhưng trực diện **trước khi nó thành xung đột** |
+| **Commitment** | **Set Clear Team Norms:** lập luật chung cho họp, deadline và cập nhật để phù hợp nhiều nhịp làm việc · **Unify the Group:** tập trung vào mục tiêu chung để nhóm không vỡ thành các silo giao tiếp |
+
+Diễn giải hai bảng: nhãn ở nhóm 1 cho thấy trật tự — **Cognizance là nền tảng**, **Curiosity là chất xúc tác**, **Collaboration là môi trường**. Kiểm thiên kiến của chính mình phải đến trước: tò mò mà chưa kiểm thiên kiến thì chỉ đi tìm xác nhận cho điều mình đã tin. Ở nhóm 2, **Set Clear Team Norms** có đòn bẩy lớn nhất vì nó đổi cấu trúc chứ không chỉ đổi thái độ — đúng điều `CON-028` chỉ ra là cần cho bối cảnh khoảng cách quyền lực.
+
+Các bước: (1) chấm sáu phẩm chất; (2) bắt đầu từ Cognizance bằng `FW-055`; (3) chọn một hành vi cấu trúc ở nhóm 2 để đổi ngay; (4) kiểm bằng việc **ai** đang phát biểu, không bằng việc **bao nhiêu** người phát biểu.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Check the Mirror: "Ba lần gần nhất mình xin ý kiến trước khi quyết, mình hỏi ai?"
+- `[BỔ SUNG]` Invite Vulnerability: "Chỗ này mình chưa chắc. Ai nhìn ra rủi ro mình đang bỏ qua?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: **Design for Diversity** có dạng cụ thể là đưa cộng tác viên gán nhãn vào buổi review định nghĩa nhãn — họ là người duy nhất thấy các ca biên thực tế, nhưng thường bị xếp ngoài vòng thiết kế.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là làm phần dễ quan sát (mời mọi người phát biểu) mà bỏ phần khó (**Build Fair Processes** và **Set Clear Team Norms**). Hai hành vi cấu trúc đó mới là thứ tồn tại khi bạn không có mặt trong phòng.
+
+## Phân biệt với framework gần giống
+- `FW-080` An toàn tâm lý là **một hành vi thành phần** ở ô Collaboration; `FW-081` rộng hơn, gồm thiên kiến, văn hóa và chuẩn mực nhóm.
+- `CON-022` và `FW-055` là nội dung chi tiết cho **Cognizance**.
+- `FW-072` mô tả bốn phong cách làm việc; **Cultural Intelligence** là nguyên tắc nền phía sau việc điều chỉnh đó.
+
+## Cách kết hợp với framework khác
+Kiểm thiên kiến bằng `FW-055` → mở rộng tiếng nói bằng `FW-081` → xây an toàn bằng `FW-080` → chốt chuẩn mực nhóm bằng `FW-066-01` hoặc bảng cam kết ở `FW-082`.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 22–24]`
+- Bourke (2016). *Six Signature Traits of Inclusive Leadership*. Đồ họa: Deloitte University Press.
+
+=====
+
+---
+id: FW-082
+type: exercise
+title_vi: Case "The Silent Team" và bảng cam kết STOP / START / CONTINUE
+title_en: The Silent Team Case and the STOP / START / CONTINUE Commitment
+aliases: [the silent team, STOP START CONTINUE, silent team case, bảng cam kết lãnh đạo]
+keywords: [team im lặng, không ai phản biện, hai người nói hết, lỗi phát hiện muộn, bàn riêng sau họp, bài tập tình huống, cam kết thay đổi hành vi, dừng bắt đầu tiếp tục]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13]
+problems_addressed: [PRB-009, PRB-006]
+related_ids: [FW-080, FW-078, FW-079, FW-081, CON-029]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 26–27"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Silent Team Case and the STOP / START / CONTINUE Commitment
+
+## Tóm tắt
+`[KHÓA HỌC]` Bài tập đóng của Topic 13: một tình huống tên **"The Silent Team"** dùng để áp dụng cả bốn công cụ của buổi học, rồi một bảng cam kết cá nhân **STOP / START / SUSTAIN–CONTINUE**. Dùng để luyện chẩn đoán một team im lặng, hoặc làm mẫu tự rà soát hành vi lãnh đạo của chính mình.
+
+## Mục đích
+Buộc người học chuyển từ nhận biết khái niệm sang **chỉ ra cụ thể** thành phần nào đang yếu và ba hành động nào sẽ làm trong 30 ngày.
+
+## Khi nào dùng
+Khi team có dấu hiệu im lặng; làm bài tập cho nhóm quản lý; cuối một buổi học về niềm tin và an toàn tâm lý.
+
+## Khi nào KHÔNG dùng
+Không dùng bảng STOP/START/CONTINUE như biểu mẫu nộp cho cấp trên — nó chỉ có giá trị khi được viết thật.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Tình huống (slide 26).** Linh vừa được đề bạt dẫn một team phát triển sản phẩm, gồm những người có kinh nghiệm từ nhiều bộ phận đã làm việc cùng nhau gần hai năm. Team mạnh về chuyên môn, nhưng:
+- Thành viên hiếm khi phản biện ý tưởng trong họp.
+- Phần lớn thảo luận bị hai nhân viên kỳ cựu chi phối.
+- **Nhiều lỗi chỉ được phát hiện vào phút chót.**
+- Nhân viên thường bàn các lo ngại **riêng với nhau sau buổi họp** thay vì nêu công khai.
+- Thành viên mới gần như không đóng góp.
+- Một người gần đây nói với HR: ***"It is easier to remain quiet than risk saying the wrong thing."***
+
+Linh bức xúc vì tin rằng mình đã tạo ra một môi trường cởi mở, và thường xuyên hỏi *"Does anyone have any questions or concerns?"* — nhưng team vẫn im lặng bất thường. Tổ chức kỳ vọng team ra mắt một sản phẩm lớn trong sáu tháng.
+
+`[KHÓA HỌC]` **Năm câu hỏi thảo luận nhóm**, mỗi câu buộc dùng một công cụ khác nhau:
+
+| # | Câu hỏi | Công cụ |
+|---|---|---|
+| 1 | Dấu hiệu cảnh báo nào cho thấy niềm tin đang thấp? **Nêu ít nhất ba.** | Quan sát |
+| 2 | Theo khung của Amy Edmondson, team này nhiều khả năng đang ở vùng nào — Apathy, Anxiety, Comfort hay Learning? Vì sao? | `FW-080` |
+| 3 | Hành vi TRUST nào cần xử lý gấp nhất — Transparency, Reliability, Understanding, Safety hay Team First? Giải thích lý do. | `FW-078` |
+| 4 | Theo Trust Equation, thành phần nào có vẻ yếu nhất — Credibility, Reliability, Intimacy hay Self-Orientation? Vì sao? | `FW-079` |
+| 5 | Nếu bạn là Linh, **ba hành động cụ thể** nào bạn sẽ làm trong 30 ngày tới? | Tổng hợp |
+
+Diễn giải bảng: thiết kế của case nằm ở chỗ **mọi dấu hiệu đều là thứ không xảy ra** — không phản biện, không nêu lo ngại, không đóng góp. Đây đúng là đặc điểm của Anxiety Zone mà `FW-080` mô tả: nhìn từ ngoài, team vẫn đang chạy và không ai phàn nàn. Câu 5 là câu quan trọng nhất vì nó chặn đường thoát "cần xây thêm niềm tin" và đòi ba hành động đếm được.
+
+`[KHÓA HỌC]` **Bảng cam kết cá nhân (slide 27)** — *"What are behaviours I will STOP/START/CONTINUE doing?"*, kèm ví dụ mẫu:
+
+| STOP | START | SUSTAIN / CONTINUE |
+|---|---|---|
+| *"I will stop relying on the same 2–3 'go-to' people for quick feedback during projects."* · *"I will stop interrupting or filling silent gaps in meetings, giving internal processors time to speak up."* | *"I will start sending meeting agendas and pre-work 24 hours in advance to equalize the playing field."* · *"I will start asking open-ended questions like 'What am I missing here?' or 'Who has a completely different view?'"* | *"I will continue meeting my staff individually once a month."* · *"I will continue encouraging respectful discussion and differing viewpoints within my team."* |
+
+Diễn giải bảng: cả bốn ví dụ ở cột STOP và START đều là **thay đổi cấu trúc**, không phải thay đổi thái độ — gửi agenda trước 24 giờ, đổi câu hỏi mặc định, mở rộng danh sách người được hỏi, để khoảng lặng cho người xử lý nội tâm. Đó chính là điểm mà `FW-080` nhấn: một câu hỏi mở chung chung chỉ đo an toàn đang có, không tạo ra nó.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Hai câu thay thế được nêu trực tiếp: ***"What am I missing here?"*** và ***"Who has a completely different view?"***
+- `[BỔ SUNG]` Câu mở rộng danh sách người được hỏi: "Mình muốn nghe từ người chưa phát biểu hôm nay trước đã."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: áp câu 1 vào thực tế — ba dấu hiệu tương đương là không ai phản biện lựa chọn kiến trúc của Senior, kết quả thí nghiệm âm tính chỉ được báo sát hạn, và cộng tác viên gán nhãn không bao giờ nêu ca biên khó dù họ gặp hằng ngày.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Chi tiết tinh tế nhất của case: Linh **thật lòng tin** mình đã tạo môi trường cởi mở. Case không mô tả một quản lý tệ mà một quản lý có thiện chí dùng sai công cụ. Đó cũng là lý do nó khó — tự đánh giá của Linh không hề cảnh báo gì.
+
+`[SUY LUẬN]` Slide 26 dùng cả "she" và "he" cho Linh. `[KHÓ ĐỌC]` không áp dụng — đây là lỗi soạn thảo, giữ nguyên trạng, không suy đoán giới tính nhân vật.
+
+## Phân biệt với framework gần giống
+`FW-077` là ba kịch bản đóng vai luyện **hội thoại một–một**; `FW-082` là một case phân tích **cả một team** và một bảng cam kết hành vi của chính người học.
+
+## Cách kết hợp với framework khác
+Chạy case bằng `FW-080` (câu 2), `FW-078` (câu 3), `FW-079` (câu 4) → chốt bằng bảng STOP/START/CONTINUE → nếu nguyên nhân là rào cản cấu trúc, chuyển sang `FW-070`.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 26–27]`
+
+=====
+
+---
+id: FW-083
+type: framework
+title_vi: Đổi mới và ba phép thử Desirability – Feasibility – Viability
+title_en: Innovation and the Desirability-Feasibility-Viability Test
+aliases: [desirability feasibility viability, DFV, what is innovation, novel and useful, ba phép thử đổi mới]
+keywords: [đổi mới, ý tưởng mới, có ai cần không, làm được không, có lãi không, sàng lọc ý tưởng, đánh giá sáng kiến, novel useful]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-15]
+problems_addressed: [PRB-001, PRB-002]
+related_ids: [FW-084, FW-085, FW-086, FW-049, FW-048]
+source: ["MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 4–5"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Innovation and the Desirability-Feasibility-Viability Test
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 15 định nghĩa **innovation** (đổi mới) là sản phẩm, dịch vụ, quy trình hoặc mô hình kinh doanh có **hai đặc điểm: Novel (mới) và Useful (hữu ích)**, rồi mở rộng "hữu ích" thành ba phép thử: **Desirability · Feasibility · Viability**. Dùng khi sàng lọc một ý tưởng trước khi đầu tư nguồn lực vào nó.
+
+## Mục đích
+Chặn hai lỗi đối xứng: theo đuổi thứ mới mà không ai cần, và theo đuổi thứ hữu ích mà không ai làm được hoặc không duy trì được.
+
+## Khi nào dùng
+Khi có nhiều ý tưởng và phải chọn; khi một đề xuất nghe hay nhưng chưa rõ nên làm không; trước khi xin nguồn lực cho một sáng kiến.
+
+## Khi nào KHÔNG dùng
+Khi chưa hiểu vấn đề của stakeholder — ba phép thử này đánh giá **giải pháp**, và đánh giá một giải pháp cho sai vấn đề vẫn cho kết quả sai. Dùng `FW-084` trước.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 4 — hai đặc điểm bắt buộc: **Novel** và **Useful**. Slide 5 mở rộng "useful" thành ba nhóm câu hỏi:
+
+| Phép thử | Câu hỏi trên slide |
+|---|---|
+| **Desirability** (đáng mong muốn) | *"Is there a market for this innovation?"* · *"Will people want and need it?"* |
+| **Feasibility** (khả thi) | *"Is this innovation functionally possible?"* · *"Is this innovation technically possible?"* · *"Will laws and regulations allow it?"* |
+| **Viability** (bền vững) | *"Can we offer this product profitably?"* · *"Can we produce/deliver this innovation over a long period of time (financially sustainable)?"* |
+
+Diễn giải bảng: ba phép thử là ba **điều kiện cần cùng lúc**, không phải ba tiêu chí để cộng điểm — slide vẽ chúng thành ba vòng tròn giao nhau, và đổi mới nằm ở phần giao. Một ý tưởng trượt bất kỳ phép thử nào thì không phải "điểm thấp" mà là **không khả thi**, cho tới khi điều kiện đó đổi.
+
+Mỗi phép thử có một dạng thất bại đặc trưng. **Desirability** hỏng khi đội kỹ thuật xây thứ mình thấy thú vị. **Feasibility** gồm cả vế pháp lý — *"will laws and regulations allow it"* — vế hay bị bỏ qua nhất trong các dự án dữ liệu. **Viability** hỏi hai câu khác nhau: có lãi được không, **và** có duy trì được lâu dài không; nhiều sáng kiến qua được câu đầu nhưng trượt câu sau vì chi phí vận hành tăng dần.
+
+Các bước: (1) viết ý tưởng thành một câu; (2) chạy ba phép thử, mỗi phép thử ghi bằng chứng chứ không ghi ý kiến; (3) phép thử nào không có bằng chứng thì đó là **giả định rủi ro nhất** cần kiểm trước; (4) kiểm nó bằng một thử nghiệm nhỏ (`FW-053`).
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Ai là người sẽ dùng cái này, và hôm nay họ đang làm gì thay cho nó?"
+- `[BỔ SUNG]` Câu kiểm Viability cho dự án dữ liệu: "Sau khi ra mắt, mỗi tháng ai phải làm gì để nó tiếp tục chạy?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một đề xuất xây hệ thống gợi ý nội dung theo thời gian thực. **Desirability** — bộ phận sản phẩm có đang thiếu thứ này không, hay họ đang ưu tiên việc khác? **Feasibility** — độ trễ hạ tầng hiện tại có đáp ứng được không, và dữ liệu hành vi có được phép dùng cho mục đích này không? **Viability** — ai trực khi mô hình lệch phân phối lúc 2 giờ sáng? Câu thứ ba thường là câu giết chết đề xuất, và thường là câu được hỏi muộn nhất.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là chạy ba phép thử bằng phán đoán nội bộ. Desirability đặc biệt không thể tự trả lời từ trong phòng họp — đó chính là lý do Topic 15 đặt **Stakeholder Journey Map** (`FW-084`) ngay sau phần này thay vì đi thẳng vào ý tưởng.
+
+`[SUY LUẬN]` Hai chữ **Novel** và **Useful** không ngang nhau về rủi ro. Phần lớn sáng kiến trong tổ chức thất bại ở "useful", không ở "novel".
+
+## Phân biệt với framework gần giống
+- `FW-049` Design Thinking có AI hỗ trợ (Topic 16) là **quy trình năm pha** để tạo ra giải pháp; `FW-083` là **bộ sàng lọc** áp lên giải pháp đã có.
+- `FW-048` dùng bảng impact / feasibility / risk để so sánh phương án; `FW-083` hỏi ba câu khác, trong đó Viability (bền vững dài hạn) không có trong `FW-048`.
+- `FW-045` Five Forces phân tích sức hấp dẫn của **ngành**; `FW-083` đánh giá **một sáng kiến cụ thể**.
+
+## Cách kết hợp với framework khác
+Hiểu vấn đề bằng `FW-084` → sinh ý tưởng bằng `FW-085` → sàng bằng `FW-083` và `FW-086` → kiểm giả định rủi ro nhất bằng `FW-053`.
+
+## Nguồn
+- `[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 4–5]`
+
+=====
+
+---
+id: FW-084-01
+type: framework
+title_vi: Ví dụ Bản đồ Hành trình — từ thống nhất tới thực thi
+title_en: Stakeholder Journey Map Example - From Agreement to Execution
+aliases: [from agreement to execution, SJM example, shared decision shared understanding, ví dụ bản đồ hành trình]
+keywords: [họp xong vẫn hiểu khác nhau, bàn giao không rõ, làm lại, ra mắt trễ, ưu tiên khác nhau, đồng thuận giả, năm giai đoạn ra mắt, ví dụ minh họa]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-15]
+problems_addressed: [PRB-002, PRB-003]
+related_ids: [FW-084, FW-020, CON-004, FW-085]
+source: ["MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 13"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Stakeholder Journey Map Example (Ví dụ Bản đồ Hành trình — từ thống nhất tới thực thi)
+
+## Tóm tắt
+`[KHÓA HỌC]` Ví dụ minh họa đầy đủ của `FW-084`, với stakeholder là **một Product Manager điều phối việc ra mắt một tính năng mới** qua năm giai đoạn. Dùng làm mẫu khi dựng bản đồ hành trình đầu tiên, hoặc khi cần chỉ cho người khác thấy một quyết định chung vẫn có thể dẫn tới thực thi lệch nhau.
+
+## Mục đích
+Cho thấy pain point **tích lũy theo thời gian** chứ không xuất hiện ngẫu nhiên, và chỉ ra giai đoạn gieo mầm cho chúng.
+
+## Khi nào dùng
+Khi dựng SJM lần đầu và cần một mẫu; khi giải thích với stakeholder vì sao "đã chốt rồi" mà vẫn trục trặc.
+
+## Khi nào KHÔNG dùng
+Đây là ví dụ, không phải khuôn mẫu áp dụng chung — hành trình thật phải được vẽ từ trải nghiệm thật.
+
+## Các bước áp dụng
+| | AGREE | PLAN | HANDOVER | EXECUTE | DELIVER |
+|---|---|---|---|---|---|
+| **Hoạt động** | Thống nhất việc ra mắt | Đặt task và thời hạn | Chuyển giao yêu cầu | Xây và kiểm thử | Ra mắt tính năng |
+| **Team tham gia** | Cả bốn bộ phận | Product, Business | Product, Technology | Technology, Project Ops | Cả bốn bộ phận |
+| **Mục tiêu của stakeholder** | Quyết định rõ ràng | Kế hoạch rõ ràng | Bàn giao trơn tru | Tiến độ đúng hạn | Ra mắt thành công |
+| **Pain point** | — | Ưu tiên khác nhau | Yêu cầu không rõ | Làm lại và chậm trễ | Ra mắt bị trễ |
+
+`[KHÓA HỌC]` Kết luận rút ra từ bảng, in ngay dưới nó: **"A shared decision does not always lead to shared understanding during execution."** — một quyết định chung không phải lúc nào cũng dẫn tới hiểu biết chung khi thực thi.
+
+Diễn giải: giai đoạn AGREE **không có pain point nào** — mọi người đồng ý, ai cũng hài lòng. Pain point bắt đầu ở PLAN và tích lũy dần tới DELIVER. Đây là khuôn mẫu đáng chú ý nhất của ví dụ: chỗ *cảm thấy* ổn nhất lại là chỗ gieo mầm cho mọi đứt gãy sau đó, vì sự đồng thuận ở AGREE che giấu việc mỗi bên hiểu quyết định theo một cách khác nhau.
+
+Các bước đọc bảng: (1) đi theo hàng **Pain point** từ trái sang phải; (2) tìm giai đoạn đầu tiên có pain point — đó là nơi can thiệp rẻ nhất; (3) hỏi giai đoạn **trước** nó đã bỏ sót điều gì.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Đóng giai đoạn AGREE cho chặt: "Trước khi kết thúc, mỗi bên nói lại trong một câu: sau cuộc họp này team bạn sẽ làm gì."
+- `[BỔ SUNG]` "Nếu phải viết ra tiêu chí 'xong tốt' cho bước bàn giao, ai viết và ai duyệt?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, ánh xạ sang hành trình ra mắt một mô hình: **AGREE** — thống nhất với Product rằng sẽ triển khai mô hình mới; **PLAN** — pain point "ưu tiên khác nhau" xuất hiện khi Engineering có roadmap riêng; **HANDOVER** — "yêu cầu không rõ" là ngưỡng cảnh báo và quy tắc fallback chưa ai chốt; **EXECUTE** — làm lại vì định nghĩa nhãn đổi giữa chừng; **DELIVER** — trễ.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Cám dỗ lớn nhất khi nhìn bảng này là xử lý pain point ở giai đoạn **DELIVER** vì nó đau nhất và dễ thấy nhất. Nhưng chuỗi nhân quả đi ngược: "ra mắt bị trễ" là hệ quả của "làm lại", vốn là hệ quả của "yêu cầu không rõ", vốn là hệ quả của việc AGREE chỉ tạo ra đồng thuận bề mặt. Can thiệp ở DELIVER là chữa triệu chứng.
+
+## Phân biệt với framework gần giống
+- `FW-084` là **công cụ** (định nghĩa pain point, tám câu hỏi dựng bản đồ); `FW-084-01` là **một bản đồ đã dựng xong** kèm bài học rút ra.
+- `FW-020` Thang Suy luận giải thích **cơ chế tâm lý** khiến hai người cùng nghe một quyết định mà hiểu khác nhau; bảng này cho thấy **hệ quả vận hành** của chính cơ chế đó.
+
+## Cách kết hợp với framework khác
+Đọc bảng này trước khi dựng SJM bằng `FW-084` → nếu gốc là đồng thuận bề mặt ở AGREE, xử lý bằng `CON-004` (nói rõ kết quả, quyền sở hữu, quyền quyết định, tiêu chí thành công) và `FW-020`.
+
+## Nguồn
+- `[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 13]`
+
+=====
+
+---
+id: FW-084
+type: framework
+title_vi: Pain Point và Bản đồ Hành trình Stakeholder
+title_en: Pain Points and the Stakeholder Journey Map (SJM)
+aliases: [SJM, stakeholder journey map, pain points, latent pain points, where does value break, bản đồ hành trình]
+keywords: [điểm đau, vướng mắc, phối hợp liên bộ phận đứt gãy, giá trị bị mất ở đâu, quy trình chậm, làm lại nhiều lần, bàn giao không rõ, hiểu trải nghiệm của bên liên quan]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-15]
+problems_addressed: [PRB-002, PRB-001]
+related_ids: [FW-084-01, FW-051, FW-083, FW-085, FW-050, FW-052]
+source: ["MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 8–12, 14"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Pain Points and the Stakeholder Journey Map (Pain Point và Bản đồ Hành trình Stakeholder)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Stakeholder Journey Map (SJM)** là bản thể hiện trực quan cách một stakeholder trải nghiệm một quy trình công việc **có nhiều team tham gia**, nhằm trả lời một câu hỏi: *"Where does collaboration work well, and where does value break?"* Dùng khi phối hợp liên bộ phận trục trặc mà không ai chỉ ra được chính xác chỗ hỏng.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 11 nêu bốn việc SJM làm: **UNDERSTAND** stakeholder làm gì và vì sao · **CONNECT** cách người, team và quyết định tương tác · **IDENTIFY** nơi pain point và chậm trễ xảy ra · **DISCOVER** nơi giá trị bị phá vỡ và cơ hội xuất hiện.
+
+## Khi nào dùng
+Khi một quy trình cần ít nhất hai bộ phận cùng làm; khi có nhiều phàn nàn nhưng không rõ nguyên nhân; trước khi thiết kế bất kỳ cải tiến nào cho cách làm việc chung.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề nằm trong một team duy nhất — lúc đó `FW-071` Team Landscape hoặc `FW-050` Problem Tree phù hợp hơn.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Pain Point** (slide 8–9): *"Pain Points are moments in time when a stakeholder experiences frustration, difficulty or uncertainty."* — những thời điểm stakeholder gặp bực bội, khó khăn hoặc bất định. **Đối lập của Pain Point là Gain.**
+
+Hai loại:
+- **Explicit Pain Points** — những điểm stakeholder **dễ dàng mô tả được**.
+- **Latent Pain Points** — *"hidden from the stakeholder's own awareness on how the experience could be better"*: ẩn khỏi nhận thức của chính stakeholder về việc trải nghiệm **có thể** tốt hơn thế nào.
+
+Diễn giải: phân biệt này quyết định cách thu thập. Explicit pain point lấy được bằng cách hỏi. Latent pain point **không** — người ta không phàn nàn về thứ họ không biết là có thể khác đi. Chúng chỉ lộ ra khi bạn vẽ lại toàn bộ hành trình và nhìn vào các khoảng chờ, các lần làm lại, các bước tồn tại chỉ vì lịch sử.
+
+`[KHÓA HỌC]` **Tám câu hỏi dựng bản đồ** (slide 12):
+
+| Câu hỏi | Nội dung |
+|---|---|
+| **WHO?** | Chọn **một** stakeholder |
+| **WHERE?** | Xác định hành trình bắt đầu và kết thúc ở đâu |
+| **WHAT?** | Xác định các giai đoạn và hoạt động chính |
+| **WITH WHOM?** | Xác định các team tham gia ở từng giai đoạn |
+| **HOW?** | Khám phá trải nghiệm, nhu cầu và bực bội của stakeholder |
+| **WHERE DOES VALUE BREAK?** | Xác định chậm trễ, lẫn lộn, làm lại và pain point |
+| **WHAT ARE WE MISSING?** | Xác định các **giả định** và thông tin cần kiểm chứng |
+
+Diễn giải bảng: ràng buộc **chọn một stakeholder** là điều kiện để bản đồ có nghĩa — một hành trình gộp nhiều vai sẽ không cho thấy chỗ đứt gãy nào. Câu *WHAT ARE WE MISSING* là câu duy nhất quay lại chất vấn chính bản đồ, và nó tách **điều ta biết** khỏi **điều ta đang giả định**, giống cách `FW-052` tách triệu chứng khỏi giả định.
+
+`[KHÓA HỌC]` **Ví dụ minh họa** (slide 13) dựng hành trình năm giai đoạn AGREE → PLAN → HANDOVER → EXECUTE → DELIVER của một Product Manager điều phối ra mắt tính năng, và rút ra kết luận **"A shared decision does not always lead to shared understanding during execution."** Bảng đầy đủ và phần diễn giải nằm ở `FW-084-01`.
+
+`[KHÓA HỌC]` **Hoạt động lớp** (slide 14, nhóm, 10 phút, trên Miro): xác định một quy trình cần **ít nhất hai bộ phận** cùng làm · dựng bản đồ hành trình stakeholder · chỉ ra nơi giá trị bị phá vỡ.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Tìm latent pain point: "Ở bước này bạn phải chờ bao lâu, và trong lúc chờ bạn làm gì?"
+- `[BỔ SUNG]` "Có bước nào bạn làm chỉ vì trước giờ vẫn làm vậy không?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: hành trình của một Data Scientist từ lúc nhận yêu cầu phân tích tới lúc kết quả được dùng. Pain point ẩn hay gặp nằm ở giai đoạn tương đương HANDOVER — "yêu cầu không rõ" có dạng cụ thể là câu hỏi business chưa được chuyển thành câu hỏi đo được, và chỉ lộ ra sau khi phân tích đã chạy xong.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là vẽ hành trình theo **quy trình chính thức** thay vì theo trải nghiệm thật. Bản đồ vẽ từ tài liệu quy trình sẽ không có pain point nào, vì quy trình trên giấy không có khoảng chờ.
+
+## Phân biệt với framework gần giống
+- `FW-051` Stakeholder Empathy Map (Topic 16) hiểu **một stakeholder** ở chiều sâu cảm xúc và nhu cầu; `FW-084` vẽ **trải nghiệm theo thời gian** qua nhiều team. Dùng Empathy Map cho *ai*, SJM cho *ở đâu hỏng*.
+- `FW-050` Problem Tree dựng nguyên nhân và hệ quả quanh một vấn đề; `FW-084` chưa nêu vấn đề mà đi tìm nó.
+- `FW-071` Team Landscape vẽ **quan hệ giữa người**; `FW-084` vẽ **dòng chảy công việc** qua các giai đoạn.
+
+## Cách kết hợp với framework khác
+Dựng SJM bằng `FW-084` → chọn 2–3 điểm giá trị bị phá vỡ → sinh ý tưởng bằng `FW-085` → sàng bằng `FW-086` và `FW-083`.
+
+## Nguồn
+- `[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 8–14]`
+
+=====
+
+---
+id: FW-085
+type: framework
+title_vi: Năm công cụ Tư duy Sáng tạo Hệ thống (SIT)
+title_en: The Five Systematic Inventive Thinking (SIT) Tools
+aliases: [SIT, systematic inventive thinking, subtraction task unification division multiplication attribute dependency, năm công cụ SIT]
+keywords: [nghĩ ý tưởng mới, bí ý tưởng, cải tiến quy trình, bỏ bớt bước, gộp vai trò, chia nhỏ quyết định, nhân bản cơ chế, thay đổi theo bối cảnh, brainstorm có cấu trúc]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-15]
+problems_addressed: [PRB-003, PRB-001]
+related_ids: [FW-084, FW-086, FW-083, FW-053, CON-020]
+source: ["MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 16–17"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Five SIT Tools (Năm công cụ Tư duy Sáng tạo Hệ thống)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Systematic Inventive Thinking (SIT)** là bộ **năm công cụ** sinh ý tưởng có cấu trúc, mỗi công cụ là một câu hỏi áp lên thứ đang có: **Task Unification · Subtraction · Division · Multiplication · Attribute Dependency**. Topic 15 kèm theo một phiên bản câu hỏi dành riêng cho phối hợp liên chức năng. Dùng khi cần ý tưởng mới mà brainstorm tự do không ra gì.
+
+## Mục đích
+Thay "nghĩ ra cái gì đó mới" — một yêu cầu không có điểm bắt đầu — bằng năm phép biến đổi cụ thể áp lên quy trình hoặc sản phẩm **hiện có**.
+
+## Khi nào dùng
+Sau khi đã xác định được điểm giá trị bị phá vỡ bằng `FW-084`; khi nhóm bí ý tưởng; khi các đề xuất đều là "làm nhiều hơn" hoặc "thêm người".
+
+## Khi nào KHÔNG dùng
+Khi chưa biết vấn đề nằm ở đâu — năm công cụ này biến đổi một đối tượng cụ thể, nên phải có đối tượng trước.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Năm công cụ và câu hỏi gốc (slide 16), kèm câu hỏi phiên bản phối hợp liên chức năng (slide 17):
+
+| Công cụ | Câu hỏi gốc | Câu hỏi cho phối hợp liên chức năng |
+|---|---|---|
+| **Subtraction** | *"What can we remove?"* | *"What approval, meeting or handover could we remove?"* — phê duyệt, cuộc họp hay bước bàn giao nào có thể bỏ? |
+| **Task Unification** | *"What else can this do?"* | *"Could an existing role or process take on another useful function?"* — một vai trò hoặc quy trình sẵn có có thể gánh thêm chức năng hữu ích nào? |
+| **Division** | *"Which component can be reorganised?"* | *"Could we divide a large decision or workflow into smaller parts?"* — có thể chia một quyết định lớn hoặc luồng việc thành phần nhỏ hơn không? |
+| **Multiplication** | *"What can we duplicate or vary?"* | *"Could we duplicate a useful feedback or coordination mechanism?"* — có thể nhân bản một cơ chế phản hồi hoặc điều phối đang hiệu quả không? |
+| **Attribute Dependency** | *"What can change based on context?"* | *"Could the process change depending on risk, urgency or project complexity?"* — quy trình có thể thay đổi theo rủi ro, mức khẩn hay độ phức tạp không? |
+
+Diễn giải bảng: giá trị của SIT nằm ở chỗ nó buộc nghĩ theo **hướng ngược với phản xạ**. Phản xạ mặc định khi quy trình trục trặc là *thêm* — thêm một bước kiểm, thêm một cuộc họp đồng bộ, thêm một người điều phối. **Subtraction** đứng đầu danh sách và hỏi thẳng điều ngược lại, và trong bối cảnh phối hợp liên chức năng nó thường là công cụ cho kết quả nhanh nhất.
+
+**Attribute Dependency** là công cụ tinh vi nhất và hay bị bỏ qua: nó không đổi quy trình mà làm quy trình **phụ thuộc vào bối cảnh** — cùng một luồng việc chạy khác nhau tùy mức rủi ro. Đây chính là cách thoát khỏi thế lưỡng nan "quy trình chặt thì chậm, quy trình lỏng thì rủi ro".
+
+`[KHÓA HỌC]` **Quy trình sinh giải pháp** (slide 18): dùng **Stakeholder Journey Map** → chọn **2–3 bottleneck** hàng đầu → áp vào **Creative Matrix** → sinh **ít nhất 05 ý tưởng**.
+
+Các bước: (1) lấy các điểm giá trị bị phá vỡ từ `FW-084`; (2) với mỗi điểm, chạy lần lượt cả năm câu hỏi — kể cả câu nghe vô lý; (3) ghi mọi ý tưởng, chưa đánh giá; (4) chuyển sang `FW-086` để sàng.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Mở bằng Subtraction vì nó gây tranh luận hữu ích nhất: "Nếu bỏ hẳn bước phê duyệt này, điều tệ nhất có thể xảy ra là gì — và nó xảy ra bao lâu một lần?"
+- `[BỔ SUNG]` Attribute Dependency cho dự án dữ liệu: "Dự án rủi ro thấp có cần cùng mức review như dự án chạm dữ liệu người dùng không?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, áp năm công cụ lên bottleneck "mọi phân tích đều phải qua quản lý review":
+- **Subtraction** — bỏ review với phân tích thăm dò nội bộ.
+- **Task Unification** — buổi standup hằng ngày gánh thêm chức năng review nhanh.
+- **Division** — tách review thành hai lớp: đúng phương pháp (Senior làm) và đúng thông điệp (quản lý làm).
+- **Multiplication** — nhân bản cơ chế peer review vốn đã chạy tốt ở code sang cho phân tích.
+- **Attribute Dependency** — mức review phụ thuộc vào việc kết quả có đi ra ngoài team hay không.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là bỏ qua công cụ nào nghe không hợp lý ngay. SIT có giá trị chính vì nó buộc áp **cả năm** phép biến đổi, kể cả những phép ban đầu nghe vô lý — ý tưởng dùng được thường đến từ đúng những phép đó.
+
+`[SUY LUẬN]` **Subtraction** dễ bị thực hiện nửa vời: bỏ một cuộc họp nhưng thay bằng một báo cáo viết. Phép thử là tổng thời gian của mọi người có giảm thật không.
+
+## Phân biệt với framework gần giống
+- `CON-020` "How Might We" đóng khung lại **vấn đề** thành câu hỏi thiết kế; `FW-085` sinh **giải pháp** cho một vấn đề đã đóng khung.
+- `FW-049` Design Thinking là quy trình năm pha đầy đủ; `FW-085` là bộ công cụ cho riêng pha Ideate.
+- `FW-050` Problem Tree đi tìm nguyên nhân; `FW-085` không quan tâm nguyên nhân mà biến đổi cấu trúc hiện có.
+
+## Cách kết hợp với framework khác
+`FW-084` chỉ ra bottleneck → `FW-085` sinh ý tưởng → `FW-086` Creative Matrix sắp xếp và chọn → `FW-083` sàng bằng ba phép thử → `FW-053` thử nghiệm 7 ngày.
+
+## Nguồn
+- `[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 15–18]`
+
+=====
+
+---
+id: FW-086
+type: framework
+title_vi: Creative Matrix và cách chốt một cải tiến
+title_en: The Creative Matrix and Validating One Improvement
+aliases: [creative matrix, validate your ideas, ma trận sáng tạo, một nút thắt một cải tiến một lợi ích]
+keywords: [chọn ý tưởng nào, sàng lọc giải pháp, quá nhiều ý tưởng, chốt một việc để làm, bảng ý tưởng, nút thắt, cải tiến đề xuất, lợi ích kỳ vọng]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-15]
+problems_addressed: [PRB-001, PRB-003]
+related_ids: [FW-085, FW-084, FW-083, FW-053, FW-054]
+source: ["MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 19–20"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Creative Matrix (Creative Matrix và cách chốt một cải tiến)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Creative Matrix** là bảng hai chiều ghép **các công cụ SIT** (hàng) với **các điểm giá trị bị phá vỡ** (cột), buộc sinh ý tưởng cho từng ô giao nhau. Sau đó là bước chốt: chọn **một** giải pháp và viết nó thành ba dòng. Dùng khi đã có nhiều ý tưởng rời rạc và cần biến chúng thành một việc làm được.
+
+## Mục đích
+Chặn hai thất bại thường gặp của brainstorm: ý tưởng dồn hết vào một vấn đề dễ nhất, và buổi họp kết thúc với một danh sách dài mà không có việc nào được bắt đầu.
+
+## Khi nào dùng
+Ngay sau khi chạy `FW-085`; khi nhóm có nhiều đề xuất nhưng chưa ai chọn; cuối một buổi workshop cải tiến quy trình.
+
+## Khi nào KHÔNG dùng
+Khi chưa có bottleneck cụ thể từ `FW-084` — các cột của ma trận chính là bottleneck, không có chúng thì không dựng được bảng.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Ma trận** (slide 19): cột là **Value break / bottleneck 1, 2, 3**; hàng là các công cụ SIT — **Subtraction · Task Unification · Multiplication · Attribute Dependency**. Ghi chú dưới bảng: *"Value breaks are the Customer/Stakeholder's pain points (from SJM)."*
+
+| | Value break 1 | Value break 2 | Value break 3 |
+|---|---|---|---|
+| **Subtraction** | | | |
+| **Task Unification** | | | |
+| **Multiplication** | | | |
+| **Attribute Dependency** | | | |
+
+Diễn giải bảng: ma trận là một **thiết bị ép độ phủ**. Khi brainstorm tự do, ý tưởng tập trung vào vấn đề dễ hình dung nhất và vào phép biến đổi quen thuộc nhất; cấu trúc bảng buộc mỗi ô phải có ít nhất một đề xuất, kể cả những ô ban đầu nghe vô lý. Lưu ý bảng ở slide 19 chỉ có **bốn hàng** — thiếu **Division** so với danh sách năm công cụ ở slide 16–17; `[CẦN XÁC NHẬN]`, xem `open_questions.md` (OQ-018).
+
+`[KHÓA HỌC]` **Quy trình sinh giải pháp** (slide 18): dùng Stakeholder Journey Map → chọn **2–3 bottleneck** hàng đầu → áp vào Creative Matrix → sinh **ít nhất 05 ý tưởng**.
+
+`[KHÓA HỌC]` **Bước chốt — Validate your Ideas** (slide 20, làm nhóm 10 phút): chọn giải pháp tốt nhất từ Creative Matrix, rồi tập trung vào đúng ba thứ:
+- **One bottleneck** — một nút thắt
+- **One proposed improvement** — một cải tiến đề xuất
+- **One expected benefit** — một lợi ích kỳ vọng
+
+Diễn giải: ràng buộc "một–một–một" là phần có giá trị nhất của công cụ. Nó buộc nhóm **bỏ** phần lớn ý tưởng vừa sinh ra, và nó tạo ra một phát biểu đủ ngắn để trình bày trong vài câu — tức đủ ngắn để được duyệt. Ba dòng này cũng là nguyên liệu trực tiếp cho lời đề nghị ba dòng của `FW-054` và cho kế hoạch thử nghiệm của `FW-053`.
+
+Các bước: (1) lấy 2–3 value break từ SJM làm cột; (2) điền từng ô bằng câu hỏi SIT tương ứng; (3) sinh tối thiểu 5 ý tưởng; (4) chọn **một**; (5) viết ba dòng một–một–một.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Để chọn một: "Ý tưởng nào kiểm được trong một tuần mà không cần xin ai duyệt?"
+- `[BỔ SUNG]` Mẫu ba dòng: "Nút thắt: bàn giao yêu cầu không rõ. Cải tiến: một mẫu một trang do bên yêu cầu điền trước. Lợi ích kỳ vọng: giảm số vòng làm lại ở bước EXECUTE."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, ba cột lấy từ SJM: *yêu cầu phân tích không rõ* · *chờ quyền truy cập dữ liệu* · *kết quả không được dùng*. Ô **Subtraction × chờ quyền truy cập** cho ý tưởng bỏ hẳn bước xin quyền theo từng lần bằng một nhóm quyền cấp sẵn cho dữ liệu đã ẩn danh. Ô **Attribute Dependency × yêu cầu không rõ** cho ý tưởng chỉ bắt buộc điền mẫu với phân tích có người ngoài team dùng kết quả.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là coi việc điền đầy ma trận là mục tiêu. Bảng đầy mà không có bước chọn một ở slide 20 thì buổi làm việc kết thúc đúng như trước: nhiều ý tưởng, không việc nào chạy.
+
+`[SUY LUẬN]` Ràng buộc "một lợi ích kỳ vọng" nên viết ở dạng **quan sát được**, nếu không sẽ không biết thử nghiệm thành công hay thất bại — đây là chỗ `FW-038` và `FW-039` bổ sung được.
+
+## Phân biệt với framework gần giống
+- `FW-085` cung cấp **các phép biến đổi**; `FW-086` là **khung sắp xếp** chúng theo bottleneck và bước chốt.
+- `FW-048` so sánh phương án bằng bảng impact / feasibility / risk; `FW-086` không so sánh mà **ép sinh** ý tưởng trước, rồi chọn bằng ràng buộc một–một–một.
+- `FW-053` Thử nghiệm 7 ngày là bước tiếp theo: biến ba dòng thành một kế hoạch có thời hạn.
+
+## Cách kết hợp với framework khác
+`FW-084` → `FW-085` → `FW-086` là chuỗi hoàn chỉnh của Topic 15. Ba dòng đầu ra nối sang `FW-053` để thử, `FW-083` để sàng, và `FW-054` để xin trợ giúp nếu cần.
+
+## Nguồn
+- `[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 18–20]`

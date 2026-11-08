@@ -239,3 +239,41 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Self-disclosure / Feedback | Tự bộc lộ / Phản hồi | Hai cơ chế duy nhất làm ô Open mở rộng | `FW-069` |
 | Team Life | Đời sống team | Các đặc tính vận hành thật của team, tích cực lẫn tiêu cực | `FW-070` |
 | Team Landscape | Bản đồ kết nối team | Quan hệ theo bốn cặp: strong/weak · direct/indirect · supportive/difficult · frequent/limited | `FW-071` |
+
+## Tính cách, giao tiếp và động lực (Topic 11)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Driver / Amiable / Analytical / Expressive | Bốn phong cách làm việc | Hướng kết quả · hướng quan hệ · hướng dữ liệu · hướng tầm nhìn | `FW-072` |
+| Strong / weak situation | Tình huống mạnh / yếu | Quy tắc rõ thì ai cũng hành xử giống nhau; mơ hồ thì tính cách bộc lộ | `FW-073` |
+| Self / Social × Awareness / Management | Bốn địa hạt EI | Nhận ra và làm gì với điều đã nhận ra, ở mình và ở người khác | `FW-075` |
+| ERG (Existence · Relatedness · Growth) | Tồn tại · gắn kết · phát triển | Alderfer: thanh trượt hai chiều, không phải bậc thang một chiều | `FW-074` |
+| Need for Achievement / Affiliation / Power | Nhu cầu thành tựu / gắn bó / ảnh hưởng | McClelland: ba nhu cầu **có được**, thay đổi theo trải nghiệm | `FW-074` |
+| Stretch assignment | Việc thử thách vượt mức | Giao việc vượt vùng an toàn để xây self-efficacy | `FW-076` |
+| Convergent / Divergent (Gen Z VN) | Hội tụ / phân kỳ | Điều giống và khác thế hệ trước ở lãnh đạo Gen Z Việt Nam | `CON-028` |
+
+## Niềm tin và an toàn tâm lý (Topic 13)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| TRUST Framework | Khung TRUST | Transparency · Reliability · Understanding · Safety · Team First | `FW-078` |
+| Trust Equation | Phương trình niềm tin | (Credibility + Reliability + Intimacy) ÷ Self-Orientation | `FW-079` |
+| Self-Orientation | Mức quy về bản thân | Mẫu số: càng cao càng chia nhỏ mọi thành phần ở tử số | `FW-079` |
+| Psychological safety | An toàn tâm lý | Niềm tin rằng môi trường an toàn cho việc chấp nhận rủi ro quan hệ | `FW-080` |
+| Comfort / Learning / Apathy / Anxiety Zone | Bốn vùng của Edmondson | An toàn tâm lý × tiêu chuẩn hiệu suất | `FW-080` |
+| Six Signature Traits | Sáu phẩm chất lãnh đạo bao trùm | Cognizance · Curiosity · Courage · Cultural intelligence · Commitment · Collaboration | `FW-081` |
+| STOP / START / SUSTAIN | Dừng / bắt đầu / duy trì | Bảng cam kết hành vi lãnh đạo cuối buổi | `FW-082` |
+
+## Đổi mới và hành trình stakeholder (Topic 15)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Desirability / Feasibility / Viability | Đáng mong muốn / khả thi / bền vững | Ba điều kiện cần cùng lúc để một đổi mới là "useful" | `FW-083` |
+| Pain point | Điểm đau | Thời điểm stakeholder gặp bực bội, khó khăn hoặc bất định; đối lập là Gain | `FW-084` |
+| Explicit / Latent pain point | Điểm đau hiện / ẩn | Hiện thì hỏi là biết; ẩn thì chỉ lộ khi vẽ lại cả hành trình | `FW-084` |
+| Stakeholder Journey Map (SJM) | Bản đồ hành trình stakeholder | Trải nghiệm của một stakeholder qua nhiều team, theo thời gian | `FW-084` |
+| Where does value break | Giá trị bị phá vỡ ở đâu | Chậm trễ, lẫn lộn, làm lại — câu hỏi trung tâm của SJM | `FW-084` |
+| Systematic Inventive Thinking (SIT) | Tư duy sáng tạo hệ thống | Năm phép biến đổi áp lên thứ đang có để sinh ý tưởng | `FW-085` |
+| Attribute Dependency | Phụ thuộc theo thuộc tính | Quy trình thay đổi theo rủi ro, mức khẩn hoặc độ phức tạp | `FW-085` |
+| Creative Matrix | Ma trận sáng tạo | Công cụ SIT × điểm giá trị bị phá vỡ, ép sinh ý tưởng cho từng ô | `FW-086` |
+| One bottleneck – one improvement – one benefit | Một nút thắt – một cải tiến – một lợi ích | Ràng buộc chốt, buộc bỏ phần lớn ý tưởng vừa sinh | `FW-086` |

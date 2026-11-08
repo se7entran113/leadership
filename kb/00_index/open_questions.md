@@ -237,6 +237,54 @@ Hệ quả: mạch lập luận nối các slide ảnh của `CON-025` (hyper-pe
 
 ---
 
+## OQ-016 — Topic 11 slide 21: bộ câu hỏi tự đánh giá EI không đọc được
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 21 của Topic 11 có tiêu đề *"Emotional Intelligence – Self-Assessment Questionnaire"* nhưng toàn bộ nội dung là ảnh chụp bảng câu hỏi ở độ phân giải không đọc được từng mục.
+
+**Đã làm.** Ghi nhận trong `FW-075` và `TOP-MEGROW-11` với nhãn `[CẦN XÁC NHẬN]`. Slide 21 vẫn ánh xạ tới `FW-075` trong `coverage_matrix.md`.
+
+**Cần người dùng.** Nếu có bản phát tay hoặc link tới bộ câu hỏi này thì gửi để bổ sung vào `FW-075` như một công cụ tự đánh giá.
+
+---
+
+## OQ-017 — Topic 11 slide 13: nghiên cứu Gen Z Việt Nam không ghi nguồn đầy đủ
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 13 trình bày nghiên cứu *"From Old Bamboo to New Shoots: Leadership Competencies for Vietnam's Generation Z Lotus Leaders"* với cỡ mẫu 100 nam + 100 nữ và bảy phát hiện, nhưng **không ghi tác giả, năm xuất bản hay phương pháp nghiên cứu**.
+
+**Đã làm.** Tạo `CON-028` với `confidence: medium`, ghi rõ giới hạn ở mục Nguồn.
+
+**Cần người dùng.** Nếu giảng viên có nêu nguồn đầy đủ tại lớp thì bổ sung; đây là chunk duy nhất trong kho nói về đặc điểm thế hệ trong bối cảnh Việt Nam nên độ tin cậy của nó đáng được xác nhận.
+
+---
+
+## OQ-018 — Topic 15 slide 19: Creative Matrix thiếu một hàng so với danh sách SIT
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 16–17 của Topic 15 liệt kê **năm** công cụ SIT: Task Unification · Subtraction · Division · Multiplication · Attribute Dependency. Nhưng bảng Creative Matrix ở slide 19 chỉ có **bốn hàng** — thiếu **Division**.
+
+**Đã làm.** Giữ nguyên trạng cả hai: `FW-085` liệt kê đủ năm công cụ, `FW-086` mô tả bảng bốn hàng đúng như slide và gắn `[CẦN XÁC NHẬN]`.
+
+**Cần người dùng.** Đây là lỗi soạn slide hay là chủ ý (ví dụ Division ít dùng cho bài toán phối hợp)? Nếu là lỗi, `FW-086` nên ghi bảng năm hàng.
+
+---
+
+## OQ-019 — Topic 15 slide 6–7: hai câu hỏi về Design Thinking không có slide trả lời
+
+**Mức:** Trung bình · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 6 hỏi *"What is Design Thinking and why should you care about it?"* và slide 7 hỏi *"How is Design Thinking implemented when tackling business challenges?"* — cả hai chỉ có câu hỏi trên nền đỏ, **không có slide nội dung trả lời**. Agenda cũng không liệt kê Design Thinking như một chặng riêng.
+
+**Đã làm.** Hai slide ánh xạ tới `TOP-MEGROW-15` và được ghi nguyên trạng ở mục Nguồn của chunk đó.
+
+**Cần người dùng.** Phần này được giảng trực tiếp, chiếu video, hay bị bỏ qua? Nếu có nội dung, nó sẽ nối trực tiếp với `FW-049` (Design Thinking có AI hỗ trợ, Topic 16).
+
+---
+
 ## Mục `[KHÓ ĐỌC]`
 
 **Không có.** Cả 805 trang đều đọc được: 668 trang trích được text trực tiếp bằng `pdftotext`, 137 trang còn lại (chủ yếu slide dạng ảnh của Topic 5 và Topic 6) đã được **đọc bằng thị giác** qua `pdftoppm` và mô tả trong `slide_inventory.md` với nhãn `[HÌNH]`. Không trang nào mờ, lỗi OCR hay không đọc được.

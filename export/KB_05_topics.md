@@ -711,6 +711,78 @@ Buổi học bằng trải nghiệm: bốn hoạt động liên tiếp để ng�
 =====
 
 ---
+id: TOP-MEGROW-11
+type: topic
+title_vi: Tùy chỉnh cách tiếp cận cho từng cá nhân
+title_en: Customised Approach for Individuals
+aliases: [Topic 11 megrow, customise approach for individuals, diverse personalities]
+keywords: [tính cách khác nhau, phong cách làm việc, trí tuệ cảm xúc, động lực, ERG, bốn phong cách, đóng vai, Gen Z Việt Nam]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-072, FW-073, FW-074, FW-075, FW-076, FW-077, CON-027, CON-028, TOP-MEGROW-10, TOP-MEGROW-08]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 1–45"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 11: Customised Approach for Individuals
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P2 `LEAD_PEOPLE_AND_TEAMS`** (taxonomy người dùng duyệt). Level: **TEAM + SELF**. Giảng viên: Dr Gavin Nicholson (Lecturer, Management — The Business School, RMIT Vietnam). 45 slide. Tiêu đề phụ trên trang bìa: *"Improving Communication Across Diverse Personalities and Work Styles."*
+
+## Tóm tắt topic
+Buổi học đi theo bốn chặng do chính agenda đặt ra: **hiểu người** (tính cách, hành vi, phong cách làm việc) → **tự nhận thức và quản lý quan hệ** → **điều chỉnh cách giao tiếp** → **động lực và thuyết ERG**. Luận điểm nền: *"Effective Leadership is not a one size fits all."* Buổi chiều là ba kịch bản đóng vai được viết riêng cho bối cảnh Zalo.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Agenda bốn chặng** (slide 3), mỗi chặng kèm một câu hỏi dẫn.
+2. **How Well Do I Know Myself?** (slide 4): *"Who am I? · Do others see me the way I see myself? · Why do other people behave/think differently from me?"*
+3. **Các yếu tố định hình hành vi** (slide 5–7): Person / Environment / Situation; yếu tố tâm lý; yếu tố xã hội và môi trường → `FW-073`.
+4. **Niềm tin qua hành vi** (slide 8): định nghĩa của Robbins và năm chiều → `CON-027`.
+5. **Bốn phong cách làm việc** (slide 9): Driver · Amiable · Analytical · Expressive → `FW-072`.
+6. **Năm chiến lược quản lý tính cách đa dạng** (slide 10–12) → `FW-076`.
+7. **Case study Gen Z Việt Nam** (slide 13): bảy phát hiện hội tụ / phân kỳ → `CON-028`.
+8. **Trí tuệ cảm xúc** (slide 15–21): ba cấp Leading Self / Others / Organisations; bốn địa hạt EI; Relationship Management; bộ câu hỏi tự đánh giá → `FW-075`.
+9. **Điều chỉnh giao tiếp** (slide 22–23): hướng nội/hướng ngoại, task/people, **tránh dán nhãn tiêu cực**; bốn kỹ thuật giao tiếp; bảng ưu tiên giao tiếp cho bốn phong cách → `FW-072`, `FW-076`.
+10. **Động lực** (slide 25–26): ba nhu cầu achievement/affiliation/power và thuyết ERG của Alderfer → `FW-074`.
+11. **Nghỉ 15 phút** (slide 27), rồi **Communication Games** (slide 28–29).
+12. **Ba kịch bản đóng vai** (slide 30, 32–38) → `FW-077`.
+13. **Đúc kết giao tiếp quản lý – nhân viên** (slide 39–40).
+
+## Các chunk thuộc topic (ID)
+`FW-072` · `FW-073` · `FW-074` · `FW-075` · `FW-076` · `FW-077` · `CON-027` · `CON-028`
+
+## Bài tập và hoạt động trong lớp
+- **Activity: Extrovert vs Introvert** (slide 29): hai nhóm cùng bàn tổ chức một sự kiện công ty — nhóm hướng ngoại bàn *company picnic*, nhóm hướng nội bàn *family day* — với cùng bộ câu hỏi về ngày giờ, địa điểm, chủ đề, ăn uống, hoạt động. Người học **quan sát và nhận xét sự khác nhau giữa cách hai nhóm thảo luận**, không nhận xét kết quả.
+- **Ba kịch bản đóng vai** (chi tiết ở `FW-077`): *Encouraging Ownership and Proactivity* (Ninh – Quang) · *Mediating Different Working Styles* (Trung – Ngan – Thu) · *Managing Disappointment / Missed Promotion* (Giang – Trang). Mỗi kịch bản có bối cảnh, nhân vật, mục tiêu và ba câu hỏi debrief.
+- **Emotional Intelligence – Self-Assessment Questionnaire** (slide 21): `[CẦN XÁC NHẬN]` slide là ảnh, không đọc được nội dung câu hỏi — xem `open_questions.md` (OQ-016).
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Effective Leadership is not a one size fits all."* (slide 10)
+- *"Don't view different communication styles as difficult or argumentative."* (slide 22)
+- *"The bias to beat"* của chặng giao tiếp: *"Check your own personal biases before judging a different style of expression."* (slide 23)
+- *"Leaders know they need other people. Sometimes you lead and other times you follow. Leaders develop other leaders."* (slide 15)
+- *"You will likely encounter situations as a leader that require you to learn and grow at the very moment others expect you to be an authority… Do not be embarrassed to do what it takes to develop as a leader."* (slide 16)
+- **Đúc kết slide 39–40:** giao tiếp quản lý – nhân viên hiệu quả đòi hỏi **active listening, transparency, và clear expectations**; đặt kỳ vọng rõ nghĩa là *"define the specific goal and desired outcome rather than just assigning a task, and clarify decision-making authority"*; minh bạch nghĩa là *"explain the 'why' behind decisions"*; 1:1 đều đặn và **đừng micromanage**; tạo an toàn tâm lý.
+- Câu kết của buổi học: ***"People forget words, but they never forget how you made them feel. Leadership / Management is NOT learnt instantly. It is a journey and different for everyone. It requires practice and thought EVERY DAY."***
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-10` dạy Situational Leadership — điều chỉnh theo **mức sẵn sàng cho từng việc**; Topic 11 điều chỉnh theo **phong cách và nhu cầu**. Hai trục bổ sung nhau, xem phần "Phân biệt" ở `FW-072`.
+- `TOP-MEGROW-08` — `CON-013` tự nhận thức và tự quản lý; Topic 11 mở rộng thành bốn địa hạt đầy đủ ở `FW-075`, đúng như ghi chú để sẵn trong `CON-013`.
+- `TOP-MEGROW-13` — `CON-027` gộp nguồn từ cả Topic 11 (Robbins) và Topic 13; ba mô hình niềm tin của khóa học được đối chiếu ở đó.
+- `TOP-MEGROW-09` — `FW-032` Connector Manager: hiểu người rồi coach có chọn lọc; `FW-072` và `FW-074` là công cụ cho vế "hiểu người".
+- `[SUY LUẬN]` `CON-028` là chunk duy nhất trong kho nói về đặc điểm thế hệ trong bối cảnh Việt Nam — đáng chú ý với team có nhiều nhân sự trẻ và cộng tác viên.
+
+## Nguồn
+`[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 1–45]`
+
+=====
+
+---
 id: TOP-MEGROW-12
 type: topic
 title_vi: Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ
@@ -772,6 +844,76 @@ Buổi có cấu trúc chặt nhất khóa: **bảy lý thuyết, mỗi lý thuy
 ## Nguồn
 - `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41]`
 - `[MEGROW | Topic 12 | [Case Reading] Microsoft's Turnaround – The Satya Nadella Story.pdf | Trang 1–7]` — *Bloomberg Businessweek*, 6/5/2019, Austin Carr & Dina Bass.
+
+=====
+
+---
+id: TOP-MEGROW-13
+type: topic
+title_vi: Xây dựng niềm tin và giao tiếp cởi mở trong team
+title_en: Building Trust & Open Communication in Teams
+aliases: [Topic 13 megrow, building trust, psychological safety, open communication]
+keywords: [niềm tin, an toàn tâm lý, TRUST framework, trust equation, lãnh đạo bao trùm, team im lặng, Edmondson, Maister, Bourke]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-009, PRB-007]
+related_ids: [FW-078, FW-079, FW-080, FW-081, FW-082, CON-029, CON-027, PRB-009, TOP-MEGROW-07, TOP-MEGROW-11]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 1–30"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 13: Building Trust & Open Communication in Teams
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`** (taxonomy người dùng duyệt). Level: **ORG + TEAM**. Giảng viên: Dr Justin Xavier Batinadan (Senior Manager, International & Projects — RMIT). 30 slide.
+
+## Tóm tắt topic
+Buổi học có cấu trúc sáu phần rõ ràng, đi từ **vì sao niềm tin quan trọng** (và nó tốn tiền thế nào khi thiếu) qua ba công cụ — **TRUST Framework**, **an toàn tâm lý**, **Trust Equation** — tới **lãnh đạo bao trùm**, rồi đóng bằng một case và một bảng cam kết cá nhân. Đây là topic cung cấp nguồn chính cho vấn đề ưu tiên số 9 của người học.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Agenda sáu phần** (slide 3) và ba kết quả đầu ra (slide 4): áp dụng nguyên tắc an toàn tâm lý · xây niềm tin qua hành vi lãnh đạo và nuôi dưỡng giao tiếp bao trùm · **tạo chuẩn mực team khuyến khích lên tiếng và hợp tác**.
+2. **PHẦN 1 — Why TRUST Matters** (slide 5–8): niềm tin là nền của team hiệu suất cao; bảng LOW TRUST / HIGH TRUST; niềm tin trong tổ chức tăng trưởng nhanh → `CON-029`.
+3. **PHẦN 2 — Building TRUST** (slide 9–12): khung năm chữ Transparency · Reliability · Understanding · Safety · Team First, kèm bốn hành động mỗi chữ và năm kết quả → `FW-078`.
+4. **PHẦN 3 — Psychological Safety** (slide 13–16): sách *The Fearless Organization*; video HBR của Amy Edmondson; ma trận bốn vùng Comfort / Learning / Apathy / Anxiety; đối chiếu Trust với Psychological Safety → `FW-080`.
+5. **PHẦN 4 — Trust Equation** (slide 17–20): công thức của Maister; bốn thành phần kèm câu hỏi chẩn đoán; hoạt động viết năm điều sẽ cải thiện → `FW-079`.
+6. **PHẦN 5 — Inclusive Leadership** (slide 21–24): sáu phẩm chất của Bourke; hai bảng hành vi cho quản lý góc nhìn khác biệt và giao tiếp xuyên phong cách → `FW-081`.
+7. **PHẦN 6 — Application** (slide 25–27): case *The Silent Team* với năm câu hỏi; bảng STOP / START / SUSTAIN–CONTINUE → `FW-082`.
+8. **Final Thoughts và References** (slide 28–29), lời cảm ơn (slide 30).
+
+## Các chunk thuộc topic (ID)
+`FW-078` · `FW-079` · `FW-080` · `FW-081` · `FW-082` · `CON-029` · `CON-027` (gộp nguồn với Topic 11) · `PRB-009`
+
+## Bài tập và hoạt động trong lớp
+- **Activity — tăng niềm tin** (slide 20): *"To increase trust in my team, I will focus on improving:"* — viết ra năm mục, đặt ngay sau phần Trust Equation để người học dùng bốn thành phần vừa học làm bộ lọc.
+- **Application Activity — Case Study: The Silent Team** (slide 26): làm theo nhóm, đóng vai *"Linh's leadership team"*. Năm câu hỏi lần lượt buộc dùng quan sát, `FW-080`, `FW-078`, `FW-079`, rồi tổng hợp thành **ba hành động cụ thể trong 30 ngày**.
+- **Personal Leadership Commitment** (slide 27): bảng ba cột STOP / START / SUSTAIN–CONTINUE, có sẵn hai ví dụ mẫu mỗi cột.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Trust is NOT a soft skill → Business performance driver."* (slide 7)
+- *"Trust is not built through authority or position, but it is earned through consistent actions over time."* (slide 6)
+- *"Managers cannot rely solely on process, hierarchy or direct supervision → TRUST allows organisations to move quickly while remaining aligned."* (slide 8)
+- *"Trust is built through behaviours, strengthened through relationships, and reflected in performance."* (slide 12)
+- *"Inclusive leaders create environments where people feel they belong and where their uniqueness is valued."* (slide 22)
+- **Bốn câu trích ở Final Thoughts** (slide 28): *"Trust is the glue of life. It is the foundational principle that holds all relationships."* — Stephen M.R. Covey · ***"Psychological safety is not about being nice."*** — Amy Edmondson · *"Trust is earned in droplets and lost in buckets."* — David Maister · *"A team is not a group of people who work together. A team is a group of people who trust each other."* — Simon Sinek.
+- Câu của nhân viên trong case, đáng nhớ nhất của buổi học: ***"It is easier to remain quiet than risk saying the wrong thing."*** (slide 26)
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- **Topic này mở khóa `PRB-009`** — vấn đề ưu tiên số 9 (văn hóa thử nghiệm và an toàn tâm lý), trước đó là vấn đề duy nhất trong 11 vấn đề chưa có chunk nào.
+- `TOP-MEGROW-11` — `CON-027` gộp nguồn niềm tin từ hai topic; `FW-058` (Topic 03) là mô hình niềm tin thứ ba của khóa học, đối chiếu ở `FW-079`.
+- `TOP-MEGROW-07` — `FW-070` liệt kê *"Lack of trust or psychological safety"* là một trong sáu rào cản đời sống team; `FW-066-01` bộ luật chơi LSP là một cách cụ thể để tạo chuẩn mực lên tiếng.
+- `TOP-MEGROW-14` — case BCPC và `FW-020` Thang Suy luận: khi đã có an toàn tâm lý, bất đồng vẫn cần công cụ để không bế tắc.
+- `TOP-MEGROW-16` — `FW-053` thử nghiệm 7 ngày là cơ chế hạ chi phí của việc thử, tức phần "văn hóa thử nghiệm" trong `PRB-009`.
+- `[SUY LUẬN]` Với bối cảnh người học, `CON-028` (Topic 11) bổ sung một lớp quan trọng: *Voice Constraints* là điểm **hội tụ** qua các thế hệ ở Việt Nam, nên các biện pháp cấu trúc ở `FW-081` và `FW-082` có sức nặng hơn so với việc chỉ mời phát biểu.
+
+## Nguồn
+`[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 1–30]`
+
+Nguồn tham khảo của deck (slide 29): Bourke (2016) · Edmondson (2018) *The Fearless Organization* · Maister, Green & Galford (2000) *The Trusted Advisor* · Mayer, Davis & Schoorman (1995) · Randel et al. (2018).
 
 =====
 
@@ -839,6 +981,75 @@ Câu hỏi trung tâm (slide 6): **cùng thử thách, cùng giới hạn thời
 ## Nguồn
 - `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14]`
 - `[MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4]` — Edmondson, A. C. *The BCPC Internet Strategy Team: An Exercise*, HBS 604-035, rev. 7/1/2016.
+
+=====
+
+---
+id: TOP-MEGROW-15
+type: topic
+title_vi: Từ hiểu biết về stakeholder tới tác động thị trường
+title_en: From Stakeholder Insight to Market Impact
+aliases: [Topic 15 megrow, stakeholder insight, market impact, SIT, creative matrix]
+keywords: [đổi mới, hành trình stakeholder, điểm đau, giá trị bị phá vỡ, sinh ý tưởng có cấu trúc, SIT, creative matrix, phối hợp liên bộ phận]
+levels: [ORG]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-002, PRB-001]
+related_ids: [FW-083, FW-084, FW-084-01, FW-085, FW-086, TOP-MEGROW-16, TOP-MEGROW-12]
+source: ["MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 1–21"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 15: From Stakeholder Insight to Market Impact
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P3 `LEAD_ACROSS_ORGANISATION`** (taxonomy người dùng duyệt). Level: **ORG**. Giảng viên: Dr Phuong Nguyen — 15 năm kinh nghiệm ở châu Âu và châu Á, từng là cán bộ Liên Hợp Quốc tại TP.HCM và London. 21 slide — deck ngắn nhất của khóa.
+
+## Tóm tắt topic
+Một chuỗi công cụ liền mạch, chạy theo đúng thứ tự: **hiểu stakeholder** (Pain Point và Stakeholder Journey Map) → **sinh ý tưởng có cấu trúc** (năm công cụ SIT) → **sàng và chốt** (Creative Matrix, rồi một–một–một). Agenda gọi bốn chặng là Divergent Thinking · Stakeholder Pain Points & Journey Map · Systematic Inventive Thinking · Creative Matrix. Trọng tâm thực hành: **phối hợp liên chức năng** — mọi hoạt động đều yêu cầu một quy trình có ít nhất hai bộ phận tham gia.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Agenda bốn chặng** (slide 3), mỗi chặng kèm mục đích: sinh ý tưởng · phát triển sự thấu cảm và tìm nơi giá trị bị phá vỡ · sinh ý tưởng có cấu trúc · kiểm chứng ý tưởng.
+2. **Đổi mới là gì** (slide 4–5): hai đặc điểm Novel và Useful; ba phép thử Desirability – Feasibility – Viability → `FW-083`.
+3. **Dẫn vào Design Thinking** (slide 6–7): hai slide đặt câu hỏi mở *"What is Design Thinking and why should you care about it?"* và *"How is Design Thinking implemented when tackling business challenges?"* — cả hai **chỉ có câu hỏi, không có nội dung trả lời trên slide**.
+4. **Pain Points** (slide 8–9): định nghĩa; đối lập của Pain Point là Gain; phân biệt **Explicit** với **Latent** pain point → `FW-084`.
+5. **Stakeholder Journey Map** (slide 10–12): mục đích bốn việc UNDERSTAND / CONNECT / IDENTIFY / DISCOVER; tám câu hỏi dựng bản đồ → `FW-084`.
+6. **Ví dụ minh họa** (slide 13): hành trình năm giai đoạn AGREE → PLAN → HANDOVER → EXECUTE → DELIVER của một Product Manager → `FW-084-01`.
+7. **Hoạt động nhóm 1** (slide 14, 10 phút, Miro): dựng bản đồ hành trình cho một quy trình thật tại Zalo.
+8. **Systematic Inventive Thinking** (slide 15–17): năm công cụ, kèm phiên bản câu hỏi cho phối hợp liên chức năng → `FW-085`.
+9. **Quy trình sinh giải pháp** (slide 18) và **Creative Matrix** (slide 19) → `FW-086`.
+10. **Hoạt động nhóm 2 — Validate your Ideas** (slide 20, 10 phút): chốt một nút thắt, một cải tiến, một lợi ích kỳ vọng → `FW-086`.
+11. **Lời cảm ơn** (slide 21).
+
+## Các chunk thuộc topic (ID)
+`FW-083` · `FW-084` · `FW-084-01` · `FW-085` · `FW-086`
+
+## Bài tập và hoạt động trong lớp
+- **Hoạt động 1 — Create Zalo stakeholder's journey map** (slide 14; nhóm, 10 phút, dùng Miro board trên Canvas): xác định một quy trình **cần ít nhất 02 bộ phận cùng làm** · dựng bản đồ hành trình stakeholder · xác định nơi giá trị bị phá vỡ (pain point của stakeholder).
+- **Hoạt động 2 — Validate your Ideas** (slide 20; nhóm, 10 phút): chọn giải pháp tốt nhất từ Creative Matrix, tập trung vào **One bottleneck · One proposed improvement · One expected benefit**.
+- Giữa hai hoạt động là bước sinh ý tưởng theo quy trình slide 18: dùng SJM → chọn **2–3 bottleneck** → áp Creative Matrix → sinh **ít nhất 05 ý tưởng**.
+
+## Câu nói / thông điệp chính của giảng viên
+- Câu hỏi định hướng của cả buổi, in trên slide 10: ***"Where does collaboration work well, and where does value break?"***
+- Kết luận rút ra từ ví dụ ở slide 13: ***"A shared decision does not always lead to shared understanding during execution."***
+- Định nghĩa pain point (slide 8): *"Pain Points are moments in time when a stakeholder experiences frustration, difficulty or uncertainty."* — và **đối lập của Pain Point là Gain**.
+- Ghi chú dưới Creative Matrix (slide 19): *"Value breaks are the Customer/Stakeholder's pain points (from SJM)."*
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-16` là topic gần nhất về nội dung: `FW-049` Design Thinking có AI hỗ trợ, `FW-051` Stakeholder Empathy Map, `FW-052` Problem Statement Template, `FW-050` Problem Tree. Phân vai giữa hai topic: Topic 16 đi theo **quy trình Design Thinking năm pha** và nhấn vai trò của AI; Topic 15 đi theo **hành trình của stakeholder qua nhiều bộ phận** và nhấn sinh ý tưởng có cấu trúc bằng SIT. `FW-051` hiểu *một stakeholder là ai*; `FW-084` chỉ ra *ở đâu hỏng*.
+- `TOP-MEGROW-12` — `FW-011` và `FW-012` xác định **ai** là bên liên quan và mức ưu tiên; `FW-084` bắt đầu sau đó, khi đã chọn được một stakeholder để vẽ hành trình.
+- `TOP-MEGROW-14` — `FW-020` Thang Suy luận giải thích cơ chế tâm lý khiến "quyết định chung" không thành "hiểu biết chung", đúng kết luận của slide 13.
+- `TOP-MEGROW-02` — đầu ra một–một–một của `FW-086` nối thẳng vào `FW-037` (mẫu viết objective) và `FW-038` (chọn chỉ số đo).
+- `[SUY LUẬN]` Chuỗi `FW-084` → `FW-085` → `FW-086` là một quy trình hoàn chỉnh dùng được ngay cho vấn đề ưu tiên số 1 (định hướng bài toán cho team) khi bài toán nằm ở chỗ phối hợp liên bộ phận.
+
+## Nguồn
+`[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 1–21]`
+
+`[CẦN XÁC NHẬN]` Slide 6–7 nêu hai câu hỏi về Design Thinking nhưng **không có slide nội dung trả lời** — phần này nhiều khả năng được giảng trực tiếp hoặc chiếu video. Xem `open_questions.md` (OQ-019).
 
 =====
 

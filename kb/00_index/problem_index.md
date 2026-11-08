@@ -2,20 +2,20 @@
 
 Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dùng framework nào?"*
 
-**Trạng thái:** 10 chunk `PRB`, 85 chunk `FW` và 26 chunk `CON` đã tạo (từ Topic 01–10, 12, 14, 16, 17, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
+**Trạng thái:** **Cả 11 chunk `PRB` đã tạo**, cùng 101 chunk `FW` và 29 chunk `CON` (từ Topic 01–17, 19). Còn Topic 18 chưa xử lý; Topic 20 để riêng. Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
 | Vấn đề | Mức | Chunk PRB | Trạng thái |
 |---:|---|---|---|
-| 1 | Cao | `PRB-001` | ✅ đã có (T02, T16, T17) |
-| 2 | Cao | `PRB-002` | ✅ đã có (T03, 12, 14, 16, 17, 19) |
-| 3 | Cao | `PRB-003` | ✅ đã có (T02, 05, 06, 07, 10, 14, 16) |
+| 1 | Cao | `PRB-001` | ✅ đã có (T02, 15, 16, 17) |
+| 2 | Cao | `PRB-002` | ✅ đã có (T03, 12, 14, 15, 16, 17, 19) |
+| 3 | Cao | `PRB-003` | ✅ đã có (T02, 05, 06, 07, 10, 13, 14, 15, 16) |
 | 4 | Cao | `PRB-004` | ✅ đã có (T01, 02, 03, 05, 06, 08, 10) |
 | 5 | Cao | `PRB-005` | ✅ đã có (T01, 02, 05, 06, 09, 10) |
-| 6 | Trung bình | `PRB-006` | ✅ đã có (T03, 04, 07, 08, 09) |
-| 7 | Trung bình | `PRB-007` | ✅ đã có (T05, 06, 07, 09) |
+| 6 | Trung bình | `PRB-006` | ✅ đã có (T03, 04, 07, 08, 09, 11) |
+| 7 | Trung bình | `PRB-007` | ✅ đã có (T05, 06, 07, 09, 11, 13) |
 | 8 | Trung bình | `PRB-008` | ✅ đã có (T02, 12, 16, 17, 19) |
-| 9 | Thấp | — | chờ Topic 13 |
-| 10 | Thấp | `PRB-010` | ✅ một phần (T08, 12, 14, 16) |
+| 9 | Thấp | `PRB-009` | ✅ đã có (T07, 13, 16) |
+| 10 | Thấp | `PRB-010` | ✅ đã có (T08, 11, 12, 13, 14, 16) |
 | 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).

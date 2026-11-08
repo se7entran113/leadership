@@ -18,13 +18,13 @@ Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide
 | MEGROW | 8 | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | 33 | 11 | 100% | đã xử lý |
 | MEGROW | 9 | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | 45 | 9 | 100% | đã xử lý |
 | MEGROW | 10 | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | 32 | 6 | 100% | đã xử lý |
-| MEGROW | 11 | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 11 | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | 31 | 14 | 100% | đã xử lý |
 | MEGROW | 12 | `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf` | 41 | 36 | 5 | 100% | đã xử lý |
 | MEGROW | 12 | `[Case Reading] Microsoft’s Turnaround – The Satya Nadella Story.pdf` | 7 | 4 | 3 | 100% | đã xử lý |
-| MEGROW | 13 | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 13 | `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf` | 30 | 19 | 11 | 100% | đã xử lý |
 | MEGROW | 14 | `Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf` | 14 | 11 | 3 | 100% | đã xử lý |
 | MEGROW | 14 | `[Case Reading] of topic 14 .pdf` | 4 | 4 | 0 | 100% | đã xử lý |
-| MEGROW | 15 | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 15 | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | 16 | 5 | 100% | đã xử lý |
 | MEGROW | 16 | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | 33 | 4 | 100% | đã xử lý |
 | MEGROW | 17 | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | 31 | 8 | 100% | đã xử lý |
 | MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
@@ -633,6 +633,117 @@ Mỗi trang của topic đã xử lý ánh xạ tới chunk chứa nội dung tr
 | 41 | `FW-067-01` |
 | 42 | `FW-067-01` |
 | 43 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 11 — `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa và giới thiệu giảng viên) |
+| 2 | không có nội dung kiến thức (giới thiệu giảng viên) |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | `TOP-MEGROW-11` |
+| 5 | `FW-073` |
+| 6 | `FW-073` |
+| 7 | `FW-073` |
+| 8 | `CON-027` |
+| 9 | `FW-072` |
+| 10 | `FW-076` |
+| 11 | `FW-076` |
+| 12 | `FW-076` |
+| 13 | `CON-028` |
+| 14 | không có nội dung kiến thức (divider phần 2) |
+| 15 | `FW-075` |
+| 16 | `FW-075` |
+| 17 | `FW-075` |
+| 18 | `FW-075` |
+| 19 | `FW-075` |
+| 20 | `FW-075` |
+| 21 | `FW-075` |
+| 22 | `FW-072` |
+| 23 | `FW-072`, `FW-076` |
+| 24 | không có nội dung kiến thức (divider phần 3) |
+| 25 | `FW-074` |
+| 26 | `FW-074` |
+| 27 | không có nội dung kiến thức (lời cảm ơn và nghỉ giải lao) |
+| 28 | không có nội dung kiến thức (divider hoạt động) |
+| 29 | `FW-077` |
+| 30 | `FW-077` |
+| 31 | không có nội dung kiến thức (ảnh trang trí) |
+| 32 | `FW-077` |
+| 33 | `FW-077` |
+| 34 | `FW-077` |
+| 35 | `FW-077` |
+| 36 | `FW-077` |
+| 37 | `FW-077` |
+| 38 | không có nội dung kiến thức (divider) |
+| 39 | `TOP-MEGROW-11` |
+| 40 | `TOP-MEGROW-11` |
+| 41 | không có nội dung kiến thức (ảnh kết) |
+| 42 | không có nội dung kiến thức (ảnh kết) |
+| 43 | không có nội dung kiến thức (ảnh kết) |
+| 44 | không có nội dung kiến thức (ảnh kết) |
+| 45 | không có nội dung kiến thức (ảnh kết) |
+
+### Topic 13 — `Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | không có nội dung kiến thức (ảnh minh họa) |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | `TOP-MEGROW-13` |
+| 5 | không có nội dung kiến thức (divider phần 1) |
+| 6 | `CON-029`, `CON-027` |
+| 7 | `CON-029` |
+| 8 | `CON-029` |
+| 9 | không có nội dung kiến thức (divider phần 2) |
+| 10 | `FW-078` |
+| 11 | `FW-078` |
+| 12 | `FW-078` |
+| 13 | không có nội dung kiến thức (divider phần 3) |
+| 14 | `FW-080` |
+| 15 | `FW-080` |
+| 16 | `FW-080` |
+| 17 | không có nội dung kiến thức (divider phần 4) |
+| 18 | `FW-079` |
+| 19 | `FW-079` |
+| 20 | `FW-078` |
+| 21 | không có nội dung kiến thức (divider phần 5) |
+| 22 | `FW-081` |
+| 23 | `FW-081` |
+| 24 | `FW-081` |
+| 25 | không có nội dung kiến thức (divider phần 6) |
+| 26 | `FW-082` |
+| 27 | `FW-082` |
+| 28 | `TOP-MEGROW-13` |
+| 29 | không có nội dung kiến thức (danh mục nguồn) |
+| 30 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 15 — `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | không có nội dung kiến thức (giới thiệu giảng viên) |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | `FW-083` |
+| 5 | `FW-083` |
+| 6 | `TOP-MEGROW-15` |
+| 7 | `TOP-MEGROW-15` |
+| 8 | `FW-084` |
+| 9 | `FW-084` |
+| 10 | `FW-084` |
+| 11 | `FW-084` |
+| 12 | `FW-084` |
+| 13 | `FW-084-01` |
+| 14 | `FW-084` |
+| 15 | không có nội dung kiến thức (divider SIT) |
+| 16 | `FW-085` |
+| 17 | `FW-085` |
+| 18 | `FW-085`, `FW-086` |
+| 19 | `FW-086` |
+| 20 | `FW-086` |
+| 21 | không có nội dung kiến thức (lời cảm ơn) |
 
 ### Các topic chưa xử lý
 

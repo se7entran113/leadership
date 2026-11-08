@@ -135,3 +135,26 @@ FW-071	Bản đồ kết nối theo bốn cặp tính chất; tổ hợp critica
 TOP-MEGROW-03	Kiểm phán đoán trước khi nó thành quyết định về người khác và thành câu nói không rút lại được
 TOP-MEGROW-05	Năng suất là tác động không phải hoạt động; hyper-performance bền đến từ knowledge cộng behavior
 TOP-MEGROW-07	Workshop LEGO® Serious Play®: bốn hoạt động mở rộng dần từ bản sắc cá nhân tới bản đồ kết nối của team
+CON-027	Robbins: niềm tin là quá trình phụ thuộc lịch sử; integrity là điều kiện, thiếu nó bốn chiều kia vô nghĩa
+CON-028	Gen Z Việt Nam: tập thể và khoảng cách quyền lực vẫn hội tụ, kỳ vọng phát triển và tự dẫn dắt thì phân kỳ
+CON-029	Niềm tin thấp tốn tiền ở ba chỗ đo được: tốc độ quyết định, chất lượng quyết định, chi phí sửa sai
+FW-072	Driver · Amiable · Analytical · Expressive — giữ nguyên nội dung, đổi cách mở đầu và mức chi tiết
+FW-073	Person / Environment / Situation; chạy ngược Situation → Environment → Person để khỏi quy hết về tính cách
+FW-074	McClelland ba nhu cầu và ERG của Alderfer; thanh trượt giữa Existence và Growth dịch chuyển liên tục
+FW-075	Bốn địa hạt trên hai trục bản thân/xã hội × nhận thức/quản lý, theo HBS Leadership Essentials
+FW-076	Năm chiến lược quản lý và bốn kỹ thuật giao tiếp; một cỡ không vừa cho tất cả
+FW-077	Ba kịch bản đóng vai viết riêng cho Zalo: chủ động, hòa giải phong cách, và trượt thăng chức
+FW-078	Transparency · Reliability · Understanding · Safety · Team First, mỗi chữ bốn hành động cụ thể
+FW-079	Maister: (Credibility + Reliability + Intimacy) ÷ Self-Orientation — mẫu số chia nhỏ mọi thứ ở tử số
+FW-080	Edmondson: bốn vùng Comfort/Learning/Apathy/Anxiety; trust là tôi→họ, an toàn tâm lý là nhóm→tôi
+FW-081	Bourke: Cognizance · Curiosity · Courage · Cultural intelligence · Commitment · Collaboration
+FW-082	Case team im lặng với năm câu hỏi dùng đủ bốn công cụ, chốt bằng bảng STOP/START/CONTINUE
+FW-083	Novel và Useful; ba phép thử Desirability – Feasibility – Viability là điều kiện cần cùng lúc
+FW-084	Pain point ẩn và hiện; tám câu hỏi dựng bản đồ hành trình để tìm nơi giá trị bị phá vỡ
+FW-084-01	Hành trình AGREE→DELIVER: quyết định chung không đảm bảo hiểu biết chung khi thực thi
+FW-085	Subtraction · Task Unification · Division · Multiplication · Attribute Dependency cho phối hợp liên chức năng
+FW-086	Ma trận SIT × điểm giá trị bị phá vỡ, chốt bằng một nút thắt – một cải tiến – một lợi ích
+PRB-009	Ưu tiên **Thấp**. Không ai dám nói, lỗi lộ muộn, chỉ vài người phát biểu; tin xấu đi chậm
+TOP-MEGROW-11	Bốn chặng hiểu người – tự nhận thức – điều chỉnh giao tiếp – động lực, kết bằng ba kịch bản đóng vai
+TOP-MEGROW-13	Sáu phần từ chi phí của niềm tin thấp tới case team im lặng; mở khóa vấn đề ưu tiên số 9
+TOP-MEGROW-15	Chuỗi liền mạch: hành trình stakeholder → năm công cụ SIT → Creative Matrix → chốt một cải tiến

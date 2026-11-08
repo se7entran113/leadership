@@ -695,10 +695,10 @@ aliases: [emotional intelligence, EI, self-awareness, self-management, trí tu�
 keywords: [cảm xúc, trí tuệ cảm xúc, emotional intelligence, tự nhận thức, tự quản lý, bình tĩnh dưới áp lực, phản ứng theo thói quen, bực mình với nhân viên, giữ cảm xúc khi nói chuyện khó]
 levels: [SELF, TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-08]
+topics: [TOP-MEGROW-08, TOP-MEGROW-11]
 problems_addressed: [PRB-006, PRB-004]
-related_ids: [FW-025, CON-010, CON-011]
-source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 14–27"]
+related_ids: [FW-025, CON-010, CON-011, FW-075]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 14–27", "MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 15–20"]
 source_type: course
 confidence: high
 status: verified
@@ -740,7 +740,7 @@ Diễn giải bảng: hai thứ gắn chặt nhau — tự nhận thức giúp t
 - `FW-025` — toàn bộ phần này nằm trong bước CONVERSE: *"Ở giai đoạn này, cũng hãy cố quản lý cảm xúc của bạn"* (slide 14).
 - `CON-010` Quan sát thay vì phán xét — cảm xúc không được quản lý sẽ rò rỉ ra thành nhãn dán trong câu mở đầu.
 - `CON-011` Ba cấp độ lắng nghe — "bị phân tâm bởi suy nghĩ của chính mình" là một rào cản thuộc về tự quản lý; cấp độ nghe trực giác lại dựa trên tự nhận thức.
-- `[SUY LUẬN]` Topic 11 cũng có nội dung về self-awareness và relationship management; sẽ gộp nguồn khi xử lý topic đó.
+- `FW-075` Bốn địa hạt của trí tuệ cảm xúc (Topic 11) — khung đầy đủ gồm cả hai địa hạt xã hội: Social Awareness và Social/Relationship Management. `CON-013` là nội dung chi tiết của hai ô bên trong, `FW-075` là bản đồ bốn ô.
 
 ## Nguồn
 - `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 14–27]`
@@ -1483,3 +1483,193 @@ Diễn giải bảng: thứ tự này có logic riêng. Slide 23 nêu niềm tin
 ## Nguồn
 - `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 22–28, 35–36]`
 - `[CẦN XÁC NHẬN]` Các slide trong mạch này hầu hết chỉ có một tới hai chữ trên nền ảnh. Việc nối chúng thành một lập luận liền mạch là `[SUY LUẬN]` của Claude — xem `open_questions.md` (OQ-014).
+
+=====
+
+---
+id: CON-027
+type: concept
+title_vi: Niềm tin là kết quả tích lũy của hành vi nhất quán
+title_en: Trust as the Accumulated Result of Consistent Behaviour
+aliases: [trust dimensions, Robbins trust, integrity competence consistency loyalty openness, niềm tin trong lãnh đạo]
+keywords: [xây dựng niềm tin, vì sao nhân viên không tin, mất niềm tin, chính trực, nhất quán, cởi mở, niềm tin không đến từ chức vụ, uy tín lãnh đạo]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11, TOP-MEGROW-13]
+problems_addressed: [PRB-007, PRB-006]
+related_ids: [FW-078, FW-079, FW-058, CON-029, FW-075]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 8", "MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Niềm tin là kết quả tích lũy của hành vi nhất quán (Trust as the Accumulated Result of Consistent Behaviour)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 11 slide 8 định nghĩa theo Robbins: **niềm tin là kỳ vọng tích cực rằng người kia sẽ không hành xử một cách cơ hội** (*"the positive expectation that another will not act opportunistically"*, Robbins: 336). Và nó là **một quá trình phụ thuộc lịch sử** (*"a history-dependent process – Authenticity"*) — niềm tin được hình thành từ chuỗi hành vi đã xảy ra, không từ một lời cam kết.
+
+Năm chiều của niềm tin, theo cùng slide:
+
+| Chiều | Ghi chú trên slide |
+|---|---|
+| **Integrity** (chính trực) | *"without which other dimensions are meaningless"* — thiếu nó thì các chiều còn lại vô nghĩa |
+| **Competence** (năng lực) | |
+| **Consistency** (nhất quán) | |
+| **Loyalty** (trung thành) | |
+| **Openness** (cởi mở) | |
+
+Diễn giải bảng: năm chiều **không ngang hàng**. Integrity được đánh dấu là điều kiện tiên quyết — một người rất giỏi, rất nhất quán nhưng bị nghi ngờ về sự trung thực thì năng lực và sự nhất quán đó lại làm tăng mối lo chứ không giảm. Bốn chiều còn lại chỉ cộng dồn được khi chiều đầu tiên đã đạt.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Topic 13 slide 6 nêu cùng kết luận từ góc khác: **niềm tin không được xây bằng quyền hạn hay chức vụ, mà kiếm được qua hành động nhất quán theo thời gian** (*"Trust is not built through authority or position, but it is earned through consistent actions over time"*), và **người quản lý tác động tới niềm tin mỗi ngày qua hành vi, quyết định và cách giao tiếp của mình**.
+
+Hai nguồn cộng lại cho một hệ quả thực hành quan trọng: niềm tin **không phải một trạng thái bạn đạt được rồi giữ**, mà là số dư của một tài khoản được cộng và trừ liên tục. Đây cũng là lý do câu của David Maister ở Topic 13 — *"Trust is earned in droplets and lost in buckets"* (niềm tin kiếm được từng giọt và mất đi từng thùng) — có cơ sở: các chiều như Consistency và Integrity cần nhiều lần quan sát để xác lập nhưng chỉ cần một lần vi phạm để sụp.
+
+Chiều **Openness** đáng chú ý với vai trò quản lý: nó đòi hỏi chia sẻ cả thông tin bất lợi và sự không chắc chắn — điều mà chữ T của `FW-078` gọi là *"acknowledge uncertainty when it exists"*.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một quản lý hứa với team sẽ xin thêm một slot tuyển dụng, rồi quý sau không được duyệt và không nhắc lại. Không ai phàn nàn, nhưng chiều **Consistency** vừa bị trừ. Cách giữ số dư không phải là xin được slot, mà là quay lại nói: "Mình đã trình, bị gác lại vì lý do X. Mình sẽ trình lại vào kỳ sau, và trong lúc đó mình điều chỉnh khối lượng thế này."
+
+`[BỔ SUNG]` Với cộng tác viên, chiều **Loyalty** có dạng cụ thể: bạn có bảo vệ phạm vi công việc của họ khi bên khác muốn giao thêm việc ngoài hợp đồng không — và họ có biết là bạn đã làm việc đó không.
+
+## Liên quan
+- `FW-078` TRUST Framework (Topic 13) — năm hành vi lãnh đạo cụ thể xây niềm tin; là bản thao tác của khái niệm này.
+- `FW-079` Trust Equation (Maister) — cách tính niềm tin theo bốn thành phần, trong đó Self-Orientation nằm ở mẫu số.
+- `CON-029` Vì sao niềm tin quan trọng — chi phí của niềm tin thấp và lợi ích của niềm tin cao.
+- `FW-058` Trust = Ability · Benevolence · Integrity (Mayer et al., Topic 03) — **mô hình thứ ba** về niềm tin trong khóa học, nhìn từ góc người gây ảnh hưởng.
+- `[SUY LUẬN]` Ba mô hình niềm tin trong MEGROW không mâu thuẫn mà chồng lấn: Integrity xuất hiện ở cả ba; Competence/Ability ở Robbins và Mayer; Openness/Intimacy ở Robbins và Maister. Điểm khác biệt thật nằm ở **Self-Orientation** — chỉ Maister đặt nó làm mẫu số, tức coi sự quy về bản thân là thứ **chia nhỏ** mọi chiều còn lại.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 8]` — Robbins: 336.
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6]`
+
+=====
+
+---
+id: CON-028
+type: concept
+title_vi: Lãnh đạo Gen Z Việt Nam — điểm hội tụ và điểm phân kỳ
+title_en: Leading Vietnamese Gen Z - Convergent and Divergent Competencies
+aliases: [Gen Z Vietnam, lotus leaders, old bamboo new shoots, thế hệ Z Việt Nam]
+keywords: [nhân viên trẻ, Gen Z, khoảng cách thế hệ, quản lý người trẻ Việt Nam, tập thể, thứ bậc, ngại nói ý kiến, mong muốn phát triển, văn hóa Việt Nam trong công việc]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-11]
+problems_addressed: [PRB-007, PRB-006]
+related_ids: [FW-073, FW-080, CON-011, FW-074]
+source: ["MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 13"]
+source_type: course
+confidence: medium
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Lãnh đạo Gen Z Việt Nam — điểm hội tụ và điểm phân kỳ (Leading Vietnamese Gen Z)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 11 slide 13 trình bày một nghiên cứu về năng lực lãnh đạo của thế hệ Z Việt Nam, tiêu đề: **"From Old Bamboo to New Shoots: Leadership Competencies for Vietnam's Generation Z Lotus Leaders."** Mẫu nghiên cứu: **100 nam và 100 nữ thuộc Gen Z**.
+
+Bảy phát hiện được phân loại thành **Convergent** (hội tụ — giống thế hệ trước) và **Divergent** (phân kỳ — khác thế hệ trước):
+
+| Phát hiện | Phân loại |
+|---|---|
+| Collectivism, Harmony, and Community Orientation | **Convergent** |
+| Hierarchy, Power Distance, and Voice Constraints | **Convergent** |
+| Global Exposure and Cultural Hybridisation | **Divergent** |
+| Human-Centric Leadership (Relational) | **Divergent** |
+| Adaptability, Learning and Change Orientation (Relational) | **Divergent** |
+| Purpose, Vision and National Development | **Convergent** |
+| Leadership Identity, Aspiration and Self-Leadership | **Divergent** |
+
+Diễn giải bảng: ba điểm **hội tụ** cho thấy Gen Z Việt Nam **không** đoạn tuyệt với văn hóa tổ chức truyền thống — tính tập thể, sự hòa hợp, ý thức thứ bậc và định hướng đóng góp cho đất nước vẫn giữ nguyên. Bốn điểm **phân kỳ** nằm ở chỗ khác: họ tiếp xúc toàn cầu và pha trộn văn hóa, kỳ vọng lãnh đạo lấy con người làm trung tâm, coi trọng khả năng thích ứng và học liên tục, và có bản sắc lãnh đạo cùng khát vọng tự dẫn dắt bản thân rõ rệt hơn.
+
+Dòng thứ hai đáng chú ý nhất vì nó là **hội tụ**: *Hierarchy, Power Distance, and Voice Constraints* — khoảng cách quyền lực và sự dè dặt khi lên tiếng **vẫn còn**, kể cả ở thế hệ được cho là cởi mở nhất.
+
+## Ý nghĩa trong thực tế quản lý
+`[SUY LUẬN]` Hai dòng hội tụ và phân kỳ gộp lại tạo ra một tình huống dễ bị đọc nhầm. Một nhân viên Gen Z có thể **rất mong muốn** được phát triển, được dẫn dắt theo cách lấy con người làm trung tâm (phân kỳ), nhưng **vẫn không lên tiếng** trong họp vì khoảng cách quyền lực (hội tụ). Nếu quản lý chỉ nhìn vào sự im lặng và kết luận "bạn này thiếu chủ động", đó là chẩn đoán sai — đúng kiểu lỗi mà `FW-073` cảnh báo khi nhảy thẳng vào nhóm *The Person*.
+
+Hệ quả: với nhóm này, **mời phát biểu không đủ**. Cần thay đổi ở mức cấu trúc — gửi agenda trước, hỏi ý kiến bằng văn bản trước buổi họp, hoặc hỏi trực tiếp từng người theo vòng. Đây chính là các hành động mà `FW-080` xếp vào việc xây an toàn tâm lý, và chúng xử lý nguyên nhân cấu trúc chứ không đòi hỏi cá nhân phải tự vượt qua rào cản văn hóa.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một DS trẻ không bao giờ phản biện Senior trong design review, nhưng lại viết nhận xét rất sắc trong phần comment của pull request. Không phải thiếu chính kiến — kênh viết không có khoảng cách quyền lực trực diện như kênh nói trước nhóm. Cách tận dụng: chuyển phần phản biện của design review sang dạng viết trước, rồi mới thảo luận.
+
+`[BỔ SUNG]` Dòng *Purpose, Vision and National Development* (hội tụ) gợi một đòn bẩy động lực ít được dùng: gắn công việc của team với tác động thật lên người dùng Việt Nam thường có sức nặng hơn so với các mục tiêu chỉ số thuần túy.
+
+## Liên quan
+- `FW-073` Các yếu tố định hình hành vi cá nhân — nghiên cứu này là nội dung cụ thể cho nhóm *Culture and Norms* và *Life experiences*.
+- `FW-080` An toàn tâm lý — công cụ xử lý phần *Voice Constraints*.
+- `CON-011` Ba cấp độ lắng nghe — cần thiết khi tín hiệu được phát ra yếu.
+- `FW-074` Hai lý thuyết nhu cầu — dòng *Leadership Identity, Aspiration and Self-Leadership* nối với nhu cầu Growth của thang ERG.
+
+## Nguồn
+- `[MEGROW | Topic 11 | Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf | Slide 13]`
+- `[CẦN XÁC NHẬN]` Slide chỉ nêu tiêu đề nghiên cứu, cỡ mẫu và bảy phát hiện ở mức một dòng mỗi phát hiện; không ghi tác giả, năm xuất bản hay phương pháp. `confidence: medium` — xem `open_questions.md` (OQ-017).
+
+=====
+
+---
+id: CON-029
+type: concept
+title_vi: Niềm tin là yếu tố thúc đẩy hiệu quả kinh doanh, không phải kỹ năng mềm
+title_en: Trust as a Business Performance Driver, Not a Soft Skill
+aliases: [why trust matters, cost of low trust, trust in fast-growth, chi phí của niềm tin thấp]
+keywords: [vì sao cần niềm tin, team im lặng, giấu thông tin, quyết định chậm, đổ lỗi, silo, tổ chức tăng trưởng nhanh, niềm tin và hiệu suất, lợi ích của niềm tin cao]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-13]
+problems_addressed: [PRB-009, PRB-007]
+related_ids: [FW-078, FW-079, FW-080, CON-027, FW-070]
+source: ["MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6–8"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Niềm tin là yếu tố thúc đẩy hiệu quả kinh doanh (Trust as a Business Performance Driver)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 13 slide 7 đặt luận điểm nền của cả buổi: **"Trust is NOT a soft skill → Business performance driver."** Niềm tin không phải cảm giác dễ chịu ở nơi làm việc mà là **một tài sản tổ chức có tính quyết định**, định hình cách người ta giao tiếp, phối hợp và làm việc.
+
+`[KHÓA HỌC]` Slide 6 liệt kê hai danh sách đối xứng. **Khi có niềm tin**, nhân viên sẵn sàng: chia sẻ ý tưởng và nêu lo ngại công khai · phối hợp xuyên team và chức năng · chủ động mà không chờ chỉ đạo · **thừa nhận sai lầm và học từ chúng** · ủng hộ thay đổi và đổi mới. **Khi thiếu niềm tin**, nhân viên có xu hướng: im lặng trong họp · né các cuộc trò chuyện khó · giữ lại thông tin hoặc phản hồi · **tập trung vào tự bảo vệ thay vì thành công của team** · chống lại thay đổi.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 7 chuyển hai danh sách trên thành hành vi quan sát được, đặt cạnh nhau:
+
+| **LOW TRUST** | **HIGH TRUST** |
+|---|---|
+| Thông tin bị giữ lại hoặc đến chậm | Kiến thức được chia sẻ tự do |
+| Nhân viên sợ mắc lỗi | Việc học được khuyến khích |
+| Các team hoạt động trong silo | Các team phối hợp hiệu quả |
+| **Quyết định chậm hơn** | **Quyết định nhanh hơn** |
+| Đổ lỗi là chuyện thường | **Trách nhiệm tăng lên** |
+| Mức gắn kết đi xuống | Mức gắn kết đi lên |
+| Người ta chống lại thay đổi | Đổi mới nở rộ |
+
+Diễn giải bảng: hai cột không chỉ là "tốt" và "xấu" mà chỉ ra **cơ chế kinh tế**. Niềm tin thấp tạo ra chi phí ở ba chỗ đo được: tốc độ ra quyết định (vì thông tin đến chậm), chất lượng quyết định (vì thông tin không đầy đủ), và chi phí sửa sai (vì lỗi được giấu tới khi đắt hơn). Dòng *Blame is common → Accountability increases* đáng chú ý vì nó phản trực giác: nơi hay đổ lỗi lại là nơi **ít trách nhiệm hơn**, vì ai cũng dành sức chứng minh lỗi không thuộc về mình.
+
+`[KHÓA HỌC]` Slide 8 — **niềm tin trong tổ chức tăng trưởng nhanh**. Vì sao nó quan trọng hơn khi tổ chức lớn lên: team trở nên lớn hơn và phân tán hơn về địa lý · nhân viên mới gia nhập **chưa có quan hệ sẵn** · quyền ra quyết định được đẩy xuống gần tuyến đầu · phối hợp liên chức năng trở nên quan trọng hơn · thay đổi diễn ra thường xuyên hơn và nhanh hơn.
+
+Kết luận của slide: **người quản lý không còn có thể chỉ dựa vào quy trình, thứ bậc hay giám sát trực tiếp** — *"TRUST allows organisations to move quickly while remaining aligned."* Niềm tin cho phép tổ chức đi nhanh mà vẫn giữ được sự đồng bộ.
+
+Slide cũng đặt cạnh nhau **thách thức** (giao tiếp đứt gãy · silo thông tin · ra quyết định chậm · giảm phối hợp · chống lại thay đổi · ít đổi mới) và **cơ hội** (thực thi nhanh hơn · quyền sở hữu lớn hơn · phối hợp tốt hơn · gắn kết cao hơn · đổi mới nhiều hơn · thích ứng tốt hơn) — cùng một danh sách, nhìn từ hai phía của mức niềm tin.
+
+## Ví dụ
+`[KHÓA HỌC]` Hai câu trích dùng xuyên buổi học: *"Trust is the glue of life. It is the foundational principle that holds all relationships."* — Stephen M.R. Covey. Và *"A team is not a group of people who work together. A team is a group of people who trust each other."* — Simon Sinek.
+
+`[BỔ SUNG]` Bối cảnh team Data Science ở một tổ chức tăng trưởng nhanh: dòng *"New employees join without established relationships"* có hệ quả cụ thể — một DS mới vào sẽ không tự nêu nghi ngờ về chất lượng dữ liệu trong ba tháng đầu, dù đó đúng là lúc họ nhìn ra điều người cũ đã quen mắt. Chi phí của sự im lặng đó không hiện ra ở bất kỳ báo cáo nào.
+
+## Liên quan
+- `FW-078` TRUST Framework — năm hành vi lãnh đạo xây niềm tin; slide 7 ghi ngay giữa hai cột: *"Leadership behaviours shape trust"*.
+- `FW-079` Trust Equation — chẩn đoán thành phần nào đang yếu.
+- `FW-080` An toàn tâm lý — cơ chế giải thích vì sao người ta im lặng.
+- `CON-027` Niềm tin là kết quả tích lũy của hành vi nhất quán — khái niệm nền.
+- `FW-070` Team Life — *"Lack of trust or psychological safety"* là một trong sáu rào cản được liệt kê ở Topic 07.
+
+## Nguồn
+- `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6–8, 28]`

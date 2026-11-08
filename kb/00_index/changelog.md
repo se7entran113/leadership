@@ -4,6 +4,49 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — MEGROW Topic 11, 13, 15: thêm 23 chunk (tổng 159), độ phủ 94.3%
+
+**Lệnh:** "tiếp" (đợt 6). Ba topic chưa xử lý còn lại sau khi Topic 20 được đưa ra ngoài phạm vi.
+
+### Chunk mới (23)
+
+**Topic 11 — Customised Approach for Individuals (8):** `FW-072` bốn phong cách làm việc · `FW-073` các yếu tố định hình hành vi · `FW-074` McClelland và ERG · `FW-075` bốn địa hạt EI · `FW-076` năm chiến lược và bốn kỹ thuật · `FW-077` ba kịch bản đóng vai · `CON-027` niềm tin qua hành vi nhất quán · `CON-028` lãnh đạo Gen Z Việt Nam.
+
+**Topic 13 — Building Trust & Open Communication (7):** `FW-078` khung TRUST · `FW-079` Trust Equation · `FW-080` an toàn tâm lý và bốn vùng Edmondson · `FW-081` sáu phẩm chất lãnh đạo bao trùm · `FW-082` case The Silent Team và bảng STOP/START/CONTINUE · `CON-029` niềm tin là yếu tố thúc đẩy hiệu quả · **`PRB-009`**.
+
+**Topic 15 — From Stakeholder Insight to Market Impact (5):** `FW-083` Desirability–Feasibility–Viability · `FW-084` + `FW-084-01` pain point và bản đồ hành trình stakeholder · `FW-085` năm công cụ SIT · `FW-086` Creative Matrix.
+
+**Topic (3):** `TOP-MEGROW-11`, `TOP-MEGROW-13`, `TOP-MEGROW-15`.
+
+### Cột mốc: cả 11 vấn đề ưu tiên đã có chunk
+`PRB-009` (văn hóa thử nghiệm và an toàn tâm lý) là vấn đề cuối cùng trong 11 vấn đề ưu tiên ở CLAUDE.md §2 chưa có chunk. Topic 13 cung cấp nguồn chính; Topic 07 và Topic 16 bổ sung. **Bảng đặt chỗ `PRB` trong `catalog.md` nay đã đầy đủ.**
+
+### Chunk đã cập nhật
+- `CON-013`: gỡ ghi chú "Topic 11 sẽ gộp nguồn khi xử lý topic đó", nối sang `FW-075`, thêm nguồn Topic 11.
+- `PRB-001`, `PRB-002`, `PRB-003`, `PRB-006`, `PRB-007`, `PRB-010`: thêm nguyên nhân gốc rễ, `topics`, `related_ids` từ ba topic mới.
+
+### Quyết định đáng ghi
+- **`CON-027` gộp hai nguồn** (Topic 11 slide 8 — Robbins; Topic 13 slide 6) vì cả hai nói cùng một điều: niềm tin là kết quả tích lũy của hành vi, không đến từ chức vụ. Chunk này đối chiếu **ba mô hình niềm tin** của khóa học — Robbins (5 chiều), Maister (`FW-079`), Mayer et al. (`FW-058`) — và chỉ ra điểm khác biệt thật nằm ở Self-Orientation.
+- **`FW-074` gộp hai lý thuyết nhu cầu** (McClelland và Alderfer) vì deck trình bày chúng trên hai slide liên tiếp và agenda gọi ERG là lý thuyết đầu mục.
+- **Tách `FW-084-01`** (ví dụ hành trình AGREE→DELIVER) khỏi `FW-084` tại đường nối tự nhiên: ví dụ có nguồn riêng (slide 13) và một bài học độc lập.
+- **Không tạo chunk `CASE`** cho "The Silent Team" — loại `CASE` dành cho tình huống thật của người dùng (CLAUDE.md §7); case giảng dạy nằm trong `FW-082`.
+
+### Index
+- `coverage_matrix.md`: thêm ánh xạ từng trang cho **96 slide** (Topic 11: 45, Topic 13: 30, Topic 15: 21). Độ phủ **733 / 777 trang trong phạm vi (94.3%)**, 18/19 topic.
+- `catalog.md` sinh lại; bộ đếm ID sang `CON-030` / `FW-087`; bảng đặt chỗ `PRB` đánh dấu đủ 11/11.
+- `topic_map.md`, `problem_index.md`, `glossary.md` (thêm 3 nhóm, 23 thuật ngữ), `open_questions.md` (**OQ-016 … OQ-019**).
+
+### Ghi chú kỹ thuật
+- Bảy slide dạng sơ đồ đọc bằng thị giác qua `pdftoppm`: Topic 13 slide 11, 12, 16, 18, 19, 22; Topic 11 slide 20; Topic 15 slide 7. Không có trang `[KHÓ ĐỌC]`.
+- `scripts/validate.py`: **0 ERROR**.
+- **Độ dài chunk:** theo quyết định của người dùng (xem mục dưới), chuẩn là **≤1000 từ** cho chunk mới, không sửa lại chunk cũ. 20/23 chunk đợt này đạt; ba chunk vượt nhẹ — `FW-080` (1017), `FW-081` (1067), `FW-082` (1085) — vì phần vượt là bảng và trích dẫn nguyên văn thuộc diện §5.1 không được lược bỏ.
+
+### Quyết định của người dùng trong đợt này
+- **Ngôn ngữ kho giữ nguyên:** thân chunk tiếng Việt, thuật ngữ + tên framework + trích dẫn giữ tiếng Anh. Đo được: toàn kho 1.0 MB, phần song ngữ chỉ chiếm 1.6–4.4%; tiếng Việt tốn ~1.6× byte so với tiếng Anh nhưng token không phải ràng buộc đang có.
+- **Chuẩn độ dài chunk là 1000, không chuẩn hóa ngược chunk cũ.** 63 chunk `FW` của bốn đợt đầu có trung vị 746 từ và trần đúng 799 — dấu vết của việc bị tỉa theo ngưỡng 800 cũ, ngưỡng mà chính dự án đã kết luận là quá chật khi nới lên 1000 ở commit `9f788d4`. Ép chunk mới xuống cho khớp là đi lùi; viết lại 63 chunk cũ thì tốn tương đương làm lại bốn đợt. Chọn: lấy 1000 làm chuẩn, để chunk cũ dãn ra tự nhiên khi topic sau bổ sung nguồn cho chúng.
+
+---
+
 ## 2026-11-08 — Topic 20 (Capstone) để riêng, ngoài phạm vi kho
 
 **Quyết định của người dùng.** Topic 20 — *Capstone Research & Alignment* (AP Burkhard Schrage, 28 trang) — **không chunk hóa vào kho**. Người dùng sẽ tự review deck này để làm slide Capstone riêng.
