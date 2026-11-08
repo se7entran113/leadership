@@ -4,6 +4,35 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — MEGROW Topic 04, 08, 09: thêm 19 chunk (tổng 67)
+
+**Lệnh:** `Xử lý megrow topic 4, 8, 9` (CLAUDE.md §9)
+
+Ba topic cùng đợt vì cùng phục vụ **vấn đề ưu tiên số 6** — feedback, coaching và trao đổi về hiệu suất.
+
+### Chunk đã tạo (19)
+
+**Framework (11):** `FW-023` AMO · `FW-024` SAIL · `FW-025` NOTICE→CONVERSE→COACH→HOLD ACCOUNTABLE · `FW-025-01` Ma trận Support × Accountability · `FW-026` 5-Impact Test · `FW-027` Bốn kiểu quản lý · `FW-028` Năm lăng kính chẩn đoán · `FW-029` Thang mức sẵn sàng phát triển · `FW-030` Lộ trình D–R–C · `FW-031` EDGE và VRIFA · `FW-032` Connector Manager
+
+**Khái niệm (4):** `CON-010` Phép thử camera · `CON-011` Ba cấp độ lắng nghe · `CON-012` Vấn đề tổ chức khoác áo vấn đề nhân viên · `CON-013` Tự nhận thức và tự quản lý
+
+**Vấn đề (1):** `PRB-006` Feedback, coaching và trao đổi về hiệu suất
+
+**Topic (3):** `TOP-MEGROW-04` · `TOP-MEGROW-08` · `TOP-MEGROW-09`
+
+### Quyết định đáng ghi
+- **`FW-023` AMO và `FW-028` năm lăng kính để riêng, không gộp.** Chúng là hai bản chẩn đoán khác độ chi tiết: AMO ba nhánh cho hội thoại về *hiệu suất chưa đạt*; năm lăng kính tách Knowledge khỏi Skills và thêm nhánh **Career** cho hội thoại về *phát triển*. Mục "Phân biệt với framework gần giống" của cả hai ghi rõ khác biệt này.
+- **Tách `FW-025-01`** (ma trận Support × Accountability) khỏi `FW-025` để chunk chính không vượt ngưỡng.
+- **`FW-031` để `needs_review`**: slide 37–38 ghi nguồn là *"Dr Quyen Dang through experience and knowledge from different models"* — khung tổng hợp của giảng viên, không có tài liệu gốc đối chiếu. VRIFA nhiều khả năng phỏng theo VRIN của Topic 17.
+- **Cập nhật ngược:** `PRB-004` (thêm `CON-013`), `PRB-005` (thêm `FW-028`, `FW-029`, `FW-031`), `PRB-007` (thêm Topic 09), `PRB-010` (thêm `FW-026`, `CON-010`), `CON-002`.
+- **`CON-014` đổi số thành `CON-013`** trước khi commit để không để trống ID trong dãy.
+- **OQ-002 được củng cố:** Topic 04 slide 10 nhắc *"audited mindset"* của Topic 03, và Topic 03 slide 28 nói rõ hai buổi diễn ra cùng ngày (sáng Topic 03, chiều Topic 04) — xác nhận thứ tự theo tên file.
+
+### Index đã cập nhật
+`catalog.md` (67 chunk, sinh bằng `gen_catalog.py`) · `coverage_matrix.md` (375/805 trang, 46.6%, 9/20 topic) · `topic_map.md` · `problem_index.md` · `glossary.md` (thêm 20 thuật ngữ, 2 nhóm mới) · `open_questions.md`
+
+---
+
 ## 2026-11-08 — MEGROW Topic 12, 19, 14: thêm 22 chunk (tổng 48)
 
 **Lệnh:** `Xử lý megrow topic 12, 19, 14` (CLAUDE.md §9)

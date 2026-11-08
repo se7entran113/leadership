@@ -2,17 +2,17 @@
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 48 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
+**Trạng thái kho: 67 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 9 |
-| `FW` Framework | 25 |
-| `PRB` Vấn đề | 8 |
+| `CON` Khái niệm & nguyên tắc | 13 |
+| `FW` Framework | 36 |
+| `PRB` Vấn đề | 9 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 6 |
+| `TOP` Topic | 9 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **48** |
+| **Tổng** | **67** |
 
 ---
 
@@ -29,6 +29,10 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON-007` | Pre-wiring — thắng quyết định trước cuộc họp (Pre-wiring) | concept | ORG | MEGROW | Giành đồng thuận trước cuộc họp: Map → Pre-meet → Adapt → Present; khuyến nghị không đổi, chỉ trọng tâm đổi |
 | `CON-008` | Đừng tranh cãi với mục tiêu của họ (Don't argue against their goal) | concept | ORG | MEGROW | Đừng tranh cãi với mục tiêu của người quyết — chỉ ra ý tưởng của bạn bảo vệ mục tiêu đó thế nào |
 | `CON-009` | Mời góp ý và vẫn giữ quyền chốt (Invite input and still reserve the call) | concept | TEAM, ORG | MEGROW | Mời góp ý và giữ quyền chốt không loại trừ nhau; mấu chốt là nói rõ mức tham gia ngay từ đầu |
+| `CON-010` | Quan sát thay vì phán xét — phép thử camera (Observation not judgement - the camera test) | concept | TEAM | MEGROW | Phép thử camera: câu mở đầu phải mô tả hành vi quan sát được, không dán nhãn lên con người |
+| `CON-011` | Ba cấp độ lắng nghe (Three levels of listening) | concept | TEAM, SELF | MEGROW | Ba cấp độ nghe — sự kiện, cảm xúc, trực giác; câu hỏi mở giúp người kia tự tạo nhận thức |
+| `CON-012` | Vấn đề của tổ chức khoác áo vấn đề của nhân viên (Organisational problems disguised as employee problems) | concept | TEAM, ORG | MEGROW | Vấn đề tổ chức thường ngụy trang thành vấn đề nhân viên: quy trình kém, thiếu nguồn lực, ưu tiên không rõ |
+| `CON-013` | Tự nhận thức và tự quản lý cảm xúc (Self-awareness and self-management) | concept | SELF, TEAM | MEGROW | Tự nhận thức giúp nhận ra mình đang cảm thấy gì; tự quản lý quyết định làm gì với điều đó |
 
 ## Framework (FW)
 
@@ -56,9 +60,20 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-020` | Thang Suy luận (The Ladder of Inference) | framework | ORG, TEAM | MEGROW | Argyris: năm nấc từ dữ liệu tới kết luận; kết luận đối nghịch thường do chọn tập dữ liệu khác nhau |
 | `FW-021` | Hỏi trước, trình bày sau (Inquiry before Advocacy) | framework | ORG, TEAM | MEGROW | Seek first to understand: hỏi về intentions, resources, situation của họ trước khi trình bày của mình |
 | `FW-022` | Chuỗi sáu chặng làm việc với stakeholder (MAP - PRIORITISE - TRUST - INFLUENCE - ALIGN - ACT) | framework | ORG | MEGROW | Khung tổng hợp Topic 12: MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT, mỗi chặng một công cụ |
+| `FW-023` | Khung chẩn đoán AMO (The AMO Framework) | framework | TEAM, SELF | MEGROW | Ability · Motivation · Opportunity — chẩn đoán vì sao hiệu suất đi xuống, đừng vội quy kết thái độ |
+| `FW-024` | Quy trình hội thoại SAIL (SAIL - the underperformance conversation) | framework | TEAM | MEGROW | State the gap → Ask → Identify root causes (AMO) → Launch actions; kết bằng thỏa thuận phục hồi hiệu suất |
+| `FW-025` | Bốn bước sửa hành vi (NOTICE - CONVERSE - COACH - HOLD ACCOUNTABLE) | framework | TEAM, SELF | MEGROW | Bốn bước sửa hành vi; clarity + curiosity + follow-through |
+| `FW-026` | Phép thử Năm Tác động (The 5-Impact Test) | framework | TEAM | MEGROW | Năm loại tác động — Performance, People, Culture, Trust, Policy/Ethics — quyết định có nên lên tiếng không |
+| `FW-027` | Bốn kiểu quản lý khi coaching (The Four Manager Types) | framework | TEAM, SELF | MEGROW | Teacher · Always-On · Cheerleader · Connector, kèm ba huyền thoại giữ Always-On luôn bật |
+| `FW-028` | Chẩn đoán nguyên nhân gốc theo năm lăng kính (Root-cause diagnosis - five lenses) | framework | TEAM | MEGROW | Knowledge · Skills · Motivation · Career · Environment — tìm nguyên nhân, không tìm triệu chứng |
+| `FW-029` | Thang đo Mức sẵn sàng phát triển (Employee Development Readiness Assessment) | framework | TEAM | MEGROW | Năm phát biểu chấm 1–5: 5–11 vai trò hiện tại · 12–18 stretch · 19–25 luân chuyển hoặc thăng chức |
+| `FW-030` | Lộ trình D–R–C (The D-R-C route) | framework | TEAM | MEGROW | Diagnose → Readiness → Coach & Connect; bảo vệ khỏi việc khuyên quá sớm |
+| `FW-031` | EDGE và Lợi thế cạnh tranh cá nhân (EDGE and Personal Competitive Advantage) `needs_review` | framework | SELF, TEAM | MEGROW | Explore → Decode → Generate & test (VRIFA) → Execute, ra một thí nghiệm tăng trưởng 90 ngày |
+| `FW-032` | Connector Manager (The Connector Manager) | framework | TEAM | MEGROW | Hiểu người, coach có chọn lọc, kết nối có chủ đích; năm phẩm chất và ba kết nối Person → Team → Organization |
 | `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
 | `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
+| `FW-025-01` | Ma trận Hỗ trợ × Trách nhiệm (The Support x Accountability matrix) | framework | TEAM | MEGROW | Ma trận hỗ trợ × trách nhiệm: tránh ba ô Avoidance, Supportive-but-unclear, Command/compliance |
 
 ## Vấn đề (PRB)
 
@@ -68,6 +83,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team (Designing the team's way of working and decision process) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
 | `PRB-004` | Chuyển dịch từ người làm chuyên môn sang người quản lý (Moving from individual contributor to manager) | problem | SELF | MEGROW | Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi |
 | `PRB-005` | Giao việc và phát triển theo năng lực từng người (Delegating and developing according to each person's capability) | problem | TEAM | MEGROW | Ưu tiên **Cao**. Giao rồi vẫn phải làm lại, người giỏi gánh hết, không biết giao đến đâu thì vừa |
+| `PRB-006` | Feedback, coaching và trao đổi về hiệu suất (Feedback, coaching and performance conversations) | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Góp ý rồi không đổi, ngại nói thẳng, coach nhiều mà team vẫn phụ thuộc |
 | `PRB-007` | Động lực, gắn kết và giữ người (Motivation, engagement and retention) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
 | `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức (Managing upward and linking to organisational strategy) `needs_review` | problem | ORG | MEGROW | Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì |
 | `PRB-010` | Xung đột trong team hoặc giữa các team (Conflict within or between teams) `needs_review` | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp |
@@ -84,7 +100,10 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
 | `TOP-MEGROW-01` | Điều hướng bước chuyển sang vai trò lãnh đạo (Navigating the Leadership Transition) | topic | SELF, TEAM | MEGROW | Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày |
+| `TOP-MEGROW-04` | Thực hành hội thoại về hiệu suất với khung AMO (Practise Performance Conversations with the AMO Framework) | topic | SELF, TEAM | MEGROW | Từ đánh giá quá khứ sang quản trị hiệu suất bền vững; AMO chẩn đoán, SAIL dẫn cuộc trò chuyện |
 | `TOP-MEGROW-06` | Giao việc và trách nhiệm trong team tốc độ cao (Delegation & Accountability in Fast-Paced Teams) `needs_review` | topic | TEAM, SELF | MEGROW | Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức |
+| `TOP-MEGROW-08` | Sửa hành vi thông qua coaching (Correcting Behaviour Through Coaching) | topic | TEAM, SELF | MEGROW | Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE |
+| `TOP-MEGROW-09` | Coaching để đạt hiệu suất cao (Coaching for High Performance) | topic | TEAM | MEGROW | Coach nhiều hơn không làm nhân viên giỏi hơn; Connector Manager và lộ trình D–R–C |
 | `TOP-MEGROW-10` | Điều chỉnh phong cách lãnh đạo (Adapt Your Leadership Style) | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
 | `TOP-MEGROW-12` | Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ (Stakeholder Influence & Leadership in Technology) | topic | ORG | MEGROW | Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày |
 | `TOP-MEGROW-14` | Ra quyết định trong nhóm liên chức năng (Decision Making in Cross-functional Teams) | topic | ORG, TEAM | MEGROW | Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau |

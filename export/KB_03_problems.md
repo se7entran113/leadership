@@ -165,10 +165,10 @@ aliases: [IC to manager, chuyển sang quản lý, mới lên làm sếp]
 keywords: [buông việc kỹ thuật, làm thay nhân viên, cân bằng tự làm và dẫn dắt, quản lý thời gian, quản lý năng lượng, tôi vẫn đang code nhiều quá, không có thời gian cho team, mới lên quản lý]
 levels: [SELF]
 courses: [MEGROW]
-topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10]
+topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-08]
 problems_addressed: []
-related_ids: [FW-002, FW-003, FW-004, FW-001, FW-005, CON-001, CON-002]
-source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 4–13, 20–24", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2"]
+related_ids: [FW-002, FW-003, FW-004, FW-001, FW-005, CON-001, CON-002, CON-013]
+source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 4–13, 20–24", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 2, 7, 21–27"]
 source_type: course
 confidence: high
 status: verified
@@ -207,6 +207,7 @@ Mức ưu tiên: **Cao** (vấn đề số 4 trong `problem_index.md`).
 | Ba hành vi bẫy: làm thay, né giao việc, kỳ vọng ngầm | Team không trưởng thành, việc giao ra vẫn hỏng | `CON-002` |
 | Không có lộ trình cho 90 ngày đầu | Phản ứng theo sự vụ, không có thứ tự | `FW-003` |
 | Không biết thiên lệch hành vi của mình | Dùng một phong cách cho mọi người | `FW-005`, `FW-001` |
+| Chưa quen giữ cảm xúc của chính mình trong vai trò mới | Phản ứng theo thói quen khi bị áp lực | `CON-013` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Bạn đã thử buông nhưng chất lượng tụt rõ rệt → vấn đề là năng lực team, chuyển sang `PRB-005`.
@@ -235,10 +236,10 @@ aliases: [giao việc, phân công, trao quyền cho senior, phạm vi cho colla
 keywords: [giao việc, delegation, trao quyền, empower, phát triển nhân viên, mức sẵn sàng, readiness, senior, collaborator, người giỏi quá tải, không dám giao việc, giao rồi vẫn phải làm lại]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10]
+topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-09]
 problems_addressed: []
-related_ids: [FW-001, FW-001-01, FW-001-02, FW-005, FW-006, FW-009, FW-010, CON-002, CON-003, CON-004, CON-005, CON-006]
-source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 15–19", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 59–61, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 24–36"]
+related_ids: [FW-001, FW-001-01, FW-001-02, FW-005, FW-006, FW-009, FW-010, FW-028, FW-029, FW-031, CON-002, CON-003, CON-004, CON-005, CON-006]
+source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 15–19", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 59–61, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 24–36", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 31–38"]
 source_type: course
 confidence: high
 status: verified
@@ -261,12 +262,12 @@ Mức ưu tiên: **Cao** (vấn đề số 5 trong `problem_index.md`).
 - `[KHÓA HỌC]` Thách thức 2 và 4 của Topic 06: giao trách nhiệm mà không giao quyền quyết định; người giỏi nhận việc then chốt tới mức quá tải.
 
 ## Câu hỏi chẩn đoán
-1. Cho **việc cụ thể này**, người này đang ở đâu trên trục năng lực và trục cam kết? (`FW-001`)
-2. Tôi có bằng chứng gì cho hai trục đó, hay đang dùng thâm niên thay cho năng lực? (`FW-001-01`)
-3. Tôi đã nói rõ cả bốn thành phần — kết quả mong đợi, quyền sở hữu, quyền quyết định, tiêu chí thành công — chưa? (`CON-004`)
+1. Cho **việc cụ thể này**, người này ở đâu trên trục năng lực và cam kết? (`FW-001`)
+2. Tôi có bằng chứng gì, hay đang dùng thâm niên thay cho năng lực? (`FW-001-01`)
+3. Tôi đã nói rõ cả bốn thành phần của `CON-004` chưa — kết quả mong đợi, quyền sở hữu, quyền quyết định, tiêu chí thành công?
 4. Ai là chủ sở hữu duy nhất chịu trách nhiệm cho kết quả này? (`CON-003`)
-5. Năm thành tố sở hữu tâm lý, người này đang thiếu cái nào? (`FW-009`)
-6. Tôi đang tối ưu giao hàng hôm nay bằng cái giá là năng lực ngày mai không? (`CON-004`)
+5. Năm thành tố sở hữu tâm lý, người này thiếu cái nào? (`FW-009`)
+6. Tôi đang tối ưu giao hàng hôm nay bằng cái giá năng lực ngày mai không?
 
 ## Nguyên nhân gốc rễ và framework tương ứng
 
@@ -279,11 +280,14 @@ Mức ưu tiên: **Cao** (vấn đề số 5 trong `problem_index.md`).
 | Sở hữu tâm lý chưa hình thành | Làm đúng yêu cầu, không chủ động | `FW-009` |
 | Theo dõi bằng kiểm soát thay vì bằng checkpoint | Người nhận thấy bị giám sát | `CON-005` |
 | Nỗi sợ mất kiểm soát của chính người quản lý | Né giao việc | `CON-002` |
-| Nhầm giữa "giao việc" và "cho tham gia quyết định" | Họp nhiều mà vẫn không ai sở hữu | `FW-006` |
+| Nhầm "giao việc" với "cho tham gia quyết định" | Họp nhiều mà vẫn không ai sở hữu | `FW-006` |
+| Giao thử thách không tương xứng mức sẵn sàng | Quá tải, hoặc bỏ phí người đã sẵn sàng | `FW-029` |
+| Chưa tìm nguyên nhân gốc trước khi quyết cách phát triển | Giao thêm việc trong khi gốc ở Career hoặc Environment | `FW-028` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
-- Chẩn đoán ra năng lực đủ nhưng kết quả vẫn hỏng → nguyên nhân ở hệ thống (quy trình, dữ liệu, phụ thuộc chéo), xem `CON-006`.
+- Năng lực đủ nhưng kết quả vẫn hỏng → nguyên nhân ở hệ thống, xem `CON-006` và `CON-012`.
 - Vấn đề là hành vi chứ không phải năng lực → thuộc nhóm hội thoại sửa hành vi. `[SUY LUẬN]` Topic 08 phụ trách nội dung này, sẽ liên kết khi xử lý.
+- Nguyên nhân ở hướng nghề nghiệp dài hạn, không ở việc trước mắt → `FW-031`.
 - `[SUY LUẬN]` **Khoảng trống:** MEGROW không có nội dung riêng về giao việc cho cộng tác viên — nhân sự không chính thức, không cùng lộ trình nghề nghiệp. Mọi framework liệt kê trong bảng nguyên nhân gốc rễ đều giả định nhân viên chính thức. Xem `open_questions.md` (OQ-005).
 
 ## Chỉ số theo dõi sau xử lý
@@ -301,6 +305,91 @@ Mức ưu tiên: **Cao** (vấn đề số 5 trong `problem_index.md`).
 =====
 
 ---
+id: PRB-006
+type: problem
+title_vi: Feedback, coaching và trao đổi về hiệu suất
+title_en: Feedback, coaching and performance conversations
+aliases: [góp ý, phản hồi, coaching, trao đổi hiệu suất]
+keywords: [góp ý, feedback, coaching, trao đổi hiệu suất, nói chuyện khó, nhân viên làm chưa tốt, hành vi không phù hợp, ngại góp ý, góp ý rồi không đổi, phát triển nhân viên]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-04, TOP-MEGROW-08, TOP-MEGROW-09]
+problems_addressed: []
+related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013]
+source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5–35", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 7–42", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–51"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Feedback, coaching và trao đổi về hiệu suất
+
+Mức ưu tiên: **Trung bình** (vấn đề số 6).
+
+## Cách người dùng thường mô tả
+"Góp ý rồi không thấy đổi gì." · "Ngại nói thẳng, sợ bạn ấy tự ái." · "Không biết mở đầu thế nào." · "Bạn ấy làm đủ việc nhưng mình vẫn lo." · "Coach nhiều mà team vẫn phụ thuộc." · "Không biết giao thêm thử thách tới đâu."
+
+## Triệu chứng quan sát được
+- Góp ý chung chung rồi không gì thay đổi.
+- Né một cuộc trò chuyện đã nhiều tuần.
+- Bạn là người duy nhất đưa phản hồi cho cả team.
+- Nhân viên tự chẩn đoán ("chắc em cần học thêm X") và bạn nhận luôn.
+- Kế hoạch cải thiện nhắm sai nguyên nhân.
+
+## Câu hỏi chẩn đoán
+1. Đây là vấn đề **kết quả công việc** hay **hành vi**? (`FW-024` hay `FW-025`)
+2. Nguyên nhân ở Ability, Motivation hay Opportunity? (`FW-023`)
+3. Hành vi này chạm bao nhiêu trong năm loại tác động? (`FW-026`)
+4. Câu mở đầu có qua được phép thử camera không? (`CON-010`)
+5. Tôi đang ở kiểu quản lý nào — kiểu đó có thay thế việc chẩn đoán không? (`FW-027`)
+6. Năm lăng kính cho thấy nguyên nhân gốc thật là gì? (`FW-028`)
+7. Mức phát triển tương xứng: vai trò hiện tại, stretch, hay luân chuyển? (`FW-029`)
+8. Đây có phải vấn đề của hệ thống chứ không phải của con người? (`CON-012`)
+
+## Nguyên nhân gốc rễ và framework tương ứng
+
+| Nguyên nhân gốc rễ | Biểu hiện | Framework |
+|---|---|---|
+| Chẩn đoán quá nhanh, quy kết thái độ | Kế hoạch cải thiện nhắm sai | `FW-023`, `FW-028` |
+| Nguyên nhân thật ở hệ thống, không ở người | Sửa người mãi không hết | `CON-012` |
+| Không có cấu trúc cho cuộc trò chuyện | Lan man, không chốt được gì | `FW-024`, `FW-025` |
+| Không rõ hành vi nào đáng xử lý | Bỏ qua cái cần nói, soi cái không cần | `FW-026` |
+| Câu mở đầu là nhãn dán, không phải quan sát | Người nghe phòng vệ ngay | `CON-010` |
+| Cảm xúc của người quản lý rò rỉ vào cuộc trò chuyện | Phản ứng theo thói quen, mất bình tĩnh | `CON-013` |
+| Nghe sai cấp độ, hoặc không nghe | Hỏi lấy lệ rồi chuyển sang khuyên | `CON-011` |
+| Coach nhiều hơn thay vì coach đúng chỗ | Team phụ thuộc, mất quyền sở hữu | `FW-027`, `FW-032` |
+| Tự ôm toàn bộ việc phát triển của team | Bạn thành nút thắt | `FW-032` |
+| Giao thử thách không tương xứng | Quá tải hoặc bỏ phí người giỏi | `FW-029` |
+
+| Khuyên trước khi có bằng chứng | Nhận luôn lời tự chẩn đoán của họ | `FW-030` |
+| Không chốt cam kết quan sát được | *"Em sẽ cố gắng hơn"* rồi thôi | `FW-025-01` |
+| Nguyên nhân ở hướng nghề nghiệp dài hạn | Làm đủ việc nhưng mất lửa | `FW-031` |
+
+Diễn giải bảng: sáu dòng đầu là lỗi **chẩn đoán và mở đầu**; bảy dòng sau là lỗi **cách coach và chốt**.
+
+## Dấu hiệu cần leo thang hoặc can thiệp khác
+- Hành vi chạm tuân thủ, công bằng, an toàn hoặc đạo đức → xử lý ngay, không coaching (ô POLICY/ETHICS của `FW-026`).
+- Nguyên nhân là xung đột giữa hai bộ phận → `PRB-010`.
+- Nguyên nhân là lương thưởng hoặc lộ trình thăng tiến → ngoài phạm vi MEGROW, cần làm việc với cấp trên và HR.
+- `[SUY LUẬN]` Người đó không dám nói thật → vấn đề an toàn tâm lý; Topic 13 phụ trách, chưa xử lý.
+
+## Chỉ số theo dõi sau xử lý
+- Tỷ lệ cuộc trò chuyện kết thúc bằng cam kết **quan sát được**.
+- Số lần chẩn đoán trước khi khuyên, so với số lần khuyên luôn.
+- Số nguồn phát triển ngoài bạn mà mỗi thành viên đang dùng (kỳ vọng: tăng).
+- Thời gian từ lúc nhận thấy một hành vi tới lúc nói về nó.
+- Phân bố mức phát triển theo `FW-029` (kỳ vọng: không ai kẹt ở 5–11 nhiều quý liên tiếp).
+
+## Nguồn
+- `[MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5–35]`
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 7–42]`
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–51]`
+
+=====
+
+---
 id: PRB-007
 type: problem
 title_vi: Động lực, gắn kết và giữ người
@@ -309,10 +398,10 @@ aliases: [động lực, gắn kết, giữ chân nhân sự, engagement]
 keywords: [động lực, motivation, gắn kết, engagement, giữ người, retention, mất lửa, không chủ động, collaborator không gắn bó, nhân viên giỏi muốn nghỉ, team trầm]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06]
+topics: [TOP-MEGROW-06, TOP-MEGROW-09]
 problems_addressed: []
-related_ids: [FW-008, FW-009, FW-007, CON-005]
-source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 33–39, 59, 65"]
+related_ids: [FW-008, FW-009, FW-007, FW-028, FW-031, FW-032, CON-005]
+source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 33–39, 59, 65", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 26–38"]
 source_type: course
 confidence: medium
 status: needs_review
@@ -324,7 +413,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 
-> `[SUY LUẬN]` Chunk này mới phủ góc nhìn **đòn bẩy xã hội và sở hữu tâm lý** từ Topic 06. Các lý thuyết động lực cá nhân (McClelland, Alderfer ERG) nằm ở Topic 11, chiến lược phát triển cá nhân nằm ở Topic 09 — chưa xử lý. `status: needs_review`.
+> `[SUY LUẬN]` Chunk này phủ **đòn bẩy xã hội và sở hữu tâm lý** (Topic 06) và **chẩn đoán động lực, chiến lược phát triển cá nhân** (Topic 09). Các lý thuyết động lực cá nhân (McClelland, Alderfer ERG) nằm ở Topic 11, chưa xử lý. `status: needs_review`.
 
 ## Cách người dùng thường mô tả
 "Bạn ấy làm đủ việc nhưng mất lửa." · "Team im lặng trong họp." · "Collaborator không gắn bó, hết hợp đồng là đi." · "Không ai đề xuất gì mới nữa."
@@ -337,10 +426,11 @@ Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 
 ## Câu hỏi chẩn đoán
 1. Trong năm thành tố sở hữu tâm lý, người này đang thiếu cái nào? (`FW-009`)
-2. Hành vi tốt ở team có đang được **nhìn thấy** không, hay chỉ mình tôi biết? (`FW-008`)
-3. Cái gì đang làm cho hành vi tốt khó xảy ra hơn mức cần thiết? (`FW-008` — Facilitation)
-4. Người này có thấy việc mình làm là một phần con người nghề nghiệp của họ không? (`FW-009` — identity)
-5. Tôi có đang kiểm soát tới mức thu lại quyền sở hữu vừa trao không? (`CON-005`)
+2. Năm lăng kính cho thấy gốc là Motivation hay thật ra là Career? (`FW-028`)
+3. Hành vi tốt ở team có đang được **nhìn thấy** không, hay chỉ mình tôi biết? (`FW-008`)
+4. Cái gì đang làm cho hành vi tốt khó xảy ra hơn mức cần thiết? (`FW-008` — Facilitation)
+5. Người này có thấy việc mình làm là một phần con người nghề nghiệp của họ không? (`FW-009` — identity)
+6. Tôi có đang kiểm soát tới mức thu lại quyền sở hữu vừa trao không? (`CON-005`)
 
 ## Nguyên nhân gốc rễ và framework tương ứng
 
@@ -352,6 +442,8 @@ Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 | Chuẩn mực nhóm không rõ | "Ở đây mọi người làm thế nào" không ai biết | `FW-008` — Norms |
 | Ma sát khiến hành vi tốt khó xảy ra | Thiếu template, môi trường, công cụ | `FW-008` — Facilitation |
 | Kiểm soát quá mức làm hỏng self-efficacy | Người nhận mất tự tin quyết định | `CON-005`, `FW-009` |
+| Nguyên nhân thật nằm ở hướng nghề nghiệp, không ở động lực | Làm đủ việc nhưng hết đề xuất mới | `FW-028` (lăng kính Career), `FW-031` |
+| Quản lý tự ôm toàn bộ việc phát triển | Nhân viên không có nguồn phát triển nào khác | `FW-032` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Nguyên nhân là lương thưởng hoặc lộ trình thăng tiến → nằm ngoài phạm vi framework trong MEGROW, cần làm việc với cấp trên và HR.
@@ -453,10 +545,10 @@ aliases: [xung đột, bất đồng, mâu thuẫn giữa bộ phận]
 keywords: [xung đột, conflict, bất đồng, cãi nhau trong họp, hai bộ phận không thống nhất, căng thẳng, tranh luận không đi tới đâu, mâu thuẫn ưu tiên]
 levels: [TEAM, ORG]
 courses: [MEGROW]
-topics: [TOP-MEGROW-12, TOP-MEGROW-14]
+topics: [TOP-MEGROW-12, TOP-MEGROW-14, TOP-MEGROW-08]
 problems_addressed: []
-related_ids: [FW-016, FW-020, FW-021, CON-009, FW-015]
-source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–13"]
+related_ids: [FW-016, FW-020, FW-021, FW-026, CON-009, CON-010, FW-015]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–13", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 8–10, 38"]
 source_type: course
 confidence: medium
 status: needs_review
@@ -500,7 +592,7 @@ Mức ưu tiên: **Thấp** (vấn đề số 10 trong `problem_index.md`). CLAU
 | Không tìm vùng giá trị chung | Cuộc trao đổi thành cuộc mặc cả thắng–thua | `FW-015` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
-- Xung đột mang tính cá nhân, chạm tới hành vi chứ không tới nội dung công việc → `[SUY LUẬN]` Topic 08 phụ trách, chưa xử lý.
+- Xung đột mang tính cá nhân, chạm tới hành vi chứ không tới nội dung công việc → `FW-026` để quyết có xử lý không, rồi `FW-025` và `CON-010`.
 - Một bên không dám nêu bất đồng → vấn đề an toàn tâm lý. `[SUY LUẬN]` Topic 13 phụ trách, chưa xử lý; ID `PRB-009` đã đặt chỗ cho vấn đề đó.
 - Xung đột bắt nguồn từ việc hai bộ phận bị đo bằng những chỉ số mâu thuẫn nhau → vấn đề thiết kế tổ chức, không giải được bằng kỹ năng hội thoại.
 

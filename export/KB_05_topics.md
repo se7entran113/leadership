@@ -72,6 +72,76 @@ Buổi mở đầu của cả chương trình, trả lời câu hỏi: khi lên 
 =====
 
 ---
+id: TOP-MEGROW-04
+type: topic
+title_vi: Thực hành hội thoại về hiệu suất với khung AMO
+title_en: Practise Performance Conversations with the AMO Framework
+aliases: [Topic 4 megrow, performance conversations, AMO]
+keywords: [hội thoại hiệu suất, AMO, SAIL, quản trị hiệu suất bền vững, sustainable performance, LEGO Serious Play, performance recovery agreement]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-023, FW-024, CON-012, TOP-MEGROW-08, TOP-MEGROW-09]
+source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 1–46"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 04: Practise Performance Conversations (AMO Framework)
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P1 `LEAD_SELF`**. Level **SELF**, phụ **TEAM**. Giảng viên: AP Elaine Chew. 46 slide.
+
+> `[CẦN XÁC NHẬN]` Trang bìa deck ghi **"Topic 5: Practise Performance Conversation"**, lệch với số 4 trong tên file. Lấy số tên file làm chuẩn — xem `open_questions.md` (OQ-002).
+
+## Tóm tắt topic
+Buổi học đổi định nghĩa quản trị hiệu suất: từ **đánh giá quá khứ** sang **quản trị hiệu suất bền vững**. Hai công cụ lõi là `FW-023` AMO (chẩn đoán) và `FW-024` SAIL (quy trình hội thoại). Phần cuối buổi chuyển hẳn sang LEGO® Serious Play®.
+
+`[KHÓA HỌC]` Luận điểm nền (slide 5): quản trị hiệu suất truyền thống hỏi *đã đạt chỉ tiêu chưa, dự án giao chưa, nhân viên có đáp ứng kỳ vọng không, nên chấm hạng gì* — **những câu hỏi quan trọng nhưng không đủ trong môi trường công nghệ ngày nay**. Hiệu suất cao không đơn giản là đạt kết quả ngắn hạn.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Giới thiệu và mục tiêu buổi học** (s1–4).
+2. **Quản trị hiệu suất truyền thống và quản trị bền vững** (s5–6): hội thoại bền vững không chủ yếu là đưa phản hồi — mà là **giúp người quản lý tư duy như một nhà điều hành**.
+3. **Video và phản ví dụ** (s7–9): một buổi review hiệu suất tệ trông thế nào.
+4. **Tư duy đã kiểm toán và chẩn đoán AMO** (s10–11) → `FW-023`.
+5. **Vấn đề tổ chức khoác áo vấn đề nhân viên** (s12–13) → `CON-012`.
+6. **Vai trò của hội thoại hiệu suất** (s14–15): hiểu động lực hiệu suất, chẩn đoán nguyên nhân gốc, xây năng lực nhân viên, cải thiện hiệu suất tổ chức.
+7. **Ba ví dụ chẩn đoán AMO** (s17–21), xen video về lắng nghe (s16, 20).
+8. **SAIL** (s22–35) → `FW-024`: nêu khoảng cách với bằng chứng (s23–26), hỏi để hiểu (s27), xác định nguyên nhân (s28), khởi động hành động và ba loại hỗ trợ theo AMO (s29–35).
+9. **LEGO® Serious Play®** (s36–45): giới thiệu phương pháp và đội ngũ facilitator RMIT, rồi bài tập dựng mô hình.
+
+## Các chunk thuộc topic (ID)
+`FW-023` · `FW-024` · `CON-012`
+
+## Bài tập và hoạt động trong lớp
+- **Ba ca chẩn đoán AMO** (s18, 19, 21): slide cố tình **để trống ô "Diagnosis: ______ Issue"** và phần soạn câu hội thoại, để người học tự điền. Ba ca: kỹ sư AI trễ mốc vì framework GenAI mới (Ability) · Product Owner không giao được roadmap vì ưu tiên đổi liên tục (Opportunity) · Data Scientist kết quả vẫn ổn nhưng tham gia tối thiểu và hết đề xuất đổi mới (Motivation).
+- **LEGO® Serious Play®** (s42–44): câu hỏi tạo ý tưởng — *"Xét văn hóa công ty Zalo và những gì bạn học hôm nay, Zalo có thể cải thiện hội thoại hiệu suất như thế nào?"* Trong 3 phút, dựng một mô hình LEGO thể hiện ý tưởng, rồi chụp ảnh tải lên Padlet kèm **(I)** tên mô hình và **(II)** mô tả dưới 10 từ tiếng Anh, hoặc không giới hạn nếu viết tiếng Việt.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Rushing to the causes → bias in judging performance too quickly."* (s6)
+- *"Organizational problems are often disguised as employee problems."* (s12)
+- Đổi câu hỏi (s13): từ *"How do I improve this employee's performance?"* sang *"What is helping or preventing this employee from performing at their best?"*
+- *"Performance conversation is NOT to judge performance but to improve it."* (s15)
+- *"We should not immediately blame attitude."* (s18)
+- *"This is not an employee performance problem. It is a work system problem."* (s19)
+- *"Evidence is a must for performance management."* (s23)
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-08` là cặp đôi của topic này: SAIL cho **kết quả công việc**, còn NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE cho **hành vi**.
+- `TOP-MEGROW-09` mở rộng phần chẩn đoán: `FW-028` năm lăng kính là bản chi tiết hơn của AMO.
+- `[KHÓA HỌC]` Slide 10 nhắc tới *"audited mindset to reduce bias"* — nối thẳng về Topic 03 (Audit Mindset & Biases), diễn ra cùng ngày. Slide 28 của Topic 03 cũng kết bằng: *"Sáng nay bạn đã kiểm toán phán đoán. Chiều nay bạn thực hành cuộc trò chuyện."* Sẽ liên kết khi xử lý Topic 03.
+- `[SUY LUẬN]` Phần LEGO® Serious Play® dùng chung phương pháp với Topic 07.
+
+## Nguồn
+`[MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 1–46]`
+
+=====
+
+---
 id: TOP-MEGROW-06
 type: topic
 title_vi: Giao việc và trách nhiệm trong team tốc độ cao
@@ -136,6 +206,145 @@ Buổi học có hai nửa khác hẳn nhau. **Nửa đầu và cuối** (slide 
 
 ## Nguồn
 `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 1–69]`
+
+=====
+
+---
+id: TOP-MEGROW-08
+type: topic
+title_vi: Sửa hành vi thông qua coaching
+title_en: Correcting Behaviour Through Coaching
+aliases: [Topic 8 megrow, correcting behaviour, difficult conversations]
+keywords: [sửa hành vi, cuộc trò chuyện khó, notice converse coach hold accountable, 5-impact test, trí tuệ cảm xúc, lắng nghe, camera test, cam kết hành vi]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-006, PRB-010]
+related_ids: [FW-025, FW-025-01, FW-026, CON-010, CON-011, CON-013, TOP-MEGROW-04, TOP-MEGROW-09]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 1–44"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 08: Correcting Behaviour Through Coaching
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P2 `LEAD_PEOPLE_AND_TEAMS`**. Level **TEAM**, phụ **SELF**. Giảng viên: Dr Thao Luong. 44 slide. Phụ đề: *"How to address difficult behavior with clarity, confidence and care."*
+
+## Tóm tắt topic
+`[KHÓA HỌC]` Slide 2: **trở thành người quản lý làm thay đổi những cuộc trò chuyện bạn phải chịu trách nhiệm.** Lần đầu bạn không chỉ chịu trách nhiệm về hiệu suất của mình — mà còn đặt kỳ vọng, đưa phản hồi, xử lý hành vi và giúp người khác thành công.
+
+Buổi đi theo bốn bước của `FW-025`, với mảng lớn về **trí tuệ cảm xúc** chèn giữa bước 2.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Giới thiệu, agenda bốn bước, playbook lớp học** (s1–5).
+2. **NOTICE** (s6–10): chuyển vai *My work → Our work · My standards → Team standards · My discomfort → My responsibility to act* (s7); hoạt động *Notice or let it go?* (s8, 10); **5-Impact Test** (s9) → `FW-026`.
+3. **CONVERSE** (s11–13): quan sát thay vì phán xét, camera test, bài tập viết lại câu mở đầu → `CON-010`.
+4. **Quản lý cảm xúc của chính mình** (s14–27) → `CON-013`: định nghĩa cảm xúc (s15), Emotion Check-In (s16), trí tuệ cảm xúc (s18), tự nhận thức và tự quản lý (s21–24), vì sao chúng quan trọng (s26–27).
+5. **CONVERSE nhắc lại** (s28), rồi **COACH** (s29–35): chuỗi SEE → REFLECT → OWN → CHANGE (s30); coaching không đồng nghĩa mềm mỏng (s31); *Intention ≠ impact* (s32); lắng nghe và đặt câu hỏi (s33–35) → `CON-011`.
+6. **HOLD ACCOUNTABLE** (s36–40): ma trận hỗ trợ × trách nhiệm (s37) → `FW-025-01`; khi họ phản ứng ngược (s38); biến *"em sẽ làm tốt hơn"* thành thỏa thuận (s39); role-play (s40). **Tổng kết**: cả cuộc trò chuyện trên một slide (s41), kế hoạch 90 ngày (s42), nguồn (s43).
+
+## Các chunk thuộc topic (ID)
+`FW-025` · `FW-025-01` · `FW-026` · `CON-010` · `CON-011` · `CON-013`
+
+## Bài tập và hoạt động trong lớp
+- **Notice or let it go?** (s8, 10): sáu tình huống — **quyết định trước, rồi giải thích lựa chọn gửi tín hiệu gì cho team**. Danh sách đầy đủ ở `FW-026`.
+- **Rewrite the opening** (s13): viết lại bốn câu mở đầu thành *quan sát + chuẩn mực*; kiểm theo cặp: *có quan sát được không · có sạch nhãn dán không · kỳ vọng đã rõ chưa*.
+- **Emotion Check-In** (s16): nghĩ về một tình huống gần đây bạn có cảm xúc mạnh, rồi phản tư.
+- **Video Observation** (s19, nhóm): *cảm xúc nào trong tương tác đó? · dấu hiệu trí tuệ cảm xúc cao hay thấp? · cảm xúc đã ảnh hưởng thế nào?*
+- **Self-Awareness Through Emotional Reflection** (s23): xem video nhưng **chú ý tới phản ứng cảm xúc của chính bạn**, không chỉ dữ kiện.
+- **Intention ≠ impact** (s32, theo cặp): soạn một phản hồi 2–3 câu cho câu *"Em chỉ đùa thôi, em không có ý xúc phạm ai."*, rồi đổi sang một câu khác của nhân viên.
+- **Action plan — My first 90 days** (s42): **một thói quen cho mỗi bước** — một hành vi sẽ xử lý sớm hơn · một câu sẽ ngừng hoặc bắt đầu nói · một câu hỏi sẽ dùng nhiều hơn · một thói quen theo dõi sẽ xây.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"What you tolerate becomes information for the team."* (s7)
+- *"Not every irritation needs correction, but repeated or harmful behavior should not be normalized by silence."* (s10)
+- *"The first sentence often determines whether the conversation opens or closes."* (s12)
+- *"Camera test: could a camera or microphone have captured what you are describing?"* (s12)
+- *"COACHING = helping someone THINK so they can CHANGE."* (s30)
+- *"The manager provides clarity about WHAT needs to change. Coaching helps the employee work through HOW to change it."* (s31)
+- *"Accountability is not a threat. It is clarity about what needs to happen next."* (s39)
+- Chốt buổi (s42): **Clarity + curiosity + follow-through.**
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-04` là cặp đôi: SAIL cho **kết quả công việc**, bốn bước của Topic 08 cho **hành vi**.
+- `TOP-MEGROW-09` bổ sung phần chẩn đoán và phát triển; Topic 08 lo phần sửa hành vi.
+- `TOP-MEGROW-07` cùng giảng viên và dùng chung slide "Our Playbook".
+- `[SUY LUẬN]` Phần trí tuệ cảm xúc (s14–27) chồng chủ đề với Topic 11 — sẽ gộp nguồn vào `CON-013` khi xử lý topic đó.
+
+## Nguồn
+`[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 1–44]`
+
+=====
+
+---
+id: TOP-MEGROW-09
+type: topic
+title_vi: Coaching để đạt hiệu suất cao
+title_en: Coaching for High Performance
+aliases: [Topic 9 megrow, coaching for high performance, connector manager]
+keywords: [coaching, bốn kiểu quản lý, connector manager, ba huyền thoại, chẩn đoán nguyên nhân gốc, mức sẵn sàng phát triển, D-R-C, EDGE, coaching detective]
+levels: [TEAM]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-006, PRB-005, PRB-007]
+related_ids: [FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, TOP-MEGROW-04, TOP-MEGROW-08]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 1–54"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 09: Coaching for High Performance
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P2 `LEAD_PEOPLE_AND_TEAMS`**. Level **TEAM**. Giảng viên: Dr Quyen Dang, Head of Management Department. 54 slide, cả ngày.
+
+## Tóm tắt topic
+Trục của buổi là một luận điểm phản trực giác: **coach nhiều hơn không làm nhân viên giỏi hơn.** Từ đó dẫn tới mô hình **Connector Manager** — hiểu người, coach có chọn lọc, kết nối tới nguồn khác khi cần — và ba công cụ ghép thành lộ trình `FW-030` D–R–C. Bốn learning outcome (s5) đi từ **nhận biết** sang **hành động coaching cụ thể**.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Mở đầu** (s1–5): session flow, giới thiệu giảng viên, Mentimeter về **thách thức coaching bạn đang gặp** (s4), bốn learning outcome (s5).
+2. **PART 1 — Bạn là kiểu quản lý nào** (s6–10) → `FW-027`: quiz (s7–8), bảng bốn kiểu (s9), bốn câu phản tư (s10).
+3. **PART 2 — Ba huyền thoại của Always-On** (s11–15) → `FW-027`: coaching nhiều hơn thì tốt hơn · tôi biết điều gì tốt nhất · tôi là nguồn coaching tốt nhất · kết luận (s15). Nghỉ (s16).
+4. **PART 3 — Connector Manager** (s17–29) → `FW-032`: năm phẩm chất (s18–23), *Always-On hay Connect-On?* (s24–25), ba kết nối (s26–29). Nghỉ trưa (s30).
+5. **PART 4 — Chẩn đoán trước khi phát triển** (s31–38): mạch OBSERVE → DIAGNOSE → DEVELOP (s31); **Tool 1** năm lăng kính (s32–34) → `FW-028`; **Tool 2** thang mức sẵn sàng (s35–36) → `FW-029`; EDGE (s37–38) → `FW-031`. Nghỉ chiều (s39).
+6. **PART 5 — Coaching Detective** (s40–49) → `FW-030`: demo *The Late Dashboard* (s41), 19 trạm (s42), lộ trình D–R–C (s43), vai (s44–45), ba luật (s46), nhịp 16 phút (s47), scorecard (s48), debrief (s49).
+7. **Kết** (s50–54): kế hoạch Connector, sáu thói quen, cam kết bảy ngày, nguồn.
+
+## Các chunk thuộc topic (ID)
+`FW-027` · `FW-028` · `FW-029` · `FW-030` · `FW-031` · `FW-032`
+
+## Bài tập và hoạt động trong lớp
+- **Mentimeter** (s4): chọn mọi thách thức thấy quen, quan sát khuôn mẫu của lớp, rồi chọn **một thách thức có thật mang theo cả ngày**. Phản tư: *"Thách thức nào tạo khác biệt lớn nhất nếu bạn xử lý tốt hơn?"*
+- **Quiz bốn kiểu quản lý** (s7, 15 phút): trả lời theo **hành vi thường ngày, không phải lý tưởng**; không có đáp án "tốt". Phản tư: *"Áp lực có thể làm đổi câu trả lời của bạn ở đâu?"*
+- **Always-On hay Connect-On?** (s24, 25 phút): đặt 12 thẻ tình huống kích hoạt lên tờ A1; mỗi tình huống viết **phản ứng kiểu Always-On**, rồi **phản ứng kiểu Connector**. Phản tư: *"Tình huống nào kích hoạt phản xạ Always-On mạnh nhất?"* Debrief (s25): *Control reacts. Connection creates ownership.*
+- **Coaching Detective** (s40–49): 19 trạm, 19 nhóm ba người, ba vòng 16 phút. Ba vai: **Manager** · **Employee** · **Coaching Detective** (chấm scorecard sáu hành vi). Mỗi vòng: 2 phút chuẩn bị · 8 phút coach · 3 phút phản hồi · 2 phút tua lại · 1 phút chuyển trạm. Nhóm di chuyển, case ở lại trạm.
+- **Seven-day commitment** (s52): chọn **một nhân viên có thật** và **một hành động coaching** trong bảy ngày — WHO · WHAT · WHEN · COMMIT.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"A style becomes a trap when it replaces diagnosis."* (s10)
+- *"More coaching can feel helpful – while quietly reducing ownership."* (s11)
+- *"The answer is not 'coach more.' It is choosing the right development response for this person, now."* (s15)
+- *"Right-size the stretch."* (s36)
+- *"Development is a network – not a solo act."* (s17) · **RIGHT PERSON · RIGHT SUPPORT · RIGHT MOMENT**
+- *"The visible problem is a clue – not the conclusion."* (s31)
+- *"Diagnose WITH the employee – not ABOUT them."* (s34)
+- Sáu thói quen chốt buổi (s51): **curiosity before certainty · evidence before scoring · right-size the stretch · coach – do not rescue · connect with purpose · let the employee own the action**
+
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-04`: `FW-028` năm lăng kính là bản chi tiết hơn của `FW-023` AMO — tách Knowledge khỏi Skills, thêm nhánh Career.
+- `TOP-MEGROW-08` lo **sửa hành vi**; Topic 09 lo **phát triển con người**. Chung nguyên tắc: chẩn đoán trước khi hành động.
+- `[SUY LUẬN]` VRIFA trong `FW-031` phỏng theo **VRIN** của Resource-Based View (Barney 1991) ở Topic 17 — sẽ đối chiếu khi xử lý topic đó.
+
+## Nguồn
+`[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 1–54]`
 
 =====
 

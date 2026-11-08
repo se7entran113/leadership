@@ -2,7 +2,7 @@
 
 Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng Việt. Mỗi chunk vẫn phải tự giải thích thuật ngữ ở lần xuất hiện đầu tiên (CLAUDE.md §5.3) — glossary này là bảng tra cứu chung, không thay thế việc đó.
 
-**Trạng thái:** thuật ngữ từ Topic 01, 06, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
+**Trạng thái:** thuật ngữ từ Topic 01, 04, 06, 08, 09, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
 
 ## Thuật ngữ vận hành kho tri thức
 
@@ -109,4 +109,34 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Reasons / Chain | Lý do / chuỗi | "và thêm nữa" cho các trụ; "do đó" bên trong một trụ | `FW-019` |
 | Action title | Tiêu đề nêu kết luận | Tiêu đề slide nêu kết luận, không nêu chủ đề | `FW-019-01` |
 | Skim test | Phép thử lướt | Đọc riêng tiêu đề các slide; nếu kể được trọn câu chuyện thì lập luận đứng vững | `FW-019-01` |
+
+### Hội thoại về hiệu suất và hành vi (Topic 04, 08)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| AMO | Năng lực – Động lực – Cơ hội | Ba nhánh chẩn đoán vì sao hiệu suất đi xuống | `FW-023` |
+| Sustainable performance management | Quản trị hiệu suất bền vững | Đảm bảo nhân viên làm tốt lâu dài mà không kiệt sức, mất gắn kết, hổng năng lực hay gặp rào cản tổ chức | `TOP-MEGROW-04` |
+| SAIL | Nêu – Hỏi – Xác định – Khởi động | State the gap · Ask and understand · Identify root causes · Launch improvement actions | `FW-024` |
+| Performance recovery agreement | Thỏa thuận phục hồi hiệu suất | Chốt kỳ vọng, hỗ trợ, thời hạn và mốc theo dõi | `FW-024` |
+| Camera test | Phép thử camera | Camera có ghi lại được đúng điều bạn đang mô tả không? Nếu không, đó là nhãn dán | `CON-010` |
+| 5-Impact Test | Phép thử năm tác động | Performance · People · Culture · Trust · Policy/Ethics | `FW-026` |
+| SBI | Situation–Behavior–Impact | Khung phản hồi của Center for Creative Leadership, nền của 5-Impact Test | `FW-026` |
+| Intention ≠ impact | Ý định khác tác động | Ghi nhận ý định rồi chuyển trọng tâm sang tác động, không tranh cãi "có cố ý hay không" | `FW-025` |
+| Factual / emotional / intuitive listening | Nghe sự kiện / cảm xúc / trực giác | Ba cấp độ lắng nghe, mỗi cấp cho một mục đích | `CON-011` |
+| Self-awareness / Self-management | Tự nhận thức / tự quản lý | Nhận ra mình đang cảm thấy gì; quyết định làm gì với điều đó | `CON-013` |
+
+### Coaching và phát triển con người (Topic 09)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Teacher / Always-On / Cheerleader / Connector | Bốn kiểu quản lý khi coaching | Bốn cách tiếp cận coaching, mỗi kiểu tạo trải nghiệm phát triển khác nhau | `FW-027` |
+| Connector Manager | Quản lý kiểu kết nối | Hiểu người, coach có chọn lọc, kết nối tới nguồn khác — *phát triển là một mạng lưới* | `FW-032` |
+| Judicious generosity | Hào phóng có kỷ luật | Chia sẻ công trạng, thông tin, quyền tiếp cận — nhưng **kết nối chứ không giải cứu** | `FW-032` |
+| KSMCE | Năm lăng kính chẩn đoán | Knowledge · Skills · Motivation · Career · Environment | `FW-028` |
+| Development readiness | Mức sẵn sàng phát triển | Thang 5 mục, 5–25 điểm, quyết định quy mô bước phát triển kế tiếp | `FW-029` |
+| Right-size the stretch | Vừa đủ thử thách | Phát triển nên thử thách, không làm quá tải hay bỏ phí | `FW-029` |
+| D–R–C | Chẩn đoán – Sẵn sàng – Coach & Kết nối | Lộ trình ba chặng bảo vệ khỏi việc khuyên quá sớm | `FW-030` |
+| EDGE | Explore – Decode – Generate – Execute | Bốn chặng biến phản tư thành chiến lược tăng trưởng cá nhân | `FW-031` |
+| VRIFA | Năm phép thử lợi thế cá nhân | Valuable · Rare · Inimitable · Future-relevant · Authentic | `FW-031` |
+| Professional signature | Dấu ấn nghề nghiệp | *"Khi người ta cần ______, tôi muốn họ nghĩ tới tôi."* | `FW-031` |
 

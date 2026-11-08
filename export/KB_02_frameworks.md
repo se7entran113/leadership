@@ -1861,3 +1861,818 @@ Sau chặng ACT, nếu cần trình bày chính thức để xin phê duyệt th
 ## Nguồn
 - `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 5, 39]`
 - Bối cảnh: slide 2–4 (khung ngày học), slide 20 (đầu ra buổi sáng), slide 40 (tự kiểm cuối ngày).
+
+=====
+
+---
+id: FW-023
+type: framework
+title_vi: Khung chẩn đoán AMO
+title_en: The AMO Framework
+aliases: [AMO, Ability Motivation Opportunity, năng lực động lực cơ hội]
+keywords: [hiệu suất giảm, underperformance, chẩn đoán nguyên nhân, năng lực, ability, động lực, motivation, cơ hội, opportunity, nhân viên làm không tốt, đừng vội đổ cho thái độ]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-04]
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-024, FW-028, CON-012, CON-003]
+source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 10, 14, 17–21"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The AMO Framework (Khung chẩn đoán AMO)
+
+## Tóm tắt
+`[KHÓA HỌC]` AMO là lăng kính chẩn đoán ba nhánh — **Ability** (năng lực), **Motivation** (động lực), **Opportunity** (cơ hội) — dùng để tìm nguyên nhân thật khi hiệu suất của một người đi xuống. Dùng **trước** khi mở một cuộc trò chuyện về hiệu suất, để không vội quy kết thái độ.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 13 đổi câu hỏi: thay vì *"Làm sao cải thiện hiệu suất của nhân viên này?"* hãy hỏi **"Điều gì đang giúp hoặc đang cản người này làm tốt nhất?"** Slide 10: **người lãnh đạo kháng lại cám dỗ phán xét hiệu suất quá nhanh** — tư duy đã kiểm toán để giảm thiên kiến.
+
+## Khi nào dùng
+Khi hiệu suất một người đi xuống; khi chuẩn bị một cuộc trò chuyện về hiệu suất; khi bạn đang định kết luận "bạn ấy thiếu thái độ".
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là **hành vi** chứ không phải kết quả công việc — dùng `FW-026` và `FW-025`. Khi đã biết rõ nguyên nhân và cần một lộ trình phát triển — `FW-029`.
+
+## Các bước áp dụng
+Soi lần lượt ba nhánh, dùng bộ câu hỏi ở slide 17:
+
+| Nhánh | Câu hỏi kiểm tra |
+|---|---|
+| **Ability** (năng lực) | Họ có biết hiệu suất tốt trông thế nào không? Có kỹ năng cần thiết không? Kỳ vọng đã truyền đạt rõ chưa? Đã được đào tạo đủ chưa? |
+| **Motivation** (động lực) | Họ có *muốn* làm không? Có đang gắn kết không? Có thấy giá trị trong công việc không? Có vấn đề tinh thần hay sức khỏe không? |
+| **Opportunity** (cơ hội) | Có đủ nguồn lực không? Quy trình hỗ trợ hay cản trở? Ưu tiên có mâu thuẫn không? Khối lượng công việc có thực tế không? |
+
+Diễn giải bảng: ba nhánh có thể cùng xuất hiện. `[KHÓA HỌC]` Slide 10 ghi rõ vấn đề có thể là Ability, Motivation, Opportunity **hoặc kết hợp cả ba**.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+Sau khi chẩn đoán, phát biểu lại cho nhân viên xác nhận (slide 28 của chính topic):
+- *"Từ những gì bạn chia sẻ, có vẻ khối lượng công việc và các ưu tiên cạnh tranh nhau là nguyên nhân chính."* (**Opportunity**)
+- *"Qua trao đổi, có vẻ công việc đã trở nên đơn điệu và không còn đủ ý nghĩa để tạo động lực cho bạn."* (**Motivation**)
+- *"Từ những gì bạn nói, có vẻ hướng AI mà chúng ta đang đi là quá sức với kỹ năng hiện tại của bạn."* (**Ability**)
+
+## Ví dụ
+`[KHÓA HỌC]` Ba ví dụ chẩn đoán của Topic 04 (slide 18, 19, 21) — slide để trống phần đáp án để người học tự điền:
+
+| Tình huống | Thực tế | Nhánh |
+|---|---|---|
+| Một kỹ sư AI đột nhiên trễ mốc; quản lý nghĩ hiệu suất đi xuống | Một framework Generative AI mới vừa được đưa vào; nhân viên chưa thành thạo | **Ability** |
+| Một Product Owner không giao được mục tiêu roadmap | Ưu tiên kỹ thuật đổi ba lần; stakeholder business thêm yêu cầu hằng tuần | **Opportunity** — `[KHÓA HỌC]` slide ghi rõ: *"Đây không phải vấn đề hiệu suất nhân viên. Đây là vấn đề của hệ thống công việc."* |
+| Một Data Scientist kết quả vẫn ổn nhưng "có thể tốt hơn" | Tham gia tối thiểu, gắn kết đội giảm, đề xuất đổi mới biến mất | **Motivation** — khai thác **Career**, **Recognition**, **Work** |
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 18 nhấn: **đừng đổ ngay cho thái độ.** Slide 12 bổ sung một cảnh báo quan trọng — **vấn đề của tổ chức thường được ngụy trang thành vấn đề của nhân viên** (quy trình kém, thiếu nguồn lực, ưu tiên không rõ, khối lượng quá tải). Xem `CON-012`.
+
+## Phân biệt với framework gần giống
+- `FW-028` **Root-cause diagnosis 5 lenses** của Topic 09 là bản chi tiết hơn: tách Ability thành *Knowledge* và *Skills*, tách thêm *Career*, và đổi Opportunity thành *Environment*.
+- `FW-026` **5-Impact Test** quyết định *có nên xử lý một hành vi hay không*; AMO chẩn đoán *vì sao kết quả công việc đi xuống*.
+
+## Cách kết hợp với framework khác
+AMO là chữ **I** (Identify root causes) trong `FW-024` SAIL. Chạy AMO để chẩn đoán, rồi dùng SAIL làm khung cho cả cuộc trò chuyện.
+
+## Nguồn
+- `[MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 10, 14, 17–21]`
+
+=====
+
+---
+id: FW-024
+type: framework
+title_vi: Quy trình hội thoại SAIL
+title_en: SAIL - the underperformance conversation
+aliases: [SAIL, State the gap Ask Identify Launch, hội thoại hiệu suất]
+keywords: [trò chuyện về hiệu suất, underperformance, nêu khoảng cách, đặt câu hỏi, nguyên nhân gốc, kế hoạch cải thiện, performance recovery agreement, nói chuyện với nhân viên làm chưa tốt]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-04]
+problems_addressed: [PRB-006]
+related_ids: [FW-023, FW-025, CON-012, CON-004]
+source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 22, 24–35"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# SAIL — the underperformance conversation (Quy trình hội thoại SAIL)
+
+## Tóm tắt
+`[KHÓA HỌC]` SAIL là khung bốn bước cho cuộc trò chuyện khi hiệu suất chưa đạt: **S**tate the gap (nêu khoảng cách) → **A**sk and understand (hỏi để hiểu) → **I**dentify root causes (xác định nguyên nhân gốc, bằng AMO) → **L**aunch improvement actions (khởi động hành động cải thiện). Dùng khi phải nói chuyện với một người đang không đạt chuẩn.
+
+## Mục đích
+Giữ cuộc trò chuyện ở phía **cải thiện**, không phải phía phán xét. `[KHÓA HỌC]` Slide 15: *"Cuộc trò chuyện về hiệu suất KHÔNG phải để phán xét hiệu suất mà để cải thiện nó."*
+
+## Khi nào dùng
+Kết quả rõ ràng dưới chuẩn và bạn đã có dữ liệu; cần cuộc trò chuyện có cấu trúc thay vì nói chung chung.
+
+## Khi nào KHÔNG dùng
+Vấn đề là **hành vi** chứ không phải kết quả — dùng `FW-025`. Chưa có bằng chứng khách quan — đi thu thập trước.
+
+## Các bước áp dụng
+
+**S — State the gap.** `[KHÓA HỌC]` Dùng dữ kiện khách quan: KPI, phản hồi khách hàng, tỷ lệ lỗi, dữ liệu giao hàng. Ví dụ slide 24: *"Trong ba tháng qua, chỉ tiêu là 95% độ chính xác dịch vụ. Mức đạt trung bình là 77%."*
+
+`[KHÓA HỌC]` Slide 25 — **câu cần tránh**: *"Hiệu suất của bạn kém. Đi sửa đi."* · *"Sao bạn làm việc kém vậy?"* · *"Bạn cần cải thiện thái độ."* **Câu nên dùng**: *"Hãy cùng tìm xem điều gì đang khiến việc đạt kết quả kỳ vọng trở nên khó khăn."* · *"Hành động cụ thể nào giúp thu hẹp khoảng cách?"*
+
+**A — Ask and understand.** Câu hỏi chẩn đoán về *điều kiện nào đang tạo điều kiện hoặc cản trở hiệu suất bền vững* (slide 27): Thách thức nào đang ảnh hưởng tới hiệu suất? · *"Bao nhiêu phần trăm công việc trọng yếu phụ thuộc hoàn toàn vào bạn?"* · *"Hoạt động nào bạn nên dừng làm?"* · *"Trách nhiệm nào có thể chuyển giao?"* · *"Bạn đang quá tải ở đâu?"*
+
+**I — Identify root causes.** Đối chiếu câu trả lời với `FW-023` AMO rồi **nói lại thành lời** để nhân viên xác nhận.
+
+**L — Launch improvement actions.** Bốn bước thống nhất (slide 29), kết thúc bằng một **performance recovery agreement** (thỏa thuận phục hồi hiệu suất): **(1)** kỳ vọng · **(2)** hỗ trợ cần có · **(3)** thời hạn · **(4)** các mốc theo dõi.
+
+Hỗ trợ ở bước 2 được chọn theo nhánh AMO đã chẩn đoán (slide 31–35):
+
+| Nhánh | Hình thức hỗ trợ |
+|---|---|
+| **Ability** | Đào tạo kỹ năng, chương trình ôn lại, mentoring, học theo người giỏi, tài liệu hướng dẫn |
+| **Motivation** | Trao đổi về phát triển nghề nghiệp, giao việc có ý nghĩa hơn, ghi nhận tiến bộ, làm rõ tầm quan trọng của vai trò, hỗ trợ sức khỏe tinh thần |
+| **Opportunity** | Phân bổ lại khối lượng, đơn giản hóa quy trình, cấp nguồn lực, làm rõ ưu tiên, gỡ rào cản |
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Mẫu thỏa thuận nhánh Ability (slide 32): nhân viên → học R nâng cao; quản lý → coaching 30 phút/tuần với ba câu *tiến bộ ra sao · còn vướng gì · cần hỗ trợ gì*; thời hạn 4 tuần.
+
+## Ví dụ
+`[BỔ SUNG]` Với một DS trễ liên tục các mốc: S — nêu số liệu ba sprint gần nhất; A — hỏi về phụ thuộc và khối lượng; I — phát hiện ưu tiên từ hai PM mâu thuẫn, đó là **Opportunity**; L — thỏa thuận chỉ nhận yêu cầu qua một kênh, rà lại sau 3 tuần.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 23: **bằng chứng là bắt buộc** trong quản trị hiệu suất. `[SUY LUẬN]` Sai lầm thường gặp là nhảy từ S thẳng sang L, bỏ qua A và I — kết quả là một kế hoạch cải thiện nhắm sai nguyên nhân.
+
+## Phân biệt với framework gần giống
+`FW-025` của Topic 08 là khung song song nhưng cho **hành vi**; SAIL dành cho **kết quả công việc**. Cấu trúc tương tự: nêu sự việc → hỏi → hiểu → chốt cam kết.
+
+## Cách kết hợp với framework khác
+Bước **I** chính là `FW-023` AMO. Bước **L** nên áp `CON-004` để thỏa thuận nêu rõ kết quả mong đợi và tiêu chí thành công.
+
+## Nguồn
+- `[MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 22, 24–35]`
+
+=====
+
+---
+id: FW-025-01
+type: framework
+title_vi: Ma trận Hỗ trợ × Trách nhiệm
+title_en: The Support x Accountability matrix
+aliases: [support accountability matrix, development and accountability, avoidance, command compliance]
+keywords: [hỗ trợ, support, trách nhiệm giải trình, accountability, né tránh, avoidance, mệnh lệnh, command compliance, vừa hỗ trợ vừa yêu cầu, quá dễ dãi, quá hà khắc]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-08]
+problems_addressed: [PRB-006]
+related_ids: [FW-025, CON-005, CON-003]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 37"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Support × Accountability matrix (Ma trận Hỗ trợ × Trách nhiệm)
+
+## Tóm tắt
+`[KHÓA HỌC]` Chunk con của `FW-025`. Ma trận hai trục cho bước **HOLD ACCOUNTABLE**: mức **hỗ trợ** bạn dành cho người đó, và mức **trách nhiệm giải trình** bạn yêu cầu. Dùng để tự kiểm xem mình đang rơi vào ô nào khi xử lý một hành vi.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 37 nêu nguyên tắc: **coaching tạo ra quyền sở hữu; accountability làm cho thay đổi được kỳ vọng trở nên tường minh.** Hai thứ phải đi cùng nhau.
+
+## Khi nào dùng
+Sau một cuộc trò chuyện sửa hành vi, để kiểm tra mình đã chốt đủ chưa; khi tự thấy mình hay né hoặc hay ra lệnh.
+
+## Khi nào KHÔNG dùng
+Khi chưa xác định hành vi có đáng xử lý không — `FW-026` trước.
+
+## Các bước áp dụng
+Xác định ô bạn đang đứng (slide 37):
+
+| | **Accountability thấp** | **Accountability cao** |
+|---|---|---|
+| **Support cao** | **Supportive but unclear** — tử tế nhưng không rõ điều gì phải thay đổi | **DEVELOPMENT + ACCOUNTABILITY** — ô cần đạt tới |
+| **Support thấp** | **Avoidance** — né tránh, không nói gì | **Command / compliance** — ra lệnh, có tuân thủ nhưng không có cam kết |
+
+Diễn giải bảng: ba ô còn lại đều là thất bại theo một kiểu khác nhau. **Avoidance** để hành vi tiếp diễn. **Supportive but unclear** khiến người ta tưởng mọi thứ ổn. **Command/compliance** tạo ra tuân thủ chứ không tạo ra thay đổi thật — đúng điều `FW-002` cảnh báo khi phân biệt compliance và commitment.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+"Sau cuộc trò chuyện vừa rồi, người đó có biết chính xác cái gì phải khác đi không — và có thấy tôi đứng về phía họ không?" Hai vế của câu hỏi tương ứng hai trục.
+
+## Ví dụ
+`[BỔ SUNG]` Một DS liên tục bỏ qua bước review chéo. **Avoidance**: không nói gì vì bạn ấy đang bận. **Supportive but unclear**: "Em cứ cố gắng nhé, anh hiểu áp lực." **Command**: "Từ giờ bắt buộc phải review, không có ngoại lệ." **Development + Accountability**: "Anh hiểu tuần này em gấp. Chuẩn vẫn là mọi PR vào production phải qua review — anh sẽ sắp Senior review trong ngày để không chặn em. Tuần sau mình rà lại."
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Ô hay bị nhầm lẫn nhất là **Supportive but unclear** — người quản lý cảm thấy mình đã nói chuyện tử tế và xong việc, trong khi nhân viên ra khỏi phòng mà không biết cần đổi cái gì. Dấu hiệu nhận biết: bạn không chốt được "ba thứ" ở slide 39 của `FW-025` (hành vi kỳ vọng, áp dụng khi nào ở đâu, rà lại khi nào).
+
+## Phân biệt với framework gần giống
+`CON-005` *Có tầm nhìn mà không kiểm soát* là cùng tinh thần nhưng áp dụng cho **giao việc**; ma trận này áp dụng cho **sửa hành vi**.
+
+## Cách kết hợp với framework khác
+Dùng ở bước thứ tư của `FW-025`. Nếu rơi vào ô Command/compliance, quay lại bước COACH để người đó tự nói ra cách làm khác.
+
+## Nguồn
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 37]`
+
+=====
+
+---
+id: FW-025
+type: framework
+title_vi: Bốn bước sửa hành vi
+title_en: NOTICE - CONVERSE - COACH - HOLD ACCOUNTABLE
+aliases: [notice converse coach hold accountable, sửa hành vi, behavioral correction]
+keywords: [hành vi khó, sửa hành vi, cuộc trò chuyện khó, feedback, nhân viên cư xử không đúng, nói chuyện thẳng thắn, cam kết hành vi, khi nào nên lên tiếng]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-08]
+problems_addressed: [PRB-006, PRB-010]
+related_ids: [FW-025-01, FW-026, FW-024, CON-010, CON-011, CON-013]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 3, 7, 12, 30–32, 38–42"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE (Bốn bước sửa hành vi)
+
+## Tóm tắt
+`[KHÓA HỌC]` Khung bốn bước của Topic 08 cho cuộc trò chuyện sửa **hành vi** (không phải kết quả công việc): **NOTICE** nhận ra cần xử lý → **CONVERSE** nêu rõ và giữ được cảm xúc → **COACH** dùng câu hỏi để tạo phản tư và quyền sở hữu → **HOLD ACCOUNTABLE** giữ hỗ trợ nhưng rõ về thay đổi được kỳ vọng.
+
+## Mục đích
+Xử lý hành vi khó mà vẫn giữ quan hệ. `[KHÓA HỌC]` Slide 42: **clarity + curiosity + follow-through**.
+
+## Khi nào dùng
+Hành vi lặp lại đang ảnh hưởng tới người khác; bạn đã né cuộc trò chuyện nhiều lần.
+
+## Khi nào KHÔNG dùng
+Vấn đề là **kết quả công việc** — dùng `FW-024`. Chưa chắc hành vi có đáng xử lý — chạy `FW-026` trước.
+
+## Các bước áp dụng
+
+| Bước | Việc cần làm | Câu mẫu (slide 41) |
+|---|---|---|
+| **NOTICE** | Quyết định hành vi này có cần xử lý không | *"Hành vi này cần được quan tâm."* |
+| **CONVERSE** | Nêu điều quan sát được và làm rõ chuẩn mực | *"Đây là điều tôi quan sát được, và đây là chuẩn mực."* |
+| **COACH** | Dùng câu hỏi để người đó tự nhìn ra | *"Chuyện gì đã xảy ra? Tác động là gì? Bạn có thể làm khác thế nào?"* |
+| **HOLD ACCOUNTABLE** | Chốt cam kết quan sát được | *"Mình thống nhất chính xác cái gì thay đổi và khi nào sẽ rà lại."* |
+
+**NOTICE** `[KHÓA HỌC]` bắt đầu từ chuyển vai (slide 7): *My work → Our work · My standards → Team standards · My relationships → Fairness across relationships · My discomfort → My responsibility to act.* Câu hỏi then chốt: **"Đây là thứ tôi thấy khó chịu, hay thứ team thực sự cần tôi xử lý?"** Nguyên tắc: **cái bạn dung thứ trở thành thông tin cho cả team.**
+
+**CONVERSE** bắt đầu từ điều quan sát được (slide 12) — xem `CON-010`; phần giữ cảm xúc của chính mình ở `CON-013`.
+
+**COACH** `[KHÓA HỌC]` định nghĩa (slide 30): *COACHING = giúp một người SUY NGHĨ để họ có thể THAY ĐỔI*, theo chuỗi **SEE → REFLECT → OWN → CHANGE**.
+
+**HOLD ACCOUNTABLE** `[KHÓA HỌC]` biến *"em sẽ làm tốt hơn"* thành thỏa thuận quan sát được (slide 39): mơ hồ — *"Em sẽ giao tiếp tốt hơn."*; cụ thể — *"Trong các cuộc họp, em sẽ để mọi người nói hết và phản biện vào ý tưởng chứ không nhận xét về con người."* Chốt bằng **ba thứ**: hành vi kỳ vọng · áp dụng khi nào ở đâu · rà lại khi nào.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` **Khi họ phản ứng ngược** (slide 38): *"Không phải vậy."* · *"Ai cũng làm thế mà."* · *"Sao chị cứ nhắm vào em?"* · *"Bạn ấy gây sự trước."* · *"Em chỉ đang thẳng thắn thôi."* · *"Thôi được, từ giờ em không nói gì nữa."*
+
+Cách xử lý: **LISTEN → ACKNOWLEDGE → REFOCUS → HOLD THE LINE** — đừng thắng cuộc tranh luận, giữ ở hành vi, tác động, kỳ vọng. Câu mẫu: *"Tôi nghe thấy bạn coi trọng sự thẳng thắn. Tôi muốn bạn tiếp tục phản biện ý tưởng. Tôi đề nghị bạn đổi **cách** thể hiện sự bất đồng."*
+
+## Ví dụ
+`[KHÓA HỌC]` Bài tập *Intention ≠ impact* (slide 32): nhân viên nói *"Em chỉ đùa thôi."* Quản lý **ghi nhận ý định → chuyển sang tác động → hỏi một cách làm khác** — không tranh cãi xem người đó "có cố ý hay không".
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 31: **coaching không đồng nghĩa với mềm mỏng** — *telling* → **clarifying**; *judging* → **questioning**; *excusing* → **listening + challenging**; *fixing* → **ownership**. Nguyên tắc: **quản lý làm rõ CÁI GÌ cần thay đổi; coaching giúp nhân viên tìm ra CÁCH.**
+
+## Phân biệt với framework gần giống
+`FW-024` cho kết quả công việc; `FW-025` cho hành vi. `FW-026` là bộ lọc *trước* bước NOTICE.
+
+## Cách kết hợp với framework khác
+`FW-026` quyết định có xử lý không → `CON-010` viết câu mở đầu → `CON-011` và `CON-013` cho phần nghe và giữ cảm xúc → `FW-025-01` kiểm tra ô trên ma trận hỗ trợ × trách nhiệm.
+
+## Nguồn
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 3, 7, 12, 30–32, 38–42]`
+- Trích dẫn trong slide: Ellinger et al. (2011) qua Turner et al. (2023), *Frontiers in Psychology*; CIPD (2025).
+
+=====
+
+---
+id: FW-026
+type: framework
+title_vi: Phép thử Năm Tác động
+title_en: The 5-Impact Test
+aliases: [5-Impact Test, SBI adapted, notice or let it go]
+keywords: [có nên lên tiếng không, notice or let it go, hành vi nào đáng xử lý, tác động, performance people culture trust policy, bỏ qua hay nói, SBI]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-08]
+problems_addressed: [PRB-006, PRB-010]
+related_ids: [FW-025, CON-010, FW-025-01]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 8–10"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The 5-Impact Test (Phép thử Năm Tác động)
+
+## Tóm tắt
+`[KHÓA HỌC]` The 5-Impact Test là bộ lọc trả lời câu hỏi **"hành vi này có cần được xử lý không?"** bằng cách soi qua năm loại tác động. Dùng ngay trước bước NOTICE của `FW-025`, khi bạn phân vân giữa lên tiếng và bỏ qua.
+
+## Mục đích
+Tách **cái khiến bạn khó chịu** khỏi **cái team cần bạn xử lý**. `[KHÓA HỌC]` Nguyên tắc chốt ở slide 10: *"Không phải mọi sự khó chịu đều cần sửa, nhưng hành vi lặp lại hoặc gây hại thì không nên được bình thường hóa bằng sự im lặng."*
+
+## Khi nào dùng
+Khi một hành vi làm bạn thấy gợn nhưng chưa rõ có đáng nói không; khi muốn đảm bảo mình đối xử công bằng giữa các thành viên.
+
+## Khi nào KHÔNG dùng
+Khi hành vi rõ ràng vi phạm quy định hoặc an toàn — xử lý ngay, không cần sàng lọc. Khi vấn đề là kết quả công việc — `FW-023` và `FW-024`.
+
+## Các bước áp dụng
+Soi hành vi qua năm câu hỏi (slide 9):
+
+| Loại tác động | Câu hỏi |
+|---|---|
+| **PERFORMANCE** | Nó có ảnh hưởng tới kết quả, chất lượng, năng suất hay việc giao hàng không? |
+| **PEOPLE** | Nó có ảnh hưởng tới đồng nghiệp, khối lượng công việc, sự an lành hay sự hợp tác không? |
+| **CULTURE** | Nó củng cố hay làm xói mòn những hành vi chúng ta kỳ vọng? |
+| **TRUST** | Nó có ảnh hưởng tới độ tin cậy, uy tín hay quan hệ làm việc không? |
+| **POLICY / ETHICS** | Nó có tạo ra vấn đề về tuân thủ, công bằng, an toàn hay đạo đức không? |
+
+Diễn giải bảng: càng nhiều ô "có", hành vi càng cần được xử lý sớm. Một ô "có" ở **POLICY / ETHICS** là đủ để xử lý ngay, không cần cân nhắc thêm.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu hỏi của người quản lý ở slide 7, dùng kèm phép thử: **"Đây là thứ tôi thấy khó chịu, hay là thứ team thực sự cần tôi xử lý?"**
+
+## Ví dụ
+`[KHÓA HỌC]` Bài tập thảo luận *Notice or let it go?* (slide 8, 10) — sáu tình huống, quyết định trước rồi giải thích **lựa chọn đó gửi tín hiệu gì cho team**:
+
+| | Tình huống |
+|---|---|
+| A | Một nhân viên vốn đáng tin đi muộn 10 phút, một lần |
+| B | Một người làm việc giỏi liên tục cắt lời các đồng nghiệp ít kinh nghiệm hơn |
+| C | Hai đồng nghiệp bất đồng gay gắt về một hướng tiếp cận kỹ thuật |
+| D | Một thành viên công khai chế nhạo đề xuất của người khác |
+| E | Một người có phong cách làm việc khác bạn |
+| F | Một thành viên liên tục phớt lờ một quy trình đã thống nhất |
+
+`[SUY LUẬN]` Phép thử phân loại rõ: A chạm rất ít ô; E gần như không chạm ô nào — đó là khác biệt, không phải vấn đề; B và D chạm PEOPLE, CULTURE, TRUST; F chạm PERFORMANCE và CULTURE; C có thể là xung đột lành mạnh, xem `FW-016` và `FW-020`.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Nguyên tắc của slide 7 giải thích vì sao phép thử này quan trọng: **cái bạn dung thứ trở thành thông tin cho cả team.** Bỏ qua hành vi B hay F nhiều lần chính là đang thiết lập một chuẩn mực mới mà bạn không chủ ý.
+
+`[SUY LUẬN]` Rủi ro ngược lại cũng có thật: dùng phép thử để biện minh cho việc xử lý mọi thứ sẽ biến bạn thành người soi xét. Ô **E** trong bài tập tồn tại đúng để nhắc điều đó.
+
+## Phân biệt với framework gần giống
+`FW-023` AMO chẩn đoán *vì sao kết quả đi xuống*; `FW-026` quyết định *có nên nói về một hành vi hay không*. Hai thứ trả lời hai câu hỏi khác nhau và thường cần cả hai.
+
+## Cách kết hợp với framework khác
+`FW-026` là bộ lọc đầu vào của `FW-025`. Nếu phép thử cho kết quả "nên xử lý", chuyển sang bước CONVERSE và dùng `CON-010` để viết câu mở đầu.
+
+## Nguồn
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 8–10]`
+- `[KHÓA HỌC]` Slide 9 ghi rõ: phỏng theo khung phản hồi **Situation-Behavior-Impact (SBI)** của Center for Creative Leadership, điều chỉnh cho workshop này.
+
+=====
+
+---
+id: FW-027
+type: framework
+title_vi: Bốn kiểu quản lý khi coaching
+title_en: The Four Manager Types
+aliases: [Teacher Always-On Cheerleader Connector, Gartner four manager types, Roca Wilde 2019]
+keywords: [kiểu quản lý, coaching style, teacher, always-on, cheerleader, connector, tôi là kiểu quản lý nào, coach nhiều có tốt không, ba huyền thoại coaching]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-09]
+problems_addressed: [PRB-006, PRB-004]
+related_ids: [FW-032, FW-028, FW-030, FW-005]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–15"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Four Manager Types (Bốn kiểu quản lý khi coaching)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bốn cách khác nhau mà người quản lý tiếp cận việc coaching — **Teacher, Always-On, Cheerleader, Connector**. Mỗi kiểu có giá trị riêng nhưng tạo trải nghiệm phát triển rất khác cho nhân viên. Dùng để tự định vị phong cách mặc định.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 6: *"Kết quả của bạn là một khuôn mẫu, không phải căn cước cố định."* Slide 10: **một phong cách trở thành cái bẫy khi nó thay thế cho việc chẩn đoán.**
+
+## Khi nào dùng
+Đầu chương trình phát triển kỹ năng coaching; khi nhận feedback trái chiều về cách mình kèm cặp.
+
+## Khi nào KHÔNG dùng
+Cần chẩn đoán một người cụ thể — `FW-028`. Cần quyết mức phát triển — `FW-029`.
+
+## Các bước áp dụng
+Bốn kiểu (slide 9):
+
+| Kiểu | Đặc điểm |
+|---|---|
+| **The Teacher** | Phản hồi dẫn dắt bằng lời khuyên, định hướng phát triển cho nhân viên. Dựa trên thành tích vững thời còn là cá nhân đóng góp; tin vào cách làm của mình. |
+| **The Always-On** | Phản hồi thường xuyên, coaching tại chỗ — kể cả ngoài phạm vi kinh nghiệm của mình. Nhận trách nhiệm dẫn dắt toàn bộ việc phát triển của nhân viên. |
+| **The Cheerleader** | Trao quyền để nhân viên tự sở hữu việc phát triển. Phản hồi tích cực, thường né phê bình. Không bận tâm chi tiết khi coaching. |
+| **The Connector** | Môi trường đội tích cực, phản hồi có trọng điểm. Ưu tiên **chất lượng quan hệ hơn số lượng phản hồi**. Kết nối nhân viên tới người khác khi chuyên môn nằm chỗ khác. |
+
+Diễn giải bảng: ba kiểu đầu giả định **quản lý là nguồn phát triển chính**. Connector là kiểu duy nhất coi phát triển là mạng lưới — và là kiểu Topic 09 khuyến nghị (`FW-032`).
+
+**Bốn câu phản tư** (slide 10): phong cách này cho bạn thế mạnh gì? · khi nào nó trở thành quá đà? · tình huống nào kích hoạt phản xạ mặc định? · bạn sẽ thử phản ứng nào khác?
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ba huyền thoại giữ người quản lý Always-On ở chế độ "luôn bật" (slide 11–15):
+
+| # | Huyền thoại | Thực tế |
+|---|---|---|
+| 1 | *"Càng coaching nhiều, nhân viên càng làm tốt hơn."* | **Không có tương quan đáng kể** giữa thời gian coaching và hiệu suất (Gartner 2017, n = 7.309). Hướng dẫn liên tục thành "vòi phun phản hồi": nhân viên mất tập trung, hoài nghi bản thân, thấy ít quyền sở hữu hơn. |
+| 2 | *"Quản lý luôn biết điều gì tốt nhất cho nhân viên."* | Lời khuyên từ trên xuống rủi ro khi quản lý không hiểu đủ về công việc hoặc con người. Chỉ **18%** nhân viên tin quản lý hiểu mình. Giả định sớm về năng lực, động lực hay nguyện vọng đẩy nhân viên đi sai hướng. |
+| 3 | *"Quản lý luôn là nguồn coaching tốt nhất."* | Không ai có thể là chuyên gia, người dạy và nguồn phát triển cho mọi nhu cầu. |
+
+`[KHÓA HỌC]` Kết luận (slide 15): **câu trả lời không phải "coach nhiều hơn", mà là chọn đúng phản ứng phát triển cho người này, lúc này** — *chất lượng hơn số lượng · tò mò trước khi khuyên · chuyên môn hoặc kết nối.*
+
+## Ví dụ
+`[KHÓA HỌC]` Quiz bốn kiểu (slide 7–8): trả lời theo **hành vi thường ngày, không phải lý tưởng**; không có đáp án "tốt". Chủ yếu A = Teacher · B = Always-On · C = Connector · D = Cheerleader; hòa thì giữ cả hai xu hướng.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Dễ đọc bảng này như trắc nghiệm tính cách. Topic 09 chống điều đó ở slide 6 và 10: đây là **khuôn mẫu hiện tại**, không phải bản chất.
+
+## Phân biệt với framework gần giống
+`FW-005` định vị xu hướng cố định trên trục task/people; `FW-027` định vị riêng cách **coaching và phát triển người**.
+
+## Cách kết hợp với framework khác
+Tự định vị bằng `FW-027` → học mô hình đích ở `FW-032` Connector Manager → thực hành bằng `FW-028`, `FW-029`, `FW-030`.
+
+## Nguồn
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–15]`
+- Trích dẫn trong slide: Gartner; phỏng theo Roca & Wilde (2019), *The Connector Manager*. Dữ liệu: 2017 Gartner Manager Effectiveness Survey.
+
+=====
+
+---
+id: FW-028
+type: framework
+title_vi: Chẩn đoán nguyên nhân gốc theo năm lăng kính
+title_en: Root-cause diagnosis - five lenses
+aliases: [KSMCE, knowledge skills motivation career environment, root cause analysis toolkit]
+keywords: [chẩn đoán, nguyên nhân gốc, root cause, kiến thức, kỹ năng, động lực, sự nghiệp, môi trường, vì sao nhân viên làm chưa tốt, đừng vội khuyên]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-09]
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-023, FW-029, FW-030, FW-032, CON-012]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 31–34"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Root-cause diagnosis — five lenses (Chẩn đoán nguyên nhân gốc theo năm lăng kính)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bộ công cụ chẩn đoán năm nhánh — **Knowledge, Skills, Motivation, Career, Environment** — kèm câu hỏi kiểm tra cho từng nhánh. Dùng trước khi quyết định hình thức hỗ trợ nào phù hợp. Nguyên tắc nền (slide 31): **vấn đề nhìn thấy được là một manh mối, không phải kết luận.**
+
+## Mục đích
+`[KHÓA HỌC]` Slide 33 ghi thành khẩu hiệu: **LOOK FOR THE CAUSE, NOT THE SYMPTOM.** Mạch ba bước của Part 4: **OBSERVE** (bạn nhận thấy gì?) → **DIAGNOSE** (chuyện gì thực sự đang diễn ra?) → **DEVELOP** (hỗ trợ nào phù hợp?).
+
+## Khi nào dùng
+Khi một người đang chững lại mà bạn chưa rõ vì sao; trước mọi cuộc trò chuyện phát triển; khi bạn thấy mình sắp đưa lời khuyên.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là hành vi — `FW-026`. Khi đã rõ nguyên nhân và cần chọn mức phát triển — `FW-029`.
+
+## Các bước áp dụng
+Năm lăng kính (slide 32) kèm mục tiêu và câu hỏi kiểm tra (slide 33–34):
+
+| # | Lăng kính | Mục tiêu | Câu hỏi kiểm tra |
+|---|---|---|---|
+| 1 | **Knowledge** | Nhân viên có thiếu thông tin trọng yếu để làm việc không | Bạn có đủ thông tin và nguồn lực không? · Có biết cần ưu tiên gì không? · Tôi có cho bạn đủ phản hồi không? |
+| 2 | **Skills** | Thiếu kỹ năng nào, và họ đang xử lý khoảng trống đó ra sao | Kỹ năng của bạn khớp vai trò đến đâu? · Từng làm việc tương tự chưa? · Đã thử trải nghiệm học tập nào? |
+| 3 | **Motivation** | Điều gì tạo động lực hằng ngày — và điều gì thúc đẩy họ ngoài công việc | Điều gì khiến bạn nhận vai trò này? · Thấy gì thú vị nhất? · Có thấy được truyền cảm hứng để thành công ở đây không? |
+| 4 | **Career** | Cách họ tự đánh giá điểm mạnh, điểm yếu, và vì sao chưa tập trung vào đúng vấn đề phát triển | Năng lực nào quan trọng nhất tới giờ? · Kỹ năng nào làm bạn cạnh tranh được bên ngoài? · Khoảng trống nào phải lấp trước? |
+| 5 | **Environment** | Vấn đề quản lý dự án, khối lượng, nguồn lực hoặc giao tiếp đang ảnh hưởng hiệu suất | Có khó cân bằng ưu tiên không, vì sao? · Tổ chức hỗ trợ đủ không? · Thông điệp từ các phía có nhất quán không? |
+
+Diễn giải bảng: `[KHÓA HỌC]` Slide 33 nhắc giữa bảng — **LISTEN FOR EVIDENCE: đừng nhảy sang lời khuyên cho tới khi nguyên nhân gốc đã rõ hơn.**
+
+**Ba thói quen chẩn đoán** (slide 34): **(1)** tách bằng chứng khỏi giả định · **(2)** gọi tên nguyên nhân khả dĩ nhất · **(3)** đề nghị nhân viên đính chính cách hiểu của bạn. Nguyên tắc chốt: **chẩn đoán CÙNG nhân viên, không phải chẩn đoán VỀ họ.**
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+"Để anh nói lại cách anh đang hiểu, em sửa giúp anh nếu lệch" — câu mở cho thói quen số 3.
+
+## Ví dụ
+`[BỔ SUNG]` Một DS chậm hẳn. Nhìn triệu chứng sẽ kết luận **Motivation**. Chạy năm lăng kính: Knowledge và Skills ổn, **Career** lộ vấn đề — bạn ấy muốn đi sâu MLOps nhưng việc hiện tại toàn phân tích mô tả; **Environment** lộ việc nhận yêu cầu từ hai phía. Hai nguyên nhân thật, không phải một.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Lăng kính **Career** hay bị bỏ qua nhất vì nó không gây ra hậu quả tức thời; nhưng đó thường là nguyên nhân của hiện tượng "vẫn làm đủ việc mà mất lửa" ở `PRB-007`.
+
+## Phân biệt với framework gần giống
+`FW-023` **AMO** của Topic 04 là bản ba nhánh gọn hơn: Ability gộp Knowledge và Skills, Opportunity tương ứng Environment, và **không có nhánh Career**. Dùng AMO cho cuộc trò chuyện về hiệu suất chưa đạt; dùng năm lăng kính cho cuộc trò chuyện về phát triển.
+
+## Cách kết hợp với framework khác
+Là chữ **D** trong lộ trình `FW-030` D–R–C. Sau khi có nguyên nhân, chuyển sang `FW-029` để chọn mức phát triển tương xứng.
+
+## Nguồn
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 31–34]`
+- Trích dẫn trong slide: Roca & Wilde (2019), *The Connector Manager*.
+
+=====
+
+---
+id: FW-029
+type: framework
+title_vi: Thang đo Mức sẵn sàng phát triển
+title_en: Employee Development Readiness Assessment
+aliases: [development readiness assessment, right-size the stretch, 5-25 score]
+keywords: [mức sẵn sàng phát triển, readiness, giao việc thử thách, stretch, luân chuyển, thăng chức, nên giao thêm đến đâu, phát triển nhân viên]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-09]
+problems_addressed: [PRB-005, PRB-006]
+related_ids: [FW-028, FW-030, FW-001, FW-032, CON-004]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 35–36"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Employee Development Readiness Assessment (Thang đo Mức sẵn sàng phát triển)
+
+## Tóm tắt
+`[KHÓA HỌC]` Thang năm mục, chấm 1–5, tổng điểm 5–25, quyết định **mức phát triển tương xứng** cho một người: ở lại vai trò hiện tại, giao việc thử thách có giới hạn, hay luân chuyển sang vai trò mới. Dùng sau khi đã chẩn đoán bằng `FW-028`.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 36: **right-size the stretch — phát triển nên thử thách, chứ không làm quá tải hay bỏ phí.**
+
+## Khi nào dùng
+Sau một cuộc trò chuyện phát triển; khi cân nhắc giao một dự án lớn; khi lập kế hoạch phát triển quý.
+
+## Khi nào KHÔNG dùng
+Chấm điểm bằng cảm tính thay vì bằng bằng chứng từ cuộc trò chuyện — `[KHÓA HỌC]` slide 35 ghi rõ: **chấm SAU cuộc trò chuyện, và ghi lại bằng chứng đằng sau mỗi mức điểm.**
+
+## Các bước áp dụng
+**Năm mục chấm** (slide 35), thang *1 Không đồng ý — 3 Trung lập — 5 Đồng ý*:
+
+| # | Phát biểu |
+|---|---|
+| 1 | Có mục tiêu hoặc nguyện vọng nghề nghiệp rõ ràng |
+| 2 | Quan tâm tới những kỹ năng cụ thể |
+| 3 | Thành thạo vai trò hiện tại |
+| 4 | Áp dụng nhanh những gì mới học |
+| 5 | Đang ở trạng thái tốt để nhận thêm việc |
+
+**Điểm quyết định bước phát triển** (slide 36):
+
+| Tổng điểm | Mức phát triển |
+|---|---|
+| **5 – 11** | **CURRENT ROLE** — coach và phát triển trong phạm vi trách nhiệm hiện tại |
+| **12 – 18** | **STRETCH** — dùng một dự án hoặc nhiệm vụ thử thách có giới hạn, kèm phản hồi |
+| **19 – 25** | **ROTATION / NEW ROLE** — cân nhắc luân chuyển có kế hoạch, trải nghiệm vai trò mới, hoặc thăng chức |
+
+Diễn giải bảng: ba mức tương ứng ba mức rủi ro khác nhau. Điểm thấp **không có nghĩa là người đó kém** — nó có nghĩa là thời điểm chưa phù hợp để giao thêm, thường vì mục 5 (đang quá tải) hoặc mục 1 (chưa rõ muốn đi đâu).
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[BỔ SUNG]` Mỗi mục đều có một câu hỏi tương ứng để hỏi trực tiếp: *"Ba năm nữa bạn muốn mình được biết đến vì cái gì?"* (mục 1) · *"Có kỹ năng cụ thể nào bạn đang muốn xây không?"* (mục 2) · *"Nếu nhận thêm một mảng nữa, cái gì sẽ phải nhường chỗ?"* (mục 5).
+
+## Ví dụ
+`[BỔ SUNG]` Senior DS trong team: mục 1 chấm 5 (muốn đi hướng kiến trúc hệ thống ML), mục 2 chấm 5, mục 3 chấm 5, mục 4 chấm 4, mục 5 chấm 2 vì đang gánh hai dự án. Tổng 21 — về lý thuyết là **ROTATION / NEW ROLE**, nhưng mục 5 thấp cho thấy phải giải quyết tải trước khi giao vai trò mới. Điểm tổng là chỉ báo, từng mục mới nói ra hành động.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Rủi ro của mọi thang điểm là biến nó thành một bài đánh giá hiệu suất. Topic 09 chặn điều đó bằng hai ràng buộc ở slide 35: chấm **sau** cuộc trò chuyện, và **ghi bằng chứng cho từng mức điểm**. Nếu không ghi được bằng chứng thì chưa đủ dữ liệu để chấm.
+
+## Phân biệt với framework gần giống
+- `FW-001` **Situational Leadership** đo mức sẵn sàng cho **một việc cụ thể** và quyết định cách giao việc đó; `FW-029` đo mức sẵn sàng **phát triển nghề nghiệp** và quyết định quy mô bước tiếp theo.
+- `FW-028` tìm **nguyên nhân** của hiện trạng; `FW-029` quyết định **bước đi tiếp theo**.
+
+## Cách kết hợp với framework khác
+Là chữ **R** trong lộ trình `FW-030` D–R–C: Diagnose (`FW-028`) → **Readiness** (`FW-029`) → Coach & Connect (`FW-032`). Khi đã chọn mức, giao việc theo `CON-004` để nêu rõ kết quả mong đợi và tiêu chí thành công.
+
+## Nguồn
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 35–36]`
+- Trích dẫn trong slide: Roca & Wilde (2019), *The Connector Manager*.
+
+=====
+
+---
+id: FW-030
+type: framework
+title_vi: Lộ trình D–R–C
+title_en: The D-R-C route
+aliases: [D-R-C, Diagnose Readiness Coach and Connect, coaching detective]
+keywords: [lộ trình coaching, chẩn đoán, mức sẵn sàng, coach và kết nối, tránh khuyên quá sớm, quyền sở hữu của nhân viên, quy trình coaching]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-09]
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-028, FW-029, FW-032, FW-027, CON-003]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 40–50"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The D–R–C route (Lộ trình Diagnose → Readiness → Coach & Connect)
+
+## Tóm tắt
+`[KHÓA HỌC]` D–R–C là lộ trình ba chặng ghép `FW-028`, `FW-029` và `FW-032` thành một cuộc trò chuyện coaching chạy được: **Diagnose → Readiness → Coach & Connect.** Dùng khi muốn một quy trình cụ thể thay vì chỉ nguyên tắc.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 43 ghi rõ: **lộ trình này bảo vệ bạn khỏi việc khuyên quá sớm** — bằng chứng trước → mức sẵn sàng tiếp theo → coaching và kết nối theo độ phù hợp → quyền sở hữu thuộc về nhân viên.
+
+## Khi nào dùng
+Một cuộc 1:1 về phát triển; khi một thành viên mang tới một vấn đề và bạn muốn không giải hộ.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là hành vi — `FW-025`. Khi cần quyết nhanh về công việc chứ không phải phát triển con người.
+
+## Các bước áp dụng
+
+| Chặng | Việc làm | Đầu ra |
+|---|---|---|
+| **D — Diagnose** | Kiểm chứng năm giả thuyết của `FW-028`: Knowledge · Skills · Motivation · Career · Environment. **Tách sự thật khỏi giả định. Hỏi tới khi nguyên nhân gốc rõ hơn.** | Nguyên nhân gốc dựa trên bằng chứng |
+| **R — Readiness** | Chấm cả năm phát biểu của `FW-029` theo thang 1–5, **dùng bằng chứng từ cuộc trò chuyện, không dùng trực giác.** 5–11 phát triển trong vai trò hiện tại · 12–18 dự án thử thách · 19–25 luân chuyển, vai trò mới hoặc thăng chức | Mức phát triển tương xứng |
+| **C — Coach & Connect** | Chọn phần đóng góp của người quản lý: **coach ở chỗ bạn thật sự thêm được giá trị**; nếu một nguồn khác phù hợp hơn thì **kết nối** nhân viên tới người, đồng nghiệp, đội hoặc cơ hội trong tổ chức. Chốt bằng quyền sở hữu: **AI làm GÌ — tới KHI NÀO?** và hẹn một mốc rà lại. | Bước đi tiếp theo do nhân viên sở hữu |
+
+Diễn giải bảng: ba chặng theo đúng thứ tự, mỗi chặng có một đầu ra cụ thể. Không được nhảy chặng — nhảy từ D sang C chính là "khuyên quá sớm" mà slide 43 cảnh báo.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ba luật của phòng tập (slide 46): **RULE 1 — NO RESCUE MISSION** (không đi giải cứu) · **RULE 2 — EVIDENCE, NOT ASSUMPTIONS** (bằng chứng, không phải giả định) · **RULE 3 — EMPLOYEE OWNERSHIP** (quyền sở hữu thuộc về nhân viên).
+
+`[KHÓA HỌC]` Hai câu debrief sau mỗi lượt thực hành (slide 49): *"Điều gì đã thay đổi khi người quản lý chẩn đoán trước khi đưa lời khuyên?"* · *"Mức sẵn sàng đã thay đổi bước coaching hoặc kết nối mà bạn chọn như thế nào?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Màn trình diễn 30 giây **"The Late Dashboard"** (slide 41): Huy, một product analyst, trễ hạn một dashboard và nói *"Chắc em cần học thêm Excel."* — đó là chẩn đoán **Skills** do chính nhân viên tự đưa ra. Thực tế: Product và Sales đưa yêu cầu mâu thuẫn nhau. Một lần "tua lại" làm đổi hẳn chẩn đoán, và đổi luôn bước phát triển.
+
+`[KHÓA HỌC]` Phòng tập **Coaching Detective** (slide 40, 42–48): 57 học viên, 19 trạm cố định, 19 nhóm ba người, ba vòng coaching. Mỗi nhóm có ba vai — **Manager** (coach và dẫn dắt), **Employee** (mang case tới), **Coaching Detective** (quan sát, tìm bằng chứng). Mỗi vòng 16 phút: 2 phút chuẩn bị · 8 phút coach · 3 phút phản hồi · 2 phút tua lại · 1 phút chuyển trạm. Nhóm di chuyển theo chiều kim đồng hồ, case ở lại trạm.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Cái bẫy lớn nhất là nhân viên **tự đưa sẵn chẩn đoán** — như Huy trong ví dụ trên. Lời tự chẩn đoán đó nghe rất tiện và thường sai; chặng D tồn tại đúng để không nhận nó làm kết luận.
+
+## Phân biệt với framework gần giống
+`FW-024` SAIL cũng là quy trình hội thoại bốn bước, nhưng cho **hiệu suất chưa đạt**; D–R–C cho **phát triển con người**. Cả hai đều đặt bước chẩn đoán trước bước hành động.
+
+## Cách kết hợp với framework khác
+D–R–C là cách vận hành của `FW-032` Connector Manager, dùng `FW-028` ở chặng D và `FW-029` ở chặng R.
+
+## Nguồn
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 40–50]`
+
+=====
+
+---
+id: FW-031
+type: framework
+title_vi: EDGE và Lợi thế cạnh tranh cá nhân
+title_en: EDGE and Personal Competitive Advantage
+aliases: [EDGE, VRIFA, personal competitive advantage, professional signature]
+keywords: [lợi thế cá nhân, phát triển sự nghiệp, chiến lược tăng trưởng cá nhân, professional signature, VRIFA, được biết đến vì cái gì, định vị bản thân, coaching phát triển dài hạn]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-09]
+problems_addressed: [PRB-007, PRB-005]
+related_ids: [FW-032, FW-029, FW-004, FW-028]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 37–38"]
+source_type: course
+confidence: medium
+status: needs_review
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# EDGE and Personal Competitive Advantage (EDGE và Lợi thế cạnh tranh cá nhân)
+
+## Tóm tắt
+`[KHÓA HỌC]` EDGE biến phản tư về bản thân thành **chiến lược tăng trưởng có trọng điểm**, qua bốn chặng: **E**xplore → **D**ecode → **G**enerate & test → **E**xecute. Dùng khi coach về hướng phát triển dài hạn.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 37 định vị: **lợi thế cá nhân nằm ở chỗ tính chân thực gặp giá trị chiến lược.** Bốn nguồn đầu vào giao nhau:
+
+| Đầu vào | Câu hỏi |
+|---|---|
+| **Zalo's strategic needs** | Điều gì tạo giá trị ngay bây giờ? |
+| **Strengths & experience** | Tôi làm tốt được gì một cách lặp lại? |
+| **Passion & aspiration** | Điều gì tiếp năng lượng — và tôi muốn trở thành ai? |
+| **Future opportunities** | Điều gì sẽ quan trọng hơn ngày mai? |
+
+Giao của bốn vùng là **Personal Competitive Advantage**; cái bạn muốn được biết đến là **Professional Signature**.
+
+## Khi nào dùng
+Cuộc trò chuyện phát triển nghề nghiệp; khi thành viên hỏi "em nên đi hướng nào"; khi `FW-029` cho thấy mục 1 (nguyện vọng rõ ràng) đang thấp.
+
+## Khi nào KHÔNG dùng
+Vấn đề là hiệu suất hiện tại — `FW-023` hoặc `FW-028`. Người đó đang quá tải; chiến lược dài hạn không giải được vấn đề tải.
+
+## Các bước áp dụng
+
+| Chặng | Câu hỏi | Nội dung | Đầu ra |
+|---|---|---|---|
+| **E — Explore personal assets** | Tôi là ai, mang lại gì? | Điểm mạnh kèm bằng chứng · đam mê · nguyện vọng · kinh nghiệm và quan hệ · điểm yếu cần quản lý | Personal Asset Profile |
+| **D — Decode strategic demand** | Zalo và các bên sẽ coi trọng gì? | Ưu tiên tổ chức · nhu cầu stakeholder · xu hướng tương lai · chuẩn so với người làm tốt · khoảng trống chưa ai lấp | Strategic Opportunity Map |
+| **G — Generate & test the edge** | Tổ hợp nào làm tôi khác biệt? | Tạo giả thuyết rồi kiểm bằng **VRIFA**: **V**aluable · **R**are · **I**nimitable · **F**uture-relevant · **A**uthentic | Competitive Advantage Hypothesis |
+| **E — Execute the growth strategy** | Đầu tư công sức vào đâu? | **DIFFERENTIATE** mạnh và có giá trị chiến lược · **BUILD** còn khoảng trống nhưng có giá trị · **MAINTAIN / DEPRIORITISE** tiềm năng hạn chế | 90-Day Growth Experiment |
+
+Diễn giải bảng: hai chặng đầu thu thập dữ liệu từ hai phía (bản thân và tổ chức); chặng ba tìm giao điểm và kiểm chứng; chặng bốn biến nó thành một thí nghiệm 90 ngày.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Câu định hình **Professional Signature** (slide 38): *"Khi người ta cần ______, tôi muốn họ nghĩ tới tôi."*
+
+Nguyên tắc: **lợi thế là một giả thuyết, được củng cố qua nhiệm vụ thật, quan hệ và bằng chứng** — kiểm chứng qua công việc · thu bằng chứng · rà lại · tinh chỉnh.
+
+## Ví dụ
+`[BỔ SUNG]` Một DS: E — mạnh về xử lý dữ liệu bẩn và giải thích kết quả cho người không chuyên; D — cần người bắc cầu giữa DS và vận hành; G — giả thuyết "người làm mô hình mà business tin được", chạy VRIFA thấy Valuable và Future-relevant cao, Rare khá; E — thí nghiệm 90 ngày: chủ trì phần diễn giải kết quả trong ba cuộc họp với vận hành.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Để `confidence: medium` và `needs_review`: slide 37–38 là hai sơ đồ rất dày, và slide 37 ghi nguồn *"Dr Quyen Dang through experience and knowledge from different models"* — khung tổng hợp của giảng viên, không có tài liệu gốc để đối chiếu.
+
+`[SUY LUẬN]` VRIFA phỏng theo **VRIN** trong Resource-Based View (Barney 1991), xuất hiện ở Topic 17 với **N**on-substitutable thay cho **F**uture-relevant và **A**uthentic. Sẽ đối chiếu khi xử lý Topic 17.
+
+## Phân biệt với framework gần giống
+`FW-004` định vị người ta đang ở chặng nào của sự nghiệp; `FW-031` tìm **lợi thế khác biệt** trong chặng hiện tại. `FW-029` quyết quy mô bước tiếp theo; `FW-031` quyết **hướng**.
+
+## Cách kết hợp với framework khác
+Dùng ở chặng **C** của `FW-030` khi nguyên nhân gốc nằm ở lăng kính **Career** (`FW-028`).
+
+## Nguồn
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 37–38]`
+- Slide ghi nguồn: *"Dr Quyen Dang through experience and knowledge from different models"*.
+
+=====
+
+---
+id: FW-032
+type: framework
+title_vi: Connector Manager
+title_en: The Connector Manager
+aliases: [connector manager, three connections, five connector qualities, Roca Wilde 2019]
+keywords: [connector, kết nối, phát triển nhân viên, mạng lưới phát triển, employee team organisation connection, peer learning, coach có chọn lọc, không tự ôm hết việc phát triển]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-09]
+problems_addressed: [PRB-006, PRB-007]
+related_ids: [FW-027, FW-028, FW-029, FW-030, FW-008]
+source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 17–29"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Connector Manager (Quản lý kiểu Kết nối)
+
+## Tóm tắt
+`[KHÓA HỌC]` Kiểu quản lý Topic 09 khuyến nghị: **hiểu con người, coach ở chỗ mình thật sự thêm giá trị, kết nối có chủ đích tới nguồn khác khi chuyên môn nằm nơi khác.** Nguyên tắc nền: *phát triển là một mạng lưới, không phải việc làm một mình.*
+
+## Mục đích
+`[KHÓA HỌC]` Slide 17 gói thành ba từ: **RIGHT PERSON · RIGHT SUPPORT · RIGHT MOMENT** — đúng người, đúng loại hỗ trợ, đúng thời điểm.
+
+## Khi nào dùng
+Bạn là nút thắt phát triển của cả team; một thành viên cần chuyên môn bạn không có; muốn phát triển không phụ thuộc hết vào quỹ thời gian của bạn.
+
+## Khi nào KHÔNG dùng
+Vấn đề là hành vi cần sửa — `FW-025`. Chưa chẩn đoán nguyên nhân — `FW-028` trước.
+
+## Các bước áp dụng
+**Năm phẩm chất của Connector** (slide 18–23):
+
+| # | Phẩm chất | Nội dung |
+|---|---|---|
+| 1 | **Curious about people and ideas** | Tìm hiểu bối cảnh, lịch sử, động cơ của từng người. Hỏi nhiều hơn và tra cứu bằng chứng trước khi hành động theo giả định. |
+| 2 | **Courage in challenging situations** | Nêu sự thật khó về hiệu suất, đưa phản hồi khó nghe, ra quyết định không được lòng. |
+| 3 | **Transparency and self-awareness** | Biết thế mạnh, giới hạn và tác động cảm xúc của mình; nhận trách nhiệm và biết xin giúp đỡ. |
+| 4 | **Open to learning from different perspectives** | Học từ bất cứ nguồn nào, không chỉ từ cấp bậc. Coi trọng chuyên môn hơn chức danh. |
+| 5 | **Judicious generosity** | Chia sẻ công trạng, thông tin, quyền tiếp cận và niềm tin — nhưng **kết nối người ta chứ không giải cứu họ**. |
+
+**Ba kết nối mở rộng dần** (slide 26–29): *Person → Team → Organization*
+
+| Kết nối | Nội dung |
+|---|---|
+| **Employee Connection** — *(thật sự) hiểu nhân viên* | Nền móng. Đầu tư quá mức vào chẩn đoán: lắng nghe nhu cầu, nguyện vọng, bối cảnh, mức sẵn sàng. **Coach con người, không coach vấn đề.** Ưu tiên phản hồi dựa trên thế mạnh, phê bình cụ thể khi thật cần. |
+| **Team Connection** — *biến phát triển thành việc của cả đội* | Biến sự đa dạng kỹ năng và góc nhìn của đội thành hệ sinh thái học hỏi ngang hàng, thay vì dịch vụ chỉ do quản lý cung cấp. |
+| **Organisation Connection** — *kết nối tốt hơn, không phải nhiều hơn* | Môi giới đúng mối quan hệ, chuẩn bị cho nhân viên biết tận dụng, và **quay lại xem giá trị đã tạo ra**. |
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+`[KHÓA HỌC]` Ba câu đề xuất hỏi tại Zalo (slide 27): *"Điều gì khiến bạn hào hứng với vai trò hiện tại?"* · *"Thay đổi nào sẽ khiến bạn hạnh phúc hơn?"* · *"Bạn cần gì nhất từ tôi lúc này?"*
+
+## Ví dụ
+`[KHÓA HỌC]` Ví dụ **100+ new graduates** (slide 27): một lãnh đạo phụ trách onboarding hơn 100 sinh viên mới ra trường đã **từ chối đưa phản hồi liên tục cho tất cả**. Thay vào đó bà tổ chức giờ tiếp đón hằng tháng, dùng câu hỏi có trọng điểm để hiểu sâu từng người, rồi mới hỗ trợ đúng thời điểm. Bài học: **mở rộng sự thấu hiểu trước khi mở rộng việc coaching.**
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Phẩm chất số 5 nêu ranh giới: **kết nối người ta, chứ không giải cứu họ.** Sáu thói quen chốt buổi (slide 51) nhắc lại: *"Coach – do not rescue"* và *"Let the employee own the action."*
+
+`[SUY LUẬN]` Hiểu nhầm phổ biến: Connector nghĩa là coach ít đi. Thực ra là **coach ít hơn về số lượng nhưng đúng chỗ hơn**, dành thời gian tiết kiệm được cho chẩn đoán và kết nối.
+
+## Phân biệt với framework gần giống
+`FW-027` mô tả bốn kiểu để tự định vị; `FW-032` là mô hình đích. `FW-008` Socium cũng khai thác mạng lưới nhưng để **lan hành vi trong nhóm**, còn `FW-032` để **phát triển từng cá nhân**.
+
+## Cách kết hợp với framework khác
+Connector vận hành qua lộ trình `FW-030` D–R–C, dùng `FW-028` chẩn đoán và `FW-029` chọn mức phát triển.
+
+## Nguồn
+- `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 17–29]`
+- Trích dẫn trong slide: Gartner; phỏng theo Roca & Wilde (2019), *The Connector Manager*.

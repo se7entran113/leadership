@@ -236,7 +236,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 6 / 20 topic đã xử lý** (Topic 01, 06, 10, 12, 14, 19) — 231 / 805 trang, độ phủ 28.7%.
+**Tiến độ MEGROW: 9 / 20 topic đã xử lý** (Topic 01, 04, 06, 08, 09, 10, 12, 14, 19) — 375 / 805 trang, độ phủ 46.6%.
 
 ---
 
@@ -252,7 +252,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-01` | 1 | Navigating the Leadership Transition | AP Burkhard Schrage | SELF + TEAM | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-02` | 2 | Driving Operational Execution | Dr Phuong (Emmy) Hoang | SELF + TEAM, ORG | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | chưa xử lý | 2026-11-07 |
 | `TOP-MEGROW-03` | 3 | Audit Mindset & Biases | Dr Thu Nguyen | SELF | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-04` | 4 | Practice Performance Conversations (AMO Framework) | AP Elaine Chew | SELF + TEAM | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-04` | 4 | Practice Performance Conversations (AMO Framework) | AP Elaine Chew | SELF + TEAM | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-05` | 5 | Optimise Personal Productivity | AP Agnis Stibe | SELF | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | chưa xử lý | 2026-11-07 |
 
 ### P2 `LEAD_PEOPLE_AND_TEAMS` — Topic 6–11 (level chính TEAM)
@@ -261,8 +261,8 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-06` | 6 | Delegation & Accountability in Fast-Paced Teams | AP Agnis Stibe | TEAM + SELF | `Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf` | 69 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-07` | 7 | Building Team Capability & Growth (LEGO® Serious Play®) | Dr Thao Luong | TEAM | `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf` | 43 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-08` | 8 | Correcting Behaviour Through Coaching | Dr Thao Luong | TEAM + SELF | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | chưa xử lý | 2026-11-07 |
-| `TOP-MEGROW-09` | 9 | Coaching for High Performance | Dr Quyen Dang | TEAM | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-08` | 8 | Correcting Behaviour Through Coaching | Dr Thao Luong | TEAM + SELF | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | **đã xử lý** | 2026-11-07 |
+| `TOP-MEGROW-09` | 9 | Coaching for High Performance | Dr Quyen Dang | TEAM | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-10` | 10 | Adapt Your Leadership Style | Dr Tony Nguyen | TEAM | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-11` | 11 | Customised Approach for Individuals | Dr Gavin Nicholson | TEAM + SELF | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | chưa xử lý | 2026-11-07 |
 
@@ -301,17 +301,17 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 48 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
+**Trạng thái kho: 67 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 9 |
-| `FW` Framework | 25 |
-| `PRB` Vấn đề | 8 |
+| `CON` Khái niệm & nguyên tắc | 13 |
+| `FW` Framework | 36 |
+| `PRB` Vấn đề | 9 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 6 |
+| `TOP` Topic | 9 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **48** |
+| **Tổng** | **67** |
 
 ---
 
@@ -328,6 +328,10 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON-007` | Pre-wiring — thắng quyết định trước cuộc họp (Pre-wiring) | concept | ORG | MEGROW | Giành đồng thuận trước cuộc họp: Map → Pre-meet → Adapt → Present; khuyến nghị không đổi, chỉ trọng tâm đổi |
 | `CON-008` | Đừng tranh cãi với mục tiêu của họ (Don't argue against their goal) | concept | ORG | MEGROW | Đừng tranh cãi với mục tiêu của người quyết — chỉ ra ý tưởng của bạn bảo vệ mục tiêu đó thế nào |
 | `CON-009` | Mời góp ý và vẫn giữ quyền chốt (Invite input and still reserve the call) | concept | TEAM, ORG | MEGROW | Mời góp ý và giữ quyền chốt không loại trừ nhau; mấu chốt là nói rõ mức tham gia ngay từ đầu |
+| `CON-010` | Quan sát thay vì phán xét — phép thử camera (Observation not judgement - the camera test) | concept | TEAM | MEGROW | Phép thử camera: câu mở đầu phải mô tả hành vi quan sát được, không dán nhãn lên con người |
+| `CON-011` | Ba cấp độ lắng nghe (Three levels of listening) | concept | TEAM, SELF | MEGROW | Ba cấp độ nghe — sự kiện, cảm xúc, trực giác; câu hỏi mở giúp người kia tự tạo nhận thức |
+| `CON-012` | Vấn đề của tổ chức khoác áo vấn đề của nhân viên (Organisational problems disguised as employee problems) | concept | TEAM, ORG | MEGROW | Vấn đề tổ chức thường ngụy trang thành vấn đề nhân viên: quy trình kém, thiếu nguồn lực, ưu tiên không rõ |
+| `CON-013` | Tự nhận thức và tự quản lý cảm xúc (Self-awareness and self-management) | concept | SELF, TEAM | MEGROW | Tự nhận thức giúp nhận ra mình đang cảm thấy gì; tự quản lý quyết định làm gì với điều đó |
 
 ## Framework (FW)
 
@@ -355,9 +359,20 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-020` | Thang Suy luận (The Ladder of Inference) | framework | ORG, TEAM | MEGROW | Argyris: năm nấc từ dữ liệu tới kết luận; kết luận đối nghịch thường do chọn tập dữ liệu khác nhau |
 | `FW-021` | Hỏi trước, trình bày sau (Inquiry before Advocacy) | framework | ORG, TEAM | MEGROW | Seek first to understand: hỏi về intentions, resources, situation của họ trước khi trình bày của mình |
 | `FW-022` | Chuỗi sáu chặng làm việc với stakeholder (MAP - PRIORITISE - TRUST - INFLUENCE - ALIGN - ACT) | framework | ORG | MEGROW | Khung tổng hợp Topic 12: MAP → PRIORITISE → TRUST → INFLUENCE → ALIGN → ACT, mỗi chặng một công cụ |
+| `FW-023` | Khung chẩn đoán AMO (The AMO Framework) | framework | TEAM, SELF | MEGROW | Ability · Motivation · Opportunity — chẩn đoán vì sao hiệu suất đi xuống, đừng vội quy kết thái độ |
+| `FW-024` | Quy trình hội thoại SAIL (SAIL - the underperformance conversation) | framework | TEAM | MEGROW | State the gap → Ask → Identify root causes (AMO) → Launch actions; kết bằng thỏa thuận phục hồi hiệu suất |
+| `FW-025` | Bốn bước sửa hành vi (NOTICE - CONVERSE - COACH - HOLD ACCOUNTABLE) | framework | TEAM, SELF | MEGROW | Bốn bước sửa hành vi; clarity + curiosity + follow-through |
+| `FW-026` | Phép thử Năm Tác động (The 5-Impact Test) | framework | TEAM | MEGROW | Năm loại tác động — Performance, People, Culture, Trust, Policy/Ethics — quyết định có nên lên tiếng không |
+| `FW-027` | Bốn kiểu quản lý khi coaching (The Four Manager Types) | framework | TEAM, SELF | MEGROW | Teacher · Always-On · Cheerleader · Connector, kèm ba huyền thoại giữ Always-On luôn bật |
+| `FW-028` | Chẩn đoán nguyên nhân gốc theo năm lăng kính (Root-cause diagnosis - five lenses) | framework | TEAM | MEGROW | Knowledge · Skills · Motivation · Career · Environment — tìm nguyên nhân, không tìm triệu chứng |
+| `FW-029` | Thang đo Mức sẵn sàng phát triển (Employee Development Readiness Assessment) | framework | TEAM | MEGROW | Năm phát biểu chấm 1–5: 5–11 vai trò hiện tại · 12–18 stretch · 19–25 luân chuyển hoặc thăng chức |
+| `FW-030` | Lộ trình D–R–C (The D-R-C route) | framework | TEAM | MEGROW | Diagnose → Readiness → Coach & Connect; bảo vệ khỏi việc khuyên quá sớm |
+| `FW-031` | EDGE và Lợi thế cạnh tranh cá nhân (EDGE and Personal Competitive Advantage) `needs_review` | framework | SELF, TEAM | MEGROW | Explore → Decode → Generate & test (VRIFA) → Execute, ra một thí nghiệm tăng trưởng 90 ngày |
+| `FW-032` | Connector Manager (The Connector Manager) | framework | TEAM | MEGROW | Hiểu người, coach có chọn lọc, kết nối có chủ đích; năm phẩm chất và ba kết nối Person → Team → Organization |
 | `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
 | `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
+| `FW-025-01` | Ma trận Hỗ trợ × Trách nhiệm (The Support x Accountability matrix) | framework | TEAM | MEGROW | Ma trận hỗ trợ × trách nhiệm: tránh ba ô Avoidance, Supportive-but-unclear, Command/compliance |
 
 ## Vấn đề (PRB)
 
@@ -367,6 +382,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team (Designing the team's way of working and decision process) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
 | `PRB-004` | Chuyển dịch từ người làm chuyên môn sang người quản lý (Moving from individual contributor to manager) | problem | SELF | MEGROW | Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi |
 | `PRB-005` | Giao việc và phát triển theo năng lực từng người (Delegating and developing according to each person's capability) | problem | TEAM | MEGROW | Ưu tiên **Cao**. Giao rồi vẫn phải làm lại, người giỏi gánh hết, không biết giao đến đâu thì vừa |
+| `PRB-006` | Feedback, coaching và trao đổi về hiệu suất (Feedback, coaching and performance conversations) | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Góp ý rồi không đổi, ngại nói thẳng, coach nhiều mà team vẫn phụ thuộc |
 | `PRB-007` | Động lực, gắn kết và giữ người (Motivation, engagement and retention) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
 | `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức (Managing upward and linking to organisational strategy) `needs_review` | problem | ORG | MEGROW | Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì |
 | `PRB-010` | Xung đột trong team hoặc giữa các team (Conflict within or between teams) `needs_review` | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp |
@@ -383,7 +399,10 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | ID | Tiêu đề | Loại | Level | Khóa | Tóm tắt 1 dòng |
 |---|---|---|---|---|---|
 | `TOP-MEGROW-01` | Điều hướng bước chuyển sang vai trò lãnh đạo (Navigating the Leadership Transition) | topic | SELF, TEAM | MEGROW | Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày |
+| `TOP-MEGROW-04` | Thực hành hội thoại về hiệu suất với khung AMO (Practise Performance Conversations with the AMO Framework) | topic | SELF, TEAM | MEGROW | Từ đánh giá quá khứ sang quản trị hiệu suất bền vững; AMO chẩn đoán, SAIL dẫn cuộc trò chuyện |
 | `TOP-MEGROW-06` | Giao việc và trách nhiệm trong team tốc độ cao (Delegation & Accountability in Fast-Paced Teams) `needs_review` | topic | TEAM, SELF | MEGROW | Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức |
+| `TOP-MEGROW-08` | Sửa hành vi thông qua coaching (Correcting Behaviour Through Coaching) | topic | TEAM, SELF | MEGROW | Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE |
+| `TOP-MEGROW-09` | Coaching để đạt hiệu suất cao (Coaching for High Performance) | topic | TEAM | MEGROW | Coach nhiều hơn không làm nhân viên giỏi hơn; Connector Manager và lộ trình D–R–C |
 | `TOP-MEGROW-10` | Điều chỉnh phong cách lãnh đạo (Adapt Your Leadership Style) | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
 | `TOP-MEGROW-12` | Ảnh hưởng tới các bên liên quan và lãnh đạo trong công nghệ (Stakeholder Influence & Leadership in Technology) | topic | ORG | MEGROW | Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày |
 | `TOP-MEGROW-14` | Ra quyết định trong nhóm liên chức năng (Decision Making in Cross-functional Teams) | topic | ORG, TEAM | MEGROW | Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau |
@@ -432,7 +451,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dùng framework nào?"*
 
-**Trạng thái:** 8 chunk `PRB`, 25 chunk `FW` và 9 chunk `CON` đã tạo (từ Topic 01, 06, 10, 12, 14, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
+**Trạng thái:** 9 chunk `PRB`, 36 chunk `FW` và 13 chunk `CON` đã tạo (từ Topic 01, 04, 06, 08, 09, 10, 12, 14, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
 | Vấn đề | Mức | Chunk PRB | Trạng thái |
 |---:|---|---|---|
@@ -440,12 +459,12 @@ Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dù
 | 2 | Cao | `PRB-002` | ✅ đã có |
 | 3 | Cao | `PRB-003` | ✅ một phần (Topic 06, 10, 14) |
 | 4 | Cao | `PRB-004` | ✅ đã có |
-| 5 | Cao | `PRB-005` | ✅ đã có |
-| 6 | Trung bình | — | chờ Topic 04, 08, 09 |
-| 7 | Trung bình | `PRB-007` | ✅ một phần (Topic 06) |
+| 5 | Cao | `PRB-005` | ✅ đã có (T01, 06, 09, 10) |
+| 6 | Trung bình | `PRB-006` | ✅ đã có |
+| 7 | Trung bình | `PRB-007` | ✅ một phần (Topic 06, 09) |
 | 8 | Trung bình | `PRB-008` | ✅ một phần (Topic 19, 12) |
 | 9 | Thấp | — | chờ Topic 13 |
-| 10 | Thấp | `PRB-010` | ✅ một phần (Topic 12, 14) |
+| 10 | Thấp | `PRB-010` | ✅ một phần (Topic 08, 12, 14) |
 | 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).
@@ -519,9 +538,10 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Watkins (2013) First 90 Days · STARS · Break-even point · 12 hành động | T1 | `FW-003` |
 | IC → Manager mindset shift | T1, T2, T8 | `CON-001` (phần T1) |
 | Expert bias · 5-Step Bias Self-Audit · Audit Mindset | T3 | _chưa có_ |
+| Tự nhận thức và tự quản lý cảm xúc | T8 | `CON-013` |
 | Knowledge–Behaviour Gap Model (Knowledge → Acceptance → Intention → Behaviour) | T5, T6 | _chưa có_ |
 | FranklinCovey Time Matrix · Eisenhower Matrix · GTD · Human Artificial Intelligence (HAI) | T5 | _chưa có_ |
-| Self-awareness & Self-management (Emotional Intelligence) | T8, T11 | _chưa có_ |
+| Self-awareness & Self-management (Emotional Intelligence) | T8, T11 | `CON-013` (phần T8) |
 
 ### `PRB-005` · 5. Giao việc và phát triển theo năng lực từng người
 *Trao quyền cho Senior, hướng dẫn DS, phạm vi rõ cho collaborator.*
@@ -535,8 +555,9 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Vroom–Yetton–Jago Model — mức tham gia vào quyết định | T10 | `FW-006` |
 | Delegate outcomes not tasks · Accountability = clarity + ownership + follow-through · Empower without micromanaging | T6 | `CON-004`, `CON-003`, `CON-005` |
 | Theory of Psychological Ownership (5 thành tố) | T6 | `FW-009` |
-| Employee Development Readiness Assessment · Chẩn đoán 5 nguyên nhân gốc (Knowledge · Skills · Motivation · Career · Environment) | T9 | _chưa có_ |
-| EDGE (Explore · Decode · Generate · Execute) · Personal Competitive Advantage | T9 | _chưa có_ |
+| Chẩn đoán 5 nguyên nhân gốc (Knowledge · Skills · Motivation · Career · Environment) | T9 | `FW-028` |
+| Employee Development Readiness Assessment | T9 | `FW-029` |
+| EDGE · Personal Competitive Advantage · VRIFA | T9 | `FW-031` |
 
 ---
 
@@ -544,20 +565,24 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 
 Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 
-### PRB-? · 6. Feedback, coaching và trao đổi về hiệu suất
+### `PRB-006` · 6. Feedback, coaching và trao đổi về hiệu suất
 **Level:** TEAM
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| AMO Framework (Ability · Motivation · Opportunity) | T4 | _chưa có_ |
-| SAIL (State the gap · Ask and understand · Identify root causes · Launch improvement actions) | T4 | _chưa có_ |
-| NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE | T8 | _chưa có_ |
-| 5-Impact Test (phỏng theo SBI của CCL) — quyết định có nên xử lý hành vi hay không | T8 | _chưa có_ |
-| Ba cấp độ lắng nghe (factual · emotional · ...) · Observation vs judgement · Intention ≠ impact | T8 | _chưa có_ |
-| Ma trận Support × Accountability | T8 | _chưa có_ |
-| Bốn kiểu quản lý: Teacher · Always-On · Cheerleader · Connector · Ba huyền thoại của Always-On | T9 | _chưa có_ |
-| Lộ trình D–R–C (Diagnose → Readiness → Coach & Connect) | T9 | _chưa có_ |
-| T-GROW coaching model (Topic · Goal · Reality · Options · Will) | T18 | _chưa có_ |
+| AMO Framework (Ability · Motivation · Opportunity) | T4 | `FW-023` |
+| SAIL (State the gap · Ask · Identify root causes · Launch actions) | T4 | `FW-024` |
+| Vấn đề tổ chức khoác áo vấn đề nhân viên | T4 | `CON-012` |
+| NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE | T8 | `FW-025` |
+| 5-Impact Test (phỏng theo SBI của CCL) | T8 | `FW-026` |
+| Ba cấp độ lắng nghe (factual · emotional · intuitive) | T8 | `CON-011` |
+| Observation vs judgement · camera test | T8 | `CON-010` |
+| Tự nhận thức và tự quản lý cảm xúc | T8 | `CON-013` |
+| Ma trận Support × Accountability | T8 | `FW-025-01` |
+| Bốn kiểu quản lý và ba huyền thoại của Always-On | T9 | `FW-027` |
+| Connector Manager — 5 phẩm chất, 3 kết nối | T9 | `FW-032` |
+| Lộ trình D–R–C (Diagnose → Readiness → Coach & Connect) | T9 | `FW-030` |
+| T-GROW coaching model | T18 | _chưa có_ |
 
 ### `PRB-007` · 7. Động lực, gắn kết và giữ người
 **Level:** TEAM
@@ -566,8 +591,8 @@ Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 |---|---|---|
 | McClelland — Need for Achievement / Affiliation / Power | T11 | _chưa có_ |
 | Alderfer ERG Theory (Existence · Relatedness · Growth) | T11 | _chưa có_ |
-| Ba kết nối của Connector Manager: Employee · Team · Organisation | T9 | _chưa có_ |
-| Personal Competitive Advantage · EDGE growth strategy | T9 | _chưa có_ |
+| Ba kết nối của Connector Manager: Employee · Team · Organisation | T9 | `FW-032` |
+| Personal Competitive Advantage · EDGE growth strategy | T9 | `FW-031` |
 | Apprenticeship Gap · EEE diagnostic (Environment · Equipping · Experience) | T18 | _chưa có_ |
 | Social influence levers (Socium 7) | T6 | `FW-008` |
 
@@ -631,7 +656,7 @@ Yêu cầu: tạo `PRB` khi khóa học có nội dung liên quan. **Cả ba v�
 
 Chưa phát hiện vấn đề nào trong 11 vấn đề **không có** framework ứng viên nào trong MEGROW. Sẽ xác nhận lại sau khi xử lý hết 20 topic và ghi vào `open_questions.md` nếu có khoảng trống thật.
 
-**Đã xác nhận sau khi xử lý Topic 01, 06, 10:** mọi framework ứng viên liệt kê cho ba topic này đều có thật trong tài liệu — không có mục nào phải gỡ. Phát hiện thêm hai framework không có trong danh sách ứng viên ban đầu: **Human Artificial Intelligence (HAI)** và **Theory of Psychological Ownership**, cả hai từ Topic 06.
+**Đã xác nhận sau khi xử lý 9 topic:** mọi framework ứng viên liệt kê cho các topic này đều có thật trong tài liệu — không mục nào phải gỡ. Phát hiện thêm sáu framework không có trong danh sách ứng viên ban đầu: **HAI** và **Theory of Psychological Ownership** (Topic 06), **chuỗi sáu chặng MAP→ACT** (Topic 12), **Action titles và skim test** (Topic 19), **Connector Manager** và **lộ trình D–R–C** (Topic 09).
 
 Lưu ý riêng cho bối cảnh người dùng: MEGROW không có nội dung chuyên biệt về **quản lý cộng tác viên (collaborator)** — nhân sự không chính thức, mức gắn kết khác nhân viên chính thức. Khả năng cần `[BỔ SUNG]` khi viết `PB` cho vấn đề số 5. Xem `open_questions.md` (OQ-005).
 
@@ -643,7 +668,7 @@ Lưu ý riêng cho bối cảnh người dùng: MEGROW không có nội dung chu
 
 Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng Việt. Mỗi chunk vẫn phải tự giải thích thuật ngữ ở lần xuất hiện đầu tiên (CLAUDE.md §5.3) — glossary này là bảng tra cứu chung, không thay thế việc đó.
 
-**Trạng thái:** thuật ngữ từ Topic 01, 06, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
+**Trạng thái:** thuật ngữ từ Topic 01, 04, 06, 08, 09, 10, 12, 14 và 19 đã được thêm. Các topic còn lại sẽ bổ sung khi xử lý; tên framework ứng viên xem ở `problem_index.md`.
 
 ## Thuật ngữ vận hành kho tri thức
 
@@ -750,3 +775,33 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Reasons / Chain | Lý do / chuỗi | "và thêm nữa" cho các trụ; "do đó" bên trong một trụ | `FW-019` |
 | Action title | Tiêu đề nêu kết luận | Tiêu đề slide nêu kết luận, không nêu chủ đề | `FW-019-01` |
 | Skim test | Phép thử lướt | Đọc riêng tiêu đề các slide; nếu kể được trọn câu chuyện thì lập luận đứng vững | `FW-019-01` |
+
+### Hội thoại về hiệu suất và hành vi (Topic 04, 08)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| AMO | Năng lực – Động lực – Cơ hội | Ba nhánh chẩn đoán vì sao hiệu suất đi xuống | `FW-023` |
+| Sustainable performance management | Quản trị hiệu suất bền vững | Đảm bảo nhân viên làm tốt lâu dài mà không kiệt sức, mất gắn kết, hổng năng lực hay gặp rào cản tổ chức | `TOP-MEGROW-04` |
+| SAIL | Nêu – Hỏi – Xác định – Khởi động | State the gap · Ask and understand · Identify root causes · Launch improvement actions | `FW-024` |
+| Performance recovery agreement | Thỏa thuận phục hồi hiệu suất | Chốt kỳ vọng, hỗ trợ, thời hạn và mốc theo dõi | `FW-024` |
+| Camera test | Phép thử camera | Camera có ghi lại được đúng điều bạn đang mô tả không? Nếu không, đó là nhãn dán | `CON-010` |
+| 5-Impact Test | Phép thử năm tác động | Performance · People · Culture · Trust · Policy/Ethics | `FW-026` |
+| SBI | Situation–Behavior–Impact | Khung phản hồi của Center for Creative Leadership, nền của 5-Impact Test | `FW-026` |
+| Intention ≠ impact | Ý định khác tác động | Ghi nhận ý định rồi chuyển trọng tâm sang tác động, không tranh cãi "có cố ý hay không" | `FW-025` |
+| Factual / emotional / intuitive listening | Nghe sự kiện / cảm xúc / trực giác | Ba cấp độ lắng nghe, mỗi cấp cho một mục đích | `CON-011` |
+| Self-awareness / Self-management | Tự nhận thức / tự quản lý | Nhận ra mình đang cảm thấy gì; quyết định làm gì với điều đó | `CON-013` |
+
+### Coaching và phát triển con người (Topic 09)
+
+| Tiếng Anh | Tiếng Việt | Định nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Teacher / Always-On / Cheerleader / Connector | Bốn kiểu quản lý khi coaching | Bốn cách tiếp cận coaching, mỗi kiểu tạo trải nghiệm phát triển khác nhau | `FW-027` |
+| Connector Manager | Quản lý kiểu kết nối | Hiểu người, coach có chọn lọc, kết nối tới nguồn khác — *phát triển là một mạng lưới* | `FW-032` |
+| Judicious generosity | Hào phóng có kỷ luật | Chia sẻ công trạng, thông tin, quyền tiếp cận — nhưng **kết nối chứ không giải cứu** | `FW-032` |
+| KSMCE | Năm lăng kính chẩn đoán | Knowledge · Skills · Motivation · Career · Environment | `FW-028` |
+| Development readiness | Mức sẵn sàng phát triển | Thang 5 mục, 5–25 điểm, quyết định quy mô bước phát triển kế tiếp | `FW-029` |
+| Right-size the stretch | Vừa đủ thử thách | Phát triển nên thử thách, không làm quá tải hay bỏ phí | `FW-029` |
+| D–R–C | Chẩn đoán – Sẵn sàng – Coach & Kết nối | Lộ trình ba chặng bảo vệ khỏi việc khuyên quá sớm | `FW-030` |
+| EDGE | Explore – Decode – Generate – Execute | Bốn chặng biến phản tư thành chiến lược tăng trưởng cá nhân | `FW-031` |
+| VRIFA | Năm phép thử lợi thế cá nhân | Valuable · Rare · Inimitable · Future-relevant · Authentic | `FW-031` |
+| Professional signature | Dấu ấn nghề nghiệp | *"Khi người ta cần ______, tôi muốn họ nghĩ tới tôi."* | `FW-031` |

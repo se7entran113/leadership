@@ -4,19 +4,19 @@ Mọi trang slide của **các topic đã xử lý** phải xuất hiện ở đ
 
 Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide_inventory.md`. File này chỉ theo dõi **độ phủ**.
 
-**Trạng thái: 6 / 20 topic đã xử lý. Độ phủ 231 / 805 trang (28.7%).**
+**Trạng thái: 9 / 20 topic đã xử lý. Độ phủ 375 / 805 trang (46.6%).**
 
 | Khóa | Topic | File | Tổng trang | Đã ánh xạ | Không có nội dung | Độ phủ | Trạng thái |
 |---|---:|---|---:|---:|---:|---:|---|
 | MEGROW | 1 | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | 21 | 4 | 100% | đã xử lý |
 | MEGROW | 2 | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 3 | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 4 | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 4 | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | 32 | 14 | 100% | đã xử lý |
 | MEGROW | 5 | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 6 | `Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf` | 69 | 57 | 12 | 100% | đã xử lý |
 | MEGROW | 7 | `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf` | 43 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 8 | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
-| MEGROW | 9 | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 8 | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | 33 | 11 | 100% | đã xử lý |
+| MEGROW | 9 | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | 45 | 9 | 100% | đã xử lý |
 | MEGROW | 10 | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | 32 | 6 | 100% | đã xử lý |
 | MEGROW | 11 | `Topic 11 - Customise Approach for Individuals - Gavin Nicholson-1.pdf` | 45 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 12 | `Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf` | 41 | 36 | 5 | 100% | đã xử lý |
@@ -30,7 +30,7 @@ Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide
 | MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 19 | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | 24 | 9 | 100% | đã xử lý |
 | MEGROW | 20 | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | 0 | 0 | 0% | chưa xử lý |
-| | | **Tổng** | **805** | **189** | **42** | **28.7%** | 6/20 topic |
+| | | **Tổng** | **805** | **299** | **76** | **46.6%** | 9/20 topic |
 
 ---
 
@@ -309,6 +309,165 @@ Mỗi trang của topic đã xử lý ánh xạ tới chunk chứa nội dung tr
 | 32 | `TOP-MEGROW-19` |
 | 33 | không có nội dung kiến thức (danh mục nguồn) |
 
+### Topic 04 — `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa, giới thiệu, mục tiêu) |
+| 2 | không có nội dung kiến thức (bìa, giới thiệu, mục tiêu) |
+| 3 | không có nội dung kiến thức (bìa, giới thiệu, mục tiêu) |
+| 4 | không có nội dung kiến thức (ảnh minh họa) |
+| 5 | `TOP-MEGROW-04` |
+| 6 | `TOP-MEGROW-04` |
+| 7 | không có nội dung kiến thức (video minh họa) |
+| 8 | `TOP-MEGROW-04` |
+| 9 | không có nội dung kiến thức (video minh họa) |
+| 10 | `FW-023` |
+| 11 | `FW-023` |
+| 12 | `CON-012` |
+| 13 | `CON-012` |
+| 14 | `FW-023` |
+| 15 | `TOP-MEGROW-04` |
+| 16 | không có nội dung kiến thức (video minh họa) |
+| 17 | `FW-023` |
+| 18 | `FW-023` |
+| 19 | `FW-023` |
+| 20 | không có nội dung kiến thức (video minh họa) |
+| 21 | `FW-023` |
+| 22 | `FW-024` |
+| 23 | `FW-024` |
+| 24 | `FW-024` |
+| 25 | `FW-024` |
+| 26 | không có nội dung kiến thức (video minh họa) |
+| 27 | `FW-024` |
+| 28 | `FW-024` |
+| 29 | `FW-024` |
+| 30 | `FW-024` |
+| 31 | `FW-024` |
+| 32 | `FW-024` |
+| 33 | `FW-024` |
+| 34 | `FW-024` |
+| 35 | `FW-024` |
+| 36 | `TOP-MEGROW-04` |
+| 37 | không có nội dung kiến thức (ảnh giải thưởng RMIT) |
+| 38 | không có nội dung kiến thức (ảnh giải thưởng RMIT) |
+| 39 | `TOP-MEGROW-04` |
+| 40 | `TOP-MEGROW-04` |
+| 41 | không có nội dung kiến thức (divider) |
+| 42 | `TOP-MEGROW-04` |
+| 43 | `TOP-MEGROW-04` |
+| 44 | `TOP-MEGROW-04` |
+| 45 | không có nội dung kiến thức (ảnh trang trí) |
+| 46 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 08 — `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-08` |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | không có nội dung kiến thức (giới thiệu giảng viên) |
+| 5 | không có nội dung kiến thức (quy ước lớp học) |
+| 6 | không có nội dung kiến thức (divider) |
+| 7 | `FW-025` |
+| 8 | `FW-026` |
+| 9 | `FW-026` |
+| 10 | `FW-026` |
+| 11 | không có nội dung kiến thức (divider) |
+| 12 | `CON-010` |
+| 13 | `CON-010` |
+| 14 | không có nội dung kiến thức (divider) |
+| 15 | `CON-013` |
+| 16 | `CON-013` |
+| 17 | `CON-013` |
+| 18 | `CON-013` |
+| 19 | `CON-013` |
+| 20 | `CON-013` |
+| 21 | `CON-013` |
+| 22 | `CON-013` |
+| 23 | `CON-013` |
+| 24 | `CON-013` |
+| 25 | `CON-013` |
+| 26 | `CON-013` |
+| 27 | `CON-013` |
+| 28 | `CON-010` |
+| 29 | không có nội dung kiến thức (divider) |
+| 30 | `FW-025` |
+| 31 | `FW-025` |
+| 32 | `FW-025` |
+| 33 | `CON-011` |
+| 34 | `CON-011` |
+| 35 | `CON-011` |
+| 36 | không có nội dung kiến thức (divider) |
+| 37 | `FW-025-01` |
+| 38 | `FW-025` |
+| 39 | `FW-025` |
+| 40 | `FW-025` |
+| 41 | `FW-025` |
+| 42 | `TOP-MEGROW-08` |
+| 43 | không có nội dung kiến thức (danh mục nguồn) |
+| 44 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 09 — `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | không có nội dung kiến thức (khung buổi học) |
+| 3 | không có nội dung kiến thức (giới thiệu giảng viên) |
+| 4 | `TOP-MEGROW-09` |
+| 5 | không có nội dung kiến thức (mục tiêu học tập) |
+| 6 | `FW-027` |
+| 7 | `FW-027` |
+| 8 | `FW-027` |
+| 9 | `FW-027` |
+| 10 | `FW-027` |
+| 11 | `FW-027` |
+| 12 | `FW-027` |
+| 13 | `FW-027` |
+| 14 | `FW-027` |
+| 15 | `FW-027` |
+| 16 | không có nội dung kiến thức (giải lao) |
+| 17 | `FW-032` |
+| 18 | `FW-032` |
+| 19 | `FW-032` |
+| 20 | `FW-032` |
+| 21 | `FW-032` |
+| 22 | `FW-032` |
+| 23 | `FW-032` |
+| 24 | `FW-032` |
+| 25 | `FW-032` |
+| 26 | `FW-032` |
+| 27 | `FW-032` |
+| 28 | `FW-032` |
+| 29 | `FW-032` |
+| 30 | không có nội dung kiến thức (giải lao) |
+| 31 | `FW-028` |
+| 32 | `FW-028` |
+| 33 | `FW-028` |
+| 34 | `FW-028` |
+| 35 | `FW-029` |
+| 36 | `FW-029` |
+| 37 | `FW-031` |
+| 38 | `FW-031` |
+| 39 | không có nội dung kiến thức (giải lao) |
+| 40 | `FW-030` |
+| 41 | `FW-030` |
+| 42 | `FW-030` |
+| 43 | `FW-030` |
+| 44 | `FW-030` |
+| 45 | `FW-030` |
+| 46 | `FW-030` |
+| 47 | `FW-030` |
+| 48 | `FW-030` |
+| 49 | `FW-030` |
+| 50 | `FW-032` |
+| 51 | `TOP-MEGROW-09` |
+| 52 | `TOP-MEGROW-09` |
+| 53 | không có nội dung kiến thức (danh mục nguồn) |
+| 54 | không có nội dung kiến thức (lời cảm ơn) |
+
 ### Các topic chưa xử lý
 
-Bảng chi tiết được thêm cho từng topic ngay khi topic đó được xử lý. 14 topic còn lại chưa có.
+Bảng chi tiết được thêm cho từng topic ngay khi topic đó được xử lý. 11 topic còn lại chưa có.

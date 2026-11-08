@@ -47,3 +47,22 @@ TOP-MEGROW-10	Bốn hoạt động trải nghiệm để tự rút ra Situationa
 TOP-MEGROW-12	Bảy lý thuyết ghép thành chuỗi sáu chặng MAP→ACT, đầu ra là chiến lược stakeholder 90 ngày
 TOP-MEGROW-14	Một bài tập đóng vai BCPC; vì sao các nhóm cùng dữ liệu lại ra quyết định khác nhau
 TOP-MEGROW-19	Ba công cụ cho ba câu hỏi của người quyết: SCQA, Pyramid Principle, Stakeholder Mapping
+CON-010	Phép thử camera: câu mở đầu phải mô tả hành vi quan sát được, không dán nhãn lên con người
+CON-011	Ba cấp độ nghe — sự kiện, cảm xúc, trực giác; câu hỏi mở giúp người kia tự tạo nhận thức
+CON-012	Vấn đề tổ chức thường ngụy trang thành vấn đề nhân viên: quy trình kém, thiếu nguồn lực, ưu tiên không rõ
+CON-013	Tự nhận thức giúp nhận ra mình đang cảm thấy gì; tự quản lý quyết định làm gì với điều đó
+FW-023	Ability · Motivation · Opportunity — chẩn đoán vì sao hiệu suất đi xuống, đừng vội quy kết thái độ
+FW-024	State the gap → Ask → Identify root causes (AMO) → Launch actions; kết bằng thỏa thuận phục hồi hiệu suất
+FW-025	Bốn bước sửa hành vi; clarity + curiosity + follow-through
+FW-025-01	Ma trận hỗ trợ × trách nhiệm: tránh ba ô Avoidance, Supportive-but-unclear, Command/compliance
+FW-026	Năm loại tác động — Performance, People, Culture, Trust, Policy/Ethics — quyết định có nên lên tiếng không
+FW-027	Teacher · Always-On · Cheerleader · Connector, kèm ba huyền thoại giữ Always-On luôn bật
+FW-028	Knowledge · Skills · Motivation · Career · Environment — tìm nguyên nhân, không tìm triệu chứng
+FW-029	Năm phát biểu chấm 1–5: 5–11 vai trò hiện tại · 12–18 stretch · 19–25 luân chuyển hoặc thăng chức
+FW-030	Diagnose → Readiness → Coach & Connect; bảo vệ khỏi việc khuyên quá sớm
+FW-031	Explore → Decode → Generate & test (VRIFA) → Execute, ra một thí nghiệm tăng trưởng 90 ngày
+FW-032	Hiểu người, coach có chọn lọc, kết nối có chủ đích; năm phẩm chất và ba kết nối Person → Team → Organization
+PRB-006	Ưu tiên **Trung bình**. Góp ý rồi không đổi, ngại nói thẳng, coach nhiều mà team vẫn phụ thuộc
+TOP-MEGROW-04	Từ đánh giá quá khứ sang quản trị hiệu suất bền vững; AMO chẩn đoán, SAIL dẫn cuộc trò chuyện
+TOP-MEGROW-08	Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE
+TOP-MEGROW-09	Coach nhiều hơn không làm nhân viên giỏi hơn; Connector Manager và lộ trình D–R–C

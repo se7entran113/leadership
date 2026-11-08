@@ -69,7 +69,7 @@ levels: [SELF, TEAM]
 courses: [MEGROW]
 topics: [TOP-MEGROW-01]
 problems_addressed: [PRB-004, PRB-005]
-related_ids: [CON-001, FW-002, FW-003, FW-001, CON-003]
+related_ids: [CON-001, FW-002, FW-003, FW-001, CON-003, CON-013]
 source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 9–13"]
 source_type: course
 confidence: high
@@ -509,3 +509,238 @@ Hai lý do này khác nhau về bản chất: lý do thứ nhất cải thiện 
 
 ## Nguồn
 - `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13]`
+
+=====
+
+---
+id: CON-010
+type: concept
+title_vi: Quan sát thay vì phán xét — phép thử camera
+title_en: Observation not judgement - the camera test
+aliases: [camera test, observation vs judgement, behaviour not person]
+keywords: [góp ý, feedback, câu mở đầu, quan sát được, nhãn dán, phán xét, bạn thiếu chuyên nghiệp, nói thế nào cho không xù lông, mở đầu cuộc trò chuyện khó]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-08]
+problems_addressed: [PRB-006]
+related_ids: [FW-025, FW-026, CON-011, CON-013]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 12–13, 28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Quan sát thay vì phán xét — phép thử camera
+
+## Định nghĩa
+`[KHÓA HỌC]` Nguyên tắc mở đầu một cuộc trò chuyện sửa hành vi (Topic 08 slide 12): **câu đầu tiên thường quyết định cuộc trò chuyện mở ra hay đóng lại.** Chuyển từ nhận xét về **con người** sang mô tả **hành vi quan sát được**.
+
+| PERSON / JUDGEMENT (phán xét về con người) | BEHAVIOUR / OBSERVATION (hành vi quan sát được) |
+|---|---|
+| *"Bạn thiếu tôn trọng và khó làm việc cùng."* | *"Trong cuộc họp hôm nay, bạn đã ngắt lời Lan ba lần khi cô ấy đang trình bày."* |
+
+Rồi **làm chuẩn mực hiện ra**: *"Tôi muốn chúng ta phản biện ý tưởng mạnh mẽ, và tôi kỳ vọng mọi người để đồng nghiệp nói hết rồi phản hồi vào ý tưởng, không phải vào con người."*
+
+`[KHÓA HỌC]` **Camera test** (phép thử camera): *liệu một chiếc camera hay micro có ghi lại được đúng điều bạn đang mô tả không?* Nếu không, bạn đang dùng nhãn dán chứ không phải quan sát.
+
+## Ý nghĩa trong thực tế quản lý
+Một câu mở đầu dạng nhãn dán ("thiếu chuyên nghiệp", "thái độ kém", "khó tính") buộc người nghe phải phòng vệ về *con người họ là ai*. Một câu mô tả hành vi chỉ yêu cầu họ xác nhận một sự việc — và sự việc thì có thể bàn được.
+
+Nguyên tắc này áp dụng cho bước **CONVERSE** của `FW-025`, và lặp lại ở slide 28 khi topic quay lại tổng kết.
+
+## Ví dụ
+`[KHÓA HỌC]` Bài tập *Rewrite the opening* (slide 13): viết lại bốn câu mở đầu thành **quan sát + chuẩn mực**, rồi kiểm theo cặp với ba câu hỏi *có quan sát được không · có sạch nhãn dán không · kỳ vọng đã rõ chưa*:
+
+| Câu gốc |
+|---|
+| *"Bạn có thái độ không tốt."* |
+| *"Mọi người đều thấy bạn khó làm việc cùng."* |
+| *"Bạn chuyên nghiệp hơn được không?"* |
+| *"Bạn lúc nào cũng làm các cuộc họp trở nên khó chịu."* |
+
+`[BỔ SUNG]` Trong team Data Science: thay *"Em làm việc cẩu thả quá"* bằng *"Ba PR gần nhất của em lên production mà chưa chạy test. Chuẩn của team là mọi PR vào production đều phải qua test và review."*
+
+## Liên quan
+- `FW-025` NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE — nguyên tắc này là cách mở bước CONVERSE.
+- `FW-026` 5-Impact Test — quyết định *có nên nói* trước khi quyết định *nói thế nào*.
+- `CON-011` Ba cấp độ lắng nghe — phần sau của cuộc trò chuyện, khi họ đáp lại.
+- `CON-013` Tự nhận thức và tự quản lý — giữ được cảm xúc của chính bạn khi nói câu đó.
+- `FW-020` Ladder of Inference — nhãn dán chính là kết luận ở nấc trên cùng; mô tả hành vi là tụt xuống nấc bằng chứng.
+
+## Nguồn
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 12–13, 28]`
+
+=====
+
+---
+id: CON-011
+type: concept
+title_vi: Ba cấp độ lắng nghe
+title_en: Three levels of listening
+aliases: [factual emotional intuitive listening, lắng nghe, rào cản lắng nghe]
+keywords: [lắng nghe, listening, nghe sự kiện, nghe cảm xúc, nghe trực giác, rào cản lắng nghe, câu hỏi mở, đặt câu hỏi, không nghe mà chỉ chờ nói]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-08]
+problems_addressed: [PRB-006]
+related_ids: [FW-025, CON-010, CON-013, FW-021]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 33–35"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Ba cấp độ lắng nghe (Three levels of listening)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 08 slide 34 phân biệt ba cấp độ lắng nghe, mỗi cấp hữu ích trong một tình huống khác nhau:
+
+| Cấp độ | Nghe cái gì | Hữu ích khi |
+|---|---|---|
+| **1. Factual listening** (nghe sự kiện) | Nghe lấy dữ kiện và thông tin | Làm rõ thỏa thuận hoặc chi tiết |
+| **2. Emotional listening** (nghe cảm xúc) | Nghe cảm xúc, giọng điệu, khoảng lặng, tín hiệu phi ngôn ngữ | Khi thực sự muốn hiểu người đối diện |
+| **3. Intuitive listening** (nghe trực giác) | Chú ý tới cảm nhận bên trong của chính bạn trong cuộc trò chuyện | Khi có gì đó nghe không nhất quán hoặc chưa đầy đủ |
+
+Diễn giải bảng: ba cấp không xếp hạng cao thấp — chúng phục vụ ba mục đích khác nhau. Sai lầm là ở nguyên cấp 1 trong một cuộc trò chuyện vốn cần cấp 2.
+
+`[KHÓA HỌC]` Slide 33 đặt lắng nghe vào khung trí tuệ cảm xúc: *lắng nghe không chỉ là nghe từ ngữ; đó là cách người lãnh đạo thể hiện sự chú ý, tôn trọng và thấu hiểu* (Neale et al., 2009).
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 33 liệt kê **các rào cản lắng nghe thường gặp**: bị phân tâm bởi suy nghĩ của chính mình · đang nghĩ xem sẽ nói gì tiếp · cắt lời · nghe qua nhãn dán hoặc định kiến có sẵn · lái câu chuyện về phía mình · gạt bỏ hoặc coi nhẹ mối bận tâm của người khác · đưa câu trả lời quá nhanh.
+
+`[KHÓA HỌC]` Slide 35 bổ sung phần đặt câu hỏi: **câu hỏi mở hữu ích hơn câu hỏi đóng; câu hỏi đóng thường khiến người ta tiếp tục đóng.** Và câu hỏi không chỉ để lấy thông tin cho mình — nó còn giúp người kia **tự tạo ra nhận thức hữu ích cho chính họ**.
+
+Bốn câu hỏi mở mẫu: *"Bạn đang cảm thấy thế nào về tình huống này?"* · *"Điều gì quan trọng nhất với bạn ở đây?"* · *"Bạn nghĩ điều gì đang làm việc này khó khăn?"* · *"Điều gì sẽ giúp ích nhất lúc này?"*
+
+## Ví dụ
+`[BỔ SUNG]` Một DS nói "em ổn mà, chỉ hơi bận thôi". Nghe ở cấp 1 thì tiếp nhận đúng câu chữ và chuyển chủ đề. Nghe ở cấp 2 nhận ra giọng điệu và khoảng lặng trước câu trả lời. Nghe ở cấp 3 là cảm giác của chính bạn rằng câu trả lời không khớp với những gì bạn quan sát được trong hai tuần qua — tín hiệu để hỏi thêm một câu mở.
+
+## Liên quan
+- `FW-025` — lắng nghe là kỹ năng nền cho bước COACH, và cho bước xử lý khi họ phản ứng ngược (LISTEN → ACKNOWLEDGE → REFOCUS → HOLD).
+- `CON-010` Quan sát thay vì phán xét — "nghe qua nhãn dán" là một trong các rào cản, cùng gốc vấn đề.
+- `CON-013` Tự nhận thức và tự quản lý — "bị phân tâm bởi suy nghĩ của chính mình" là vấn đề tự quản lý.
+- `FW-021` Inquiry before Advocacy — cùng nguyên tắc, áp dụng cho bất đồng liên bộ phận.
+
+## Nguồn
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 33–35]`
+- Trích dẫn trong slide: Neale et al. (2009).
+
+=====
+
+---
+id: CON-012
+type: concept
+title_vi: Vấn đề của tổ chức khoác áo vấn đề của nhân viên
+title_en: Organisational problems disguised as employee problems
+aliases: [work system problem, organisational problems disguised, vấn đề hệ thống]
+keywords: [đổ lỗi cho nhân viên, vấn đề hệ thống, quy trình kém, thiếu nguồn lực, ưu tiên không rõ, quá tải, không phải lỗi của nhân viên, chẩn đoán sai nguyên nhân]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-04]
+problems_addressed: [PRB-006, PRB-003]
+related_ids: [FW-023, FW-024, FW-028, CON-006, CON-003]
+source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5, 12–13, 19"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Vấn đề của tổ chức khoác áo vấn đề của nhân viên
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 04 slide 12 nêu thẳng: **vấn đề của tổ chức thường được ngụy trang thành vấn đề của nhân viên.** Ví dụ trên slide: quy trình kém, hạn chế nguồn lực, ưu tiên không rõ ràng, khối lượng công việc quá mức.
+
+Hệ quả: **người quản lý phải nhìn xa hơn việc đo kết quả hiệu suất, và tìm hiểu các điều kiện hoặc bối cảnh đang tạo điều kiện hoặc cản trở hiệu suất.**
+
+`[KHÓA HỌC]` Slide 13 biến điều này thành một sự chuyển dịch tư duy, bằng cách đổi câu hỏi:
+
+| Câu hỏi cũ | Câu hỏi mới |
+|---|---|
+| *"Làm sao để tôi cải thiện hiệu suất của nhân viên này?"* | *"Điều gì đang giúp hoặc đang cản người này làm tốt nhất?"* |
+
+## Ý nghĩa trong thực tế quản lý
+Câu hỏi cũ giả định nguyên nhân nằm trong con người; câu hỏi mới để ngỏ khả năng nguyên nhân nằm trong hệ thống. Khác biệt này quyết định toàn bộ phần còn lại của cuộc trò chuyện — và quyết định kế hoạch cải thiện nhắm vào đâu.
+
+`[KHÓA HỌC]` Slide 5 đặt nền rộng hơn: **quản trị hiệu suất bền vững tập trung vào việc đảm bảo nhân viên có thể tiếp tục làm việc hiệu quả theo thời gian mà không kiệt sức, mất gắn kết, hổng năng lực, hoặc gặp rào cản từ tổ chức.** Bốn thứ cuối cùng đó — ba cái đầu ở phía con người, cái cuối ở phía tổ chức.
+
+## Ví dụ
+`[KHÓA HỌC]` Ví dụ số 2 của Topic 04 (slide 19): một Product Owner không giao được các mục tiêu roadmap; người quản lý nghĩ hiệu suất đi xuống. Thực tế: **ưu tiên kỹ thuật đổi ba lần; stakeholder business thêm yêu cầu mới hằng tuần.** Slide kết luận thẳng: *"Đây không phải vấn đề hiệu suất của nhân viên. Đây là vấn đề của hệ thống công việc."*
+
+`[BỔ SUNG]` Trong team Data Science: một DS liên tục giao trễ. Nhìn như vấn đề năng lực hoặc kỷ luật. Thực tế là dữ liệu nguồn đổi schema không báo trước, và mỗi lần đổi mất hai ngày sửa pipeline. Không có kế hoạch cải thiện cá nhân nào sửa được điều đó.
+
+## Liên quan
+- `FW-023` AMO — nhánh **Opportunity** chính là chỗ để bắt loại nguyên nhân này.
+- `FW-028` Root-cause 5 lenses — lăng kính **Environment** đóng cùng vai trò, với bộ câu hỏi chi tiết hơn.
+- `FW-024` SAIL — bước **A** (Ask and understand) tồn tại để phát hiện ra nó trước khi sang bước L.
+- `CON-006` Tải nhận thức — quá tải và phụ thuộc chéo là hai dạng cụ thể của vấn đề hệ thống.
+- `CON-003` Responsibility, accountability và decision rights — ưu tiên không rõ và quyền quyết mơ hồ cũng là nguyên nhân hệ thống.
+
+## Nguồn
+- `[MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5, 12–13, 19]`
+
+=====
+
+---
+id: CON-013
+type: concept
+title_vi: Tự nhận thức và tự quản lý cảm xúc
+title_en: Self-awareness and self-management
+aliases: [emotional intelligence, EI, self-awareness, self-management, trí tuệ cảm xúc]
+keywords: [cảm xúc, trí tuệ cảm xúc, emotional intelligence, tự nhận thức, tự quản lý, bình tĩnh dưới áp lực, phản ứng theo thói quen, bực mình với nhân viên, giữ cảm xúc khi nói chuyện khó]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-08]
+problems_addressed: [PRB-006, PRB-004]
+related_ids: [FW-025, CON-010, CON-011]
+source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 14–27"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Tự nhận thức và tự quản lý cảm xúc (Self-awareness and self-management)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 08 đặt một mảng lớn về trí tuệ cảm xúc ngay giữa bước **CONVERSE** của `FW-025`, vì người quản lý phải giữ được cảm xúc của chính mình trong lúc nêu một vấn đề khó.
+
+**Emotions** (cảm xúc, slide 15): phản ứng tâm lý và sinh lý trước những tình huống có ý nghĩa với ta. Cảm xúc là **tín hiệu** về điều ta đang trải qua, **định hình sự chú ý và cách diễn giải**, và **ảnh hưởng tới phản ứng** của ta.
+
+**Emotional Intelligence** (trí tuệ cảm xúc, slide 18): khả năng nhận ra, hiểu, quản lý và sử dụng cảm xúc một cách hiệu quả ở chính mình và trong tương tác với người khác.
+
+Hai nền tảng nội tại (slide 21):
+
+| | Nội dung |
+|---|---|
+| **Self-awareness** (tự nhận thức) | Nhận ra cảm xúc, trực giác và các tín hiệu bên trong — nhận ra mình đang cảm thấy gì ngay lúc đó, nhận diện yếu tố kích hoạt, hiểu cảm xúc biểu hiện ở đâu trên cơ thể |
+| **Self-management** (tự quản lý) | Điều tiết cảm xúc, kiểm soát bốc đồng, phản ứng một cách xây dựng — đặc biệt là dưới áp lực: giữ bình tĩnh, dừng lại trước khi phản ứng, trả lời có suy nghĩ thay vì theo cảm xúc |
+
+Diễn giải bảng: hai thứ gắn chặt nhau — tự nhận thức giúp ta **nhận ra** mình đang cảm thấy gì; tự quản lý quyết định ta **làm gì** với điều đó.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Thông điệp debrief ở slide 17: **cảm xúc luôn hiện diện trong lãnh đạo; trí tuệ cảm xúc bắt đầu từ việc nhận ra chúng trước khi chúng bắt đầu định hình hành vi của ta một cách vô thức.** Slide 20 bổ sung: **trí tuệ cảm xúc trở nên hữu hình qua cách người lãnh đạo phản ứng, giao tiếp và gây ảnh hưởng trong các tình huống thực.**
+
+`[KHÓA HỌC]` Slide 27 nêu hệ quả hai chiều. **Thiếu** tự nhận thức và tự quản lý, người lãnh đạo có thể: phản ứng theo thói quen thay vì có suy nghĩ · để sự bực bội, nỗi sợ hoặc tính phòng vệ dẫn dắt hành vi · làm giảm niềm tin, sự rõ ràng và hiệu quả.
+
+## Ví dụ
+`[KHÓA HỌC]` Bài tập **Emotion Check-In** (slide 16): nghĩ về một tình huống công việc gần đây mà bạn đã có cảm xúc mạnh trong vai trò lãnh đạo hoặc đồng nghiệp — có thể là bực bội, áp lực, thất vọng, tự hào, lo âu hoặc hào hứng — rồi phản tư về nó.
+
+`[KHÓA HỌC]` Bài tập **Self-Awareness Through Emotional Reflection** (slide 23): xem video nhưng **không chỉ tập trung vào dữ kiện của tình huống — chú ý tới phản ứng cảm xúc của chính bạn**. Bốn câu hỏi sau khi xem: *Tôi đang cảm thấy cảm xúc gì ngay lúc này? · Điều gì đang kích hoạt phản ứng này trong tôi? · ...*
+
+`[BỔ SUNG]` Trước khi vào một cuộc 1:1 khó: ghi ra một dòng "mình đang thấy gì" (bực vì đã nhắc hai lần rồi) — chính việc gọi tên đó đã giảm khả năng nó rò rỉ vào câu mở đầu.
+
+## Liên quan
+- `FW-025` — toàn bộ phần này nằm trong bước CONVERSE: *"Ở giai đoạn này, cũng hãy cố quản lý cảm xúc của bạn"* (slide 14).
+- `CON-010` Quan sát thay vì phán xét — cảm xúc không được quản lý sẽ rò rỉ ra thành nhãn dán trong câu mở đầu.
+- `CON-011` Ba cấp độ lắng nghe — "bị phân tâm bởi suy nghĩ của chính mình" là một rào cản thuộc về tự quản lý; cấp độ nghe trực giác lại dựa trên tự nhận thức.
+- `[SUY LUẬN]` Topic 11 cũng có nội dung về self-awareness và relationship management; sẽ gộp nguồn khi xử lý topic đó.
+
+## Nguồn
+- `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 14–27]`

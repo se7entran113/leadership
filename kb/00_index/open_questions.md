@@ -55,6 +55,8 @@ Người dùng nêu rõ: *"This is a user-approved knowledge taxonomy, not a ver
 
 18 deck còn lại hoặc khớp (Topic 1, 2, 7, 8, 9, 17, 18) hoặc không in số topic lên bìa.
 
+**Cập nhật 2026-11-08** (sau khi xử lý Topic 04): nội dung deck Topic 04 nhắc tới *"audited mindset"* ở slide 10 — thuật ngữ lõi của Topic 03 (Audit Mindset & Biases) — và Topic 03 slide 28 kết bằng *"Sáng nay bạn đã kiểm toán phán đoán. Chiều nay bạn thực hành cuộc trò chuyện."* Hai deck vì vậy **diễn ra cùng một ngày, Topic 03 buổi sáng và Topic 04 buổi chiều**. Điều này củng cố thứ tự 3 → 4 theo tên file, và cho thấy số in trên bìa hai deck nhiều khả năng là sót từ bản nháp trước.
+
 **Quyết định tạm thời.** Lấy **số trong tên file** làm chuẩn, vì nó nhất quán cho cả 20 topic và khớp thứ tự chương trình được Topic 17 slide 38 xác nhận (Topic 17 sáng → Topic 18 chiều → Topic 19 tuần 11 sáng → Topic 20 Capstone).
 
 **Cần người dùng.** Xác nhận số topic đúng của hai buổi này theo lịch học thực tế. Nếu tên file sai thì **không đổi tên file trong `raw/`** (CLAUDE.md §12) — chỉ ghi chú lại trong `topic_map.md`.

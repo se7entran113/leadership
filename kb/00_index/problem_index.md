@@ -2,7 +2,7 @@
 
 Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dùng framework nào?"*
 
-**Trạng thái:** 8 chunk `PRB`, 25 chunk `FW` và 9 chunk `CON` đã tạo (từ Topic 01, 06, 10, 12, 14, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
+**Trạng thái:** 9 chunk `PRB`, 36 chunk `FW` và 13 chunk `CON` đã tạo (từ Topic 01, 04, 06, 08, 09, 10, 12, 14, 19). Với các vấn đề đã có chunk `PRB`, **chunk đó là nguồn chính** — bảng ở đây chỉ là mục lục. Với các vấn đề còn lại, cột **Framework ứng viên** vẫn là `[SUY LUẬN]` nhận diện từ tiêu đề trang khi lập inventory, **chưa đọc nội dung chi tiết, chưa kiểm chứng**.
 
 | Vấn đề | Mức | Chunk PRB | Trạng thái |
 |---:|---|---|---|
@@ -10,12 +10,12 @@ Bảng tra cứu chính cho câu hỏi: *"Tôi đang gặp vấn đề này, dù
 | 2 | Cao | `PRB-002` | ✅ đã có |
 | 3 | Cao | `PRB-003` | ✅ một phần (Topic 06, 10, 14) |
 | 4 | Cao | `PRB-004` | ✅ đã có |
-| 5 | Cao | `PRB-005` | ✅ đã có |
-| 6 | Trung bình | — | chờ Topic 04, 08, 09 |
-| 7 | Trung bình | `PRB-007` | ✅ một phần (Topic 06) |
+| 5 | Cao | `PRB-005` | ✅ đã có (T01, 06, 09, 10) |
+| 6 | Trung bình | `PRB-006` | ✅ đã có |
+| 7 | Trung bình | `PRB-007` | ✅ một phần (Topic 06, 09) |
 | 8 | Trung bình | `PRB-008` | ✅ một phần (Topic 19, 12) |
 | 9 | Thấp | — | chờ Topic 13 |
-| 10 | Thấp | `PRB-010` | ✅ một phần (Topic 12, 14) |
+| 10 | Thấp | `PRB-010` | ✅ một phần (Topic 08, 12, 14) |
 | 11 | Thấp | `PRB-011` | ✅ một phần (Topic 06, 12) |
 
 Danh sách 11 vấn đề lấy từ CLAUDE.md §2 (người dùng nêu 1–3; 4–11 suy ra từ vai trò).
@@ -89,9 +89,10 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Watkins (2013) First 90 Days · STARS · Break-even point · 12 hành động | T1 | `FW-003` |
 | IC → Manager mindset shift | T1, T2, T8 | `CON-001` (phần T1) |
 | Expert bias · 5-Step Bias Self-Audit · Audit Mindset | T3 | _chưa có_ |
+| Tự nhận thức và tự quản lý cảm xúc | T8 | `CON-013` |
 | Knowledge–Behaviour Gap Model (Knowledge → Acceptance → Intention → Behaviour) | T5, T6 | _chưa có_ |
 | FranklinCovey Time Matrix · Eisenhower Matrix · GTD · Human Artificial Intelligence (HAI) | T5 | _chưa có_ |
-| Self-awareness & Self-management (Emotional Intelligence) | T8, T11 | _chưa có_ |
+| Self-awareness & Self-management (Emotional Intelligence) | T8, T11 | `CON-013` (phần T8) |
 
 ### `PRB-005` · 5. Giao việc và phát triển theo năng lực từng người
 *Trao quyền cho Senior, hướng dẫn DS, phạm vi rõ cho collaborator.*
@@ -105,8 +106,9 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 | Vroom–Yetton–Jago Model — mức tham gia vào quyết định | T10 | `FW-006` |
 | Delegate outcomes not tasks · Accountability = clarity + ownership + follow-through · Empower without micromanaging | T6 | `CON-004`, `CON-003`, `CON-005` |
 | Theory of Psychological Ownership (5 thành tố) | T6 | `FW-009` |
-| Employee Development Readiness Assessment · Chẩn đoán 5 nguyên nhân gốc (Knowledge · Skills · Motivation · Career · Environment) | T9 | _chưa có_ |
-| EDGE (Explore · Decode · Generate · Execute) · Personal Competitive Advantage | T9 | _chưa có_ |
+| Chẩn đoán 5 nguyên nhân gốc (Knowledge · Skills · Motivation · Career · Environment) | T9 | `FW-028` |
+| Employee Development Readiness Assessment | T9 | `FW-029` |
+| EDGE · Personal Competitive Advantage · VRIFA | T9 | `FW-031` |
 
 ---
 
@@ -114,20 +116,24 @@ Yêu cầu: mỗi vấn đề có chunk `PRB` riêng **và** ít nhất một ch
 
 Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 
-### PRB-? · 6. Feedback, coaching và trao đổi về hiệu suất
+### `PRB-006` · 6. Feedback, coaching và trao đổi về hiệu suất
 **Level:** TEAM
 
 | Framework ứng viên `[SUY LUẬN]` | Topic | ID chunk |
 |---|---|---|
-| AMO Framework (Ability · Motivation · Opportunity) | T4 | _chưa có_ |
-| SAIL (State the gap · Ask and understand · Identify root causes · Launch improvement actions) | T4 | _chưa có_ |
-| NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE | T8 | _chưa có_ |
-| 5-Impact Test (phỏng theo SBI của CCL) — quyết định có nên xử lý hành vi hay không | T8 | _chưa có_ |
-| Ba cấp độ lắng nghe (factual · emotional · ...) · Observation vs judgement · Intention ≠ impact | T8 | _chưa có_ |
-| Ma trận Support × Accountability | T8 | _chưa có_ |
-| Bốn kiểu quản lý: Teacher · Always-On · Cheerleader · Connector · Ba huyền thoại của Always-On | T9 | _chưa có_ |
-| Lộ trình D–R–C (Diagnose → Readiness → Coach & Connect) | T9 | _chưa có_ |
-| T-GROW coaching model (Topic · Goal · Reality · Options · Will) | T18 | _chưa có_ |
+| AMO Framework (Ability · Motivation · Opportunity) | T4 | `FW-023` |
+| SAIL (State the gap · Ask · Identify root causes · Launch actions) | T4 | `FW-024` |
+| Vấn đề tổ chức khoác áo vấn đề nhân viên | T4 | `CON-012` |
+| NOTICE → CONVERSE → COACH → HOLD ACCOUNTABLE | T8 | `FW-025` |
+| 5-Impact Test (phỏng theo SBI của CCL) | T8 | `FW-026` |
+| Ba cấp độ lắng nghe (factual · emotional · intuitive) | T8 | `CON-011` |
+| Observation vs judgement · camera test | T8 | `CON-010` |
+| Tự nhận thức và tự quản lý cảm xúc | T8 | `CON-013` |
+| Ma trận Support × Accountability | T8 | `FW-025-01` |
+| Bốn kiểu quản lý và ba huyền thoại của Always-On | T9 | `FW-027` |
+| Connector Manager — 5 phẩm chất, 3 kết nối | T9 | `FW-032` |
+| Lộ trình D–R–C (Diagnose → Readiness → Coach & Connect) | T9 | `FW-030` |
+| T-GROW coaching model | T18 | _chưa có_ |
 
 ### `PRB-007` · 7. Động lực, gắn kết và giữ người
 **Level:** TEAM
@@ -136,8 +142,8 @@ Yêu cầu: có chunk `PRB` riêng, liên kết đầy đủ.
 |---|---|---|
 | McClelland — Need for Achievement / Affiliation / Power | T11 | _chưa có_ |
 | Alderfer ERG Theory (Existence · Relatedness · Growth) | T11 | _chưa có_ |
-| Ba kết nối của Connector Manager: Employee · Team · Organisation | T9 | _chưa có_ |
-| Personal Competitive Advantage · EDGE growth strategy | T9 | _chưa có_ |
+| Ba kết nối của Connector Manager: Employee · Team · Organisation | T9 | `FW-032` |
+| Personal Competitive Advantage · EDGE growth strategy | T9 | `FW-031` |
 | Apprenticeship Gap · EEE diagnostic (Environment · Equipping · Experience) | T18 | _chưa có_ |
 | Social influence levers (Socium 7) | T6 | `FW-008` |
 
@@ -201,6 +207,6 @@ Yêu cầu: tạo `PRB` khi khóa học có nội dung liên quan. **Cả ba v�
 
 Chưa phát hiện vấn đề nào trong 11 vấn đề **không có** framework ứng viên nào trong MEGROW. Sẽ xác nhận lại sau khi xử lý hết 20 topic và ghi vào `open_questions.md` nếu có khoảng trống thật.
 
-**Đã xác nhận sau khi xử lý Topic 01, 06, 10:** mọi framework ứng viên liệt kê cho ba topic này đều có thật trong tài liệu — không có mục nào phải gỡ. Phát hiện thêm hai framework không có trong danh sách ứng viên ban đầu: **Human Artificial Intelligence (HAI)** và **Theory of Psychological Ownership**, cả hai từ Topic 06.
+**Đã xác nhận sau khi xử lý 9 topic:** mọi framework ứng viên liệt kê cho các topic này đều có thật trong tài liệu — không mục nào phải gỡ. Phát hiện thêm sáu framework không có trong danh sách ứng viên ban đầu: **HAI** và **Theory of Psychological Ownership** (Topic 06), **chuỗi sáu chặng MAP→ACT** (Topic 12), **Action titles và skim test** (Topic 19), **Connector Manager** và **lộ trình D–R–C** (Topic 09).
 
 Lưu ý riêng cho bối cảnh người dùng: MEGROW không có nội dung chuyên biệt về **quản lý cộng tác viên (collaborator)** — nhân sự không chính thức, mức gắn kết khác nhân viên chính thức. Khả năng cần `[BỔ SUNG]` khi viết `PB` cho vấn đề số 5. Xem `open_questions.md` (OQ-005).
