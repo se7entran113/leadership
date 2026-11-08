@@ -2,7 +2,7 @@
 
 Mọi mục `[CẦN XÁC NHẬN]`, `[KHÓ ĐỌC]` và mâu thuẫn chờ người dùng quyết định.
 
-**Trạng thái:** 5 mục mở sau khi lập inventory MEGROW (2026-11-07).
+**Trạng thái:** 8 mục — 5 từ bước inventory (2026-11-07), 3 mới từ bước xử lý Topic 01, 06, 10 (2026-11-08).
 
 | ID | Mức | Tiêu đề | Trạng thái |
 |---|---|---|---|
@@ -11,6 +11,9 @@ Mọi mục `[CẦN XÁC NHẬN]`, `[KHÓ ĐỌC]` và mâu thuẫn chờ ngư�
 | OQ-003 | Cao | Topic 20 slide 21–27 chứa tên thật học viên | Đã quyết định — không trích |
 | OQ-004 | Thấp | Case reading Microsoft thuộc topic nào | Đã quyết định — Topic 12 |
 | OQ-005 | Trung bình | MEGROW không có nội dung về quản lý cộng tác viên | Đang mở |
+| OQ-006 | Thấp | Topic 10 slide 26 dán nhãn D1/D3/D4 cho phong cách thay vì mức phát triển | Đang mở |
+| OQ-007 | Thấp | Tên mô hình "Vroom–Yetton–Jago" không khớp danh mục nguồn của chính deck | Đang mở |
+| OQ-008 | Trung bình | Khung 8 yếu tố của Topic 06 không có slide văn bản giải thích | Đang mở |
 
 ---
 
@@ -96,6 +99,48 @@ Rà soát tiêu đề 805 trang: **không topic nào của MEGROW xử lý riên
 **Hệ quả.** Vấn đề ưu tiên Cao số 5 ("Giao việc và phát triển theo năng lực từng người — phạm vi rõ cho collaborator") sẽ có khoảng trống. Khi viết chunk `PB` cho vấn đề này ở bước "Rà soát tổng thể", phần về cộng tác viên nhiều khả năng phải gắn nhãn `[BỔ SUNG]`.
 
 **Cần người dùng.** Xác nhận có muốn Claude bổ sung kiến thức ngoài khóa học (gắn `[BỔ SUNG]`, ưu tiên ví dụ bối cảnh team Data Science) cho phần này không, hay để trống và ghi rõ là khoảng trống của khóa học.
+
+---
+
+## OQ-006 — Topic 10 slide 26 dán nhãn D1/D3/D4 cho phong cách thay vì mức phát triển
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 26 của Topic 10 ánh xạ ba vòng hoạt động Sequence Challenge lên ma trận và dán nhãn **"D1: Directing"**, **"D3: Supporting"**, **"D4: Delegating"**. Trong Situational Leadership II gốc (Blanchard, Zigarmi & Zigarmi 2013), ký hiệu **D** (Development level) chỉ **mức phát triển của người nhận việc**, còn **S** (Style) mới chỉ **phong cách của người lãnh đạo**. Slide 27 ngay sau đó dùng đúng quy ước S1–S4.
+
+**Đã làm.** Ghi nguyên trạng trong `FW-001` và `FW-001-02`, kèm nhãn `[SUY LUẬN]` nêu khả năng là lỗi nhãn trên slide. **Không tự sửa** theo CLAUDE.md §5.2.
+
+**Cần người dùng.** Xác nhận với giảng viên hoặc tài liệu lớp xem đây là lỗi slide hay là quy ước riêng của buổi học.
+
+---
+
+## OQ-007 — Tên mô hình "Vroom–Yetton–Jago" không khớp danh mục nguồn của chính deck
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 36 của Topic 10 đặt tên mô hình là **"Vroom–Yetton–Jago Model"**, nhưng danh mục tài liệu tham khảo của chính deck (slide 38) chỉ trích:
+
+> Vroom, V. H., & Yetton, P. W. (1973). *Leadership and decision-making*. University of Pittsburgh Press.
+
+Không có Jago. (Bản mở rộng Vroom–Jago là một công trình sau đó, không được trích trong deck.)
+
+**Đã làm.** Giữ tên trên slide làm tên chính của `FW-006`, ghi `[CẦN XÁC NHẬN]` ở mục Nguồn của chunk kèm nguyên văn hai nguồn.
+
+**Cần người dùng.** Không ảnh hưởng tới nội dung năm phong cách AI/AII/CI/CII/GII; chỉ là vấn đề quy ghi nguồn. Xác nhận nếu muốn đổi tên chunk.
+
+---
+
+## OQ-008 — Khung 8 yếu tố của Topic 06 không có slide văn bản giải thích
+
+**Mức:** Trung bình · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** 49/69 slide của Topic 06 là ảnh hoặc từ khóa, không trích được text. Phần giữa buổi — **Transformation Design Framework** 8 yếu tố (slide 12–45) — gồm gần như toàn bộ là slide tiêu đề một từ (`TRIANGLE | 1`, `CURVE | 2`, `METRIC | 3`…) kèm sơ đồ và ảnh ví dụ. **Không có slide nào định nghĩa từng yếu tố bằng văn bản.**
+
+Nội dung đã được đọc bằng thị giác qua `pdftoppm`, nên biết *sơ đồ vẽ gì*, nhưng **nghĩa và cách dùng của từng yếu tố là suy luận** từ nhãn, sơ đồ và các ví dụ xung quanh.
+
+**Đã làm.** Các chunk `FW-007`, `FW-008`, `FW-009`, `TOP-MEGROW-06`, `PRB-007` và `PRB-011` đều để `confidence: medium` và `status: needs_review`; mọi phần diễn giải đều gắn nhãn `[SUY LUẬN]`.
+
+**Cần người dùng.** Nếu anh có ghi chép tại lớp, handout, hoặc link tài liệu của giảng viên (transforms.me) thì gửi để nâng ba chunk này lên `verified`. Nếu không, chúng vẫn dùng được nhưng nên đọc kèm lưu ý.
 
 ---
 

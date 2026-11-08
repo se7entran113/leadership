@@ -322,7 +322,7 @@ def parse_topic_map(text):
         lv = {x.strip() for x in re.split(r"[+,]", cells[4]) if x.strip()}
         lv = {x for x in lv if x in VALID_LEVELS}
         fn = cells[5].strip("`")
-        st = cells[7]
+        st = cells[7].replace("*", "").strip()
         if tid in levels:
             levels[tid] |= lv
             status[tid][1].append(fn)
