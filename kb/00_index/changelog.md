@@ -4,6 +4,22 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Đăng ký tài liệu Capstone mới (Lumo Case), để riêng
+
+**Phát hiện.** `validate.py` báo có tài liệu mới chưa xử lý: `raw/megrow/me.grow(2026)_Capstone Lumo Case_Mandate C.pdf` (21 trang, sửa 2026-11-06).
+
+**Phân loại — người dùng xác nhận.** Đây là **nội dung case của Capstone Project**, sẽ được người dùng review sau. Xếp cùng nhóm với Topic 20: **để riêng, ngoài phạm vi chunk hóa**.
+
+Nội dung case (đọc ở mức tiêu đề trang): Lumo — một nền tảng nhắn tin/dịch vụ tại Việt Nam; người học đóng vai lãnh đạo một mảng sản phẩm, nhận mandate từ Chau để ra mắt **Mira business**. Tài liệu gồm bối cảnh, bốn áp lực cho 2027, mô tả vai trò và thước đo, yêu cầu bài nộp, timeline, và các Exhibit 1–6 (chung) cùng C1–C7 (riêng cho Mandate C).
+
+**Hệ quả.**
+- `topic_map.md`: thêm một dòng dưới Topic 20 với trạng thái `để riêng`; tổng tài liệu **22 → 23**, tổng trang **805 → 826**. Phần để riêng nay là **49 trang** (Topic 20: 28 + Lumo Case: 21).
+- **Phạm vi kho không đổi: 777 trang.** Độ phủ vẫn **733 / 777 (94.3%)**.
+- `slide_inventory.md`: thêm mục `CAPSTONE` liệt kê 21 trang ở mức tiêu đề, kèm ghi chú để riêng — để hồ sơ đầy đủ nếu sau này người dùng muốn đưa vào kho.
+- Không tạo chunk nào; không đụng `coverage_matrix.md`.
+
+---
+
 ## 2026-11-08 — MEGROW Topic 11, 13, 15: thêm 23 chunk (tổng 159), độ phủ 94.3%
 
 **Lệnh:** "tiếp" (đợt 6). Ba topic chưa xử lý còn lại sau khi Topic 20 được đưa ra ngoài phạm vi.

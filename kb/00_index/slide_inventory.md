@@ -975,3 +975,32 @@ Cột **Chủ đề trang** lấy từ tiêu đề/kicker hiển thị trên sli
 
 **Tổng cộng: 805 trang / 22 tài liệu.**
 
+## `CAPSTONE` — `me.grow(2026)_Capstone Lumo Case_Mandate C.pdf`
+
+**Loại:** tài liệu Capstone · **Nguồn:** me.grow (2026) · **Kích thước:** 654 KB · **Ngày sửa:** 2026-11-06 · **Số trang:** 21
+
+> **Để riêng, ngoài phạm vi kho.** Người dùng tự review tài liệu này cho Capstone Project (xác nhận 2026-11-08). Không chunk hóa; liệt kê ở đây ở mức tiêu đề trang để hồ sơ đầy đủ.
+
+| Trang | Chủ đề trang |
+|---:|---|
+| 1 | Lumo: Leading Product Teams on Vietnam's Everyday Platform — trang bìa case |
+| 2 | Lời mở từ Chau: "Show me what you choose to do and what you will give up" |
+| 3 | Bối cảnh Lumo: từ Lumo Services (2019) tới quy mô 2026 |
+| 4 | Cách ra quyết định hiện tại — việc gì phải qua Chau hoặc Bao (quyền riêng tư, tiền, hệ thống team khác) |
+| 5 | Velaria — đối thủ toàn cầu, 41 triệu người dùng hằng tháng tại Việt Nam |
+| 6 | Pressures heading into 2027 — bốn áp lực xuất hiện trong hầu hết các cuộc họp kế hoạch |
+| 7 | Vai trò của bạn: lãnh đạo cái gì và được đo bằng gì |
+| 8 | Your mandate — mệnh lệnh từ Chau: ra mắt Mira business |
+| 9 | Ràng buộc năng lực bán hàng: ~1.000 doanh nghiệp/tháng |
+| 10 | How the capstone works — bạn phải giao nộp những gì |
+| 11 | Bốn thành phần bài nộp: phải thể hiện gì và đặt ở đâu |
+| 12 | Timeline — mốc thời gian của Capstone |
+| 13 | Exhibits — Exhibit 1–6 chung cho mọi mandate; C1–C7 riêng cho Mandate C |
+| 14 | Exhibit 2: các mảng sản phẩm, team và câu hỏi chính cho 2027 |
+| 15 | Exhibit 3: Lumo và hai đối thủ chính tại Việt Nam, 2026 |
+| 16 | Exhibit 5: sức khỏe team kỹ thuật, 2024–2026 |
+| 17 | Exhibit C1: kết quả thử nghiệm business-agent, tháng 9–10/2026 |
+| 18 | Exhibit C3: danh mục công việc đang chờ, kèm nhân lực kỹ thuật |
+| 19 | Exhibit C4: giá, doanh thu và chi phí tính toán — giá thử nghiệm 990.000 VND/tháng |
+| 20 | Exhibit C5: các kênh tiếp cận doanh nghiệp, độ phủ và chi phí |
+| 21 | Exhibit C7: ý kiến của khách hàng doanh nghiệp, khách của họ và nhân viên bán hàng |
