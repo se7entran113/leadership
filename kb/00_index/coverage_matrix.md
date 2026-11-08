@@ -27,7 +27,7 @@ Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide
 | MEGROW | 15 | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | 16 | 5 | 100% | đã xử lý |
 | MEGROW | 16 | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | 33 | 4 | 100% | đã xử lý |
 | MEGROW | 17 | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | 31 | 8 | 100% | đã xử lý |
-| MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 33 | 11 | 100% | đã xử lý |
 | MEGROW | 19 | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | 24 | 9 | 100% | đã xử lý |
 | MEGROW | 20 | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | — | — | — | *để riêng (Capstone)* |
 | | | **Tổng** | **805** | **389** | **97** | **60.4%** | 12/20 topic |
@@ -744,6 +744,55 @@ Mỗi trang của topic đã xử lý ánh xạ tới chunk chứa nội dung tr
 | 19 | `FW-086` |
 | 20 | `FW-086` |
 | 21 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 18 — `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-18` |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | không có nội dung kiến thức (danh mục nguồn tham khảo) |
+| 5 | không có nội dung kiến thức (warm-up poll) |
+| 6 | không có nội dung kiến thức (divider Part I) |
+| 7 | `FW-087` |
+| 8 | `FW-088` |
+| 9 | `CON-030` |
+| 10 | `CON-030` |
+| 11 | `FW-089` |
+| 12 | `CON-030` |
+| 13 | `CON-030` |
+| 14 | `CON-030` |
+| 15 | `CON-030` |
+| 16 | `FW-089`, `FW-010` |
+| 17 | không có nội dung kiến thức (divider Part II) |
+| 18 | `FW-090` |
+| 19 | `FW-091` |
+| 20 | `FW-013` |
+| 21 | `FW-092` |
+| 22 | không có nội dung kiến thức (divider) |
+| 23 | `FW-090` |
+| 24 | `FW-090` |
+| 25 | không có nội dung kiến thức (nghỉ giải lao) |
+| 26 | không có nội dung kiến thức (divider Part III) |
+| 27 | `FW-093` |
+| 28 | `FW-093` |
+| 29 | `FW-094` |
+| 30 | `CON-031` |
+| 31 | không có nội dung kiến thức (divider Part IV) |
+| 32 | `FW-095` |
+| 33 | `FW-096` |
+| 34 | `FW-096` |
+| 35 | `FW-096` |
+| 36 | `FW-096` |
+| 37 | `FW-096` |
+| 38 | `FW-096` |
+| 39 | `FW-096` |
+| 40 | `FW-096` |
+| 41 | `FW-095` |
+| 42 | `TOP-MEGROW-18` |
+| 43 | `TOP-MEGROW-18` |
+| 44 | không có nội dung kiến thức (lời cảm ơn) |
 
 ### Các topic chưa xử lý
 

@@ -4,7 +4,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 18 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–17, 19) — 733 / 777 trang trong phạm vi, độ phủ 94.3%.
+**Tiến độ MEGROW: 19 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–19) — **777 / 777 trang trong phạm vi, độ phủ 100%**. ✅ Toàn bộ nội dung giảng dạy đã được chunk hóa.
 
 Hai tài liệu Capstone (Topic 20: 28 trang, Lumo Case Mandate C: 21 trang) **để riêng, ngoài phạm vi kho** — xem Ghi chú.
 
@@ -48,7 +48,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-15` | 15 | From Stakeholder Insight to Market Impact | Dr Phuong Nguyen | ORG | `Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf` | 21 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-16` | 16 | Solve Tech & Organisational Blockers | Dr Thuan Nguyen & Dr Bidyut Hazarika | ORG + TEAM | `Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf` | 37 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-19` | 19 | Presenting Business Cases (SCQA, Pyramid Principle, Stakeholder Mapping) | Dr Tony Nguyen | ORG | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-20` | 20 | Capstone Research & Alignment `CAPSTONE` | AP Burkhard Schrage | ORG | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | *để riêng* | 2026-11-07 |
 | — | — | ↳ *Tài liệu Capstone bổ sung:* Lumo Case — Mandate C `CAPSTONE` | me.grow (2026) | ORG | `me.grow(2026)_Capstone Lumo Case_Mandate C.pdf` | 21 | *để riêng* | 2026-11-08 |

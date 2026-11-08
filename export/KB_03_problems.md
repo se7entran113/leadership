@@ -188,9 +188,9 @@ aliases: [quy trình làm việc, cách ra quyết định của team, chuẩn c
 keywords: [quy trình, process, phối hợp, coordination, ra quyết định, decision making, tiêu chuẩn chất lượng, nút thắt, bottleneck, team làm việc lộn xộn, ai quyết cái gì, họp nhiều mà không ra quyết định]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14, TOP-MEGROW-02, TOP-MEGROW-16, TOP-MEGROW-05, TOP-MEGROW-07, TOP-MEGROW-13, TOP-MEGROW-15]
+topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14, TOP-MEGROW-02, TOP-MEGROW-16, TOP-MEGROW-05, TOP-MEGROW-07, TOP-MEGROW-13, TOP-MEGROW-15, TOP-MEGROW-18]
 problems_addressed: []
-related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021, FW-035, FW-038, FW-039, FW-041, FW-042, CON-016, FW-049, FW-050, FW-051, FW-052, CON-020, FW-053, FW-054, FW-060, FW-061, FW-062, FW-065, FW-065-01, FW-070, FW-071, FW-080, FW-084-01, FW-085]
+related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021, FW-035, FW-038, FW-039, FW-041, FW-042, CON-016, FW-049, FW-050, FW-051, FW-052, CON-020, FW-053, FW-054, FW-060, FW-061, FW-062, FW-065, FW-065-01, FW-070, FW-071, FW-080, FW-084-01, FW-085, FW-094, FW-089, CON-031, FW-096, FW-088]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–37", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 13, 21–33", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 9–35"]
 source_type: course
 confidence: medium
@@ -247,6 +247,10 @@ Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 | Không ai dám nêu vấn đề về chính cách làm việc | Quy trình hỏng tồn tại nhiều quý | `FW-080`, `PRB-009` |
 | Quy trình cứng như nhau cho mọi mức rủi ro | Chặt thì chậm, lỏng thì rủi ro | `FW-085` (Attribute Dependency) |
 | Bàn giao giữa các bước không có tiêu chí "xong tốt" | Làm lại nhiều vòng | `FW-084-01`, `CON-004` |
+| Không ai viết ra AI được tự chạy tới đâu | Công cụ trượt dần sang mức tự chủ cao hơn mà không ai quyết | `FW-094`, `FW-089` |
+| Ranh giới cho AI tồn tại dưới dạng lời dặn, không dưới dạng quyền truy cập | Lệnh bị bỏ qua, hệ quả thật xảy ra | `FW-094`, `CON-030` |
+| Không biết công cụ nào được duyệt, dữ liệu nào được dùng | Vi phạm do tiện tay, không do cố ý | `CON-031` |
+| Năng lực AI cá nhân không thành năng lực team | Năng suất cá nhân tăng, năng lực tập thể không đổi | `FW-096` (kịch bản 06) |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Vấn đề nằm ở mục tiêu và cách đo chứ không ở quy trình → thuộc vấn đề số 1. `[SUY LUẬN]` Topic 02 phụ trách, chưa xử lý.
@@ -352,9 +356,9 @@ aliases: [giao việc, phân công, trao quyền cho senior, phạm vi cho colla
 keywords: [giao việc, delegation, trao quyền, empower, phát triển nhân viên, mức sẵn sàng, readiness, senior, collaborator, người giỏi quá tải, không dám giao việc, giao rồi vẫn phải làm lại]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-09, TOP-MEGROW-02, TOP-MEGROW-05]
+topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-09, TOP-MEGROW-02, TOP-MEGROW-05, TOP-MEGROW-18]
 problems_addressed: []
-related_ids: [FW-001, FW-001-01, FW-001-02, FW-005, FW-006, FW-009, FW-010, FW-028, FW-029, FW-031, CON-002, CON-003, CON-004, CON-005, CON-006, FW-036, FW-037, FW-041, FW-059, FW-060, FW-062, CON-022]
+related_ids: [FW-001, FW-001-01, FW-001-02, FW-005, FW-006, FW-009, FW-010, FW-028, FW-029, FW-031, CON-002, CON-003, CON-004, CON-005, CON-006, FW-036, FW-037, FW-041, FW-059, FW-060, FW-062, CON-022, FW-093, FW-096, FW-095]
 source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 15–19", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 59–61, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 24–36", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 31–38", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 16–19, 30"]
 source_type: course
 confidence: high
@@ -402,6 +406,9 @@ Mức ưu tiên: **Cao** (vấn đề số 5 trong `problem_index.md`).
 | Mục tiêu giao cho từng người mơ hồ; không tách Responsibility khỏi Accountability | Giao xong vẫn phải theo sát, không ai thật sự chịu kết quả | `FW-036`, `FW-037`, `FW-041` |
 | Lấy việc lại vì "tự làm nhanh hơn" dưới áp lực deadline | Hiệu quả ngắn hạn, phụ thuộc dài hạn | `FW-059` (dòng 8), `CON-022` |
 | Không hỏi "việc này có cần tôi không" trước khi xếp lịch | Quản lý thành nút thắt | `FW-060`, `FW-062` |
+| AI đã tự động hóa phần việc tập sự, người mới không còn chỗ học | Ship nhanh nhưng không giải thích được việc mình làm | `FW-093`, `FW-096` |
+| Người đã sẵn sàng nhưng vẫn chỉ được giao việc kiểm chứng | Có năng lực mà mất hứng | `FW-093` (Exposure), `FW-029` |
+| Chẩn đoán sai điều kiện đang thiếu | Cấp thêm đào tạo cho người đang thiếu cơ hội | `FW-093` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Năng lực đủ nhưng kết quả vẫn hỏng → nguyên nhân ở hệ thống, xem `CON-006` và `CON-012`.

@@ -285,6 +285,20 @@ Hệ quả: mạch lập luận nối các slide ảnh của `CON-025` (hyper-pe
 
 ---
 
+## OQ-020 — Topic 18: Luật AI Việt Nam được nêu tên nhưng không có nội dung điều khoản
+
+**Mức:** Trung bình · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 30 của Topic 18 nêu **Luật AI số 134/2025/QH15**, hiệu lực **1/3/2026**, thiết lập quản trị dựa trên rủi ro (*risk-based governance*), cùng các hướng dẫn của ASEAN. Nhưng slide không trích bất kỳ điều khoản nào và không định nghĩa các mức rủi ro.
+
+Đây là khoảng trống đáng kể vì **quản trị dựa trên rủi ro đòi hỏi phân loại ca sử dụng**, và việc phân loại đó rơi xuống cấp quản lý trực tiếp — nhưng không có tiêu chí phân loại trên slide.
+
+**Đã làm.** Tạo `CON-031` với phần bốn việc cụ thể cho người quản lý (đây là nội dung thật sự có trên slide), và gắn `[CẦN XÁC NHẬN]` cho phần nội dung luật.
+
+**Cần người dùng.** Zalo/VNG đã có hướng dẫn nội bộ về phân loại rủi ro ca sử dụng AI chưa? Nếu có, nó là nguồn đúng hơn deck để bổ sung vào `CON-031`.
+
+---
+
 ## Mục `[KHÓ ĐỌC]`
 
 **Không có.** Cả 805 trang đều đọc được: 668 trang trích được text trực tiếp bằng `pdftotext`, 137 trang còn lại (chủ yếu slide dạng ảnh của Topic 5 và Topic 6) đã được **đọc bằng thị giác** qua `pdftoppm` và mô tả trong `slide_inventory.md` với nhãn `[HÌNH]`. Không trang nào mờ, lỗi OCR hay không đọc được.

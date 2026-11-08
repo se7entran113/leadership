@@ -277,3 +277,21 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Attribute Dependency | Phụ thuộc theo thuộc tính | Quy trình thay đổi theo rủi ro, mức khẩn hoặc độ phức tạp | `FW-085` |
 | Creative Matrix | Ma trận sáng tạo | Công cụ SIT × điểm giá trị bị phá vỡ, ép sinh ý tưởng cho từng ô | `FW-086` |
 | One bottleneck – one improvement – one benefit | Một nút thắt – một cải tiến – một lợi ích | Ràng buộc chốt, buộc bỏ phần lớn ý tưởng vừa sinh | `FW-086` |
+
+## Lãnh đạo trong tổ chức vận hành cùng AI (Topic 18)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| AI as the Sixth Force | AI là áp lực thứ sáu | AI không đứng riêng mà định hình lại cả năm áp lực của Porter | `FW-087` |
+| AI readiness | Mức sẵn sàng về AI | Bốn trụ: dữ liệu & hạ tầng · con người & năng lực · quy trình & mô hình kinh doanh · lãnh đạo & quản trị | `FW-088` |
+| Generative / Agentic / AGI | AI tạo sinh / tác tử / tổng quát | Sinh và hỗ trợ · lập kế hoạch và hành động · khái quát hóa qua nhiều lĩnh vực | `FW-089` |
+| Leadership OS | Hệ điều hành lãnh đạo | BE → LEAD → MASTER, tức C-FISH → E-MICE → O-LION | `FW-090` |
+| C-FISH | — | Competent · Forward-looking · Inspirational · Serving · Honest | `FW-091` |
+| E-MICE | — | Enable · Model · Inspire · Challenge · Encourage (Kouzes & Posner sắp xếp lại) | `FW-013` |
+| O-LION | — | Orchestration · Lifelong Learning · Insight-Driven Systems Thinking · Oversight · Nurturing Human Advantage | `FW-092` |
+| EEE | Môi trường · Trang bị · Cơ hội | Ba điều kiện phát triển; thiếu cái nào cho triệu chứng riêng cái đó | `FW-093` |
+| The Apprenticeship Gap | Khoảng trống tập sự | Khi AI tự động hóa chính công việc mà qua đó người ta từng học nghề | `FW-093` |
+| Human–AI Decision Rights | Quyền quyết định người–AI | Bốn mức: Assists · Recommends · Acts with Approval · Acts Within Boundaries | `FW-094` |
+| Delegation ≠ Abdication | Giao quyền không phải thoái thác | Giao quyền có thể tăng, trách nhiệm không giảm | `FW-010` |
+| Risk-based governance | Quản trị dựa trên rủi ro | Nghĩa vụ tuân thủ khác nhau theo mức rủi ro của từng ca sử dụng | `CON-031` |
+| T-GROW | — | Topic · Goal · Reality · Options · Will | `FW-095` |

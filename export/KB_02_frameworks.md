@@ -804,10 +804,10 @@ aliases: [HAI, human-AI collaboration, man-machine symbiosis, united intelligenc
 keywords: [AI, trí tuệ nhân tạo, phân công việc cho AI, human in the loop, ai chịu trách nhiệm khi AI làm sai, augment không thay thế, dùng AI trong team]
 levels: [TEAM, SELF]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06]
+topics: [TOP-MEGROW-06, TOP-MEGROW-18]
 problems_addressed: [PRB-003, PRB-005]
-related_ids: [CON-003, CON-006, CON-004]
-source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 3–4, 7, 47, 53, 64–65"]
+related_ids: [CON-003, CON-006, CON-004, FW-065, FW-094, FW-089, CON-031]
+source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 3–4, 7, 47, 53, 64–65", "MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 16"]
 source_type: course
 confidence: high
 status: verified
@@ -848,7 +848,9 @@ Khi quyết định có hệ quả về con người (đánh giá hiệu suất,
 `[BỔ SUNG]` Team Data Science: AI dựng bản nháp hàm xử lý dữ liệu và viết docstring (AI); DS quyết định chọn metric và diễn giải kết quả cho business (Human); rà soát nhãn bất thường bằng mô hình rồi người kiểm mẫu (HAI).
 
 ## Lưu ý, hạn chế, sai lầm thường gặp
-`[KHÓA HỌC]` Slide 64–65 nhấn: **delegation can increase, accountability does not decrease** — giao cho AI nhiều hơn không làm giảm trách nhiệm của con người. Sai lầm thường gặp là tăng tốc độ tạo ra đầu ra mà không tăng năng lực kiểm chứng, làm tải nhận thức của team tăng thay vì giảm.
+`[KHÓA HỌC]` Topic 06 slide 64–65 nhấn: **delegation can increase, accountability does not decrease** — giao cho AI nhiều hơn không làm giảm trách nhiệm của con người. Sai lầm thường gặp là tăng tốc độ tạo ra đầu ra mà không tăng năng lực kiểm chứng, làm tải nhận thức của team tăng thay vì giảm.
+
+`[KHÓA HỌC]` Topic 18 slide 16 nêu lại nguyên tắc này dưới tiêu đề **"Delegation ≠ Abdication"** — giao quyền không phải thoái thác — với cùng một câu, từ một giảng viên khác. Kèm câu hỏi mở rộng phạm vi sang AI: *"If your team included digital colleagues, what would you need to redesign about delegation, performance and accountability?"* Cách trả lời cụ thể nằm ở `FW-094`.
 
 ## Phân biệt với framework gần giống
 `CON-003` nói về trách nhiệm giữa *người với người*; `FW-010` mở rộng cùng câu hỏi đó sang trường hợp một phần công việc do AI làm. `CON-006` nói về tải nhận thức nói chung, trong đó AI là một nguồn tăng tải mới.
@@ -858,6 +860,7 @@ Phân bổ việc bằng `FW-010` → chốt chủ sở hữu bằng `CON-003` �
 
 ## Nguồn
 - `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 3–4, 7, 47, 53, 64–65]`
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 16]`
 
 =====
 
@@ -1009,10 +1012,10 @@ aliases: [Kouzes and Posner 2023, five practices, model the way, inspire shared 
 keywords: [uy tín lãnh đạo, credibility, làm gương, model the way, tầm nhìn chung, thách thức quy trình, trao quyền hành động, khích lệ, hành vi lãnh đạo quan sát được]
 levels: [ORG, TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-12]
+topics: [TOP-MEGROW-12, TOP-MEGROW-18]
 problems_addressed: [PRB-002]
-related_ids: [FW-014, FW-015, FW-022, FW-017]
-source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 12–14"]
+related_ids: [FW-014, FW-015, FW-022, FW-017, FW-090, FW-091, FW-092]
+source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 12–14", "MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 20, 23"]
 source_type: course
 confidence: high
 status: verified
@@ -1068,8 +1071,26 @@ Diễn giải bảng: năm thực hành là **hành vi lặp lại**, không ph�
 ## Cách kết hợp với framework khác
 Chặng **TRUST** của `FW-022`. `[KHÓA HỌC]` Slide 39 ghi chặng TRUST dựa trên **Kouzes & Posner kết hợp Edmondson**, công cụ *Trust & Safety Check*. `[SUY LUẬN]` Phần Edmondson không có slide giải thích riêng trong Topic 12 — nội dung nằm ở Topic 13, sẽ liên kết khi xử lý.
 
+## Các phiên bản và góc nhìn khác
+`[KHÓA HỌC]` Topic 18 dạy lại chính năm thực hành này dưới tên **E-MICE**, ghi rõ *"Adapted from Kouzes and Posner (2023)"*. Đây là **cùng một framework, sắp xếp lại thành từ viết tắt** để ghép với C-FISH và O-LION trong Leadership OS (`FW-090`), nên kho chỉ giữ một chunk.
+
+| Chữ | Thực hành | Hai cam kết (slide 20) |
+|---|---|---|
+| **E** | Enable Others to Act | Foster collaboration · Strengthen others |
+| **M** | Model the Way | Clarify values · Set the example |
+| **I** | Inspire a Shared Vision | Envision the future · Enlist others |
+| **C** | Challenge the Process | Search for opportunities · Experiment and take risks |
+| **E** | Encourage the Heart | Recognize contributions · Celebrate values and victories |
+
+Diễn giải bảng: thứ tự của E-MICE **không** theo thứ tự gốc của Kouzes & Posner — nó được đảo để tạo từ viết tắt, và *Enable Others to Act* bị đẩy lên đầu. `[SUY LUẬN]` Việc đặt "trao quyền hành động" ở vị trí đầu tiên hợp với trọng tâm của Topic 18 về giao quyền cho cả người lẫn AI.
+
+`[KHÓA HỌC]` Câu đúc kết của slide 20 nêu chuỗi nhân quả: **"Leadership commitments become observable behaviors. Repeated behaviors shape culture. Culture influences performance."** — cam kết trở thành hành vi quan sát được, hành vi lặp lại định hình văn hóa, văn hóa ảnh hưởng tới hiệu suất.
+
+`[KHÓA HỌC]` Vị trí của E-MICE trong `FW-090`: nó là lớp **LEAD**, nằm giữa lớp BE (`FW-091` C-FISH) và lớp MASTER (`FW-092` O-LION). Slide 23: *"E-MICE builds the trust and clarity that allow meaningful delegation to people and increasingly to AI."*
+
 ## Nguồn
 - `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 12–14]`
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 20, 23]` — phiên bản E-MICE.
 - `[MEGROW | Topic 12 | [Case Reading] Microsoft's Turnaround – The Satya Nadella Story.pdf | Trang 3–6]`
 - Trích dẫn trong slide: Kouzes, J. M., & Posner, B. Z. (2023). *The Leadership Challenge* (7th ed.). Wiley.
 
@@ -3687,7 +3708,7 @@ levels: [ORG]
 courses: [MEGROW]
 topics: [TOP-MEGROW-17]
 problems_addressed: [PRB-001, PRB-008]
-related_ids: [FW-044, FW-045-01, FW-046, FW-047, CON-018, FW-043]
+related_ids: [FW-044, FW-045-01, FW-046, FW-047, CON-018, FW-043, FW-087]
 source: ["MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 19–21"]
 source_type: course
 confidence: high
@@ -3733,7 +3754,7 @@ Bằng chứng định lượng về vai trò của ngành (ba nghiên cứu và
 
 ## Lưu ý, hạn chế, sai lầm thường gặp
 - Năm áp lực mô tả *ngành*, không mô tả *một doanh nghiệp*; công ty xuất sắc vẫn thắng được trong ngành xấu, nhưng đó là ngoại lệ mà nghiên cứu Hawawini chỉ rõ.
-- `[KHÓA HỌC]` Slide 21 báo trước: buổi chiều, Prof Trung Nguyen (Topic 18) **bổ sung AI như "áp lực thứ sáu"** — khi xử lý Topic 18 cần nối lại điểm này.
+- `[KHÓA HỌC]` Slide 21 báo trước: buổi chiều, Prof Trung Nguyen (Topic 18) **bổ sung AI như "áp lực thứ sáu"**. Phần mở rộng đó nằm ở `FW-087` — AI không đứng riêng mà định hình lại cả năm áp lực.
 
 ## Phân biệt với framework gần giống
 `FW-044` quét ngoài ngành; `FW-045` phân tích trong ngành; `FW-046` giải thích giá trị được tạo và chia ra sao.
@@ -5564,7 +5585,7 @@ levels: [TEAM, SELF, ORG]
 courses: [MEGROW]
 topics: [TOP-MEGROW-05]
 problems_addressed: [PRB-003, PRB-005]
-related_ids: [FW-010, FW-065-01, FW-057, FW-060, CON-021, FW-049-01]
+related_ids: [FW-010, FW-065-01, FW-057, FW-060, CON-021, FW-049-01, FW-094, FW-089]
 source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 55–58"]
 source_type: course
 confidence: high
@@ -5620,6 +5641,7 @@ Các bước: (1) xác định khâu đang xét; (2) đặt nó vào một trong
 - `FW-010` HAI trả lời câu hỏi phân công ở mức **một đầu việc**: Human, AI hay HAI. `FW-065` phân giải mức "HAI" đó thành bốn chế độ cụ thể và thêm sơ đồ luồng quyết định. Hai chunk cùng một giảng viên, Topic 06 và Topic 05.
 - `FW-057` kiểm **một đầu ra cụ thể** của AI; `FW-065` thiết kế **quy trình** sinh ra đầu ra đó.
 - `FW-049-01` phân vai người và AI trong từng pha Design Thinking; `FW-065` không gắn với một quy trình sáng tạo cụ thể nào.
+- `FW-094` (Topic 18) cắt cùng chủ đề theo **quyền quyết định** thay vì theo kiểu hợp tác, và là bản gần nhất để viết thành chính sách; `FW-089` cắt theo **năng lực công nghệ**. Ba cách cắt bổ sung nhau.
 
 ## Cách kết hợp với framework khác
 Phân công việc bằng `FW-010` → chọn chế độ bằng ma trận của `FW-065` → vẽ luồng và chốt điểm phán đoán bằng mô hình Colson → kiểm từng đầu ra liên quan tới con người bằng `FW-057`.
@@ -7594,3 +7616,785 @@ Các bước: (1) lấy 2–3 value break từ SJM làm cột; (2) điền từn
 
 ## Nguồn
 - `[MEGROW | Topic 15 | Topic 15 - From Stakeholder Insight to Market Impact - Dr Phuong Nguyen.pdf | Slide 18–20]`
+
+=====
+
+---
+id: FW-087
+type: framework
+title_vi: AI là Áp lực thứ sáu
+title_en: AI as the Sixth Force
+aliases: [sixth force, AI as the sixth force, Zwingmann, Iansiti Lakhani, áp lực thứ sáu]
+keywords: [AI thay đổi cạnh tranh, đối thủ mới, phụ thuộc nhà cung cấp AI, khách hàng dễ so sánh, sản phẩm bị thay thế, rào cản gia nhập, dữ liệu là rào cản, chiến lược trong thời AI]
+levels: [ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-001, PRB-008]
+related_ids: [FW-045, FW-045-01, FW-088, FW-044, CON-018]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 7"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# AI as the Sixth Force (AI là Áp lực thứ sáu)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 18 mở rộng mô hình Năm áp lực cạnh tranh của Porter (`FW-045`) bằng cách đặt **AI làm áp lực thứ sáu** — một áp lực không đứng riêng mà **định hình lại cả năm áp lực kia**. Dùng khi đánh giá vị thế cạnh tranh của mảng mình phụ trách trong bối cảnh AI đang thay đổi ngành.
+
+## Mục đích
+`[KHÓA HỌC]` Tiêu đề slide nêu rõ cơ chế: **"AI Becomes the 'Sixth Force' Shaping All Others"** — AI không phải một áp lực thêm vào danh sách mà là thứ tác động lên từng áp lực sẵn có.
+
+## Khi nào dùng
+Khi lập kế hoạch năm hoặc quý cho một mảng sản phẩm; khi lý giải với cấp trên vì sao một khoản đầu tư AI là phòng thủ chứ không phải mở rộng; khi đánh giá một đối thủ mới nổi.
+
+## Khi nào KHÔNG dùng
+Với quyết định vận hành hằng ngày — đây là công cụ phân tích ngành, không phải công cụ ưu tiên công việc.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 7, tác động của AI lên từng áp lực (nguồn: Zwingmann 2025):
+
+| Áp lực | AI làm gì với nó |
+|---|---|
+| **New Entrants** | *"Easier for small players; data & infrastructure build new barriers"* — dễ hơn cho người chơi nhỏ, nhưng dữ liệu và hạ tầng dựng lên **rào cản kiểu mới** |
+| **Suppliers** | *"More dependence on AI platforms, models & data providers"* — phụ thuộc nhiều hơn vào nền tảng AI, mô hình và nhà cung cấp dữ liệu |
+| **Buyers** | *"Customers compare, evaluate & switch providers more easily"* — khách hàng so sánh, đánh giá và chuyển đổi dễ hơn |
+| **Substitutes** | *"AI-powered solutions replace traditional products & services"* |
+| **Rivalry** | *"Faster innovation; fiercer fight for customers & talent"* — đổi mới nhanh hơn; cuộc chiến giành khách hàng **và nhân tài** gay gắt hơn |
+
+Diễn giải bảng: dòng **New Entrants** mang nghịch lý đáng chú ý nhất — AI vừa **hạ** rào cản gia nhập (nhóm nhỏ nay làm được việc trước cần cả phòng ban) vừa **dựng** rào cản mới (ai có dữ liệu độc quyền và hạ tầng tính toán thì khó bị đuổi kịp); kết cục nghiêng về phía nào tùy ngành có dữ liệu tích lũy quan trọng tới đâu. Dòng **Rivalry** nhắc tới *talent* bên cạnh *customers* — hiếm thấy trong Five Forces cổ điển, và là dòng gần người quản lý cấp trung nhất.
+
+`[KHÓA HỌC]` Ô tổng kết ở góc slide: **"AI Advantage = New Competitive Force — AI-driven operating models can transform scale, scope and learning, while enabling competition across traditional industry boundaries"** (Iansiti và Lakhani 2020). Ba thứ bị biến đổi là **quy mô, phạm vi và khả năng học**, và hệ quả là cạnh tranh **vượt qua ranh giới ngành truyền thống** — đối thủ tiếp theo có thể không đến từ ngành của bạn.
+
+Các bước: (1) điền năm dòng bằng quan sát thật về mảng mình phụ trách; (2) đánh dấu áp lực dịch chuyển nhanh nhất; (3) hỏi ranh giới ngành đang mờ ở đâu; (4) nối sang `FW-088`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Dữ liệu nào của chúng ta là rào cản thật, và nó còn là rào cản trong bao lâu?"
+- "Đối thủ tiếp theo của mảng này có thể đến từ ngành nào khác?"
+- `[BỔ SUNG]` Với cấp trên: "Khoản đầu tư này không mở rộng thị phần — nó giữ cho rào cản dữ liệu của mình không bị san phẳng."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science tại Zalo: dòng **Suppliers** có dạng rất cụ thể — khi một phần đáng kể năng lực mô hình đến từ API của bên thứ ba, quyền thương lượng dịch về phía nhà cung cấp, và một thay đổi giá hoặc chính sách của họ trở thành rủi ro vận hành của bạn. Đây là áp lực mà `FW-045` phiên bản gốc không bắt được.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là đọc bảng này như một danh sách cơ hội. Bốn trong năm dòng mô tả áp lực **tăng lên** đối với doanh nghiệp đang ở vị thế hiện tại — dễ bị thay thế hơn, khách dễ bỏ đi hơn, phụ thuộc nhà cung cấp hơn, cạnh tranh gắt hơn. Dòng duy nhất mang cơ hội rõ ràng là New Entrants, và chỉ khi bạn là người chơi nhỏ.
+
+`[KHÓA HỌC]` Slide 8 nêu hệ quả thẳng: **"Without AI readiness, performance erodes relative to competitors"** — không sẵn sàng về AI thì hiệu suất **xói mòn tương đối** so với đối thủ, kể cả khi hiệu suất tuyệt đối không giảm.
+
+## Phân biệt với framework gần giống
+- `FW-045` là Five Forces gốc (Topic 17), trọng tâm **cấu trúc ngành quyết định lợi nhuận tới mức nào**; `FW-087` trả lời **AI đang dịch chuyển từng áp lực theo hướng nào**. Dùng FW-045 phân tích nền, FW-087 cập nhật nó.
+- `FW-044` PESTEL quét sáu nhóm thay đổi, Technological là một nhóm; `FW-087` đi sâu riêng vào AI.
+- `FW-047` VRIN hỏi lợi thế có bền không; `FW-087` chỉ ra vì sao lợi thế cũ đang mất tính bền.
+
+## Cách kết hợp với framework khác
+Phân tích nền bằng `FW-045` → cập nhật bằng `FW-087` → kiểm độ bền lợi thế bằng `FW-047` → đánh giá mức sẵn sàng bằng `FW-088`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 7–8]`
+- Zwingmann, T. (2025) *The Profitable AI Advantage*, Packt Publishing. · Iansiti, M. và Lakhani, K. (2020).
+
+=====
+
+---
+id: FW-088
+type: framework
+title_vi: Bốn trụ sẵn sàng về AI
+title_en: Four Pillars of AI Readiness
+aliases: [AI readiness, four pillars, data infrastructure people capability workflow governance, bốn trụ AI]
+keywords: [tổ chức sẵn sàng AI chưa, thiếu gì để dùng AI, dữ liệu chưa sạch, team chưa biết dùng, quy trình chưa đổi, ai chịu trách nhiệm AI, lộ trình AI, đầu tư AI]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-001, PRB-003]
+related_ids: [FW-087, FW-094, CON-031, FW-010, FW-065]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 8"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Four Pillars of AI Readiness (Bốn trụ sẵn sàng về AI)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bốn trụ quyết định một tổ chức có khai thác được AI hay không: **Data & Infrastructure · People & Capability · Workflow & Business Model · Leadership & Governance**. Dùng khi chẩn đoán vì sao đầu tư vào AI chưa ra kết quả, hoặc khi lập kế hoạch trước một sáng kiến AI.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 8 nêu hệ quả của việc thiếu sẵn sàng: **"Without AI readiness, performance erodes relative to competitors"** — hiệu suất **xói mòn tương đối** so với đối thủ, kể cả khi con số tuyệt đối của bạn không giảm. Đây là dạng tụt hậu không phát ra tín hiệu cảnh báo.
+
+## Khi nào dùng
+Trước khi đề xuất một dự án AI; khi một công cụ AI đã triển khai nhưng không ai dùng; khi lý giải vì sao kết quả chưa như kỳ vọng.
+
+## Khi nào KHÔNG dùng
+Khi câu hỏi là *việc cụ thể nào nên giao cho AI* — dùng `FW-010` và `FW-094`. Bốn trụ này ở mức năng lực tổ chức.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 8, bốn trụ (ánh xạ sang năm đòn bẩy của Zwingmann):
+
+| Trụ | Nội dung |
+|---|---|
+| **Data & Infrastructure** | *"Quality data, platforms & compute"* — dữ liệu chất lượng, nền tảng và năng lực tính toán |
+| **People & Capability** | *"Skills, talent & an AI-ready culture"* — kỹ năng, nhân tài và **một văn hóa sẵn sàng cho AI** |
+| **Workflow & Business Model** | *"Redesigned processes & value creation"* — quy trình được **thiết kế lại** và cách tạo ra giá trị |
+| **Leadership & Governance** | *"Clear roadmap, oversight & responsible AI"* — lộ trình rõ, giám sát và AI có trách nhiệm |
+
+Diễn giải bảng: bốn trụ là **điều kiện nhân nhau, không cộng nhau**. Dữ liệu tốt mà không ai biết dùng thì vô dụng; kỹ năng tốt mà quy trình cũ không đổi thì AI chỉ làm nhanh hơn một việc lẽ ra không nên làm; cả ba trụ đầu đủ mà thiếu Governance thì rủi ro tích tụ cho tới một sự cố.
+
+Trụ thứ ba đáng chú ý nhất vì nó chứa từ **redesigned**. Phần lớn tổ chức dừng ở hai trụ đầu — mua công cụ và đào tạo người — rồi gắn AI vào quy trình cũ. Đây đúng là điều `CON-030` chỉ ra qua dữ liệu McKinsey: giá trị lớn nhất đến từ **thiết kế lại công việc**, không từ việc triển khai công cụ.
+
+Trụ thứ hai nhắc *culture* bên cạnh *skills* — một team có kỹ năng nhưng sợ bị đánh giá khi dùng AI sai cách sẽ không thử, nên trụ này gắn với `FW-080` an toàn tâm lý.
+
+Các bước: (1) chấm bốn trụ cho phạm vi mình phụ trách; (2) tìm trụ yếu nhất — vì nhân nhau nên đó là trần thực tế; (3) đầu tư vào trụ đó trước, kể cả khi trụ khác hấp dẫn hơn; (4) với trụ Governance, dùng `CON-031` và `FW-094`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Nếu công cụ AI này hoạt động hoàn hảo ngày mai, quy trình nào của mình sẽ phải đổi?"
+- "Ai trong tổ chức được phép quyết định một ca dùng AI là chấp nhận được hay không?"
+- `[BỔ SUNG]` "Mình đang yếu ở trụ nào — và khoản đầu tư đang đề xuất nhắm vào trụ nào?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một team có **Data & Infrastructure** rất mạnh (dữ liệu sạch, hạ tầng tốt) và **People & Capability** khá (ai cũng biết dùng công cụ), nhưng **Workflow** không đổi — quy trình review vẫn giả định mọi dòng code do người viết, nên tốc độ sinh code tăng gấp ba còn tốc độ kiểm chứng không đổi. Nút thắt dịch sang khâu review, và năng suất ròng gần như không tăng. Trần nằm ở trụ thứ ba.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến nhất là đo mức sẵn sàng bằng trụ dễ đo nhất. Số lượng người được cấp license công cụ AI là chỉ số của trụ 2, và nó không nói gì về trụ 3 hay trụ 4 — nhưng nó là con số duy nhất dễ đưa vào báo cáo.
+
+## Phân biệt với framework gần giống
+- `FW-087` mô tả **áp lực bên ngoài** mà AI tạo ra; `FW-088` mô tả **năng lực bên trong** cần có để đáp lại.
+- `FW-010` HAI và `FW-065` phân công việc giữa người và AI ở mức **một đầu việc hoặc một quy trình**; `FW-088` ở mức **tổ chức**.
+- `CON-017` phân biệt nguồn lực với năng lực — bốn trụ này là một cách phân rã cụ thể cho bối cảnh AI.
+
+## Cách kết hợp với framework khác
+Hiểu áp lực bằng `FW-087` → chấm năng lực bằng `FW-088` → trụ Workflow thiết kế lại bằng `FW-085` và `FW-084` → trụ Governance dùng `FW-094` và `CON-031` → trụ People dùng `FW-093` EEE.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 8]`
+- Ánh xạ sang năm đòn bẩy của Zwingmann, T. (2025) *The Profitable AI Advantage*.
+
+=====
+
+---
+id: FW-089
+type: framework
+title_vi: Thang Generative AI → Agentic AI → AGI
+title_en: From Generative AI to Agentic AI to AGI
+aliases: [generative agentic AGI, agentic AI, AGI, thang năng lực AI, ba nấc AI]
+keywords: [AI tự chủ tới đâu, agent, tác tử, giao quyền cho AI, tin được đầu ra không, đặt ranh giới cho AI, AGI, mức tự chủ, vai trò con người]
+levels: [ORG, TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-003, PRB-005]
+related_ids: [FW-094, FW-065, FW-010, FW-087, CON-030]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 11"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# From Generative AI to Agentic AI to AGI (Thang Generative AI → Agentic AI → AGI)
+
+## Tóm tắt
+`[KHÓA HỌC]` Ba nấc năng lực AI, mỗi nấc gắn với **một vai trò khác của con người** và **một câu hỏi lãnh đạo khác**. Dùng khi cần xác định mình đang làm việc với loại AI nào và do đó phải quyết định điều gì.
+
+## Mục đích
+Chỉ ra rằng câu hỏi lãnh đạo **thay đổi theo mức tự chủ của hệ thống**, chứ không phải chỉ cần một bộ nguyên tắc chung cho "AI".
+
+## Khi nào dùng
+Khi một công cụ mới được đưa vào team; khi tranh luận về việc cho phép AI chạy tự động tới đâu; khi lập chính sách sử dụng AI.
+
+## Khi nào KHÔNG dùng
+Khi cần quyết cho một ca cụ thể — dùng `FW-094`, chi tiết hơn ở mức thao tác.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 11, năm chiều so sánh:
+
+| | **Generative AI** | **Agentic AI** | **AGI** |
+|---|---|---|---|
+| **Core idea** | Generate and assist — sinh ra và hỗ trợ | Plan and act — lập kế hoạch và hành động | Generalize across domains — khái quát hóa qua nhiều lĩnh vực |
+| **Typical function** | Create and respond | Use tools and execute — dùng công cụ và thực thi | Adapt across unfamiliar tasks — thích ứng với việc chưa từng gặp |
+| **Human role** | **Prompt and verify** — ra lệnh và kiểm chứng | **Set goals and guardrails** — đặt mục tiêu và lằn ranh an toàn | **Set broad direction and accountability** — đặt định hướng rộng và trách nhiệm |
+| **Leadership question** | *"Can I trust this output?"* | *"What authority should I delegate?"* | *"How might leadership change if capability generalizes?"* |
+| **Status** | Widely deployed | **Deployed, with varying autonomy** | **Emerging and contested** — đang hình thành và còn tranh cãi |
+
+Diễn giải bảng: hàng **Human role** là hàng quan trọng nhất vì nó cho thấy vai trò con người **không biến mất mà dịch lên cao hơn** qua từng nấc — từ kiểm chứng đầu ra, lên đặt ranh giới, lên đặt định hướng. Ở cả ba nấc con người vẫn ở trong vòng lặp, chỉ khác điểm can thiệp.
+
+Hàng **Leadership question** cho thấy một bước chuyển về bản chất giữa nấc 1 và nấc 2: *"Can I trust this output?"* là câu hỏi về **một kết quả**, còn *"What authority should I delegate?"* là câu hỏi về **quyền hạn** — tức đã rời khỏi địa hạt kỹ thuật và bước vào địa hạt quản trị. Đây là chỗ nhiều tổ chức trượt: tiếp tục dùng câu hỏi của nấc 1 cho hệ thống đã ở nấc 2.
+
+Hàng **Status** nhắc: nấc 2 **đã được triển khai với mức tự chủ khác nhau** — câu hỏi về quyền hạn không phải chuyện tương lai. Nấc 3 ghi rõ là *contested*, deck không khẳng định AGI là chắc chắn.
+
+`[KHÓA HỌC]` Câu kết dưới bảng: **"As AI becomes more capable and more autonomous, leaders must become more deliberate about judgement, delegation and accountability."** — AI càng có năng lực và càng tự chủ thì người lãnh đạo càng phải **chủ ý hơn** về phán đoán, giao quyền và trách nhiệm.
+
+Các bước: (1) xác định mỗi hệ thống AI đang ở nấc nào theo hàng *Typical function*; (2) kiểm xem mình có đang hỏi câu hỏi của đúng nấc đó không; (3) với hệ thống nấc 2, chuyển sang `FW-094`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Hệ thống này đang *trả lời* hay đang *hành động*?" — câu phân biệt nấc 1 với nấc 2.
+- `[BỔ SUNG]` "Nếu nó sai, ai phát hiện, sau bao lâu, và hoàn tác được không?"
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 16 nêu hệ quả lãnh đạo của cả Part I dưới tiêu đề **"Delegation ≠ Abdication"**: *"Delegation can increase. Accountability does not decrease."* — giao quyền có thể tăng, trách nhiệm không giảm. Kèm câu hỏi thảo luận: *"If your team included digital colleagues, what would you need to redesign about delegation, performance and accountability?"* — nếu team của bạn có cả **đồng nghiệp số**, bạn cần thiết kế lại điều gì về giao việc, hiệu suất và trách nhiệm?
+
+`[BỔ SUNG]` Bối cảnh team Data Science: một trợ lý code gợi ý hàm là nấc 1 — bạn kiểm chứng từng gợi ý. Một agent tự chạy pipeline, sửa lỗi và mở pull request là nấc 2 — bạn không kiểm từng bước nữa mà phải đặt trước: nó được chạm vào môi trường nào, ngưỡng nào thì dừng, ai duyệt trước khi merge.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm nguy hiểm nhất là **trượt nấc không chủ đích** — một công cụ được đưa vào như nấc 1, rồi dần được tin tưởng tới mức chạy như nấc 2 mà không ai ra quyết định cho phép điều đó. Case Replit ở `CON-030` chính là dạng này.
+
+## Phân biệt với framework gần giống
+- `FW-065` phân bốn chế độ theo **mức tự chủ trong một quy trình**; `FW-089` phân ba nấc theo **năng lực công nghệ** và gắn mỗi nấc một câu hỏi lãnh đạo — hai cách cắt bổ sung nhau.
+- `FW-094` là bản thao tác chi tiết nhất, bốn mức, cho từng đầu việc.
+- `FW-010` HAI trả lời việc nào nên là Human, AI hay HAI.
+
+## Cách kết hợp với framework khác
+Xác định nấc bằng `FW-089` → đặt quyền quyết định bằng `FW-094` → phân công đầu việc bằng `FW-010`, `FW-065` → chốt trách nhiệm bằng `CON-003`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 11, 16]`
+
+=====
+
+---
+id: FW-090
+type: framework
+title_vi: Leadership OS — BE → LEAD → MASTER
+title_en: The Leadership OS - BE, LEAD, MASTER
+aliases: [leadership OS, BE LEAD MASTER, C-FISH E-MICE O-LION, hệ điều hành lãnh đạo]
+keywords: [khung lãnh đạo tổng hợp, con người lãnh đạo, hành vi lãnh đạo, năng lực thời AI, ba lớp lãnh đạo, AI khuếch đại lãnh đạo, nền tảng lãnh đạo]
+levels: [ORG, TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-004, PRB-011]
+related_ids: [FW-091, FW-092, FW-013, FW-093, CON-003]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 17–18, 23"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Leadership OS (Leadership OS — BE → LEAD → MASTER)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Leadership OS** là khung tích hợp của Topic 18, xếp ba bộ năng lực thành ba lớp chồng lên nhau: **BE** (`C-FISH` — con người lãnh đạo là ai) → **LEAD** (`E-MICE` — người lãnh đạo làm gì) → **MASTER** (`O-LION` — phải thành thạo gì trong thời AI). Dùng khi muốn một bản đồ tổng thể về việc lãnh đạo trong tổ chức có AI, và để hiểu vì sao không thể bỏ qua lớp dưới.
+
+## Mục đích
+`[KHÓA HỌC]` Câu định khung của cả Part II: **"AI amplifies leadership. It does not replace the fundamentals of leadership."** — AI **khuếch đại** năng lực lãnh đạo, nó không thay thế các nền tảng của lãnh đạo. Hệ quả: nếu nền tảng yếu, AI khuếch đại cả cái yếu đó.
+
+## Khi nào dùng
+Khi tự đánh giá năng lực lãnh đạo; khi lập kế hoạch phát triển bản thân hoặc phát triển lớp quản lý kế cận; khi quyết định đầu tư vào năng lực nào trước.
+
+## Khi nào KHÔNG dùng
+Với một tình huống cụ thể cần xử lý ngay — đây là bản đồ năng lực, không phải quy trình. Dùng `FW-095` T-GROW để đi từ bản đồ tới hành động.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 18, ba lớp:
+
+| Lớp | Bộ | Là gì | Tạo ra gì |
+|---|---|---|---|
+| **BE** | **C-FISH** | Who leaders are — con người lãnh đạo là ai | *"Character and values build leadership credibility."* |
+| **LEAD** | **E-MICE** | What leaders do — người lãnh đạo làm gì | *"Practices and commitments build trust, culture and performance."* |
+| **MASTER** | **O-LION** | What leaders must master now — phải thành thạo gì lúc này | *"AI-era capabilities enable effective human–AI leadership."* |
+
+`[KHÓA HỌC]` Slide 23 giải thích **ba lớp củng cố lẫn nhau theo một chiều phụ thuộc**:
+
+| Nguyên tắc | Nội dung |
+|---|---|
+| **Character grounds practice** | *"Without C-FISH, E-MICE behaviors feel performative rather than genuine."* — không có tính cách nền, các hành vi lãnh đạo trở thành diễn chứ không thật |
+| **Practice creates the trust required for delegation** | *"E-MICE builds the trust and clarity that allow meaningful delegation to people and increasingly to AI."* |
+| **Mastery only works on the foundation** | *"O-LION only works safely on top of character and practice; orchestration without character is automation without accountability."* |
+
+Diễn giải hai bảng: chiều phụ thuộc đi **từ dưới lên** và không bỏ qua được bậc nào. Câu đáng chú ý nhất là vế cuối — **"orchestration without character is automation without accountability"**: điều phối người và AI mà thiếu nền tính cách thì không phải lãnh đạo mà chỉ là tự động hóa không có ai chịu trách nhiệm.
+
+Nguyên tắc thứ hai nối thẳng niềm tin với việc giao quyền, và mở rộng đối tượng được giao: *"to people **and increasingly to AI**"*. Nghĩa là cùng một nền tảng niềm tin chi phối cả việc giao việc cho người lẫn việc cho phép AI hành động — đúng điều `FW-094` cụ thể hóa thành bốn mức quyền.
+
+`[KHÓA HỌC]` Câu trích đóng khung cả Part II, xuất hiện hai lần (slide 17 và 23): ***"Ability may get you to the top, but it takes character to keep you there."***
+
+Các bước: (1) tự chấm ba lớp; (2) nếu lớp dưới yếu thì **không** đầu tư vào lớp trên trước; (3) với lớp MASTER, dùng `FW-092` O-LION; (4) chuyển thành hành động bằng `FW-095`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[KHÓA HỌC]` Hoạt động slide 24 — **"WHERE ARE WE NOW?"**: tự chấm từng phát biểu của C-FISH, E-MICE và O-LION trên thang năm mức — **1 Rarely · 2 Occasionally · 3 Sometimes · 4 Often · 5 Consistently** (chạy qua Mentimeter).
+- `[BỔ SUNG]` "Nếu team mình nhận xét, họ sẽ chấm mình ở lớp nào thấp nhất?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một quản lý mạnh lớp MASTER — rất giỏi điều phối công cụ AI, thiết kế workflow người–máy — nhưng yếu lớp LEAD: ít ghi nhận đóng góp, không làm gương về việc thừa nhận sai. Theo nguyên tắc thứ ba, năng lực orchestration đó sẽ cho ra một hệ thống chạy nhanh mà không ai thực sự nhận trách nhiệm khi nó sai.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sức hấp dẫn của lớp MASTER là cái bẫy chính: nó mới, cụ thể, và dễ thể hiện. Hai lớp dưới thì cũ và khó đo. Chính vì vậy slide 23 phải nói rõ chiều phụ thuộc — nếu không, mọi nỗ lực sẽ dồn vào lớp trên cùng.
+
+## Phân biệt với framework gần giống
+- `FW-013` Năm thực hành Kouzes & Posner **chính là E-MICE** — Topic 18 ghi rõ *"Adapted from Kouzes and Posner (2023)"* và sắp xếp lại năm thực hành thành từ viết tắt. Không có chunk riêng cho E-MICE; xem `FW-013`.
+- `FW-091` C-FISH và `FW-092` O-LION là hai lớp còn lại, mỗi lớp một chunk.
+- `FW-043` Sáu kỷ luật tư duy chiến lược (Topic 17) cũng là một bộ năng lực lãnh đạo nhưng nhắm vào **tư duy chiến lược**; `FW-090` nhắm vào **lãnh đạo trong bối cảnh AI**.
+
+## Cách kết hợp với framework khác
+Chấm ba lớp bằng `FW-090` → đi sâu từng lớp bằng `FW-091`, `FW-013`, `FW-092` → chẩn đoán điều kiện cho team bằng `FW-093` EEE → chuyển thành một thí nghiệm lãnh đạo bằng `FW-095`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 17–18, 23–24]`
+
+=====
+
+---
+id: FW-091
+type: framework
+title_vi: C-FISH — tính cách và giá trị của người lãnh đạo
+title_en: C-FISH - Character and Values
+aliases: [C-FISH, competent forward-looking inspirational serving honest, tính cách lãnh đạo]
+keywords: [uy tín lãnh đạo, chính trực, nhìn xa, truyền cảm hứng, phục vụ team, năng lực chuyên môn, phẩm chất người lãnh đạo, giữ được niềm tin lâu dài]
+levels: [SELF, TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-004, PRB-007]
+related_ids: [FW-090, FW-013, FW-092, CON-027, FW-079]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 19"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# C-FISH (C-FISH — tính cách và giá trị của người lãnh đạo)
+
+## Tóm tắt
+`[KHÓA HỌC]` **C-FISH** là lớp **BE** của Leadership OS (`FW-090`) — năm phẩm chất tạo nên uy tín lãnh đạo: **Competent · Forward-looking · Inspirational · Serving · Honest**. Dùng khi tự đánh giá nền tảng tính cách, hoặc khi hiểu vì sao các hành vi lãnh đạo đúng kỹ thuật vẫn không tạo được niềm tin.
+
+## Mục đích
+`[KHÓA HỌC]` Câu đúc kết của slide: **"Competence helps leaders earn responsibility. Character helps them sustain trust."** — năng lực giúp người lãnh đạo **giành được** trách nhiệm; tính cách giúp họ **giữ được** niềm tin. Hai thứ khác nhau và cần ở hai thời điểm khác nhau.
+
+## Khi nào dùng
+Khi mới nhận vai trò lãnh đạo; khi uy tín bị xói mòn mà không rõ lý do; trong một buổi phản tư về bản thân; khi chọn và phát triển lớp quản lý kế cận.
+
+## Khi nào KHÔNG dùng
+Với vấn đề quy trình, nguồn lực hay quyền quyết định — `CON-012` cảnh báo vấn đề tổ chức hay bị đọc thành vấn đề con người.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 19, năm phẩm chất:
+
+| Chữ | Phẩm chất | Nội dung |
+|---|---|---|
+| **C** | **Competent** | *"Has the knowledge and judgement to lead effectively."* — có kiến thức **và phán đoán** để dẫn dắt hiệu quả |
+| **F** | **Forward-looking** | *"Anticipates change and thinks beyond today."* — lường trước thay đổi và nghĩ xa hơn hôm nay |
+| **I** | **Inspirational** | *"Creates confidence and a sense of possibility."* — tạo ra sự tự tin và cảm giác về điều có thể làm được |
+| **S** | **Serving** | *"Puts people and collective success first."* — đặt con người và thành công tập thể lên trước |
+| **H** | **Honest** | *"Acts with integrity and earns trust."* — hành xử chính trực và kiếm được niềm tin |
+
+Diễn giải bảng: **Competent** được định nghĩa gồm cả *judgement*, không chỉ *knowledge* — phù hợp với `CON-022`, nơi Topic 03 chỉ ra kiến thức chuyên môn không tự động cho phán đoán tốt về con người. **Serving** là phẩm chất duy nhất đòi hỏi một sự đánh đổi thật: đặt thành công tập thể trước thành công cá nhân, và nó chính là thứ mà `FW-079` đặt ở **mẫu số** của phương trình niềm tin dưới tên Self-Orientation.
+
+**Forward-looking** mang ý nghĩa riêng trong bối cảnh Topic 18: khi năng lực AI thay đổi nhanh, "nghĩ xa hơn hôm nay" không còn là một phẩm chất đẹp mà là điều kiện để đặt ranh giới trước khi sự cố xảy ra — đúng lập luận của Bill Gates ở `CON-030`.
+
+Các bước: (1) chấm năm phẩm chất trên thang 1–5 của hoạt động slide 24; (2) với mỗi phẩm chất, tìm **một bằng chứng hành vi** trong ba tháng gần nhất — không có bằng chứng thì điểm tự chấm không đáng tin; (3) chọn phẩm chất yếu nhất và gắn nó với một hành vi cụ thể ở `FW-013`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Cho **Honest**: "Lần gần nhất tôi nói ra một điều bất lợi cho mình là khi nào?"
+- Cho **Serving**: "Trong năm lần phát biểu gần nhất về kết quả của team, bao nhiêu lần tôi nêu tên người làm?"
+- `[BỔ SUNG]` Cho **Forward-looking**: "Tôi đã đặt lằn ranh an toàn nào trước khi cần tới nó chưa?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: phẩm chất **Competent** bị thử thách theo một cách mới khi AI vào team — một quản lý từng là chuyên gia kỹ thuật không còn là người giỏi nhất về công cụ, vì một DS trẻ dùng AI có thể vượt qua họ ở nhiều việc. Phần *knowledge* của Competent giảm giá trị tương đối, phần *judgement* thì tăng: biết lúc nào **không** nên tin đầu ra, biết việc nào không nên tự động hóa.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Năm phẩm chất rất dễ tự chấm cao. Chúng là phẩm chất mà hầu như ai cũng tin mình có — đây chính là hiện tượng quá tự tin mà `CON-024` chứng minh bằng thực nghiệm. Vì vậy bước tìm bằng chứng hành vi không phải tùy chọn.
+
+`[KHÓA HỌC]` Theo `FW-090` slide 23, thiếu C-FISH thì các hành vi của `FW-013` **"feel performative rather than genuine"** — nghĩa là làm đúng kỹ thuật vẫn bị nhận ra là diễn.
+
+## Phân biệt với framework gần giống
+- `FW-013` E-MICE là lớp **LEAD** — những việc người lãnh đạo **làm**; `FW-091` là lớp **BE** — người lãnh đạo **là ai**. Chiều phụ thuộc: BE nâng đỡ LEAD.
+- `CON-027` năm chiều niềm tin của Robbins (Topic 11) chồng lấn với C-FISH ở Integrity/Honest và Competence/Competent, nhưng C-FISH thêm Forward-looking và Inspirational — hai phẩm chất hướng tương lai mà mô hình niềm tin không có.
+- `FW-079` Trust Equation đo niềm tin **trong một quan hệ cụ thể**; `FW-091` mô tả phẩm chất của người lãnh đạo nói chung.
+
+## Cách kết hợp với framework khác
+Chấm `FW-091` → chuyển phẩm chất yếu thành hành vi quan sát được bằng `FW-013` → kiểm bằng `FW-079` ở từng quan hệ → đặt trên nền đó mới dùng `FW-092`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 19, 23–24]`
+
+=====
+
+---
+id: FW-092
+type: framework
+title_vi: O-LION — năng lực lãnh đạo thời AI
+title_en: O-LION - AI-Era Leadership Capabilities
+aliases: [O-LION, orchestration lifelong learning insight oversight nurturing, năng lực thời AI]
+keywords: [điều phối người và AI, học liên tục, tư duy hệ thống, giám sát AI, AI có trách nhiệm, lợi thế con người, phán đoán sáng tạo đồng cảm, năng lực lãnh đạo mới]
+levels: [ORG, TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-004, PRB-003]
+related_ids: [FW-090, FW-091, FW-094, CON-031, FW-093]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 21"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# O-LION (O-LION — năng lực lãnh đạo thời AI)
+
+## Tóm tắt
+`[KHÓA HỌC]` **O-LION** là lớp **MASTER** của Leadership OS (`FW-090`) — năm năng lực mà người lãnh đạo phải thành thạo trong tổ chức có AI: **Orchestration · Lifelong Learning · Insight-Driven Systems Thinking · Oversight & Responsible AI · Nurturing Human Advantage**. Dùng khi xác định mình cần học gì để dẫn dắt một team làm việc cùng AI.
+
+## Mục đích
+Gọi tên những năng lực **mới** của vai trò lãnh đạo, tách khỏi các nền tảng không đổi ở `FW-091` và `FW-013`.
+
+## Khi nào dùng
+Khi lập kế hoạch phát triển bản thân; khi thiết kế chương trình phát triển cho lớp quản lý; khi quyết định dành thời gian học cái gì trong quý tới.
+
+## Khi nào KHÔNG dùng
+Khi hai lớp dưới của `FW-090` còn yếu — slide 23 nói rõ O-LION **chỉ hoạt động an toàn trên nền tính cách và thực hành**.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 21, năm năng lực:
+
+| Chữ | Năng lực | Nội dung |
+|---|---|---|
+| **O** | **Orchestration** | *"Coordinate people, agents and workflows."* — điều phối **con người, agent và luồng công việc** |
+| **L** | **Lifelong Learning** | *"Continuously renew knowledge and capability."* — liên tục làm mới kiến thức và năng lực |
+| **I** | **Insight-Driven Systems Thinking** | *"Understand patterns, interdependencies and consequences."* — hiểu khuôn mẫu, các phụ thuộc lẫn nhau và hệ quả |
+| **O** | **Oversight & Responsible AI** | *"Establish boundaries, verification and accountability."* — thiết lập ranh giới, cơ chế kiểm chứng và trách nhiệm |
+| **N** | **Nurturing Human Advantage** | *"Develop judgement, creativity, empathy and relationships."* — phát triển phán đoán, sáng tạo, đồng cảm và quan hệ |
+
+Diễn giải bảng: năm năng lực chia thành ba nhóm chức năng. **Orchestration** và **Oversight** là hai mặt của cùng một việc — một bên làm cho hệ thống chạy, một bên đảm bảo nó chạy trong ranh giới; thiếu mặt thứ hai thì theo slide 23, *"orchestration without character is automation without accountability"*. **Lifelong Learning** và **Insight-Driven Systems Thinking** là năng lực nhận thức của chính người lãnh đạo. **Nurturing Human Advantage** là năng lực duy nhất hướng ra ngoài, về phía con người trong team.
+
+Chữ **N** đáng chú ý nhất vì nó định nghĩa lại việc phát triển nhân sự: khi AI làm được phần lớn công việc thường quy, thứ cần phát triển ở con người không còn là kỹ năng thực thi mà là **judgement, creativity, empathy và relationships** — đúng bốn thứ mà `FW-093` chỉ ra đang mất đi môi trường rèn luyện khi AI tự động hóa công việc của người mới vào nghề.
+
+Chữ **O** đầu — *coordinate people, **agents** and workflows* — ghi agent ngang hàng với con người trong danh sách phải điều phối. Đây là thay đổi thực chất nhất so với mô tả công việc quản lý truyền thống, và nối thẳng với câu của Jensen Huang ở `CON-030`: phòng IT sẽ là phòng nhân sự của các AI agent.
+
+Các bước: (1) chấm năm năng lực trên thang 1–5 ở hoạt động slide 24; (2) kiểm xem hai lớp dưới của `FW-090` đã đủ chưa; (3) chọn một năng lực và gắn với một việc thật trong quý; (4) với chữ O thứ hai, dùng `FW-094` và `CON-031` làm nội dung cụ thể.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Cho **Orchestration**: "Trong luồng việc của team, chỗ nào người bàn giao cho AI và chỗ nào AI bàn giao lại cho người?"
+- Cho **Oversight**: "Mình đã viết ra ranh giới cho công cụ nào chưa, hay chúng mới chỉ nằm trong đầu?"
+- Cho **Nurturing**: "Người mới vào team học được phán đoán từ đâu, khi phần việc tập sự đã được tự động hóa?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, chữ **I** rất cụ thể: hiểu *interdependencies* nghĩa là biết rằng đổi ngưỡng của một mô hình sẽ làm thay đổi khối lượng việc của bộ phận vận hành ở hạ nguồn. Đây là loại hệ quả không hiện trong bất kỳ chỉ số nào của riêng team, và là lý do `FW-084` bản đồ hành trình stakeholder có giá trị.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Hai năng lực dễ bị bỏ qua nhất là **Oversight** và **Nurturing**, vì cả hai đều tạo ra giá trị **không đo được trong quý hiện tại** — ranh giới tốt thể hiện qua sự cố *không* xảy ra, và việc nuôi dưỡng phán đoán thể hiện sau nhiều quý. Trong khi đó Orchestration cho kết quả thấy ngay.
+
+## Phân biệt với framework gần giống
+- `FW-091` C-FISH là lớp BE, `FW-013` E-MICE là lớp LEAD, `FW-092` O-LION là lớp MASTER. Ba lớp của cùng một khung `FW-090`.
+- `FW-043` Sáu kỷ luật tư duy chiến lược (Topic 17) chồng lấn ở phần systems analysis và pattern recognition; `FW-092` thêm phần điều phối người–AI và giám sát có trách nhiệm.
+- `FW-010` HAI là công cụ thao tác cho chữ **O** đầu tiên.
+
+## Cách kết hợp với framework khác
+Đặt trên nền `FW-091` và `FW-013` → chấm `FW-092` → chữ O thứ hai triển khai bằng `FW-094` và `CON-031` → chữ N triển khai bằng `FW-093` EEE → chuyển thành hành động bằng `FW-095`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 21, 23–24]`
+
+=====
+
+---
+id: FW-093
+type: framework
+title_vi: EEE — Environment, Equipping, Exposure và Khoảng trống Tập sự
+title_en: EEE - Environment, Equipping, Exposure and the Apprenticeship Gap
+aliases: [EEE, environment equipping exposure, apprenticeship gap, khoảng trống tập sự]
+keywords: [phát triển nhân viên, người mới không học được gì, AI làm hết việc của junior, thiếu cơ hội, chán việc, có năng lực nhưng không được giao, nản, chẩn đoán điều kiện phát triển]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-005, PRB-007]
+related_ids: [FW-092, FW-096, FW-029, FW-080, FW-028]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 26–28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# EEE and the Apprenticeship Gap (EEE — Environment, Equipping, Exposure)
+
+## Tóm tắt
+`[KHÓA HỌC]` **EEE** là bộ chẩn đoán ba điều kiện để một người phát triển: **Environment** (có thấy an toàn và được hỗ trợ không) · **Equipping** (có đủ năng lực và nguồn lực không) · **Exposure** (có cơ hội áp dụng và lớn lên không). Thiếu điều kiện nào thì sinh ra một kiểu thất bại riêng. Dùng khi một người không tiến bộ mà chưa rõ vì sao.
+
+## Mục đích
+`[KHÓA HỌC]` Giải **The Apprenticeship Gap** (khoảng trống tập sự) — vấn đề mà slide 27 đặt ra: *"What happens when AI automates the work through which people previously developed expertise?"* Điều gì xảy ra khi AI tự động hóa chính những công việc mà qua đó con người từng phát triển chuyên môn?
+
+Câu cảnh báo: **"The danger isn't merely job loss, it's what happens when we automate the training ground for tomorrow's experts."** — nguy cơ không chỉ là mất việc, mà là việc ta tự động hóa mất **thao trường đào tạo chuyên gia của ngày mai**.
+
+## Khi nào dùng
+Khi một nhân viên dậm chân tại chỗ; khi AI đã nhận phần lớn việc thường quy của người mới; khi thiết kế lộ trình phát triển cho fresher và junior.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là hành vi cụ thể cần sửa — dùng `FW-025`. EEE chẩn đoán **điều kiện**, không chẩn đoán hành vi.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 27 — EEE trong bối cảnh khoảng trống tập sự. *"Leaders at every level must now redesign development opportunities, not simply preserve routine tasks"* — phải **thiết kế lại cơ hội phát triển**, không phải cố giữ lại các việc thường quy:
+
+| Điều kiện | Nội dung trong bối cảnh AI |
+|---|---|
+| **Environment** | *"Juniors can show incomplete thinking and question AI openly."* — người mới dám để lộ suy nghĩ chưa hoàn chỉnh và dám chất vấn AI một cách công khai |
+| **Equipping** | *"Teach them how to work above the task level — tools, frameworks, judgement."* — dạy cách làm việc **ở tầng trên mức đầu việc** |
+| **Exposure** | *"Move them earlier into customer, architecture and decision contexts."* — đưa họ **sớm hơn** vào bối cảnh khách hàng, kiến trúc và ra quyết định |
+
+`[KHÓA HỌC]` Slide 28 — bảng chẩn đoán, mỗi điều kiện thiếu cho một triệu chứng riêng:
+
+| Điều kiện thiếu | Rủi ro phát triển | Người lãnh đạo nên làm gì | AI có thể giúp thế nào |
+|---|---|---|---|
+| **Environment** | **Frustrated and likely to leave** — bực bội và nhiều khả năng rời đi | Xây niềm tin, an toàn tâm lý và sự rõ ràng | Tổng hợp phản hồi ẩn danh, mô phỏng tình huống coaching |
+| **Equipping** | **Motivated but ineffective** — có động lực nhưng không hiệu quả | Cung cấp công cụ, đào tạo, coaching và nguồn lực | Học cá nhân hóa, AI tutor, hỗ trợ ra quyết định |
+| **Exposure** | **Competent but uninspired** — có năng lực nhưng mất hứng | Giao thử thách có ý nghĩa và trách nhiệm | Luyện kịch bản, hiểu biết về khách hàng, chuẩn bị dự án |
+
+Ghi chú dưới bảng: **"All three: the development sweet spot."**
+
+Diễn giải bảng: giá trị chẩn đoán nằm ở cột thứ hai — **ba triệu chứng khác nhau rõ rệt**, nên quan sát triệu chứng là suy ngược được điều kiện đang thiếu. Người "bực bội và muốn nghỉ" không cần thêm khóa học; người "có động lực nhưng không hiệu quả" không cần thêm thử thách; người "có năng lực nhưng mất hứng" không cần thêm đào tạo. Cả ba sai lầm đều phổ biến vì phản xạ mặc định là bổ sung Equipping — thứ dễ cấp nhất. Cột cuối đặt AI vào vai trò **hỗ trợ** điều kiện phát triển chứ không thay thế: với Environment, AI chỉ tổng hợp phản hồi, việc xây niềm tin vẫn thuộc về người lãnh đạo.
+
+`[KHÓA HỌC]` Câu trích của slide 28: ***"To scale leadership, you cannot hire the seed without engineering the soil."*** — muốn nhân rộng năng lực lãnh đạo thì không thể chỉ tuyển hạt giống mà không cải tạo đất.
+
+Các bước: (1) với một người cụ thể, đối chiếu triệu chứng quan sát được với cột thứ hai; (2) xác định điều kiện thiếu; (3) làm đúng việc ở cột thứ ba; (4) dùng AI ở cột thứ tư như công cụ hỗ trợ, không thay thế.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Người này đang bực bội, không hiệu quả, hay mất hứng?" — một câu hỏi phân loại ra cả ba hướng.
+- `[BỔ SUNG]` "Người mới của mình học phán đoán từ đâu, khi phần việc tập sự đã được AI làm?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một DS mới trước đây học bằng cách tự viết truy vấn, tự dò lỗi dữ liệu, tự dựng biểu đồ. Khi AI làm cả ba việc trong vài phút, họ có kết quả nhanh hơn nhưng không còn tiếp xúc với **sự lộn xộn của dữ liệu thật** — nơi phán đoán hình thành. Đáp án theo EEE không phải cấm dùng AI mà là **Exposure**: đưa họ sớm vào buổi làm việc với bộ phận yêu cầu, để học phần khó hơn là đặt đúng câu hỏi.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Sai lầm được slide 27 gọi tên trực tiếp: **"not simply preserve routine tasks"** — giữ lại việc thường quy cho người mới làm để họ "có cái mà học" là phản ứng sai. Việc cần làm là thiết kế lại cơ hội phát triển ở tầng cao hơn.
+
+## Phân biệt với framework gần giống
+- `FW-028` Năm lăng kính tìm nguyên nhân của **hiệu suất kém**; `FW-093` chẩn đoán **điều kiện phát triển**, mỗi điều kiện một triệu chứng riêng.
+- `FW-029` chấm xem một người **đã sẵn sàng** cho bước tiếp chưa; `FW-093` hỏi **môi trường đã đủ chưa**.
+- `FW-080` An toàn tâm lý là nội dung chi tiết của **Environment**.
+
+## Cách kết hợp với framework khác
+Chẩn đoán bằng `FW-093` → Environment xử lý bằng `FW-080`, `FW-078` → Equipping bằng `FW-030` → Exposure bằng `FW-029`, `CON-004` → luyện bằng `FW-096`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 26–28]`
+
+=====
+
+---
+id: FW-094
+type: framework
+title_vi: Bốn mức quyền quyết định giữa người và AI
+title_en: Human-AI Decision Rights - Four Levels
+aliases: [human-AI decision rights, AI assists recommends acts within boundaries, bốn mức quyền AI]
+keywords: [AI được làm gì, cho phép AI tự chạy tới đâu, ai duyệt trước khi AI hành động, ngưỡng cho phép, giám sát AI, quyền quyết định, ranh giới cho agent]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-003, PRB-005]
+related_ids: [FW-089, FW-065, FW-010, CON-031, CON-003]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 29"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Human-AI Decision Rights (Bốn mức quyền quyết định giữa người và AI)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bốn mức quyền tăng dần cho AI, mỗi mức kèm một ví dụ cụ thể: **AI Assists → AI Recommends → AI Acts with Approval → AI Acts Within Boundaries**. Dùng khi phải quyết định một công cụ AI được tự chạy tới đâu trong luồng việc của team.
+
+## Mục đích
+Biến câu hỏi mơ hồ *"có nên cho AI làm việc này không"* thành một lựa chọn giữa bốn mức đã định nghĩa sẵn, mỗi mức có cơ chế kiểm soát riêng.
+
+## Khi nào dùng
+Khi đưa một công cụ AI vào quy trình; khi một agent bắt đầu được tin tưởng hơn mức thiết kế ban đầu; khi viết chính sách sử dụng AI cho team.
+
+## Khi nào KHÔNG dùng
+Với quyết định có hệ quả về con người — đánh giá, thăng chức, cho thôi việc. `FW-010` và `FW-057` đều chỉ ra quyền sở hữu phải ở người.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 29, bốn mức:
+
+| # | Mức | Cơ chế | Ví dụ trên slide |
+|---|---|---|---|
+| **1** | **AI Assists** | *"Human does and decides."* — người làm và người quyết | Soạn biên bản họp |
+| **2** | **AI Recommends** | *"AI analyses; human decides."* — AI phân tích, người quyết | Gợi ý code |
+| **3** | **AI Acts with Approval** | *"AI prepares/executes; human checkpoint before consequence."* — AI chuẩn bị hoặc thực thi; **người kiểm tại một chốt trước khi hệ quả xảy ra** | Triển khai code |
+| **4** | **AI Acts Within Boundaries** | *"AI executes autonomously inside defined permissions; human monitors & owns escalation."* — AI tự chạy **trong phạm vi quyền đã định**; người giám sát và **sở hữu việc leo thang** | Tự động định tuyến ticket hỗ trợ rủi ro thấp **trong các ngưỡng đã định trước** |
+
+Diễn giải bảng: bước chuyển quan trọng nhất là **từ mức 2 sang mức 3** — đó là chỗ AI chuyển từ *nói* sang *làm*, và từ đó trở đi sai sót tạo ra hệ quả thật chứ không chỉ tạo ra một đề xuất tồi. Cụm *"before consequence"* ở mức 3 định nghĩa chính xác vị trí của chốt kiểm: **trước khi hệ quả xảy ra**, không phải sau.
+
+Mức 4 là mức duy nhất AI chạy không cần người ở trong vòng lặp từng lần, và nó được bảo vệ bằng ba điều kiện cùng lúc: **phạm vi quyền được định nghĩa trước**, **ngưỡng rõ ràng**, và **một người sở hữu việc leo thang**. Thiếu bất kỳ điều nào thì đó không phải mức 4 mà là mức 4 không kiểm soát — chính là tình huống Replit ở `CON-030`, nơi lệnh *code freeze* tồn tại nhưng **quyền truy cập thì không bị giới hạn**.
+
+Bốn ví dụ tăng dần theo mức khó hoàn tác: biên bản sai thì sửa; gợi ý code sai thì không merge; code đã triển khai thì phải rollback; ticket định tuyến sai thì khách hàng đã bị ảnh hưởng — nên mức 4 chỉ dùng cho **việc rủi ro thấp**, đúng chữ *low-risk* trong ví dụ.
+
+Các bước: (1) liệt kê việc AI đang tham gia; (2) gán mỗi việc vào một mức **theo thực tế đang diễn ra**, không theo ý định ban đầu; (3) với mức 3 và 4, viết ra ranh giới và người sở hữu leo thang; (4) rà định kỳ xem có việc nào tự trượt lên mức cao hơn không.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Chốt kiểm của mình nằm trước hay sau hệ quả?"
+- "Ranh giới này đang tồn tại dưới dạng quyền truy cập hay chỉ dưới dạng một lời dặn?"
+- `[BỔ SUNG]` "Ai là người được gọi khi hệ thống này chạm ngưỡng — và họ có biết điều đó không?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, gán bốn mức cho một quy trình: AI tóm tắt tài liệu yêu cầu (**mức 1**); AI đề xuất đặc trưng và siêu tham số (**mức 2**); AI tự chạy lại pipeline huấn luyện rồi mở pull request chờ người duyệt (**mức 3**); AI tự gán nhãn các ảnh có độ tin cậy trên 0.98 và đẩy ca dưới ngưỡng cho người xử lý (**mức 4**, với ngưỡng và người trực đã định).
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Rủi ro lớn nhất là **trượt mức âm thầm**: một công cụ được đưa vào ở mức 3, và sau vài chục lần duyệt đúng, người duyệt bắt đầu bấm đồng ý theo quán tính — hệ thống thực tế đã chạy ở mức 4 mà không ai quyết định điều đó. Theo `CON-021`, đó là System 1 tiếp quản một việc thuộc về System 2. Cách phát hiện: đo tỷ lệ và thời gian duyệt, không chỉ đo kết quả.
+
+## Phân biệt với framework gần giống
+- `FW-089` phân ba nấc theo **năng lực công nghệ**; `FW-094` phân bốn mức theo **quyền được trao trong một quy trình**. Một hệ thống Agentic vẫn có thể được đặt ở mức 2 nếu bạn chọn vậy.
+- `FW-065` mô tả **kiểu hợp tác**; `FW-094` mô tả **quyền quyết định**, và là bản gần nhất để viết thành chính sách.
+- `CON-003` phân biệt responsibility, accountability và decision rights giữa người với người; `FW-094` áp cách phân biệt đó khi một bên là AI.
+
+## Cách kết hợp với framework khác
+Xác định nấc năng lực bằng `FW-089` → chọn mức quyền bằng `FW-094` → ghi ranh giới theo `CON-031` → chốt người chịu trách nhiệm bằng `CON-003`, `FW-010`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 29]`
+
+=====
+
+---
+id: FW-095
+type: framework
+title_vi: Mô hình coaching T-GROW
+title_en: The T-GROW Coaching Model
+aliases: [T-GROW, GROW model, topic goal reality options will, mô hình GROW]
+keywords: [coaching, dẫn dắt cuộc trò chuyện, từ vấn đề tới hành động, hỏi thay vì khuyên, chốt một việc sẽ thử, cấu trúc buổi 1:1, thiết kế thí nghiệm lãnh đạo]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [FW-093, FW-090, FW-096, FW-030, CON-011]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 32, 41"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The T-GROW Coaching Model (Mô hình coaching T-GROW)
+
+## Tóm tắt
+`[KHÓA HỌC]` **T-GROW** là mô hình coaching năm bước — **Topic · Goal · Reality · Options · Will** — mà Topic 18 dùng làm khung cho hoạt động cuối buổi: biến một thách thức của team thành **một thí nghiệm lãnh đạo** cụ thể. Dùng khi cần đi từ "có vấn đề" tới "sẽ thử việc này" trong một cuộc trò chuyện có cấu trúc.
+
+## Mục đích
+`[KHÓA HỌC]` Đầu ra được slide 32 ghi rõ: **"One practical leadership experiment grounded in EEE and the Leadership OS"** — một thí nghiệm lãnh đạo thực tế, đặt nền trên `FW-093` và `FW-090`.
+
+## Khi nào dùng
+Trong buổi 1:1 khi nhân viên mang tới một vấn đề; khi tự coach chính mình qua một thách thức; làm khung cho một buổi làm việc nhóm về cải tiến cách lãnh đạo.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề cần một quyết định của bạn chứ không cần người kia tự tìm ra đáp án — coaching sai chỗ sẽ kéo dài thứ lẽ ra chỉ cần một câu trả lời. `FW-027` cảnh báo về kiểu quản lý Always-On.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 32, năm bước:
+
+| Bước | Câu hỏi | Nội dung chi tiết |
+|---|---|---|
+| **T — Topic** | *"What team challenge are we addressing?"* | Xác định thách thức phát triển của team và **ai bị ảnh hưởng** |
+| **G — Goal** | *"What would better look like?"* | Định nghĩa thay đổi mong muốn về **năng lực, động lực, niềm tin hoặc hiệu suất** |
+| **R — Reality** | *"What is happening now?"* | Chẩn đoán **khoảng trống EEE chính**: Environment, Equipping hay Exposure? Điều gì đang gây ra nó? |
+| **O — Options** | *"What could the leader do?"* | Sinh các phản ứng khả dĩ. Dùng **C-FISH · E-MICE · O-LION** để định hình cách bạn lãnh đạo, và **xác định chỗ AI có thể giúp, nếu phù hợp** |
+| **W — Will** | *"What will you try?"* | Thống nhất **một** hành động lãnh đạo thực tế và cách bạn sẽ thử hoặc áp dụng nó |
+
+Diễn giải bảng: chữ **T** là phần bổ sung so với mô hình GROW gốc bốn bước, và nó làm một việc cụ thể — buộc đặt tên thách thức **và chỉ ra ai bị ảnh hưởng** trước khi bàn mục tiêu. Bỏ bước này thì cuộc trò chuyện dễ trôi vào một vấn đề chung chung không có chủ thể.
+
+Bước **R** là bước có ràng buộc chặt nhất: nó không hỏi "tình hình thế nào" mà yêu cầu **phân loại vào một trong ba điều kiện EEE** rồi hỏi nguyên nhân. Đây là chỗ mô hình này khác với một buổi than phiền có cấu trúc.
+
+Bước **O** là nơi duy nhất AI xuất hiện, và nó xuất hiện **sau** khi đã chẩn đoán — kèm điều kiện *"if appropriate"*. Thứ tự này có chủ đích: công cụ đến sau chẩn đoán, đúng nguyên tắc problem-first ở `FW-049-01`.
+
+`[KHÓA HỌC]` Bước **W** chỉ chấp nhận **một** hành động. Phiếu làm việc nhóm ở slide 41 chốt bằng một câu để điền: ***"Our leadership response: We will …"***
+
+`[KHÓA HỌC]` Năm cột của phiếu slide 41: *What is the team challenge? · What would better look like? · Which EEE condition is the primary gap? Why? · What should the leader do? Which C-FISH / E-MICE / O-LION elements matter most? Where can AI help? · What practical action would you take next?*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Năm câu hỏi của chính mô hình là bộ câu hỏi dùng được nguyên văn.
+- `[BỔ SUNG]` Giữ bước R khỏi trôi: "Trong ba điều kiện — môi trường, trang bị, cơ hội — cái nào thiếu rõ nhất?"
+- `[BỔ SUNG]` Đóng bước W: "Trước thứ Sáu tuần sau, bạn sẽ làm gì khác đi, và làm sao mình biết là đã làm?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, chạy T-GROW cho kịch bản 2 của `FW-096`: **T** — một DS trẻ ship nhanh nhờ trợ lý code nhưng không gỡ lỗi độc lập được. **G** — trong hai tháng, tự truy được nguyên nhân một sự cố tích hợp. **R** — khoảng trống **Equipping**: có công cụ nhưng chưa được dạy làm việc ở tầng trên mức đầu việc. **O** — ghép cặp gỡ lỗi hằng tuần không dùng AI, yêu cầu giải thích luồng tích hợp trước khi merge. **W** — mỗi tuần một buổi 45 phút, người đó dẫn, mình chỉ hỏi.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là nhảy từ **T** thẳng sang **O** — nghe vấn đề rồi đề xuất giải pháp ngay. Hai bước bị bỏ qua là G và R, và đó chính là hai bước chứa thông tin: thiếu G thì không biết thế nào là xong, thiếu R thì giải pháp nhắm sai điều kiện.
+
+## Phân biệt với framework gần giống
+- `FW-030` D–R–C (Topic 09) cũng chống việc khuyên quá sớm, nhưng là trình tự xử lý một ca phát triển; `FW-095` là một cuộc trò chuyện năm bước.
+- `FW-024` SAIL dẫn cuộc trò chuyện về **hiệu suất có vấn đề**; `FW-095` về **phát triển và cách lãnh đạo**.
+- `FW-086` chốt bằng một–một–một cho quy trình; `FW-095` chốt bằng một hành động lãnh đạo.
+
+## Cách kết hợp với framework khác
+`FW-095` là khung chạy; `FW-093` cấp nội dung cho bước **R**; `FW-090`, `FW-091`, `FW-013`, `FW-092` cấp nội dung cho bước **O**; `FW-096` là nguyên liệu luyện tập.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 32, 41]` — ghi nguồn mô hình trên slide: TPC 2026.
+
+=====
+
+---
+id: FW-096
+type: exercise
+title_vi: Bảy kịch bản lãnh đạo thời AI tại Zalo
+title_en: Seven AI-Era Leadership Scenarios at Zalo
+aliases: [7 scenarios for young leaders, bảy kịch bản AI, Zalo AI scenarios]
+keywords: [nhân viên ngừng phản biện, phụ thuộc AI, không được giao việc, việc khó còn lại cho người, AI làm hết việc junior, dùng AI không đều, feedback do AI viết, tình huống thực hành]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-005, PRB-006]
+related_ids: [FW-093, FW-095, FW-094, FW-090, FW-080]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 33–40"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Seven AI-Era Leadership Scenarios at Zalo (Bảy kịch bản lãnh đạo thời AI tại Zalo)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bảy tình huống **viết riêng cho bối cảnh Zalo và VNG**, mỗi tình huống nêu một **căng thẳng lãnh đạo** (hai giá trị kéo ngược nhau) và một **câu hỏi** cần trả lời. Dùng làm nguyên liệu chạy `FW-095` T-GROW, hoặc để nhận ra tình huống của chính mình đã được gọi tên.
+
+## Mục đích
+Chỉ ra rằng vấn đề lãnh đạo thời AI hiếm khi là chọn đúng hay sai, mà là **cân bằng hai thứ đều đáng giá**.
+
+## Khi nào dùng
+Trong buổi làm việc nhóm quản lý; khi một trong bảy tình huống đang xảy ra với team mình; làm đầu vào cho bước **T** của `FW-095`.
+
+## Khi nào KHÔNG dùng
+Không dùng bản thân kịch bản làm lời giải — mỗi tình huống chỉ nêu câu hỏi, không nêu đáp án, và đó là chủ đích.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 33–40, bảy kịch bản:
+
+| # | Tên | Tình huống | Căng thẳng | Câu hỏi |
+|---|---|---|---|---|
+| **01** | **The Strong Engineer Who Stops Speaking Up** | **Anh**, kỹ sư cao cấp hỗ trợ mảng nhắn tin Zalo. Trong một đợt phát hành lưu lượng cao, team dùng bản tóm tắt log do AI tạo để ưu tiên sự cố. Quyết định nhanh hơn, nhưng Anh — người có nhiều năm kinh nghiệm với **ca biên** — thấy ít chỗ để phản biện bản tóm tắt và **dần ít lên tiếng** | Speed ↔ Voice & trust | *"How should the leader use AI without narrowing the team's judgement?"* |
+| **02** | **The Junior Who Became Too Dependent on AI** | **Linh**, lập trình viên mới, làm Zalo Mini App cho một đối tác dịch vụ công. Dựa vào trợ lý code cho phần lớn việc triển khai và ship rất nhanh. Khi có sự cố go-live, cô **tái hiện được bản vá do AI gợi ý nhưng không giải thích hay tự gỡ lỗi được luồng tích hợp** | Productivity ↔ Capability building | *"Where should AI assist, and what must Linh still learn to do herself?"* |
+| **03** | **Ready, Capable, but Never Given the Chance** | **Huy** hoàn thành Zalo Tech Fresher 2026, gồm cả AI for Work và một dự án sản phẩm thật. Vào squad, AI nay lo phần lớn việc sinh test và phân tích thường quy, nhưng Huy **vẫn chỉ được giao việc kiểm chứng**, còn quyền sở hữu tính năng thuộc về kỹ sư cao cấp | Control ↔ Development | *"What meaningful responsibility should move to Huy so he can grow safely?"* |
+| **04** | **When Automation Leaves the Hard Cases** | Zalo Business Solutions giúp các tổ chức tự động hóa tương tác khách hàng qua OA, ZBS messages và chatbot. Bạn dẫn một team triển khai: yêu cầu thường quy nay được xử lý tự động, còn nhân sự đối tác **chủ yếu nhận các ca bất thường, nhiều cảm xúc hoặc rủi ro cao** cần phán đoán của con người | Efficiency ↔ Workload quality | *"How should people be equipped for the work AI leaves behind?"* |
+| **05** | **AI Is Doing the Entry-Level Work** | Các Zalo Tech Fresher mới dùng GenAI để soạn test case, tóm tắt tài liệu và tăng tốc các phân tích đầu tiên. Họ giao nộp nhanh hơn, nhưng mentor nhận thấy một số người **hoàn thành việc mà không thực sự hiểu vấn đề của người dùng, các đánh đổi của sản phẩm, hay vì sao hệ thống chạy được** | Automation ↔ Apprenticeship | *"How do you redesign the learning pathway, instead of preserving low-value tasks?"* |
+| **06** | **AI Access Is Broad, but Team Learning Is Uneven** | VNG đã mở rộng công cụ AI, đào tạo và hackathon nội bộ. Nhưng trong một squad sản phẩm Zalo, **vài người là power user còn số khác chỉ dùng AI cho việc đơn giản**. Năng suất cá nhân tăng, nhưng cách làm hiệu quả, lỗi và bài học **hiếm khi được chia sẻ trong team** | Individual productivity ↔ Team capability | *"How should the leader turn AI access into shared team capability?"* |
+| **07** | **When AI Helps Write the Feedback** | **Mai**, một team lead mới được đề bạt, dùng một công cụ AI đã được duyệt để cấu trúc ghi chú 1:1 và soạn phản hồi. Tiết kiệm thời gian, nhưng **câu chữ bắt đầu thấy chung chung** và các cuộc trò chuyện **ít cụ thể hơn về đóng góp và sự phát triển của từng người** | Efficiency ↔ Trust & authenticity | *"Where should AI support leadership communication, and where must the leader remain personally present?"* |
+
+Diễn giải bảng: bảy kịch bản phủ ba tầng. **01, 02, 07** tác động lên **một cá nhân** — tiếng nói, năng lực, tính chân thực. **03, 05** cùng chạm **khoảng trống tập sự** của `FW-093` từ hai phía: người đã sẵn sàng mà không được giao, và người được giao mà không học được gì. **04, 06** ở tầng **thiết kế công việc của cả team**. Kịch bản **07** nhắm thẳng vào chính người quản lý, và công cụ trong đó **đã được duyệt** — không vi phạm quy định nào; vấn đề nằm ở chỗ AI được dùng nơi mà sự hiện diện cá nhân chính là giá trị.
+
+Các bước: (1) chọn kịch bản gần tình huống thật nhất; (2) chạy `FW-095` T-GROW; (3) bước R chẩn đoán khoảng trống EEE; (4) bước O chọn yếu tố C-FISH / E-MICE / O-LION; (5) bước W chốt một hành động.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Bảy câu hỏi ở cột cuối dùng nguyên văn được.
+- `[BỔ SUNG]` Cho kịch bản 01: "Ba lần gần nhất bản tóm tắt tự động bị phản biện là khi nào, và ai phản biện?"
+
+## Ví dụ
+`[BỔ SUNG]` Với team Data Science, kịch bản **06** hay gặp nhất và ít được nhận ra nhất: năng suất cá nhân tăng thật, chỉ số đều đẹp, nên không có tín hiệu nào báo rằng năng lực **tập thể** không đổi. Cách xử lý: biến việc chia sẻ cách dùng thành mục cố định trong họp tuần.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Cả bảy kịch bản đều có **hệ quả chậm và không phát tín hiệu lỗi**: Anh ít nói dần, Linh vẫn ship đúng hạn, năng suất squad vẫn tăng. Không ca nào tạo sự cố để báo động — nên chúng phải được chủ động đi tìm, giống `FW-057` và `FW-080`.
+
+## Phân biệt với framework gần giống
+`FW-077` là ba kịch bản đóng vai của Topic 11 về **hội thoại quản lý – nhân viên** nói chung; `FW-096` là bảy kịch bản về **tác động của AI lên con người và năng lực team**. Cả hai đều viết cho bối cảnh Zalo.
+
+## Cách kết hợp với framework khác
+Chọn kịch bản → chạy `FW-095` → chẩn đoán bằng `FW-093` → chọn hành vi lãnh đạo từ `FW-090` → nếu vấn đề là ranh giới quyền cho AI, dùng `FW-094`.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 33–40]`

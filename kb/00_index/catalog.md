@@ -2,17 +2,17 @@
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 159 chunk.** Đã xử lý **18/19 topic MEGROW trong phạm vi** (Topic 01–17, 19). Còn Topic 18; Topic 20 (Capstone) để riêng, ngoài phạm vi kho.
+**Trạng thái kho: 172 chunk.** Đã xử lý **19/19 topic MEGROW trong phạm vi** (Topic 01–19). Topic 20 và Capstone Lumo Case để riêng, ngoài phạm vi kho.
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 29 |
-| `FW` Framework | 101 |
+| `CON` Khái niệm & nguyên tắc | 31 |
+| `FW` Framework | 111 |
 | `PRB` Vấn đề | 11 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 18 |
+| `TOP` Topic | 19 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **159** |
+| **Tổng** | **172** |
 
 ---
 
@@ -49,6 +49,8 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON-027` | Niềm tin là kết quả tích lũy của hành vi nhất quán (Trust as the Accumulated Result of Consistent Behaviour) | concept | TEAM, SELF | MEGROW | Robbins: niềm tin là quá trình phụ thuộc lịch sử; integrity là điều kiện, thiếu nó bốn chiều kia vô nghĩa |
 | `CON-028` | Lãnh đạo Gen Z Việt Nam — điểm hội tụ và điểm phân kỳ (Leading Vietnamese Gen Z - Convergent and Divergent Competencies) | concept | TEAM, ORG | MEGROW | Gen Z Việt Nam: tập thể và khoảng cách quyền lực vẫn hội tụ, kỳ vọng phát triển và tự dẫn dắt thì phân kỳ |
 | `CON-029` | Niềm tin là yếu tố thúc đẩy hiệu quả kinh doanh, không phải kỹ năng mềm (Trust as a Business Performance Driver, Not a Soft Skill) | concept | TEAM, ORG | MEGROW | Niềm tin thấp tốn tiền ở ba chỗ đo được: tốc độ quyết định, chất lượng quyết định, chi phí sửa sai |
+| `CON-030` | Bằng chứng về AI — nơi tạo giá trị và nơi tạo rủi ro (The Evidence on AI - Where It Creates Value and Where It Creates Risk) | concept | ORG, TEAM | MEGROW | Bốn case Microsoft/Morgan Stanley/Replit/Klarna và số liệu McKinsey; khác biệt không ở công nghệ |
+| `CON-031` | AI có trách nhiệm nay là trách nhiệm ở cấp địa phương (Responsible AI Is Now a Local Responsibility) | concept | ORG, TEAM | MEGROW | Luật AI VN 134/2025/QH15 hiệu lực 1/3/2026; bốn việc: công cụ duyệt, ranh giới dữ liệu, ai quyết, khi nào leo thang |
 
 ## Framework (FW)
 
@@ -140,6 +142,16 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-084` | Pain Point và Bản đồ Hành trình Stakeholder (Pain Points and the Stakeholder Journey Map (SJM)) | framework | ORG, TEAM | MEGROW | Pain point ẩn và hiện; tám câu hỏi dựng bản đồ hành trình để tìm nơi giá trị bị phá vỡ |
 | `FW-085` | Năm công cụ Tư duy Sáng tạo Hệ thống (SIT) (The Five Systematic Inventive Thinking (SIT) Tools) | framework | ORG, TEAM | MEGROW | Subtraction · Task Unification · Division · Multiplication · Attribute Dependency cho phối hợp liên chức năng |
 | `FW-086` | Creative Matrix và cách chốt một cải tiến (The Creative Matrix and Validating One Improvement) | framework | ORG, TEAM | MEGROW | Ma trận SIT × điểm giá trị bị phá vỡ, chốt bằng một nút thắt – một cải tiến – một lợi ích |
+| `FW-087` | AI là Áp lực thứ sáu (AI as the Sixth Force) | framework | ORG | MEGROW | Zwingmann: AI không là áp lực thứ sáu đứng riêng mà định hình lại cả năm áp lực của Porter |
+| `FW-088` | Bốn trụ sẵn sàng về AI (Four Pillars of AI Readiness) | framework | ORG, TEAM | MEGROW | Data & Infrastructure · People & Capability · Workflow & Business Model · Leadership & Governance |
+| `FW-089` | Thang Generative AI → Agentic AI → AGI (From Generative AI to Agentic AI to AGI) | framework | ORG, TEAM, SELF | MEGROW | Generative → Agentic → AGI; vai trò người dịch từ kiểm chứng lên đặt ranh giới lên đặt định hướng |
+| `FW-090` | Leadership OS — BE → LEAD → MASTER (The Leadership OS - BE, LEAD, MASTER) | framework | ORG, TEAM, SELF | MEGROW | BE → LEAD → MASTER: C-FISH, E-MICE, O-LION; AI khuếch đại lãnh đạo chứ không thay nền tảng |
+| `FW-091` | C-FISH — tính cách và giá trị của người lãnh đạo (C-FISH - Character and Values) | framework | SELF, TEAM, ORG | MEGROW | Competent · Forward-looking · Inspirational · Serving · Honest — năng lực giành trách nhiệm, tính cách giữ niềm tin |
+| `FW-092` | O-LION — năng lực lãnh đạo thời AI (O-LION - AI-Era Leadership Capabilities) | framework | ORG, TEAM, SELF | MEGROW | Orchestration · Lifelong Learning · Insight-Driven Systems Thinking · Oversight · Nurturing Human Advantage |
+| `FW-093` | EEE — Environment, Equipping, Exposure và Khoảng trống Tập sự (EEE - Environment, Equipping, Exposure and the Apprenticeship Gap) | framework | TEAM, ORG | MEGROW | Environment / Equipping / Exposure, mỗi điều kiện thiếu cho một triệu chứng riêng; khoảng trống tập sự |
+| `FW-094` | Bốn mức quyền quyết định giữa người và AI (Human-AI Decision Rights - Four Levels) | framework | TEAM, ORG | MEGROW | AI Assists → Recommends → Acts with Approval → Acts Within Boundaries; chốt kiểm phải nằm trước hệ quả |
+| `FW-095` | Mô hình coaching T-GROW (The T-GROW Coaching Model) | framework | TEAM, SELF | MEGROW | Topic · Goal · Reality · Options · Will — bước R bắt buộc phân loại vào một điều kiện EEE |
+| `FW-096` | Bảy kịch bản lãnh đạo thời AI tại Zalo (Seven AI-Era Leadership Scenarios at Zalo) | exercise | TEAM, SELF | MEGROW | Bảy tình huống Zalo về tác động của AI lên tiếng nói, năng lực và sự chân thực |
 | `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
 | `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
@@ -199,6 +211,7 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `TOP-MEGROW-15` | Từ hiểu biết về stakeholder tới tác động thị trường (From Stakeholder Insight to Market Impact) | topic | ORG | MEGROW | Chuỗi liền mạch: hành trình stakeholder → năm công cụ SIT → Creative Matrix → chốt một cải tiến |
 | `TOP-MEGROW-16` | Gỡ các blocker kỹ thuật và tổ chức (Solve Tech & Organisational Blockers) | topic | ORG, TEAM | MEGROW | Lab ba tiếng: chín hoạt động từ chọn blocker thật tới cam kết hành động 7 ngày |
 | `TOP-MEGROW-17` | Vận dụng tư duy chiến lược (Apply Strategic Thinking) | topic | ORG | MEGROW | Nhìn ra ngoài bằng PESTEL và Five Forces, nhìn vào trong bằng VRIN, kết bằng một khuyến nghị |
+| `TOP-MEGROW-18` | Lãnh đạo trong tổ chức vận hành cùng AI (Leading in the AI-Enabled Organisation) | topic | ORG, TEAM, SELF | MEGROW | Bốn phần từ áp lực thứ sáu tới một thí nghiệm lãnh đạo; AI khuếch đại chứ không thay nền tảng |
 | `TOP-MEGROW-19` | Trình bày business case để được duyệt (Presenting Business Cases - Getting Buy-in) | topic | ORG | MEGROW | Ba công cụ cho ba câu hỏi của người quyết: SCQA, Pyramid Principle, Stakeholder Mapping |
 
 ## Tình huống thực tế (CASE)
@@ -212,8 +225,8 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 | Tiền tố | ID tiếp theo | Ghi chú |
 |---|---|---|
-| `CON` | `CON-030` | |
-| `FW` | `FW-087` | |
+| `CON` | `CON-032` | |
+| `FW` | `FW-097` | |
 | `PRB` | `PRB-012` | Xem mục đặt chỗ dưới đây |
 | `PB` | `PB-001` | |
 | `CASE` | `CASE-001` | |

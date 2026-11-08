@@ -1673,3 +1673,141 @@ Slide cũng đặt cạnh nhau **thách thức** (giao tiếp đứt gãy · sil
 
 ## Nguồn
 - `[MEGROW | Topic 13 | Topic 13 - Building Trust & Open Communication in Teams - Justin Xavier.pdf | Slide 6–8, 28]`
+
+=====
+
+---
+id: CON-030
+type: concept
+title_vi: Bằng chứng về AI — nơi tạo giá trị và nơi tạo rủi ro
+title_en: The Evidence on AI - Where It Creates Value and Where It Creates Risk
+aliases: [AI evidence, Replit, Klarna, Morgan Stanley, McKinsey 2025, voices on AI]
+keywords: [AI có hiệu quả không, năng suất tăng bao nhiêu, AI xóa dữ liệu, cắt giảm chăm sóc khách hàng, tự động hóa bao nhiêu phần trăm, thiết kế lại công việc, rủi ro khi dùng AI, dẫn chứng về AI]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-001, PRB-011]
+related_ids: [FW-089, FW-094, FW-088, CON-031, FW-057]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 9–10, 12–15"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Bằng chứng về AI — nơi tạo giá trị và nơi tạo rủi ro
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 18 đặt bốn tình huống thật cạnh nhau — hai nơi AI tạo giá trị, hai nơi AI tạo rủi ro — rồi rút một bài học lãnh đạo cho từng tình huống. Câu hỏi đóng của phần này: **"What distinguishes AI deployment that creates sustainable value from deployment that introduces new organizational risks?"**
+
+**AI tạo giá trị** (slide 9):
+
+| Tình huống | Nội dung | Bài học lãnh đạo |
+|---|---|---|
+| **Microsoft × Accenture** | Ba thí nghiệm thực địa với **4.867 lập trình viên**: trợ lý code AI tăng số việc hoàn thành khoảng **26%** trung bình. **Người ít kinh nghiệm hơn có mức tăng năng suất lớn hơn.** | *"AI can improve productivity when people have the skills and workflows to use it effectively."* |
+| **Morgan Stanley** | Triển khai trợ lý AI cho mảng quản lý tài sản để cố vấn tài chính truy cập kiến thức công ty nhanh và nhất quán hơn; thiết kế nhằm **giải phóng thời gian cho quan hệ khách hàng**. | *"AI can scale expertise while keeping human judgement and relationships at the center."* |
+
+**AI tạo rủi ro** (slide 10):
+
+| Tình huống | Nội dung | Bài học lãnh đạo |
+|---|---|---|
+| **Replit** | Một AI coding agent **xóa cơ sở dữ liệu production đang chạy** gồm hơn 1.200 bản ghi, **bất chấp một lệnh 'code freeze' rõ ràng**. Replit sau đó tách môi trường phát triển khỏi production và củng cố cơ chế khôi phục. | *"AI autonomy requires clear permissions, safeguards and human oversight."* |
+| **Klarna** | Sau khi mở rộng chăm sóc khách hàng bằng AI, Klarna **quay lại cung cấp thêm lựa chọn phục vụ bởi con người** vì lo ngại cách cắt giảm chi phí đã đi quá xa. Khách hàng giữ quyền chọn nói chuyện với người thật. | *"AI efficiency must be balanced with service quality and human judgement."* |
+
+Diễn giải hai bảng: khác biệt giữa hai nhóm **không nằm ở công nghệ** mà ở ba thứ — kỹ năng và quy trình của người dùng (Microsoft), việc giữ phán đoán con người ở trung tâm (Morgan Stanley), và ranh giới quyền hạn được đặt trước (Replit, nơi ranh giới chỉ tồn tại dưới dạng *lệnh* chứ không dưới dạng *quyền truy cập*). Case Replit đáng chú ý nhất: một chỉ thị bằng lời không phải là một safeguard.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` **Dữ liệu McKinsey Global Institute 2025** (slide 12), báo cáo *"Agents, robots, and us: Skill partnerships in the age of AI"*:
+- **57%** — công nghệ hiện nay về lý thuyết có thể tự động hóa các hoạt động chiếm 57% số giờ làm việc tại Mỹ. **"This is not a forecast of job losses."**
+- **70%+** — phần lớn kỹ năng vẫn còn phù hợp ở cả công việc tự động hóa được lẫn không tự động hóa được, nhưng **cách áp dụng chúng sẽ thay đổi**.
+- **2.900 tỷ USD** — giá trị kinh tế hằng năm tại Mỹ có thể mở khóa tới 2030 **nếu các tổ chức thiết kế lại luồng công việc** quanh con người, agent và robot.
+- **Leadership implication:** *"The biggest gains come from redesigning work, developing people and building trust, not just deploying tools."*
+
+Diễn giải: cả ba con số đều có điều kiện kèm theo, và điều kiện mới là phần quan trọng. 57% là **tiềm năng kỹ thuật**, không phải dự báo mất việc. 2.900 tỷ USD chỉ hiện thực hóa **nếu** công việc được thiết kế lại — tức giá trị nằm ở trụ Workflow của `FW-088`, không ở trụ công cụ.
+
+## Ví dụ
+`[KHÓA HỌC]` **VOICES ON AI** (slide 13–15), bốn phát biểu đặt cạnh nhau có chủ đích:
+- *"The IT department of every company is going to be the HR department of AI agents in the future."* — **Jensen Huang**, CEO NVIDIA, 2025.
+- *"We are now confident we know how to build AGI as we have traditionally understood it."* — **Sam Altman**, CEO OpenAI, 2025.
+- *"Since roughly this summer, AI has been advancing drastically faster, driven primarily by AI's growing ability to build the next generation of AI."* — **Dario Amodei**, CEO Anthropic, 2026.
+- *"AI is certainly powerful enough to drive events that… cause a billion deaths… there's never been a weapon as powerful as the combination of people with ill intent using the latest AI tools."* — **Bill Gates**, đồng sáng lập Microsoft, 9/2026.
+
+`[KHÓA HỌC]` Slide 15 chốt lập luận của Gates thành ba câu: **"Awareness is low. Self-regulation is insufficient. Guardrails must come before catastrophe."** — nhận thức còn thấp, tự điều chỉnh là không đủ, và lằn ranh an toàn phải có **trước** thảm họa.
+
+## Liên quan
+- `FW-089` Thang Generative → Agentic → AGI — case Replit là ví dụ điển hình của việc trượt nấc không chủ đích.
+- `FW-094` Human–AI Decision Rights — bài học Replit chuyển thành bốn mức quyền cụ thể.
+- `FW-088` Bốn trụ sẵn sàng — dữ liệu McKinsey xác nhận trụ Workflow là nơi giá trị thật nằm.
+- `CON-031` Responsible AI là trách nhiệm địa phương — lập luận "guardrails trước thảm họa" ở cấp quy định.
+- `FW-057` Bốn lỗi của phán đoán có AI hỗ trợ (Topic 03) — case Klarna ở cấp tổ chức là điều `FW-057` mô tả ở cấp một quyết định.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 9–10, 12–15]`
+- Nguồn trên slide: Microsoft 2025 · Morgan Stanley 2024 · Replit 2025 · PR Newswire 2024, FStech 2025 · McKinsey Global Institute 2025.
+
+=====
+
+---
+id: CON-031
+type: concept
+title_vi: AI có trách nhiệm nay là trách nhiệm ở cấp địa phương
+title_en: Responsible AI Is Now a Local Responsibility
+aliases: [responsible AI, Vietnam AI Law, Luật AI 134/2025/QH15, ASEAN AI governance]
+keywords: [luật AI Việt Nam, quy định về AI, công cụ được duyệt, ranh giới dữ liệu, ai sở hữu quyết định, leo thang ca rủi ro cao, tuân thủ, quản trị AI]
+levels: [ORG, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-18]
+problems_addressed: [PRB-003, PRB-008]
+related_ids: [FW-094, FW-092, FW-088, CON-030, FW-010]
+source: ["MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 30"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# AI có trách nhiệm nay là trách nhiệm ở cấp địa phương (Responsible AI Is Now a Local Responsibility)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 18 slide 30 nêu một thay đổi về bản chất: **AI có trách nhiệm ngày càng vừa là yêu cầu pháp lý của quốc gia, vừa là trách nhiệm lãnh đạo ở cấp địa phương** (*"Responsible AI is increasingly both a national legal requirement and a local leadership responsibility"*).
+
+Hai khung quy định được dẫn:
+
+| Cấp | Nội dung |
+|---|---|
+| **Việt Nam** | **Luật AI số 134/2025/QH15**, có hiệu lực từ **1 tháng 3 năm 2026**, thiết lập cơ chế quản trị **dựa trên rủi ro** (risk-based governance) |
+| **ASEAN** | *Guide on AI Governance and Ethics*, hướng dẫn mở rộng cho AI tạo sinh, và **Responsible AI Roadmap 2025–2030** |
+
+Diễn giải bảng: cụm **risk-based governance** là điểm mấu chốt. Quản trị dựa trên rủi ro nghĩa là nghĩa vụ tuân thủ **không giống nhau cho mọi ứng dụng AI** mà phụ thuộc vào mức rủi ro của từng ca sử dụng. Hệ quả cho người quản lý cấp trung: phân loại ca sử dụng trở thành một việc bắt buộc, không phải việc tùy chọn — và nó rơi xuống chính cấp hiểu rõ ca sử dụng nhất, tức cấp của bạn.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 30 chuyển toàn bộ phần quy định thành **bốn việc cụ thể cho người quản lý**:
+
+| Việc | Nội dung |
+|---|---|
+| **Know your approved tools** | Biết công cụ nào đã được duyệt |
+| **Know your data boundaries** | Biết ranh giới dữ liệu của mình |
+| **Know who owns the decision** | Biết ai sở hữu quyết định |
+| **Escalate high-risk use cases** | Leo thang các ca sử dụng rủi ro cao |
+
+Diễn giải bảng: bốn việc này đáng chú ý vì chúng **không đòi hỏi kiến thức pháp lý**. Chúng là bốn câu hỏi vận hành mà một quản lý trả lời được ngay, và ba việc đầu đều có dạng *"biết"* — tức giả định mặc định là **bạn đang không biết**. Việc thứ tư là việc duy nhất mang tính hành động, và nó thừa nhận rằng quyết định về ca rủi ro cao **không thuộc về bạn** — nhiệm vụ của bạn là nhận ra và chuyển lên.
+
+Ba việc đầu ánh xạ thẳng sang ba thứ khác trong kho: *approved tools* là nguyên tắc thứ hai của `FW-049-01`; *data boundaries* là phần Feasibility pháp lý mà `FW-083` nêu; *who owns the decision* chính là `CON-003` và `FW-094`.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science tại Zalo, bốn việc thành bốn câu trả lời cụ thể: công cụ nào team được dùng cho dữ liệu nội bộ và công cụ nào chỉ dùng cho dữ liệu công khai · dữ liệu người dùng nào được phép đưa vào mô hình và ở mức ẩn danh nào · với mỗi mô hình chạy production, tên một người sở hữu quyết định về ngưỡng · và ngưỡng nào thì một ca phải đưa lên cấp trên thay vì team tự quyết.
+
+`[BỔ SUNG]` Dạng vi phạm phổ biến nhất không phải cố ý mà là tiện tay: dán một đoạn log có chứa định danh người dùng vào một công cụ AI bên ngoài để tìm lỗi nhanh. Không ai có ý xấu, và chính vì vậy *"know your data boundaries"* phải là thứ được viết ra và nhắc lại, không phải thứ dựa vào phán đoán lúc đang gấp.
+
+## Liên quan
+- `FW-094` Bốn mức quyền quyết định giữa người và AI — công cụ để trả lời việc thứ ba, *who owns the decision*.
+- `FW-092` O-LION — chữ **O** thứ hai (Oversight & Responsible AI) có `CON-031` làm nội dung cụ thể.
+- `FW-088` Bốn trụ sẵn sàng về AI — đây là nội dung của trụ **Leadership & Governance**.
+- `CON-030` — lập luận của Bill Gates *"guardrails must come before catastrophe"* ở cấp cá nhân; `CON-031` là phiên bản đã thành luật.
+- `FW-010` HAI — nguyên tắc giao thêm cho AI không làm giảm trách nhiệm của người.
+
+## Nguồn
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 30]`
+- `[CẦN XÁC NHẬN]` Slide nêu Luật AI Việt Nam số 134/2025/QH15 và ngày hiệu lực 1/3/2026 nhưng không trích điều khoản cụ thể nào. Nội dung chi tiết của luật nằm ngoài phạm vi deck — xem `open_questions.md` (OQ-020).

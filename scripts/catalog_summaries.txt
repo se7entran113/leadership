@@ -158,3 +158,16 @@ PRB-009	Ưu tiên **Thấp**. Không ai dám nói, lỗi lộ muộn, chỉ vài
 TOP-MEGROW-11	Bốn chặng hiểu người – tự nhận thức – điều chỉnh giao tiếp – động lực, kết bằng ba kịch bản đóng vai
 TOP-MEGROW-13	Sáu phần từ chi phí của niềm tin thấp tới case team im lặng; mở khóa vấn đề ưu tiên số 9
 TOP-MEGROW-15	Chuỗi liền mạch: hành trình stakeholder → năm công cụ SIT → Creative Matrix → chốt một cải tiến
+CON-030	Bốn case Microsoft/Morgan Stanley/Replit/Klarna và số liệu McKinsey; khác biệt không ở công nghệ
+CON-031	Luật AI VN 134/2025/QH15 hiệu lực 1/3/2026; bốn việc: công cụ duyệt, ranh giới dữ liệu, ai quyết, khi nào leo thang
+FW-087	Zwingmann: AI không là áp lực thứ sáu đứng riêng mà định hình lại cả năm áp lực của Porter
+FW-088	Data & Infrastructure · People & Capability · Workflow & Business Model · Leadership & Governance
+FW-089	Generative → Agentic → AGI; vai trò người dịch từ kiểm chứng lên đặt ranh giới lên đặt định hướng
+FW-090	BE → LEAD → MASTER: C-FISH, E-MICE, O-LION; AI khuếch đại lãnh đạo chứ không thay nền tảng
+FW-091	Competent · Forward-looking · Inspirational · Serving · Honest — năng lực giành trách nhiệm, tính cách giữ niềm tin
+FW-092	Orchestration · Lifelong Learning · Insight-Driven Systems Thinking · Oversight · Nurturing Human Advantage
+FW-093	Environment / Equipping / Exposure, mỗi điều kiện thiếu cho một triệu chứng riêng; khoảng trống tập sự
+FW-094	AI Assists → Recommends → Acts with Approval → Acts Within Boundaries; chốt kiểm phải nằm trước hệ quả
+FW-095	Topic · Goal · Reality · Options · Will — bước R bắt buộc phân loại vào một điều kiện EEE
+FW-096	Bảy tình huống Zalo về tác động của AI lên tiếng nói, năng lực và sự chân thực
+TOP-MEGROW-18	Bốn phần từ áp lực thứ sáu tới một thí nghiệm lãnh đạo; AI khuếch đại chứ không thay nền tảng

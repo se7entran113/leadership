@@ -4,6 +4,46 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — MEGROW Topic 18: thêm 13 chunk (tổng 172) — ✅ **độ phủ 100% trong phạm vi**
+
+**Lệnh:** "ừ làm topic 18 luôn" (đợt 7, đợt cuối của giai đoạn chunk hóa).
+
+### Cột mốc
+**Toàn bộ 19 topic trong phạm vi đã được xử lý — 777/777 trang, độ phủ 100%.** Hai tài liệu Capstone (Topic 20 và Lumo Case, 49 trang) để riêng theo quyết định của người dùng.
+
+### Chunk mới (13)
+**Part I — bối cảnh cạnh tranh (4):** `FW-087` AI là áp lực thứ sáu · `FW-088` bốn trụ sẵn sàng về AI · `FW-089` thang Generative → Agentic → AGI · `CON-030` bằng chứng về AI (bốn case + số liệu McKinsey + Voices on AI).
+
+**Part II — Leadership OS (3):** `FW-090` BE → LEAD → MASTER · `FW-091` C-FISH · `FW-092` O-LION.
+
+**Part III — điều kiện phát triển (3):** `FW-093` EEE và Khoảng trống Tập sự · `FW-094` bốn mức quyền quyết định người–AI · `CON-031` AI có trách nhiệm là trách nhiệm địa phương.
+
+**Part IV — hành động (2):** `FW-095` T-GROW · `FW-096` bảy kịch bản lãnh đạo AI tại Zalo.
+
+**Topic (1):** `TOP-MEGROW-18`.
+
+### Gộp nguồn, không tạo chunk trùng
+- **`FW-013` nhận E-MICE.** Topic 18 ghi rõ *"Adapted from Kouzes and Posner (2023)"* — E-MICE là **cùng framework, sắp xếp lại thành từ viết tắt**. Thêm mục "Các phiên bản và góc nhìn khác" vào `FW-013` với bảng năm chữ và mười cam kết, thay vì tạo chunk mới (CLAUDE.md §5.3).
+- **`FW-045` gỡ ghi chú chờ.** Ghi chú "Topic 18 sẽ bổ sung AI như áp lực thứ sáu" mở từ đợt 4 nay trỏ sang `FW-087`.
+- **`FW-010` nhận nguồn Topic 18.** Câu *"delegation can increase, accountability does not decrease"* xuất hiện ở cả Topic 06 (Stibe) và Topic 18 (Trung Nguyen, dưới tiêu đề "Delegation ≠ Abdication") — hai giảng viên, cùng một nguyên tắc.
+- **`FW-065` nối sang `FW-094` và `FW-089`:** kho nay có **ba cách cắt** cùng chủ đề phân vai người–AI — theo kiểu hợp tác (`FW-065`), theo năng lực công nghệ (`FW-089`), theo quyền quyết định (`FW-094`). Phần "Phân biệt" của cả ba đã ghi rõ dùng cái nào khi nào.
+- `PRB-003`, `PRB-005`: thêm nguyên nhân gốc rễ từ Topic 18.
+
+### Index
+- `coverage_matrix.md`: thêm 44 dòng slide cho Topic 18 (33 ánh xạ, 11 không có nội dung). **Độ phủ 777/777 (100%)**.
+- `catalog.md` sinh lại — **172 chunk**; bộ đếm ID sang `CON-032` / `FW-097`.
+- `topic_map.md`, `problem_index.md`, `glossary.md` (thêm 13 thuật ngữ), `open_questions.md` (**OQ-020** — Luật AI VN được nêu tên nhưng không có nội dung điều khoản).
+
+### Ghi chú kỹ thuật
+- Topic 18 gần như toàn văn bản: chỉ 3/44 slide là ảnh, không cần đọc bằng thị giác. Không có trang `[KHÓ ĐỌC]`.
+- `scripts/validate.py`: **0 ERROR**.
+- **Độ dài:** 10/13 chunk ≤1000 từ. Ba chunk vượt — `FW-093` (1115), `FW-096` (1249), `FW-013` (1122 sau khi nhận thêm E-MICE) — phần vượt đều là bảng nhiều dòng và trích dẫn nguyên văn, thuộc diện CLAUDE.md §5.1 không được lược bỏ. `FW-096` là bảng bảy kịch bản nên dài là bản chất của chunk.
+
+### Bước tiếp theo
+Giai đoạn chunk hóa đã xong. Việc còn lại là lệnh **"Rà soát tổng thể"** (CLAUDE.md §9): tìm chunk chồng chéo, hoàn thiện `problem_index.md`, viết các chunk `PB` (hiện **0**), và viết `QUICK_REFERENCE.md`.
+
+---
+
 ## 2026-11-08 — Đăng ký tài liệu Capstone mới (Lumo Case), để riêng
 
 **Phát hiện.** `validate.py` báo có tài liệu mới chưa xử lý: `raw/megrow/me.grow(2026)_Capstone Lumo Case_Mandate C.pdf` (21 trang, sửa 2026-11-06).
