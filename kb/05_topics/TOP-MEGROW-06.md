@@ -9,7 +9,7 @@ levels: [TEAM, SELF]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-005, PRB-003, PRB-007, PRB-011]
-related_ids: [FW-001, FW-007, FW-008, FW-009, FW-010, CON-001, CON-003, CON-004, CON-005, CON-006, TOP-MEGROW-01, TOP-MEGROW-10]
+related_ids: [FW-001, FW-007, FW-008, FW-009, FW-010, CON-001, CON-003, CON-004, CON-005, CON-006, TOP-MEGROW-01, TOP-MEGROW-10, FW-080]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 1–69"]
 source_type: course
 confidence: medium
@@ -59,7 +59,7 @@ Buổi học có hai nửa khác hẳn nhau. **Nửa đầu và cuối** (slide 
 - `TOP-MEGROW-01` và `TOP-MEGROW-10` cung cấp phần chẩn đoán mức sẵn sàng (`FW-001`) mà Topic 06 giả định đã có.
 - Thách thức số 1 (*"It's faster if I do it myself"*) trùng đúng cái bẫy số 1 của `CON-002` ở Topic 01.
 - `[SUY LUẬN]` Topic 05 Optimise Personal Productivity cùng giảng viên và dùng chung các khái niệm HAI, Knowledge–Behaviour Gap, cognitive load — sẽ gộp nguồn vào các chunk tương ứng khi xử lý Topic 05.
-- `[SUY LUẬN]` Nội dung "psychological safety with accountability" (slide 65) được Topic 13 xử lý sâu; sẽ liên kết khi xử lý topic đó.
+- `[SUY LUẬN]` Nội dung "psychological safety with accountability" (slide 65) được Topic 13 xử lý sâu ở `FW-080` — ma trận bốn vùng của Edmondson cho thấy chính xác vì sao an toàn tâm lý **phải đi kèm** tiêu chuẩn cao chứ không thay thế nó.
 
 ## Nguồn
 `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 1–69]`

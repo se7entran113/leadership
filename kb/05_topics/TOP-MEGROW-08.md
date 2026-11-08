@@ -9,7 +9,7 @@ levels: [TEAM, SELF]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-006, PRB-010]
-related_ids: [FW-025, FW-025-01, FW-026, CON-010, CON-011, CON-013, TOP-MEGROW-04, TOP-MEGROW-09]
+related_ids: [FW-025, FW-025-01, FW-026, CON-010, CON-011, CON-013, TOP-MEGROW-04, TOP-MEGROW-09, FW-075]
 source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 1–44"]
 source_type: course
 confidence: high
@@ -62,7 +62,7 @@ Buổi đi theo bốn bước của `FW-025`, với mảng lớn về **trí tu�
 - `TOP-MEGROW-04` là cặp đôi: SAIL cho **kết quả công việc**, bốn bước của Topic 08 cho **hành vi**.
 - `TOP-MEGROW-09` bổ sung phần chẩn đoán và phát triển; Topic 08 lo phần sửa hành vi.
 - `TOP-MEGROW-07` cùng giảng viên và dùng chung slide "Our Playbook".
-- `[SUY LUẬN]` Phần trí tuệ cảm xúc (s14–27) chồng chủ đề với Topic 11 — sẽ gộp nguồn vào `CON-013` khi xử lý topic đó.
+- `[SUY LUẬN]` Phần trí tuệ cảm xúc (s14–27) chồng chủ đề với Topic 11; nguồn đã được gộp vào `CON-013`, và khung bốn địa hạt đầy đủ nằm ở `FW-075`.
 
 ## Nguồn
 `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 1–44]`

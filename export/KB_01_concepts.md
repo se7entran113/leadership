@@ -864,7 +864,7 @@ keywords: [giám sát, monitoring, micromanagement, quản lý vi mô, khả nă
 levels: [TEAM, SELF]
 courses: [MEGROW]
 topics: [TOP-MEGROW-02]
-related_ids: [FW-041, FW-042, FW-039, CON-014]
+related_ids: [FW-041, FW-042, FW-039, CON-014, PRB-009, FW-080]
 source: ["MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 33"]
 source_type: course
 confidence: high
@@ -899,7 +899,7 @@ Nguyên tắc này quyết định chất lượng đầu vào của toàn bộ 
 - `FW-042` Nhịp review và ngưỡng phản ứng — nơi nguyên tắc này được thể hiện qua cách dẫn cuộc họp.
 - `FW-041` Team Delivery System.
 - `CON-014` Thực thi vận hành là một hệ thống.
-- Vấn đề số 9 trong `problem_index.md` — văn hóa thử nghiệm và an toàn tâm lý (chưa có chunk `PRB`, chờ Topic 13).
+- `PRB-009` Văn hóa thử nghiệm và an toàn tâm lý — giám sát hệ thống thay vì giám sát người là một điều kiện để tin xấu đi nhanh; xem thêm `FW-080`.
 
 ## Nguồn
 - `[MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 33]`

@@ -4,6 +4,43 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Dọn cờ `needs_review` lỗi thời và vá liên kết sót ở PRB-011
+
+**Lệnh:** "hiện tại làm 1 và 2 luôn" — xử lý trước hai việc đã nêu, chưa chạy "Rà soát tổng thể".
+
+### Phát hiện: `PRB-011` thiếu liên kết thật
+Ba chunk **khai báo** phục vụ `PRB-011` qua `problems_addressed` nhưng `PRB-011` **không trỏ ngược lại chunk nào**: `FW-064`, `FW-090`, `CON-030`. Đáng kể nhất là **`FW-064` Khoảng cách Biết–Làm** — đây chính là framework trung tâm cho triệu chứng mà `PRB-011` mô tả ngay ở dòng đầu (*"thông báo rồi không ai theo"*), nhưng chưa từng được nối.
+
+Nguyên nhân: đợt Topic 18 có cập nhật `PRB-003` và `PRB-005` nhưng **bỏ sót `PRB-011`**, dù chính ghi chú của `PRB-011` ghi rõ đang chờ Topic 18.
+
+**Đã sửa `PRB-011`:** thêm `FW-064` làm hai dòng nguyên nhân **đầu bảng** và một câu hỏi chẩn đoán đứng trước mọi câu khác (khoảng trống nằm ở trạm nào — Knowledge, Acceptance, Intention hay Behavior); thêm năm dòng nguyên nhân đặc thù cho thay đổi do AI mang tới (`FW-090`, `FW-093`, `FW-094`, `CON-030`, `CON-028`) và một dòng về an toàn tâm lý (`FW-080`); mở rộng `topics` từ 2 lên 5, `related_ids` từ 6 lên 15, `source` từ 2 lên 4 nguồn.
+
+### Dọn cờ `needs_review` lỗi thời (5 chunk)
+Năm chunk `PRB` bị gắn `needs_review` vì **topic cần thiết chưa xử lý** tại thời điểm viết. Toàn bộ topic đó nay đã xong và nội dung đã được bổ sung qua các đợt sau, nhưng cờ và ghi chú chưa được cập nhật.
+
+| Chunk | Ghi chú gốc chờ | Xử lý |
+|---|---|---|
+| `PRB-003` | Topic 02, 16 | → `verified`; ghi chú viết lại, nay phủ 10 topic |
+| `PRB-007` | Topic 11 | → `verified`; nay phủ 6 topic |
+| `PRB-008` | — (ghi chú đã mô tả đủ) | → `verified`; bổ sung Topic 02, 16 vào ghi chú |
+| `PRB-010` | Topic 08, 13 | → `verified`; nay phủ 6 topic |
+| `PRB-011` | Topic 18 | → `verified` sau khi vá liên kết ở trên |
+
+`confidence` giữ nguyên `medium` ở những chunk dựa vào `FW-007`/`FW-008`/`FW-009` — đó là trục khác, phản ánh chất lượng nguồn chứ không phản ánh độ hoàn chỉnh.
+
+### Dọn 7 ghi chú chéo lỗi thời khác
+Quét toàn kho tìm các cụm "chưa xử lý", "sẽ liên kết khi xử lý topic đó", "chờ Topic": `CON-016` (chờ `PRB-009` — nay đã có) · `PRB-006` (chờ Topic 13) · `TOP-MEGROW-01` (expert bias → `CON-022`, `FW-055`) · `TOP-MEGROW-06` (psychological safety → `FW-080`) · `TOP-MEGROW-08` (gộp nguồn EI → `CON-013`, `FW-075`) · `TOP-MEGROW-09` (VRIFA ↔ VRIN → `FW-047`) · `TOP-MEGROW-14` (case BCPC ↔ an toàn tâm lý → `FW-080`). Mỗi chỗ thay lời hứa bằng liên kết thật và bổ sung `related_ids`.
+
+### Còn lại 6 chunk `needs_review` — **không dọn được**
+`FW-007` · `FW-008` · `FW-009` · `TOP-MEGROW-06` (Topic 06: 49/69 slide là ảnh, OQ-008) · `TOP-MEGROW-05` (Topic 05: 65/78 slide là ảnh/video, OQ-014) · `FW-031` (Topic 09: slide ghi nguồn *"through experience and knowledge from different models"*, không có tài liệu gốc để đối chiếu).
+
+Đây là **thiếu nguồn thật**, không phải cờ lỗi thời. Chỉ gỡ được bằng ghi chép tại lớp của người dùng cho Topic 05 và 06. Nếu không có, `needs_review` là nhãn trung thực và nên giữ.
+
+### Kết quả
+`scripts/validate.py`: **0 ERROR**. Không còn ghi chú "chưa xử lý" nào trong kho ngoài hai tài liệu Capstone để riêng.
+
+---
+
 ## 2026-11-08 — MEGROW Topic 18: thêm 13 chunk (tổng 172) — ✅ **độ phủ 100% trong phạm vi**
 
 **Lệnh:** "ừ làm topic 18 luôn" (đợt 7, đợt cuối của giai đoạn chunk hóa).

@@ -9,7 +9,7 @@ levels: [SELF, TEAM]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-004, PRB-005]
-related_ids: [FW-001, FW-001-01, FW-002, FW-003, FW-004, CON-001, CON-002, TOP-MEGROW-06, TOP-MEGROW-10]
+related_ids: [FW-001, FW-001-01, FW-002, FW-003, FW-004, CON-001, CON-002, TOP-MEGROW-06, TOP-MEGROW-10, CON-022, FW-055]
 source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 1–25"]
 source_type: course
 confidence: high
@@ -58,7 +58,7 @@ Buổi mở đầu của cả chương trình, trả lời câu hỏi: khi lên 
 ## Liên hệ với các topic khác (cùng khóa và khác khóa)
 - `TOP-MEGROW-10` Adapt Your Leadership Style dạy sâu hơn cùng mô hình Situational Leadership, bằng bản SLII và qua trải nghiệm — xem `FW-001-02` để đối chiếu thuật ngữ.
 - `TOP-MEGROW-06` Delegation & Accountability lấy `FW-001` làm nền rồi mở rộng sang quyền sở hữu, quyền quyết định và vai trò của AI.
-- `[SUY LUẬN]` Cái bẫy "expert bias" ở slide 11–12 được Topic 03 (Audit Mindset & Biases) xử lý trực tiếp dưới tên **Expert bias**; sẽ liên kết khi xử lý topic đó.
+- `[SUY LUẬN]` Cái bẫy "expert bias" ở slide 11–12 được Topic 03 xử lý trực tiếp ở `CON-022` **Expert bias**, kèm quy trình tự kiểm `FW-055`.
 
 ## Nguồn
 `[MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 1–25]`

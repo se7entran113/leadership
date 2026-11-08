@@ -174,15 +174,15 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 |---|---|---|---|---|---|
 | `PRB-001` | Định hướng bài toán cho team (Setting the problem agenda for the team) | problem | TEAM, ORG | MEGROW | Ưu tiên **Cao**. Không biết cho team làm gì trước; bận cả quý mà không có outcome để kể |
 | `PRB-002` | Làm việc với stakeholder để xây dựng và thống nhất bài toán (Working with stakeholders to define and agree the problem) | problem | ORG | MEGROW | Ưu tiên **Cao**. Thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business, quản lý kỳ vọng, biết từ chối |
-| `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team (Designing the team's way of working and decision process) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
+| `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team (Designing the team's way of working and decision process) | problem | TEAM | MEGROW | Ưu tiên **Cao**. Quyền quyết định không rõ, quản lý thành nút thắt, bận mà việc quan trọng vẫn trễ |
 | `PRB-004` | Chuyển dịch từ người làm chuyên môn sang người quản lý (Moving from individual contributor to manager) | problem | SELF | MEGROW | Ưu tiên **Cao**. Vẫn tự làm phần khó nhất, không có thời gian cho team, thước đo thành công chưa đổi |
 | `PRB-005` | Giao việc và phát triển theo năng lực từng người (Delegating and developing according to each person's capability) | problem | TEAM | MEGROW | Ưu tiên **Cao**. Giao rồi vẫn phải làm lại, người giỏi gánh hết, không biết giao đến đâu thì vừa |
 | `PRB-006` | Feedback, coaching và trao đổi về hiệu suất (Feedback, coaching and performance conversations) | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Góp ý rồi không đổi, ngại nói thẳng, coach nhiều mà team vẫn phụ thuộc |
-| `PRB-007` | Động lực, gắn kết và giữ người (Motivation, engagement and retention) `needs_review` | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
-| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức (Managing upward and linking to organisational strategy) `needs_review` | problem | ORG | MEGROW | Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì |
+| `PRB-007` | Động lực, gắn kết và giữ người (Motivation, engagement and retention) | problem | TEAM | MEGROW | Ưu tiên **Trung bình**. Làm đủ việc nhưng mất lửa, không ai đề xuất gì mới, collaborator không gắn bó |
+| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức (Managing upward and linking to organisational strategy) | problem | ORG | MEGROW | Ưu tiên **Trung bình**. Xin nguồn lực không được duyệt, sụp ở phần hỏi đáp, sếp nghe xong không rõ xin gì |
 | `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý (A culture of experimentation and psychological safety) | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Không ai dám nói, lỗi lộ muộn, chỉ vài người phát biểu; tin xấu đi chậm |
-| `PRB-010` | Xung đột trong team hoặc giữa các team (Conflict within or between teams) `needs_review` | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp |
-| `PRB-011` | Dẫn dắt thay đổi (Leading change) `needs_review` | problem | ORG, TEAM | MEGROW | Ưu tiên **Thấp**. Thông báo cách làm mới rồi không ai theo; được vài tuần rồi đâu lại vào đấy |
+| `PRB-010` | Xung đột trong team hoặc giữa các team (Conflict within or between teams) | problem | TEAM, ORG | MEGROW | Ưu tiên **Thấp**. Hai bên cãi mãi không đi tới đâu, cùng một tranh luận lặp lại qua nhiều cuộc họp |
+| `PRB-011` | Dẫn dắt thay đổi (Leading change) | problem | ORG, TEAM | MEGROW | Ưu tiên **Thấp**. Thông báo cách làm mới rồi không ai theo; được vài tuần rồi đâu lại vào đấy |
 
 ## Playbook (PB)
 
@@ -239,12 +239,12 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 |---|---|---|---|
 | `PRB-001` | Định hướng bài toán cho team | Cao | ✅ đã tạo |
 | `PRB-002` | Làm việc với stakeholder để xây dựng và thống nhất bài toán | Cao | ✅ đã tạo |
-| `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team | Cao | ✅ đã tạo (`needs_review`) |
+| `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team | Cao | ✅ đã tạo |
 | `PRB-004` | Chuyển dịch từ chuyên môn sang quản lý | Cao | ✅ đã tạo |
 | `PRB-005` | Giao việc và phát triển theo năng lực từng người | Cao | ✅ đã tạo |
 | `PRB-006` | Feedback, coaching và trao đổi về hiệu suất | Trung bình | ✅ đã tạo |
-| `PRB-007` | Động lực, gắn kết và giữ người | Trung bình | ✅ đã tạo (`needs_review`) |
-| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức | Trung bình | ✅ đã tạo (`needs_review`) |
+| `PRB-007` | Động lực, gắn kết và giữ người | Trung bình | ✅ đã tạo |
+| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức | Trung bình | ✅ đã tạo |
 | `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý | Thấp | ✅ đã tạo |
-| `PRB-010` | Xung đột trong team hoặc giữa các team | Thấp | ✅ đã tạo (`needs_review`) |
-| `PRB-011` | Dẫn dắt thay đổi | Thấp | ✅ đã tạo (`needs_review`) |
+| `PRB-010` | Xung đột trong team hoặc giữa các team | Thấp | ✅ đã tạo |
+| `PRB-011` | Dẫn dắt thay đổi | Thấp | ✅ đã tạo |

@@ -9,7 +9,7 @@ levels: [TEAM]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-006, PRB-005, PRB-007]
-related_ids: [FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, TOP-MEGROW-04, TOP-MEGROW-08]
+related_ids: [FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, TOP-MEGROW-04, TOP-MEGROW-08, FW-047]
 source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 1–54"]
 source_type: course
 confidence: high
@@ -59,7 +59,7 @@ Trục của buổi là một luận điểm phản trực giác: **coach nhiề
 ## Liên hệ với các topic khác (cùng khóa và khác khóa)
 - `TOP-MEGROW-04`: `FW-028` năm lăng kính là bản chi tiết hơn của `FW-023` AMO — tách Knowledge khỏi Skills, thêm nhánh Career.
 - `TOP-MEGROW-08` lo **sửa hành vi**; Topic 09 lo **phát triển con người**. Chung nguyên tắc: chẩn đoán trước khi hành động.
-- `[SUY LUẬN]` VRIFA trong `FW-031` phỏng theo **VRIN** của Resource-Based View (Barney 1991) ở Topic 17 — sẽ đối chiếu khi xử lý topic đó.
+- `[SUY LUẬN]` VRIFA trong `FW-031` phỏng theo **VRIN** của Resource-Based View (Barney 1991), dạy ở Topic 17 — xem `FW-047`. Topic 09 áp khung đó cho lợi thế cạnh tranh **cá nhân**, Topic 17 cho lợi thế của **tổ chức**.
 
 ## Nguồn
 `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 1–54]`

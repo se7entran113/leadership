@@ -15,7 +15,7 @@ levels: [SELF, TEAM]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-004, PRB-005]
-related_ids: [FW-001, FW-001-01, FW-002, FW-003, FW-004, CON-001, CON-002, TOP-MEGROW-06, TOP-MEGROW-10]
+related_ids: [FW-001, FW-001-01, FW-002, FW-003, FW-004, CON-001, CON-002, TOP-MEGROW-06, TOP-MEGROW-10, CON-022, FW-055]
 source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 1–25"]
 source_type: course
 confidence: high
@@ -64,7 +64,7 @@ Buổi mở đầu của cả chương trình, trả lời câu hỏi: khi lên 
 ## Liên hệ với các topic khác (cùng khóa và khác khóa)
 - `TOP-MEGROW-10` Adapt Your Leadership Style dạy sâu hơn cùng mô hình Situational Leadership, bằng bản SLII và qua trải nghiệm — xem `FW-001-02` để đối chiếu thuật ngữ.
 - `TOP-MEGROW-06` Delegation & Accountability lấy `FW-001` làm nền rồi mở rộng sang quyền sở hữu, quyền quyết định và vai trò của AI.
-- `[SUY LUẬN]` Cái bẫy "expert bias" ở slide 11–12 được Topic 03 (Audit Mindset & Biases) xử lý trực tiếp dưới tên **Expert bias**; sẽ liên kết khi xử lý topic đó.
+- `[SUY LUẬN]` Cái bẫy "expert bias" ở slide 11–12 được Topic 03 xử lý trực tiếp ở `CON-022` **Expert bias**, kèm quy trình tự kiểm `FW-055`.
 
 ## Nguồn
 `[MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 1–25]`
@@ -373,7 +373,7 @@ levels: [TEAM, SELF]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-005, PRB-003, PRB-007, PRB-011]
-related_ids: [FW-001, FW-007, FW-008, FW-009, FW-010, CON-001, CON-003, CON-004, CON-005, CON-006, TOP-MEGROW-01, TOP-MEGROW-10]
+related_ids: [FW-001, FW-007, FW-008, FW-009, FW-010, CON-001, CON-003, CON-004, CON-005, CON-006, TOP-MEGROW-01, TOP-MEGROW-10, FW-080]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 1–69"]
 source_type: course
 confidence: medium
@@ -423,7 +423,7 @@ Buổi học có hai nửa khác hẳn nhau. **Nửa đầu và cuối** (slide 
 - `TOP-MEGROW-01` và `TOP-MEGROW-10` cung cấp phần chẩn đoán mức sẵn sàng (`FW-001`) mà Topic 06 giả định đã có.
 - Thách thức số 1 (*"It's faster if I do it myself"*) trùng đúng cái bẫy số 1 của `CON-002` ở Topic 01.
 - `[SUY LUẬN]` Topic 05 Optimise Personal Productivity cùng giảng viên và dùng chung các khái niệm HAI, Knowledge–Behaviour Gap, cognitive load — sẽ gộp nguồn vào các chunk tương ứng khi xử lý Topic 05.
-- `[SUY LUẬN]` Nội dung "psychological safety with accountability" (slide 65) được Topic 13 xử lý sâu; sẽ liên kết khi xử lý topic đó.
+- `[SUY LUẬN]` Nội dung "psychological safety with accountability" (slide 65) được Topic 13 xử lý sâu ở `FW-080` — ma trận bốn vùng của Edmondson cho thấy chính xác vì sao an toàn tâm lý **phải đi kèm** tiêu chuẩn cao chứ không thay thế nó.
 
 ## Nguồn
 `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 1–69]`
@@ -516,7 +516,7 @@ levels: [TEAM, SELF]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-006, PRB-010]
-related_ids: [FW-025, FW-025-01, FW-026, CON-010, CON-011, CON-013, TOP-MEGROW-04, TOP-MEGROW-09]
+related_ids: [FW-025, FW-025-01, FW-026, CON-010, CON-011, CON-013, TOP-MEGROW-04, TOP-MEGROW-09, FW-075]
 source: ["MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 1–44"]
 source_type: course
 confidence: high
@@ -569,7 +569,7 @@ Buổi đi theo bốn bước của `FW-025`, với mảng lớn về **trí tu�
 - `TOP-MEGROW-04` là cặp đôi: SAIL cho **kết quả công việc**, bốn bước của Topic 08 cho **hành vi**.
 - `TOP-MEGROW-09` bổ sung phần chẩn đoán và phát triển; Topic 08 lo phần sửa hành vi.
 - `TOP-MEGROW-07` cùng giảng viên và dùng chung slide "Our Playbook".
-- `[SUY LUẬN]` Phần trí tuệ cảm xúc (s14–27) chồng chủ đề với Topic 11 — sẽ gộp nguồn vào `CON-013` khi xử lý topic đó.
+- `[SUY LUẬN]` Phần trí tuệ cảm xúc (s14–27) chồng chủ đề với Topic 11; nguồn đã được gộp vào `CON-013`, và khung bốn địa hạt đầy đủ nằm ở `FW-075`.
 
 ## Nguồn
 `[MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 1–44]`
@@ -587,7 +587,7 @@ levels: [TEAM]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-006, PRB-005, PRB-007]
-related_ids: [FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, TOP-MEGROW-04, TOP-MEGROW-08]
+related_ids: [FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, TOP-MEGROW-04, TOP-MEGROW-08, FW-047]
 source: ["MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 1–54"]
 source_type: course
 confidence: high
@@ -637,7 +637,7 @@ Trục của buổi là một luận điểm phản trực giác: **coach nhiề
 ## Liên hệ với các topic khác (cùng khóa và khác khóa)
 - `TOP-MEGROW-04`: `FW-028` năm lăng kính là bản chi tiết hơn của `FW-023` AMO — tách Knowledge khỏi Skills, thêm nhánh Career.
 - `TOP-MEGROW-08` lo **sửa hành vi**; Topic 09 lo **phát triển con người**. Chung nguyên tắc: chẩn đoán trước khi hành động.
-- `[SUY LUẬN]` VRIFA trong `FW-031` phỏng theo **VRIN** của Resource-Based View (Barney 1991) ở Topic 17 — sẽ đối chiếu khi xử lý topic đó.
+- `[SUY LUẬN]` VRIFA trong `FW-031` phỏng theo **VRIN** của Resource-Based View (Barney 1991), dạy ở Topic 17 — xem `FW-047`. Topic 09 áp khung đó cho lợi thế cạnh tranh **cá nhân**, Topic 17 cho lợi thế của **tổ chức**.
 
 ## Nguồn
 `[MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 1–54]`
@@ -928,7 +928,7 @@ levels: [ORG, TEAM]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-010, PRB-003, PRB-002]
-related_ids: [FW-020, FW-021, CON-009, FW-006, FW-016, TOP-MEGROW-12]
+related_ids: [FW-020, FW-021, CON-009, FW-006, FW-016, TOP-MEGROW-12, FW-080]
 source: ["MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14", "MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4"]
 source_type: course
 confidence: high
@@ -976,7 +976,7 @@ Câu hỏi trung tâm (slide 6): **cùng thử thách, cùng giới hạn thời
 ## Liên hệ với các topic khác (cùng khóa và khác khóa)
 - `TOP-MEGROW-12` bổ sung ở chặng ALIGN: `FW-016` chọn *cách phản ứng*, `FW-020` chẩn đoán *vì sao* có bất đồng. Chạy `FW-020` trước `FW-016`.
 - `FW-006` Vroom–Yetton–Jago từ Topic 10 cung cấp **từ vựng cụ thể** cho thế lưỡng nan giả ở slide 13: năm mức AI, AII, CI, CII, GII.
-- `[SUY LUẬN]` Case BCPC do Amy C. Edmondson viết, gắn với chủ đề an toàn tâm lý — nội dung đó nằm ở Topic 13, chưa xử lý.
+- `[SUY LUẬN]` Case BCPC do Amy C. Edmondson viết, gắn với chủ đề an toàn tâm lý — nội dung đó nằm ở `FW-080` (Topic 13), cùng tác giả. Hai topic bổ sung nhau: Topic 13 giải thích vì sao người ta không nêu bất đồng, Topic 14 xử lý bất đồng khi nó đã được nêu.
 
 ## Nguồn
 - `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14]`

@@ -194,7 +194,7 @@ related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–37", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 13, 21–33", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 9–35"]
 source_type: course
 confidence: medium
-status: needs_review
+status: verified
 replaced_by:
 last_updated: 2026-11-08
 ---
@@ -203,7 +203,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 
-> `[SUY LUẬN]` Chunk này phủ phần **ra quyết định và quyền sở hữu** từ Topic 06, 10 và 14. Phần **đo lường, nhịp review và hệ thống giao hàng** nằm ở Topic 02, phần **quy trình giải quyết vấn đề** nằm ở Topic 16 — cả hai chưa xử lý. Vì vậy `status: needs_review`.
+> `[SUY LUẬN]` Chunk này nay phủ đủ mười topic: **ra quyết định và quyền sở hữu** (Topic 06, 10, 14) · **đo lường, nhịp review và hệ thống giao hàng** (Topic 02) · **quy trình giải quyết vấn đề** (Topic 16) · **phân loại việc và công cụ ưu tiên** (Topic 05) · **đời sống team và bản đồ kết nối** (Topic 07) · **an toàn tâm lý để nêu vấn đề về chính cách làm việc** (Topic 13) · **hành trình stakeholder liên bộ phận** (Topic 15) · **ranh giới quyền cho AI** (Topic 18).
 
 ## Cách người dùng thường mô tả
 "Mỗi người làm một kiểu." · "Họp nhiều mà không chốt được gì." · "Không rõ ai quyết cái gì." · "Lúc nào cũng bận mà việc quan trọng vẫn trễ." · "Việc gì cũng phải chờ tôi."
@@ -253,8 +253,8 @@ Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 | Năng lực AI cá nhân không thành năng lực team | Năng suất cá nhân tăng, năng lực tập thể không đổi | `FW-096` (kịch bản 06) |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
-- Vấn đề nằm ở mục tiêu và cách đo chứ không ở quy trình → thuộc vấn đề số 1. `[SUY LUẬN]` Topic 02 phụ trách, chưa xử lý.
-- Phụ thuộc chéo nằm ngoài quyền hạn của bạn → cần công cụ về stakeholder. `[SUY LUẬN]` Topic 12 phụ trách, chưa xử lý.
+- Vấn đề nằm ở mục tiêu và cách đo chứ không ở quy trình → chuyển sang `PRB-001`, dùng `FW-036`, `FW-037`, `FW-038`.
+- Phụ thuộc chéo nằm ngoài quyền hạn của bạn → chuyển sang `PRB-002`, dùng `FW-012`, `FW-015`, `FW-022`.
 
 ## Chỉ số theo dõi sau xử lý
 - Số quyết định escalate lên bạn mỗi tuần (kỳ vọng: giảm).
@@ -441,7 +441,7 @@ levels: [TEAM]
 courses: [MEGROW]
 topics: [TOP-MEGROW-04, TOP-MEGROW-08, TOP-MEGROW-09, TOP-MEGROW-03, TOP-MEGROW-07, TOP-MEGROW-11]
 problems_addressed: []
-related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013, FW-055, FW-056, FW-057, FW-069, FW-068-01, CON-022, CON-023, CON-024, FW-072, FW-073, FW-076, FW-077, FW-075]
+related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013, FW-055, FW-056, FW-057, FW-069, FW-068-01, CON-022, CON-023, CON-024, FW-072, FW-073, FW-076, FW-077, FW-075, PRB-009, FW-080]
 source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5–35", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 7–42", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–51", "MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 4–28", "MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 18, 25–28"]
 source_type: course
 confidence: high
@@ -507,7 +507,7 @@ Diễn giải bảng: sáu dòng đầu là lỗi **chẩn đoán và mở đầ
 - Hành vi chạm tuân thủ, công bằng, an toàn hoặc đạo đức → xử lý ngay, không coaching (ô POLICY/ETHICS của `FW-026`).
 - Nguyên nhân là xung đột giữa hai bộ phận → `PRB-010`.
 - Nguyên nhân là lương thưởng hoặc lộ trình thăng tiến → ngoài phạm vi MEGROW, cần làm việc với cấp trên và HR.
-- `[SUY LUẬN]` Người đó không dám nói thật → vấn đề an toàn tâm lý; Topic 13 phụ trách, chưa xử lý.
+- Người đó không dám nói thật → vấn đề an toàn tâm lý, chuyển sang `PRB-009` và `FW-080` trước khi tiếp tục cuộc trò chuyện về hiệu suất.
 
 ## Chỉ số theo dõi sau xử lý
 - Tỷ lệ cuộc trò chuyện kết thúc bằng cam kết **quan sát được**.
@@ -538,7 +538,7 @@ related_ids: [FW-008, FW-009, FW-007, FW-028, FW-031, FW-032, CON-005, FW-066, F
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 33–39, 59, 65", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 26–38"]
 source_type: course
 confidence: medium
-status: needs_review
+status: verified
 replaced_by:
 last_updated: 2026-11-08
 ---
@@ -547,7 +547,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 
-> `[SUY LUẬN]` Chunk này phủ **đòn bẩy xã hội và sở hữu tâm lý** (Topic 06) và **chẩn đoán động lực, chiến lược phát triển cá nhân** (Topic 09). Các lý thuyết động lực cá nhân (McClelland, Alderfer ERG) nằm ở Topic 11, chưa xử lý. `status: needs_review`.
+> `[SUY LUẬN]` Chunk này nay phủ sáu topic: **đòn bẩy xã hội và sở hữu tâm lý** (Topic 06) · **chẩn đoán động lực và phát triển cá nhân** (Topic 09) · **lý thuyết nhu cầu McClelland và ERG** (Topic 11) · **bản sắc và kết nối trong team** (Topic 07) · **hiệu suất bền vững so với kiệt sức** (Topic 05) · **niềm tin và an toàn tâm lý** (Topic 13).
 
 ## Cách người dùng thường mô tả
 "Bạn ấy làm đủ việc nhưng mất lửa." · "Team im lặng trong họp." · "Collaborator không gắn bó, hết hợp đồng là đi." · "Không ai đề xuất gì mới nữa."
@@ -590,7 +590,7 @@ Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Nguyên nhân là lương thưởng hoặc lộ trình thăng tiến → nằm ngoài phạm vi framework trong MEGROW, cần làm việc với cấp trên và HR.
-- Mức gắn kết thấp kèm thiếu an toàn tâm lý → **không** dùng Comparison và Competition của `FW-008`, sẽ làm tệ thêm. `[SUY LUẬN]` Topic 13 phụ trách an toàn tâm lý, chưa xử lý.
+- Mức gắn kết thấp kèm thiếu an toàn tâm lý → **không** dùng Comparison và Competition của `FW-008`, sẽ làm tệ thêm. Xử lý `PRB-009` và `FW-080` trước.
 - `[SUY LUẬN]` **Khoảng trống cho cộng tác viên:** đòn bẩy Comparison và Competition giả định người tham gia cùng một hệ quy chiếu nghề nghiệp. Với collaborator, điều này có thể phản tác dụng. Lưới Ethics của `FW-007` là công cụ kiểm tra trước. Xem `open_questions.md` (OQ-005).
 
 ## Chỉ số theo dõi sau xử lý
@@ -619,7 +619,7 @@ related_ids: [FW-018, FW-019, FW-019-01, FW-012, FW-015, CON-007, CON-008, FW-03
 source: ["MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33", "MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 17", "MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 6–9, 13–16, 19–35", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 6–8", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 31–33"]
 source_type: course
 confidence: medium
-status: needs_review
+status: verified
 replaced_by:
 last_updated: 2026-11-08
 ---
@@ -628,7 +628,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Trung bình** (vấn đề số 8 trong `problem_index.md`).
 
-> `[SUY LUẬN]` Chunk này phủ ba mảng: **trình bày và xin phê duyệt** (Topic 19), **ảnh hưởng ngược lên** (Topic 12), và **gắn mục tiêu team với chiến lược** (Topic 17: line-of-sight test, PESTEL, options table).
+> `[SUY LUẬN]` Chunk này phủ năm mảng: **trình bày và xin phê duyệt** (Topic 19) · **ảnh hưởng ngược lên** (Topic 12) · **gắn mục tiêu team với chiến lược** (Topic 17: line-of-sight test, PESTEL, options table) · **chuỗi mục tiêu và chỉ số** (Topic 02) · **xin trợ giúp ba dòng** (Topic 16). Toàn bộ topic liên quan đã được xử lý.
 
 ## Cách người dùng thường mô tả
 "Xin nguồn lực mà không được duyệt." · "Sếp hỏi mấy câu là em đuối." · "Không biết diễn đạt giá trị của việc này cho ban lãnh đạo." · "Mình trình bày kỹ thuật, họ không quan tâm."
@@ -777,7 +777,7 @@ related_ids: [FW-016, FW-020, FW-021, FW-026, CON-009, CON-010, FW-015, FW-051, 
 source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 31–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–13", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 8–10, 38", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 17–21"]
 source_type: course
 confidence: medium
-status: needs_review
+status: verified
 replaced_by:
 last_updated: 2026-11-08
 ---
@@ -786,7 +786,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Thấp** (vấn đề số 10 trong `problem_index.md`). CLAUDE.md §2 quy định tạo `PRB` cho mức Thấp khi khóa học có nội dung liên quan — Topic 12 và 14 đều có.
 
-> `[SUY LUẬN]` Chunk này phủ **xung đột giữa các bộ phận và trong ra quyết định**. Phần **xung đột về hành vi cá nhân trong team** nằm ở Topic 08, phần **an toàn tâm lý để dám nêu bất đồng** nằm ở Topic 13 — chưa xử lý. `status: needs_review`.
+> `[SUY LUẬN]` Chunk này nay phủ sáu topic: **xung đột giữa các bộ phận và trong ra quyết định** (Topic 12, 14, 16) · **xung đột về hành vi cá nhân trong team** (Topic 08) · **khác biệt phong cách làm việc** (Topic 11) · **an toàn tâm lý để dám nêu bất đồng** (Topic 13).
 
 ## Cách người dùng thường mô tả
 "Hai bên cãi mãi không đi tới đâu." · "Em với bạn ấy không thống nhất được cách tiếp cận." · "Bộ phận kia lúc nào cũng chặn." · "Cả hai đều có lý mà vẫn không ra quyết định."
@@ -823,7 +823,7 @@ Mức ưu tiên: **Thấp** (vấn đề số 10 trong `problem_index.md`). CLAU
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Xung đột mang tính cá nhân, chạm tới hành vi chứ không tới nội dung công việc → `FW-026` để quyết có xử lý không, rồi `FW-025` và `CON-010`.
-- Một bên không dám nêu bất đồng → vấn đề an toàn tâm lý. `[SUY LUẬN]` Topic 13 phụ trách, chưa xử lý; ID `PRB-009` đã đặt chỗ cho vấn đề đó.
+- Một bên không dám nêu bất đồng → vấn đề an toàn tâm lý, chuyển sang `PRB-009` và `FW-080`.
 - Xung đột bắt nguồn từ việc hai bộ phận bị đo bằng những chỉ số mâu thuẫn nhau → vấn đề thiết kế tổ chức, không giải được bằng kỹ năng hội thoại.
 
 ## Chỉ số theo dõi sau xử lý
@@ -847,13 +847,13 @@ aliases: [dẫn dắt thay đổi, change management, đổi cách làm việc]
 keywords: [thay đổi, change, chuyển đổi, transformation, thói quen mới, đổi quy trình, thông báo rồi không ai theo, cách làm mới không dính, dẫn dắt thay đổi]
 levels: [ORG, TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-12]
+topics: [TOP-MEGROW-06, TOP-MEGROW-12, TOP-MEGROW-05, TOP-MEGROW-18, TOP-MEGROW-13]
 problems_addressed: []
-related_ids: [FW-007, FW-008, FW-009, FW-017, FW-012, CON-006]
-source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 12–45", "MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 34–37"]
+related_ids: [FW-064, FW-007, FW-008, FW-009, FW-017, FW-012, CON-006, FW-090, FW-093, FW-094, CON-030, FW-053, FW-080, CON-028, CON-031]
+source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 12–45", "MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 34–37", "MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 64–68, 73–74", "MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 9–10, 16, 26–29"]
 source_type: course
 confidence: medium
-status: needs_review
+status: verified
 replaced_by:
 last_updated: 2026-11-08
 ---
@@ -862,7 +862,7 @@ last_updated: 2026-11-08
 
 Mức ưu tiên: **Thấp** (vấn đề số 11 trong `problem_index.md`). CLAUDE.md §2 quy định tạo `PRB` cho mức Thấp khi khóa học có nội dung liên quan — Topic 06 có.
 
-> `[SUY LUẬN]` Chunk này phủ góc nhìn **thiết kế thay đổi hành vi** (Topic 06) và **liên minh các bên liên quan** (Topic 12). Góc nhìn **AI-era change** nằm ở Topic 18, chưa xử lý. `status: needs_review`.
+> `[SUY LUẬN]` Chunk này phủ năm góc nhìn: **cơ chế biết → làm** (Topic 05), **thiết kế thay đổi hành vi** (Topic 06), **liên minh các bên liên quan** (Topic 12), **điều kiện để thay đổi dính** (Topic 13), và **thay đổi do AI mang tới** (Topic 18). `confidence: medium` vì ba framework nền `FW-007`, `FW-008`, `FW-009` đều lấy từ deck Topic 06 gần như không có chữ — xem `open_questions.md` (OQ-008).
 
 ## Cách người dùng thường mô tả
 "Đã thông báo cách làm mới rồi mà không ai theo." · "Được vài tuần rồi đâu lại vào đấy." · "Mọi người gật đầu trong họp nhưng không đổi hành vi."
@@ -874,17 +874,21 @@ Mức ưu tiên: **Thấp** (vấn đề số 11 trong `problem_index.md`). CLAU
 - Không có cách nào đo được hành vi mới đang xảy ra bao nhiêu.
 
 ## Câu hỏi chẩn đoán
-1. Tôi đang cố đổi **thái độ** hay đang đổi **môi trường**? (`FW-007` — Triangle, Curve)
-2. Hành vi này hôm nay đo bằng gì? (`FW-007` — Metric)
-3. Team đang ở giai đoạn nào: Self-contained, Social Influencing, Identity Change hay Self-driven? (`FW-007` — Circles)
-4. Đòn bẩy xã hội nào đang bỏ trống? (`FW-008`)
-5. Ai là Champions, Influencers, Decision Makers, Blockers, Undecided? (`FW-017`)
-6. Nếu cách này hiệu quả quá mức, điều tệ nhất có thể xảy ra là gì? (`FW-007` — Ethics)
+1. Khoảng trống nằm ở trạm nào — Knowledge, Acceptance, Intention hay Behavior? (`FW-064`) **Hỏi câu này trước mọi câu khác.**
+2. Tôi đang cố đổi **thái độ** hay đang đổi **môi trường**? (`FW-007` — Triangle, Curve)
+3. Hành vi này hôm nay đo bằng gì? (`FW-007` — Metric)
+4. Team đang ở giai đoạn nào: Self-contained, Social Influencing, Identity Change hay Self-driven? (`FW-007` — Circles)
+5. Đòn bẩy xã hội nào đang bỏ trống? (`FW-008`)
+6. Ai là Champions, Influencers, Decision Makers, Blockers, Undecided? (`FW-017`)
+7. Nếu cách này hiệu quả quá mức, điều tệ nhất có thể xảy ra là gì? (`FW-007` — Ethics)
+8. Có ai thấy đủ an toàn để nói rằng thay đổi này đang không chạy không? (`FW-080`)
 
 ## Nguyên nhân gốc rễ và framework tương ứng
 
 | Nguyên nhân gốc rễ | Biểu hiện | Framework |
 |---|---|---|
+| **Khoảng trống nằm ở ACCEPTANCE, không ở KNOWLEDGE** | Đã giải thích kỹ, ai cũng hiểu, vẫn không ai làm | `FW-064` |
+| Khoảng trống nằm giữa INTENTION và BEHAVIOR | Ai cũng định làm, không ai bắt đầu | `FW-064`, `FW-053` |
 | Chỉ tác động vào thái độ, không thiết kế môi trường | Thông báo xong, không gì đổi | `FW-007` — Triangle, Curve |
 | Không đo hành vi hiện tại | Không biết có tiến triển hay không | `FW-007` — Metric |
 | Không dùng ảnh hưởng xã hội | Thay đổi phụ thuộc hoàn toàn vào chỉ đạo từ trên | `FW-008` |
@@ -894,16 +898,29 @@ Mức ưu tiên: **Thấp** (vấn đề số 11 trong `problem_index.md`). CLAU
 | Thay đổi làm tăng tải nhận thức | Team bỏ qua vì quá tải | `CON-006` |
 | Không có liên minh đủ ảnh hưởng ngoài team | Duyệt trên giấy, không bộ phận nào làm | `FW-017` |
 | Dồn sức thuyết phục Blockers, bỏ quên nhóm Undecided | Tốn công vào nhóm khó chuyển nhất | `FW-017` |
+| Không ai dám nói thay đổi này đang không chạy | Làm cho có, vấn đề lộ ra quá muộn | `FW-080`, `PRB-009` |
+| Thay đổi do AI mang tới nhưng chỉ triển khai công cụ, không thiết kế lại công việc | Năng suất cá nhân tăng, kết quả tổ chức không đổi | `FW-090`, `CON-030` |
+| AI tự động hóa mất thao trường đào tạo mà không ai thiết kế lại lộ trình phát triển | Người mới ship nhanh nhưng không lớn lên | `FW-093` |
+| Quyền cho AI trượt dần thay vì được quyết | Hệ thống chạy ở mức tự chủ không ai cho phép | `FW-094`, `CON-030` |
+| Áp một nhịp thay đổi cho nhóm có rào cản văn hóa về việc lên tiếng | Im lặng bị đọc là đồng thuận | `CON-028` |
+
+Diễn giải bảng: hai dòng đầu là **chẩn đoán gốc** và phải chạy trước — `FW-064` chỉ ra khoảng trống nằm ở trạm nào, vì can thiệp sai trạm thì mọi nỗ lực sau đó đều trượt. Chín dòng giữa là **thiết kế thay đổi** ở cấp hành vi và liên minh. Năm dòng cuối là các dạng thất bại **đặc thù của thay đổi do AI mang tới**: chúng khác ở chỗ thay đổi đến từ bên ngoài chứ không do bạn khởi xướng, nên việc của bạn là thiết kế lại cách làm việc quanh nó chứ không phải thuyết phục ai.
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Thay đổi cần đồng thuận nhiều phòng ban → dùng `FW-017` Stakeholder Coalition Map và toàn bộ chuỗi `FW-022`.
 - Lực cản đến từ việc thay đổi mâu thuẫn với chỉ số mà bộ phận khác đang bị đo → vấn đề tổ chức, không giải được bằng thiết kế hành vi.
+- Thay đổi đến từ quy định pháp lý chứ không từ lựa chọn nội bộ → `CON-031`; phạm vi của bạn là phân loại ca sử dụng và leo thang, không phải thuyết phục.
+- Không ai phản đối nhưng cũng không ai làm, và team chưa từng nêu một rủi ro nào → vấn đề thật là `PRB-009`, xử lý an toàn tâm lý trước.
 
 ## Chỉ số theo dõi sau xử lý
 - Chỉ số hành vi đã chọn ở bước Metric (ví dụ: tỷ lệ PR qua review chéo).
 - Tỷ lệ người áp dụng, tách theo nhóm chứ không chỉ con số tổng.
 - Mức duy trì sau 4 tuần và sau 12 tuần (kỳ vọng: không tụt).
 - Số hệ quả ngoài ý muốn đã ghi nhận được từ lưới Ethics.
+- `[SUY LUẬN]` Với thay đổi liên quan tới AI: tỷ lệ đầu việc đã được gán một mức quyền rõ ràng theo `FW-094`, và số lần có người nêu rằng cách làm mới đang không hiệu quả.
 
 ## Nguồn
 - `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 12–45]`
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 64–68, 73–74]` — Knowledge–Behaviour Gap.
+- `[MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 34–37]`
+- `[MEGROW | Topic 18 | Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf | Slide 9–10, 16, 26–29]`

@@ -9,7 +9,7 @@ levels: [ORG, TEAM]
 courses: [MEGROW]
 topics: []
 problems_addressed: [PRB-010, PRB-003, PRB-002]
-related_ids: [FW-020, FW-021, CON-009, FW-006, FW-016, TOP-MEGROW-12]
+related_ids: [FW-020, FW-021, CON-009, FW-006, FW-016, TOP-MEGROW-12, FW-080]
 source: ["MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14", "MEGROW | Topic 14 | [Case Reading] of topic 14 .pdf | Trang 1–4"]
 source_type: course
 confidence: high
@@ -57,7 +57,7 @@ Câu hỏi trung tâm (slide 6): **cùng thử thách, cùng giới hạn thời
 ## Liên hệ với các topic khác (cùng khóa và khác khóa)
 - `TOP-MEGROW-12` bổ sung ở chặng ALIGN: `FW-016` chọn *cách phản ứng*, `FW-020` chẩn đoán *vì sao* có bất đồng. Chạy `FW-020` trước `FW-016`.
 - `FW-006` Vroom–Yetton–Jago từ Topic 10 cung cấp **từ vựng cụ thể** cho thế lưỡng nan giả ở slide 13: năm mức AI, AII, CI, CII, GII.
-- `[SUY LUẬN]` Case BCPC do Amy C. Edmondson viết, gắn với chủ đề an toàn tâm lý — nội dung đó nằm ở Topic 13, chưa xử lý.
+- `[SUY LUẬN]` Case BCPC do Amy C. Edmondson viết, gắn với chủ đề an toàn tâm lý — nội dung đó nằm ở `FW-080` (Topic 13), cùng tác giả. Hai topic bổ sung nhau: Topic 13 giải thích vì sao người ta không nêu bất đồng, Topic 14 xử lý bất đồng khi nó đã được nêu.
 
 ## Nguồn
 - `[MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 1–14]`
