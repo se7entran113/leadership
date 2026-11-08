@@ -8,6 +8,8 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 Hai tài liệu Capstone (Topic 20: 28 trang, Lumo Case Mandate C: 21 trang) **để riêng, ngoài phạm vi kho** — xem Ghi chú.
 
+Một tài liệu thứ cấp khác cũng để riêng — `Leadership_Study_Guide_Topics_01-19_RMIT_Zalo.docx` (không phải slide gốc, không tính vào 777 trang) — xem Ghi chú.
+
 ---
 
 ## MEGROW — me.grow (2026) L2 Leadership Development Program
@@ -62,5 +64,6 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 - **Số topic lấy theo tên file**, không theo số in trên slide. Deck của Topic 3 ghi "Topic 2" ở trang bìa và deck của Topic 4 ghi "Topic 5" — xem `open_questions.md` (OQ-002).
 - `TOP-MEGROW-20` vừa là topic, vừa mang nhãn `CAPSTONE` (phiên định hướng Capstone Project ngày 6/11/2026).
 - **Tài liệu Capstone để trạng thái `để riêng` theo quyết định của người dùng (2026-11-08):** gồm **Topic 20** (deck định hướng) và **`me.grow(2026)_Capstone Lumo Case_Mandate C.pdf`** (nội dung case, 21 trang, người dùng thêm vào `raw/` ngày 2026-11-08 và xác nhận sẽ review sau). Người dùng tự xử lý để làm slide Capstone riêng, nên **không chunk hóa** vào kho. Các đợt "Xử lý topic" tiếp theo **bỏ qua cả hai tài liệu này**. Cả hai vẫn nằm trong `topic_map.md` và `slide_inventory.md` để `validate.py` không báo "có tài liệu mới chưa xử lý"; không cần có mặt trong `coverage_matrix.md` vì trạng thái không phải `đã xử lý`. Nếu sau này người dùng muốn đưa nội dung Capstone vào kho thì xử lý như một đợt bình thường.
+- **`Leadership_Study_Guide_Topics_01-19_RMIT_Zalo.docx`** (82KB, thêm vào `raw/megrow/` ngày 2026-11-08) là **tài liệu thứ cấp** do bạn của người dùng biên soạn với sự hỗ trợ của AI, tổng hợp lại Topic 01–19 để tra cứu nhanh. Tài liệu tự khai ở trang đầu: *"Nội dung 'Ứng dụng đề xuất', ví dụ và checklist là diễn giải của trợ lý; không phải lời giảng nguyên văn hoặc bằng chứng thực nghiệm độc lập."* — tức nó **không phải ghi chép lớp** và **không phải nguồn độc lập** so với slide gốc. Dùng để đối chiếu chéo với kho (xem `reviews/2026-11-08-doi-chieu-study-guide.md`), **không chunk hóa**, không gắn nhãn `[KHÓA HỌC]` cho bất kỳ nội dung nào chỉ có trong tài liệu này. Không tính vào phạm vi 777 trang vì đây không phải slide gốc.
 - Hai file `[Case Reading]` là **tài liệu bổ sung** cho topic tương ứng, không nhận số topic riêng. Việc gán case Microsoft cho Topic 12 là suy luận của Claude đã được người dùng duyệt — xem `open_questions.md` (OQ-004).
 - Không tài liệu nào trong `raw/megrow/` thuộc loại `PROGRAM` (lịch học, giới thiệu chương trình) — chưa có file nào như vậy.

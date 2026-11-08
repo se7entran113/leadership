@@ -4,6 +4,28 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Đối chiếu Leadership Study Guide (bạn của người dùng) với kho
+
+**Lệnh:** người dùng cung cấp `raw/megrow/Leadership_Study_Guide_Topics_01-19_RMIT_Zalo.docx` — tài liệu do bạn của người dùng biên soạn (có hỗ trợ AI), tổng hợp Topic 01–19, và yêu cầu đối chiếu trước khi viết playbook.
+
+### Bản chất nguồn
+File tự khai là **tài liệu thứ cấp, AI hỗ trợ tạo từ cùng bộ slide gốc**, không phải ghi chép lớp: *"Nội dung 'Ứng dụng đề xuất', ví dụ và checklist là diễn giải của trợ lý; không phải lời giảng nguyên văn hoặc bằng chứng thực nghiệm độc lập."* Đăng ký vào `topic_map.md` và `slide_inventory.md` như tài liệu thứ cấp **để riêng, không chunk hóa**, cùng cách xử lý đã dùng cho Capstone Lumo Case.
+
+### Phương pháp đối chiếu
+Đọc toàn bộ 1453 dòng (`textutil -convert txt`), lập bảng framework theo từng topic, đối chiếu với 172 chunk hiện có, kiểm chéo ba lỗi đọc hình đã sửa ở đợt trước (Circles, Moderation T06; slide 35 T05), rà 20 câu hỏi mở, so cấu trúc Problem-to-Framework Index.
+
+### Kết quả: 0 conflict nội dung
+Không phát hiện mâu thuẫn nào cần trọng tài slide gốc xử lý. Điểm đáng chú ý:
+- **Moderation (T06) được củng cố độc lập:** file mô tả đúng "khuếch đại/giảm/đảo chiều" — khớp bản sửa AMPLIFY/DECREASE/REVERSE của kho, không lặp lại cách đọc sai cũ.
+- **Không OQ nào được giải** — đúng như dự đoán từ bản chất nguồn thứ cấp. OQ-008 được file tự xác nhận cùng hạn chế; OQ-014 được mở rộng sang nghi ngờ thêm Topic 7, 13 (các sơ đồ chính ở hai topic này đã được render và đọc trực tiếp trong đợt xử lý gốc, rủi ro thấp hơn T05/06).
+- **Hai khoảng trống coverage đáng kể trong file** (không phải lỗi của kho): Topic 11 bỏ sót hoàn toàn Robbins trust (`CON-027`) và case Gen Z Việt Nam (`CON-028`); Topic 18 bỏ sót hoàn toàn bốn case AI thực tế và nội dung Luật AI Việt Nam (`CON-030`, `CON-031`).
+- **Phát hiện phụ ngoài phạm vi:** dòng tổng quan `PRB-011` trong `problem_index.md` còn ghi "một phần (T06, 12)" dù chunk đã verified và mở rộng 5 topic ở đợt dọn cờ trước — chưa đồng bộ bảng tổng quan.
+
+### Đầu ra
+Báo cáo đầy đủ: `reviews/2026-11-08-doi-chieu-study-guide.md` — 12 phát hiện, bảng độ phủ theo 19 topic, so sánh cấu trúc Problem-Index, khuyến nghị cho đợt viết playbook. **Chờ người dùng duyệt**, chưa sửa chunk nào.
+
+---
+
 ## 2026-11-08 — Đối chiếu lại slide ảnh Topic 05: một lỗi diễn giải nặng
 
 **Lệnh:** "làm luôn" — chạy lượt đối chiếu cho Topic 05 như đã khuyến nghị sau khi tìm ra hai lỗi ở Topic 06.

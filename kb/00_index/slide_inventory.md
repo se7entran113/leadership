@@ -1004,3 +1004,9 @@ Cột **Chủ đề trang** lấy từ tiêu đề/kicker hiển thị trên sli
 | 19 | Exhibit C4: giá, doanh thu và chi phí tính toán — giá thử nghiệm 990.000 VND/tháng |
 | 20 | Exhibit C5: các kênh tiếp cận doanh nghiệp, độ phủ và chi phí |
 | 21 | Exhibit C7: ý kiến của khách hàng doanh nghiệp, khách của họ và nhân viên bán hàng |
+
+## Tài liệu thứ cấp — `Leadership_Study_Guide_Topics_01-19_RMIT_Zalo.docx`
+
+**Loại:** tài liệu thứ cấp, AI hỗ trợ biên soạn bởi bạn của người dùng · **Kích thước:** 82 KB · **Ngày thêm:** 2026-11-08
+
+> **Để riêng, không chunk hóa.** Không phải slide gốc — là bản tổng hợp Topic 01–19 để tra cứu nhanh, tự khai phần diễn giải/ví dụ là do AI tạo. Dùng để đối chiếu chéo với kho; xem `reviews/2026-11-08-doi-chieu-study-guide.md`. Không tính vào `coverage_matrix.md` hay tổng số trang của kho.
