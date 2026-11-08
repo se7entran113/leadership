@@ -229,7 +229,17 @@ Các con số ví dụ xuyên suốt deck (onboarding completion 65% → 80%, we
 
 Hệ quả: mạch lập luận nối các slide ảnh của `CON-025` (hyper-performance ↔ burnout) và `CON-026` (tích lũy 1%, neuroplasticity, relentless honesty) phần lớn là `[SUY LUẬN]` của Claude dựa trên hình ảnh, nhãn và thứ tự slide, chứ không phải lời giảng được ghi lại.
 
-**Đã làm.** `TOP-MEGROW-05` để `status: needs_review`, `confidence: medium`; `CON-025` và `CON-026` để `confidence: medium` và gắn `[CẦN XÁC NHẬN]` ở mục Nguồn. Toàn bộ 78 trang vẫn được ánh xạ trong `coverage_matrix.md`.
+**Đã đối chiếu lại ngày 2026-11-08.** Render lại bằng `pdftoppm` 15 slide chưa được kiểm kỹ ở đợt xử lý (7, 10, 16, 17, 19, 21–27, 35, 36, 64) — cộng với các slide sơ đồ đã render sẵn từ đợt đó (18, 29–33, 39, 55, 62, 67, 68, 70–72). Kết quả:
+
+| Slide | Kết quả |
+|---|---|
+| Phần lớn | ✅ khớp — đúng là ảnh hoặc video kèm một tới hai chữ, không có nội dung bị bỏ sót |
+| **35** | ❌ **đã sửa — lỗi diễn giải nặng.** Bản cũ đọc *"1 : 10 000"* thành *"số lối mòn thần kinh"*. Slide thực tế là ảnh công viên: biển **"PLEASE USE SIDEWALK"** gắn số **1**, và **lối mòn người đi tự giẫm trên cỏ** gắn số **10 000** — tức **môi trường thắng chỉ dẫn**, không liên quan thần kinh học. Đây là cùng luận điểm Attitude ↔ Environment ở `FW-007` của chính giảng viên này tại Topic 06 |
+| **7** | ⚠️ **đã bổ sung** — slide WRONG SHORTCUTS có nội dung thật bị bỏ sót: câu đùa *"I saw a book called How To Solve 50% Of Your Problems, so I bought two."* |
+
+**Phạm vi còn thiếu, thu hẹp lại.** Nội dung **có trên slide** nay đã được xác minh. Thứ vẫn thiếu là **lời giảng** — đặc biệt ở mảng burnout (slide 7–21) và mảng tự thay đổi (slide 22–28), nơi phần lớn slide chỉ có một tới hai chữ trên nền ảnh và mạch lập luận nối chúng vẫn là `[SUY LUẬN]`.
+
+**Đã làm.** `TOP-MEGROW-05` giữ `status: needs_review`, `confidence: medium`; `CON-025` và `CON-026` giữ `confidence: medium` với `[CẦN XÁC NHẬN]` ở mục Nguồn. Toàn bộ 78 trang vẫn được ánh xạ trong `coverage_matrix.md`.
 
 **Cần người dùng.** Đây là topic cần ghi chép tại lớp nhất trong cả khóa. Nếu có note về buổi này — đặc biệt về mảng burnout (slide 7–21) và mảng tự thay đổi (slide 22–28) — thì nội dung sẽ đổi đáng kể.
 

@@ -317,11 +317,11 @@ Buổi học đi từ mười thách thức năng suất rất cụ thể của 
 ## Mạch nội dung theo trình tự giảng dạy
 1. **Mười thách thức năng suất** (slide 2–3) — bảng ba cột Challenge · Typical manager situation · Productivity problem → `FW-059`.
 2. **Ví dụ 9:00 sáng thứ Hai** (slide 4) và bộ phân loại bốn quyết định kèm bốn câu hỏi (slide 5) → `FW-060`.
-3. **Mảng burnout** (slide 6–21): WRONG SHORTCUTS · WHAT IS BURNOUT · LOST BALANCE · BURNOUT MASK · hình âm dương HYPER PERFORMANCE ↔ BURNOUT với **MY THOUGHTS** ở tâm · PERFORMANCE CHALLENGES · REPLACING THOUGHTS → `CON-025`.
+3. **Mảng burnout** (slide 6–21): WRONG SHORTCUTS (slide 7, kèm câu đùa *"I saw a book called How To Solve 50% Of Your Problems, so I bought two."*) · WHAT IS BURNOUT · LOST BALANCE · BURNOUT MASK · hình âm dương HYPER PERFORMANCE ↔ BURNOUT với **MY THOUGHTS** ở tâm · PERFORMANCE CHALLENGES · REPLACING THOUGHTS → `CON-025`.
 4. **Mảng tự thay đổi** (slide 22–28): ảnh cá nhân giảng viên · I CAN / I CAN'T CHANGE · HYPER DAY · **1.01³⁶⁵ = 37.78 / 0.99³⁶⁵ = 0.03** · NEUROPLASTICITY · RELENTLESS HONESTY → `CON-026`.
 5. **Đường cong hiệu suất theo thời gian** (slide 29–31): ba đường, trong đó đường **KNOWLEDGE + BEHAVIOR** đi lên đều và không có đỉnh → `CON-025`.
 6. **Guiding Arrows** (slide 32–33): năm hướng tỏa ra từ cùng một điểm → `FW-063`.
-7. **Mảng não bộ** (slide 34–53): 1 : 10 000 lối mòn · HUMAN BRAIN · DECISIVE/INTELLIGENT/RESISTIVE/INSTINCTIVE · bìa sách Kahneman · BRAIN GYM với chuỗi bài tập ảo giác thị giác · CONGRATULATIONS → `CON-021`.
+7. **Mảng não bộ** (slide 34–53): ví dụ biển "PLEASE USE SIDEWALK" (1) so với lối mòn người đi (10 000) → `CON-026` · HUMAN BRAIN · DECISIVE/INTELLIGENT/RESISTIVE/INSTINCTIVE · bìa sách Kahneman · BRAIN GYM với chuỗi bài tập ảo giác thị giác · CONGRATULATIONS → `CON-021`.
 8. **Mảng AI** (slide 54–63): ma trận Human+AI bốn chế độ · EVOLVING INTELLIGENCE · mô hình quyết định của Colson · HIGH ACCURACY DECISION MAKING → `FW-065`, `FW-065-01`.
 9. **Sustainable hyper-performance** (slide 64–69): KNOWLEDGE / BEHAVIOR · sơ đồ KNOWLEDGE → ACCEPTANCE → INTENTION → BEHAVIOR với cà rốt và cây gậy · tóm tắt bài báo → `FW-064`.
 10. **Ba công cụ ưu tiên** (slide 70–72): FranklinCovey Time Matrix · Eisenhower Matrix → `FW-061`; GTD → `FW-062`.

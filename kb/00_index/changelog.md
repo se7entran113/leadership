@@ -4,6 +4,43 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Đối chiếu lại slide ảnh Topic 05: một lỗi diễn giải nặng
+
+**Lệnh:** "làm luôn" — chạy lượt đối chiếu cho Topic 05 như đã khuyến nghị sau khi tìm ra hai lỗi ở Topic 06.
+
+### Phương pháp
+Render 15 slide chưa được kiểm kỹ ở đợt xử lý (7, 10, 16, 17, 19, 21–27, 35, 36, 64) và so với bản ghi trong `CON-025`, `CON-026`, `CON-021`, `TOP-MEGROW-05`.
+
+### Kết quả: 1 lỗi nặng, 1 chỗ bỏ sót
+
+**Slide 35 — `[SUY LUẬN]` sai hoàn toàn về chủ đề.** Bản cũ ghi: *"Slide 35 đưa con số 1 : 10 000 … tỷ lệ này minh họa khoảng cách giữa một lối đi mới và mạng lưới lối mòn thần kinh đã có"*. Slide thực tế **không nói gì về não**: đó là ảnh một công viên với vỉa hè lát gạch, một tấm biển **"PLEASE USE SIDEWALK"** gắn số **1**, và **lối mòn do người đi tự giẫm trên bãi cỏ** gắn số **10 000**.
+
+Ý thật: **một tấm biển chỉ dẫn thua mười nghìn lượt người đã giẫm thành đường** — tức *môi trường thắng chỉ dẫn*. Đây chính là luận điểm Attitude ↔ Environment mà cùng giảng viên dạy ở `FW-007` (Triangle, Curve) tại Topic 06. Bản ghi cũ đã **biến một ví dụ thiết kế hành vi thành một khẳng định thần kinh học không có trên slide**.
+
+**Slide 7 — bỏ sót nội dung.** Slide WRONG SHORTCUTS có một câu đùa làm nội dung chính: *"I saw a book called How To Solve 50% Of Your Problems, so I bought two."* Bản cũ chỉ ghi nhãn.
+
+Các slide còn lại khớp — đúng là ảnh hoặc video kèm một tới hai chữ.
+
+### Đã sửa
+- `CON-026`: viết lại hoàn toàn đoạn về slide 35, mô tả đúng ảnh và nối sang `FW-007`; thêm `FW-007` vào `related_ids`; mở rộng `source` sang slide 36.
+- `CON-021`: gỡ câu *"1 : 10 000 cho số lối mòn thần kinh"*, thay bằng ghi chú chỉ rõ slide 35 không nói về não.
+- `TOP-MEGROW-05`: sửa mô tả mạch slide 34–53; bổ sung câu đùa ở slide 7.
+- `CON-025`: bổ sung nội dung thật của slide 7.
+- `coverage_matrix.md`: ánh xạ slide 35 → `CON-026` vốn đã đúng, giữ nguyên.
+
+### OQ-014 thu hẹp phạm vi
+Nội dung **có trên slide** nay đã xác minh. Thứ còn thiếu chỉ là **lời giảng** ở mảng burnout (7–21) và mảng tự thay đổi (22–28).
+
+### Tổng kết hai lượt đối chiếu
+| Deck | Slide ảnh | Lỗi tìm được |
+|---|---|---|
+| Topic 06 | 49/69 | 2 (Circles sai nhãn, Moderation sai cả dạng cấu trúc) + 1 bỏ sót (nhóm màu Socium) |
+| Topic 05 | 65/78 | 1 nặng (slide 35 sai chủ đề) + 1 bỏ sót (câu đùa slide 7) |
+
+Cả ba lỗi nhãn/cấu trúc đều ở **deck của AP Agnis Stibe** — phong cách slide một từ trên nền ảnh khiến việc đọc dễ trượt. Các deck nhiều chữ không có lỗi nào thuộc loại này.
+
+---
+
 ## 2026-11-08 — Đối chiếu lại slide sơ đồ Topic 06: sửa hai lỗi đọc sai
 
 **Lệnh:** người dùng hỏi *"topic 6 nội dung phần lớn trong ảnh, bạn không extract được à?"*

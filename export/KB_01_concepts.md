@@ -1159,7 +1159,7 @@ Hướng dẫn kèm theo: *"Note your bias on flip chart"* — ghi ngay thiên k
 
 `[KHÓA HỌC]` Topic 03 slide 11 `[HÌNH]`: một phép nhẩm **"25 x 14"** đặt cạnh ảnh một khuôn mặt giận dữ — hai kích thích cạnh nhau cho thấy khuôn mặt được xử lý tức thì bởi System 1, còn phép nhân đòi hỏi triệu tập System 2.
 
-`[KHÓA HỌC]` Topic 05 slide 35 nêu con số **1 : 10 000** cho số lối mòn thần kinh, slide 36 "HUMAN BRAIN" và slide 26 "NEUROPLASTICITY" — xem `CON-026`.
+`[KHÓA HỌC]` Topic 05 slide 36 "HUMAN BRAIN" và slide 26 "NEUROPLASTICITY" nối mảng tri giác này sang phần tự thay đổi — xem `CON-026`. (Slide 35 trong cùng mạch **không** nói về não: đó là ví dụ biển chỉ dẫn so với lối mòn người đi, xem `CON-026`.)
 
 ## Liên quan
 - `FW-055` — quy trình năm bước là cách triệu tập System 2 một cách có kỷ luật; bước 1 PAUSE hỏi thẳng *"Is this System 1 talking?"*.
@@ -1398,7 +1398,7 @@ Nhãn của đường xanh — **KNOWLEDGE + BEHAVIOR** — nối thẳng sang `
 
 `[KHÓA HỌC]` Slide 31 vẽ điểm rẽ ở dạng khác: một mũi tên xanh đi lên **HYPER PERFORMANCE**, một mũi tên tách ra đi gần như ngang về phía **BURNOUT**, và một mũi tên đỏ nhỏ uốn ngược **từ nhánh burnout quay lại nhánh đi lên**, đặt ngay sát điểm rẽ. Diễn giải: quay lại được, nhưng đường quay lại được vẽ **ở gần chỗ rẽ** — càng đi xa trên nhánh ngang thì càng không có mũi tên nào vẽ ngược lại.
 
-Mạch slide 7–21 dẫn vào ý này bằng một chuỗi hình ảnh: **WRONG SHORTCUTS** (slide 7) — những lối tắt sai; **WHAT IS BURNOUT** (slide 10); **LOST BALANCE** (slide 16) — mất cân bằng; **BURNOUT MASK** (slide 17) — chiếc mặt nạ che kiệt sức; rồi **PERFORMANCE CHALLENGES** (slide 19) và **REPLACING THOUGHTS** (slide 21) — thay thế suy nghĩ, nối lại với hai chữ MY THOUGHTS ở tâm slide 18.
+Mạch slide 7–21 dẫn vào ý này bằng một chuỗi hình ảnh: **WRONG SHORTCUTS** (slide 7) — những lối tắt sai, minh họa bằng một câu đùa: *"I saw a book called How To Solve 50% Of Your Problems, so I bought two."*; **WHAT IS BURNOUT** (slide 10); **LOST BALANCE** (slide 16) — mất cân bằng; **BURNOUT MASK** (slide 17) — chiếc mặt nạ che kiệt sức; rồi **PERFORMANCE CHALLENGES** (slide 19) và **REPLACING THOUGHTS** (slide 21) — thay thế suy nghĩ, nối lại với hai chữ MY THOUGHTS ở tâm slide 18.
 
 ## Ví dụ
 `[KHÓA HỌC]` Slide 64 đặt tên cho đích đến: **SUSTAINABLE HYPER PERFORMANCE**. Slide 73 diễn đạt thành lời: *"Optimize for sustainable hyper-performance. The goal is not maximum short-term output, but sustained high-value performance without unnecessary cognitive overload or long-term harm."* — mục tiêu không phải sản lượng ngắn hạn tối đa, mà hiệu suất giá trị cao được duy trì, không kèm quá tải nhận thức không cần thiết hay tổn hại dài hạn.
@@ -1431,8 +1431,8 @@ levels: [SELF]
 courses: [MEGROW]
 topics: [TOP-MEGROW-05]
 problems_addressed: [PRB-004]
-related_ids: [CON-025, FW-063, FW-064, CON-021]
-source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 22–28, 35"]
+related_ids: [CON-025, FW-063, FW-064, CON-021, FW-007]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 22–28, 35–36"]
 source_type: course
 confidence: medium
 status: verified
@@ -1466,7 +1466,11 @@ Diễn giải: điểm đáng chú ý không phải con số 37.78 mà là **tí
 
 Diễn giải bảng: thứ tự này có logic riêng. Slide 23 nêu niềm tin, slide 25–26 cung cấp cơ sở để niềm tin đó không phải tự huyễn hoặc, và slide 27 thêm điều kiện ràng buộc. **Relentless honesty** là mảnh dễ bỏ qua nhất: tích lũy 1% chỉ hoạt động nếu bạn đo đúng mình đang ở đâu — tự đánh giá rộng rãi với bản thân sẽ cho đường 0.99 trong khi bạn tin mình đang đi đường 1.01. Điều này nối thẳng với `CON-024`: con người quá tự tin một cách hệ thống về phán đoán của chính mình.
 
-`[KHÓA HỌC]` Slide 35 đưa con số **1 : 10 000** kèm hình ảnh những lối mòn tự hình thành trên bãi cỏ (nguồn về "creating your own pathways"), slide 36 **HUMAN BRAIN**. Diễn giải `[SUY LUẬN]`: tỷ lệ này minh họa khoảng cách giữa một lối đi mới và mạng lưới lối mòn đã có — một hành vi mới phải cạnh tranh với một số lượng rất lớn đường mòn sẵn, nên nó thua ở những lần đầu không phải vì nó sai mà vì nó chưa được đi đủ nhiều.
+`[KHÓA HỌC]` Slide 35 là ảnh một công viên: bên trái có vỉa hè lát gạch, bên phải là **lối mòn do người đi tự giẫm thành trên bãi cỏ**. Cắm cạnh vỉa hè là tấm biển **"PLEASE USE SIDEWALK"**, gắn số **1**; phía trên lối mòn là số **10 000**.
+
+Diễn giải: `[SUY LUẬN]` một tấm biển chỉ dẫn (1) đối đầu với hành vi của mười nghìn lượt người đã giẫm thành đường (10 000) — và thua. Đây là ví dụ về **môi trường thắng chỉ dẫn**, không phải về thần kinh học. Nó lặp lại đúng luận điểm Attitude ↔ Environment ở `FW-007` (Triangle và Curve) của cùng giảng viên tại Topic 06: muốn đổi hành vi thì thiết kế lại đường đi, đừng chỉ cắm thêm biển.
+
+Liên hệ với phần tích lũy 1%: một thói quen cũ cũng là một lối mòn đã được giẫm hàng nghìn lần. Hành vi mới thua ở những lần đầu không phải vì nó sai, mà vì nó chưa có đường.
 
 ## Ví dụ
 `[BỔ SUNG]` Bối cảnh team Data Science: không thể "trở thành người giao việc tốt" trong một quý. Nhưng một quyết định 1% mỗi ngày thì làm được — mỗi lần định tự sửa một đoạn code của DS, dừng lại và viết một câu hỏi thay vì một bản vá. Ngày đầu tiên hai cách này cho kết quả như nhau, và đó chính là lý do cần cơ chế ở `FW-064` chứ không chỉ cần ý chí.
