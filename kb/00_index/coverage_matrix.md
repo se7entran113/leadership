@@ -4,7 +4,7 @@ Mọi trang slide của **các topic đã xử lý** phải xuất hiện ở đ
 
 Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide_inventory.md`. File này chỉ theo dõi **độ phủ**.
 
-**Trạng thái: 15 / 20 topic đã xử lý. Độ phủ 637 / 805 trang (79.1%).**
+**Trạng thái: 15 / 19 topic trong phạm vi đã xử lý. Độ phủ 637 / 777 trang (82.0%).** Topic 20 (Capstone, 28 trang) để riêng, ngoài phạm vi kho.
 
 | Khóa | Topic | File | Tổng trang | Đã ánh xạ | Không có nội dung | Độ phủ | Trạng thái |
 |---|---:|---|---:|---:|---:|---:|---|
@@ -29,7 +29,7 @@ Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide
 | MEGROW | 17 | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | 31 | 8 | 100% | đã xử lý |
 | MEGROW | 18 | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | 0 | 0 | 0% | chưa xử lý |
 | MEGROW | 19 | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | 24 | 9 | 100% | đã xử lý |
-| MEGROW | 20 | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 20 | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | — | — | — | *để riêng (Capstone)* |
 | | | **Tổng** | **805** | **389** | **97** | **60.4%** | 12/20 topic |
 
 ---

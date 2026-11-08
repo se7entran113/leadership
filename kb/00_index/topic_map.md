@@ -4,7 +4,9 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 15 / 20 topic đã xử lý** (Topic 01–10, 12, 14, 16, 17, 19) — 637 / 805 trang, độ phủ 79.1%.
+**Tiến độ MEGROW: 15 / 19 topic trong phạm vi kho đã xử lý** (Topic 01–10, 12, 14, 16, 17, 19) — 637 / 777 trang trong phạm vi, độ phủ 82.0%.
+
+Topic 20 (Capstone, 28 trang) **để riêng, ngoài phạm vi kho** — xem Ghi chú.
 
 ---
 
@@ -48,7 +50,7 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 | `TOP-MEGROW-17` | 17 | Apply Strategic Thinking | AP Burkhard Schrage | ORG | `Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf` | 39 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-18` | 18 | Leading in the AI-Enabled Organisation | Prof Trung Nguyen | ORG + TEAM, SELF | `Topic 18 - Leading in the AI-Enabled Organisation - Prof Trung Nguyen.pdf` | 44 | chưa xử lý | 2026-11-07 |
 | `TOP-MEGROW-19` | 19 | Presenting Business Cases (SCQA, Pyramid Principle, Stakeholder Mapping) | Dr Tony Nguyen | ORG | `Topic 19 - Present Business Case - Dr Tony Nguyen.pdf` | 33 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-20` | 20 | Capstone Research & Alignment `CAPSTONE` | AP Burkhard Schrage | ORG | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-20` | 20 | Capstone Research & Alignment `CAPSTONE` | AP Burkhard Schrage | ORG | `Topic 20 - Capstone Research & Alignment - AP Burkhard Schrage.pdf` | 28 | *để riêng* | 2026-11-07 |
 
 **Tổng: 22 tài liệu / 805 trang / 20 topic.**
 
@@ -58,5 +60,6 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 
 - **Số topic lấy theo tên file**, không theo số in trên slide. Deck của Topic 3 ghi "Topic 2" ở trang bìa và deck của Topic 4 ghi "Topic 5" — xem `open_questions.md` (OQ-002).
 - `TOP-MEGROW-20` vừa là topic, vừa mang nhãn `CAPSTONE` (phiên định hướng Capstone Project ngày 6/11/2026).
+- **Topic 20 để trạng thái `để riêng` theo quyết định của người dùng (2026-11-08):** người dùng sẽ tự review deck này để làm slide Capstone riêng, nên nó **không được chunk hóa** vào kho. Các đợt "Xử lý topic" tiếp theo **bỏ qua Topic 20**. File vẫn nằm trong `topic_map.md` và `slide_inventory.md` để `validate.py` không báo "có tài liệu mới chưa xử lý"; không cần có mặt trong `coverage_matrix.md` vì trạng thái không phải `đã xử lý`. Nếu sau này người dùng muốn đưa nội dung Capstone vào kho thì xử lý như một đợt bình thường.
 - Hai file `[Case Reading]` là **tài liệu bổ sung** cho topic tương ứng, không nhận số topic riêng. Việc gán case Microsoft cho Topic 12 là suy luận của Claude đã được người dùng duyệt — xem `open_questions.md` (OQ-004).
 - Không tài liệu nào trong `raw/megrow/` thuộc loại `PROGRAM` (lịch học, giới thiệu chương trình) — chưa có file nào như vậy.

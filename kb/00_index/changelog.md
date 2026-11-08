@@ -4,6 +4,20 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — Topic 20 (Capstone) để riêng, ngoài phạm vi kho
+
+**Quyết định của người dùng.** Topic 20 — *Capstone Research & Alignment* (AP Burkhard Schrage, 28 trang) — **không chunk hóa vào kho**. Người dùng sẽ tự review deck này để làm slide Capstone riêng.
+
+**Hệ quả.**
+- `topic_map.md`: trạng thái Topic 20 đổi từ `chưa xử lý` sang `để riêng`, kèm ghi chú để các đợt sau bỏ qua.
+- Mẫu số tiến độ đổi từ 20 sang **19 topic trong phạm vi**, và từ 805 sang **777 trang**. Độ phủ hiện tại tính lại: **637 / 777 (82.0%)**.
+- File vẫn giữ trong `topic_map.md` và `slide_inventory.md` để `validate.py` không báo "có tài liệu mới chưa xử lý"; không cần ánh xạ trang trong `coverage_matrix.md` vì trạng thái không phải `đã xử lý`.
+- Có thể đảo ngược: nếu sau này muốn đưa nội dung Capstone vào kho thì xử lý như một đợt bình thường.
+
+**Còn lại trong phạm vi: 4 topic** — 11, 13, 15, 18.
+
+---
+
 ## 2026-11-08 — MEGROW Topic 03, 05, 07: thêm 31 chunk (tổng 136)
 
 **Lệnh:** "xử lý tiếp các topic tiếp theo" (đợt 5 của chỉ thị "cứ lần lượt làm hết topic và commit theo đợt").
