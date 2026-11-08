@@ -193,3 +193,49 @@ Thuật ngữ và tên framework giữ nguyên tiếng Anh, kèm nghĩa tiếng 
 | Prototype | Bản thử | Thử một phiên bản nhỏ trước rồi học — không phải giải pháp cuối cùng | `FW-053` |
 | 7-day test | Thử nghiệm 7 ngày | MỘT team · MỘT tuần · MỘT kết quả để kiểm tra | `FW-053-01` |
 | Three-line ask | Lời đề nghị ba dòng | "Vấn đề là… · Chúng tôi đã thử… · Chúng tôi cần anh/chị…" trong 45 giây | `FW-054` |
+
+## Thiên kiến và tư duy kiểm toán (Topic 03)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| System 1 / System 2 | Hệ thống 1 / Hệ thống 2 | Nhanh, tự động, luôn bật / chậm, logic, lười và phải được triệu tập | `CON-021` |
+| Expert bias | Thiên kiến chuyên gia | Tin quá mức vào phán đoán chuyên môn ở chỗ nó không áp dụng được | `CON-022` |
+| Audit Mindset | Tư duy kiểm toán | Questioning mind · Suspension of judgment · Search for evidence, quay vào chính mình | `FW-055` |
+| 5-Step Bias Self-Audit | Tự kiểm thiên kiến 5 bước | PAUSE · EVIDENCE · OPPOSITE · OUTSIDE VIEW · DECIDE & LOG | `FW-055` |
+| Overconfidence | Quá tự tin | Mức chắc chắn tự gán cao hơn độ chính xác thật | `CON-024` |
+| Framing effect | Hiệu ứng mô tả | Một câu mô tả không đổi dữ kiện vẫn làm dịch chuyển đánh giá | `CON-024` |
+| The Leak | Đường rò | Thiên kiến rò vào điều bạn nói, điều bạn không nói, và người bạn chọn để hỏi | `FW-056` |
+| Automation bias | Thiên kiến tự động hóa | Văn phong trôi chảy và nhãn độ tin cậy của hệ thống chiêu mộ lòng tin | `FW-057` |
+| Data artifact | Hiện vật dữ liệu | Khoảng trống trong dữ liệu bị đọc thành sự kém cỏi (ví dụ: nghỉ thai sản) | `FW-057` |
+| Trust = Ability · Benevolence · Integrity | Niềm tin = Năng lực · Thiện ý · Chính trực | Ba thành tố nhân nhau; uy tín do người nghe trao, kiểm theo từng quan hệ | `FW-058` |
+
+## Năng suất cá nhân (Topic 05)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| Hyper-performance | Hiệu suất vượt trội | Đường đi lên bền, đối lập với nhánh burnout từ cùng một điểm rẽ | `CON-025` |
+| Burnout | Kiệt sức | Nhánh đi ngang; thắng ở giai đoạn đầu rồi suy giảm | `CON-025` |
+| Neuroplasticity | Tính dẻo thần kinh | Não đổi cấu trúc theo trải nghiệm lặp lại — cơ sở sinh học của thay đổi | `CON-026` |
+| Relentless honesty | Trung thực không khoan nhượng | Điều kiện để tích lũy 1% hoạt động: phải đo đúng mình đang ở đâu | `CON-026` |
+| Knowledge–Behaviour Gap | Khoảng cách biết – làm | KNOWLEDGE → ACCEPTANCE → INTENTION → BEHAVIOR | `FW-064` |
+| Time Matrix Q1–Q4 | Ma trận thời gian Q1–Q4 | Necessity · Effectiveness · Distraction · Waste | `FW-061` |
+| Eisenhower Matrix | Ma trận Eisenhower | Do First · Schedule · Delegate · Eliminate | `FW-061` |
+| GTD two-minute rule | Quy tắc hai phút | Việc dưới 2 phút thì làm ngay, vì chi phí ghi nhớ lớn hơn chi phí làm | `FW-062` |
+| Assisted / Automation / Augmented / Autonomous | Bốn chế độ Người + AI | Mức tự chủ của AI tăng dần, điểm kiểm soát của người lùi dần | `FW-065` |
+| Other info (nondigital) | Thông tin phi số hóa | Thứ chỉ đi vào quyết định qua con người vì nó không có trong dữ liệu | `FW-065-01` |
+
+## LEGO® Serious Play® và bản sắc team (Topic 07)
+
+| Thuật ngữ | Tiếng Việt | Nghĩa ngắn | Chunk |
+|---|---|---|---|
+| LEGO® Serious Play® (LSP®) | — | Phương pháp xây mô hình rồi kể chuyện thay cho phát biểu trực tiếp | `FW-066` |
+| 4 NO GO's | Bốn điều không làm | Không đánh giá · không nhận định · không diễn giải · không đi quá mô hình | `FW-066-01` |
+| Real Time Identity (RTI) | Bản sắc thời gian thực | Quy trình đưa một nhóm cá nhân thành Real Team | `FW-067` |
+| Real Team | Team thật | Hiện thực hóa toàn bộ tiềm năng của team, nhanh và hiệu quả | `FW-067` |
+| Core Identity (CI) | Bản sắc cốt lõi | Phẩm chất, giá trị, điểm mạnh định hình cách bạn đóng góp tự nhiên | `FW-068` |
+| External Identity (EI) | Bản sắc bên ngoài | Cách người khác nhìn và trải nghiệm bạn trong team | `FW-068` |
+| Possible Identity (PI) | Bản sắc tiềm năng | Giá trị bạn có thể mang lại nhưng chưa thể hiện đầy đủ | `FW-068` |
+| Johari Window | Cửa sổ Johari | Open · External Perspective · Possible you · Unknown | `FW-069` |
+| Self-disclosure / Feedback | Tự bộc lộ / Phản hồi | Hai cơ chế duy nhất làm ô Open mở rộng | `FW-069` |
+| Team Life | Đời sống team | Các đặc tính vận hành thật của team, tích cực lẫn tiêu cực | `FW-070` |
+| Team Landscape | Bản đồ kết nối team | Quan hệ theo bốn cặp: strong/weak · direct/indirect · supportive/difficult · frequent/limited | `FW-071` |

@@ -138,6 +138,85 @@ Bản PDF không có slide hoạt động nhóm như các topic khác. Thay vào
 =====
 
 ---
+id: TOP-MEGROW-03
+type: topic
+title_vi: Tư duy kiểm toán và thiên kiến
+title_en: Audit Mindset & Biases
+aliases: [Topic 3 megrow, audit mindset, biases]
+keywords: [thiên kiến, bias, kiểm phán đoán, quá tự tin, expert bias, the leak, audit the algorithm, bias audit card, System 1, System 2]
+levels: [SELF]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-004, PRB-006]
+related_ids: [FW-055, FW-055-01, FW-056, FW-057, FW-058, CON-021, CON-022, CON-023, CON-024, TOP-MEGROW-04]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 1–30"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 3: Audit Mindset & Biases
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P1 `LEAD_SELF`** (taxonomy người dùng duyệt). Level: **SELF**. Giảng viên: Dr Thu Nguyen (Senior Program Manager và Lecturer in Entrepreneurship, RMIT University Vietnam). 30 slide, buổi sáng.
+
+## Tóm tắt topic
+Buổi học đặt một luận điểm duy nhất: **bạn được thăng chức vì phán đoán của bạn tốt hơn phần lớn mọi người — và chính vì vậy bạn cần kiểm nó.** Mạch đi từ trải nghiệm bị bắt quả tang thiên kiến, qua một quy trình tự kiểm năm bước mượn từ nghề kiểm toán, tới chỗ thiên kiến rò rỉ ra thành câu nói trước mặt nhân viên.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Bốn kết quả đầu ra và agenda** (slide 3): bắt được thiên kiến của chính mình · sở hữu một quy trình năm bước · nghe cách thiên kiến rò vào lời nói · điều chỉnh một thông điệp cho hai đối tượng rất khác nhau.
+2. **Activity 1A — Estimation warm-up** (slide 4–7): khoảng tin cậy 90% cho hai câu hỏi về Zalo, rồi cú siết "chỉ giữ tay giơ nếu bạn dám cược 500.000₫" → `CON-024`.
+3. **Activity 1B — Alex** (slide 8–9): cùng một kỹ sư, hai bản mô tả khác nhau đúng một dòng, hai mức điểm sẵn sàng → `CON-024`.
+4. **Bản đồ thiên kiến của bàn** (slide 10) — bốn cột, điền ngay hai dòng vừa trải nghiệm.
+5. **Mini-input Kahneman** (slide 11–13): hai hệ thống, câu đố bat-and-ball và tam đoạn luận hoa hồng → `CON-021`.
+6. **Expert bias** (slide 14) — *"THE ONE THAT MATTERS HERE"*, kèm ba câu "IT SOUNDS LIKE" → `CON-022`.
+7. **Từ vấn đề sang giải pháp** (slide 15–17): ba trụ kỷ luật của kiểm toán viên, quay vào trong thành Audit Mindset, rồi quy trình năm bước → `FW-055`.
+8. **Activity 2 — Audit the Algorithm** (slide 18–20): khuyến nghị do AI soạn về Priya, bốn lỗi, và câu hỏi về cái giá không phát ra tín hiệu → `FW-057`.
+9. **Nghỉ giải lao 15 phút** (slide 21).
+10. **Activity 3 — The Leak** (slide 22–25): sáu câu quản lý hay nói, ba vòng bàn–bàn–cặp → `FW-056`; debrief về phán đoán là đầu vào → `CON-023`.
+11. **Mini-input cuối** (slide 26): chiến thuật gây ảnh hưởng theo đối tượng và ba thành tố niềm tin → `FW-058`.
+12. **Bias Audit Card và lời kết** (slide 27–28) → `FW-055-01`.
+13. **Danh mục nguồn** (slide 29) và lời cảm ơn (slide 30).
+
+## Các chunk thuộc topic (ID)
+`CON-021` · `CON-022` · `CON-023` · `CON-024` · `FW-055` · `FW-055-01` · `FW-056` · `FW-057` · `FW-058`
+
+## Bài tập và hoạt động trong lớp
+- **Activity 1A (slide 4–7):** viết khoảng LOW–HIGH với độ tin cậy 90% cho hai câu hỏi về chính Zalo. Đáp án: **1097** người cách đây đúng năm năm, **18.82%** kỹ sư gia nhập trong hai năm gần nhất. Cú siết: *"Keep your hand up only if you'd bet 500,000₫ on your range."*
+- **Activity 1B (slide 8–9):** đọc một mình 2 phút bản tóm tắt mức sẵn sàng thăng chức của **Alex**, kỹ sư trung cấp team payments platform; chấm 1–10, *"Trust your first read. Don't revise it."* Hai nửa phòng nhận hai bản khác nhau đúng một dòng: *"top graduate of an elite CS programme"* so với *"hired after failing the first interview round"*.
+- **Bản đồ thiên kiến (slide 10):** flip chart bốn cột — điều vừa trải nghiệm · tên gọi · lối tắt System 1 phía sau · chỗ nó gây thiệt hại trong công việc.
+- **Activity 2 — Audit the Algorithm (slide 18):** 4 phút chấm riêng · 13 phút chạy quy trình năm bước ở bàn · 4 phút chấm lại, dán điểm trước/sau lên flip chart.
+- **Activity 3 — The Leak (slide 22):** 8 phút bàn (nhận diện thiên kiến, đánh dấu hai câu nghe nhiều nhất) · 5 phút bàn (viết lại) · 7 phút cặp (một câu mình đã thực sự nói tháng trước). Luật: *"Nothing leaves your pair unless you choose to share it."*
+- **Activity 4 — The Influence Lab** (ghi trong agenda slide 3, đánh dấu *optional*): `[CẦN XÁC NHẬN]` không có slide nội dung nào cho hoạt động này — xem `open_questions.md` (OQ-015).
+- **Bias Audit Card (slide 27):** bốn mục, 10 phút cá nhân.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Bias is built-in, not character."* (slide 12)
+- *"Auditors can't remove bias either. So, they built a discipline."* → *"Turned inward, it becomes a leadership tool: THE AUDIT MINDSET"* (slide 16)
+- *"An unaudited judgment delivered with great conversation technique is still an unfair conversation."* (slide 20)
+- *"Bias doesn't stay private. Your listener never hears the judgment – only the sentence."* (slide 25)
+- *"As a technical expert, your judgment was the product. As a manager, your judgment is an input – what you say is the product."* (slide 25)
+- *"The bias to beat: 'what convinces me will convince them.'"* (slide 26)
+- *"You were promoted because your judgment was better than most people's. This morning asked you to audit it – before it becomes a decision about someone else, and before it becomes a sentence you can't take back."* (slide 28)
+- *"You've audited the judgment. This afternoon, you practise the conversation."* (slide 28)
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-04` diễn ra **ngay chiều cùng ngày** và được slide 28 nối thẳng vào: Topic 03 kiểm phán đoán, Topic 04 thực hành cuộc trò chuyện bằng AMO và SAIL.
+- `TOP-MEGROW-05` dùng lại mô hình Kahneman (slide 38–53) nhưng theo hướng tri giác và năng suất; hai nguồn được gộp trong `CON-021`.
+- `TOP-MEGROW-14` dạy `FW-020` Thang Suy luận — cùng chủ đề phán đoán nhưng ở cấp **hai người bất đồng**, trong khi Topic 03 ở cấp **một người tự kiểm**.
+- `TOP-MEGROW-08` — `CON-010` phép thử camera là luật ngôn ngữ mà `FW-056` cụ thể hóa thành sáu ca.
+- `[SUY LUẬN]` `FW-057` đặc biệt đáng chú ý với một quản lý Data Science: bốn lỗi của phán đoán có AI hỗ trợ áp dụng trực tiếp cho mọi dashboard đo đóng góp.
+
+## Nguồn
+`[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 1–30]`
+
+Trang bìa deck ghi **"Topic 2: Audit Mindset & Biases"** trong khi tên file ghi Topic 3 — kho dùng số theo tên file, xem `open_questions.md` (OQ-002).
+
+=====
+
+---
 id: TOP-MEGROW-04
 type: topic
 title_vi: Thực hành hội thoại về hiệu suất với khung AMO
@@ -208,6 +287,82 @@ Buổi học đổi định nghĩa quản trị hiệu suất: từ **đánh gi�
 =====
 
 ---
+id: TOP-MEGROW-05
+type: topic
+title_vi: Tối ưu năng suất cá nhân
+title_en: Optimise Personal Productivity
+aliases: [Topic 5 megrow, personal productivity, hyper-performance]
+keywords: [năng suất, quá tải, kiệt sức, burnout, hyper performance, ưu tiên, ma trận Eisenhower, GTD, AI và năng suất, khoảng cách biết làm]
+levels: [SELF]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-004, PRB-003]
+related_ids: [FW-059, FW-060, FW-061, FW-062, FW-063, FW-064, FW-065, FW-065-01, CON-025, CON-026, CON-021, TOP-MEGROW-06]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 1–78"]
+source_type: course
+confidence: medium
+status: needs_review
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 5: Optimise Personal Productivity
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P1 `LEAD_SELF`** (taxonomy người dùng duyệt). Level: **SELF**. Giảng viên: AP Agnis Stibe. 78 slide — deck dài nhất của khóa, nhưng **65/78 trang là ảnh hoặc video chỉ kèm một tới hai chữ**.
+
+## Tóm tắt topic
+Buổi học đi từ mười thách thức năng suất rất cụ thể của người quản lý, qua một mảng dài về **hyper-performance so với burnout** và khả năng tự thay đổi, sang phần não bộ và AI, rồi kết bằng ba công cụ ưu tiên kinh điển. Luận điểm xuyên suốt: năng suất là chuyện **tác động, không phải hoạt động**, và khoảng cách thật nằm giữa *biết* và *làm*.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Mười thách thức năng suất** (slide 2–3) — bảng ba cột Challenge · Typical manager situation · Productivity problem → `FW-059`.
+2. **Ví dụ 9:00 sáng thứ Hai** (slide 4) và bộ phân loại bốn quyết định kèm bốn câu hỏi (slide 5) → `FW-060`.
+3. **Mảng burnout** (slide 6–21): WRONG SHORTCUTS · WHAT IS BURNOUT · LOST BALANCE · BURNOUT MASK · hình âm dương HYPER PERFORMANCE ↔ BURNOUT với **MY THOUGHTS** ở tâm · PERFORMANCE CHALLENGES · REPLACING THOUGHTS → `CON-025`.
+4. **Mảng tự thay đổi** (slide 22–28): ảnh cá nhân giảng viên · I CAN / I CAN'T CHANGE · HYPER DAY · **1.01³⁶⁵ = 37.78 / 0.99³⁶⁵ = 0.03** · NEUROPLASTICITY · RELENTLESS HONESTY → `CON-026`.
+5. **Đường cong hiệu suất theo thời gian** (slide 29–31): ba đường, trong đó đường **KNOWLEDGE + BEHAVIOR** đi lên đều và không có đỉnh → `CON-025`.
+6. **Guiding Arrows** (slide 32–33): năm hướng tỏa ra từ cùng một điểm → `FW-063`.
+7. **Mảng não bộ** (slide 34–53): 1 : 10 000 lối mòn · HUMAN BRAIN · DECISIVE/INTELLIGENT/RESISTIVE/INSTINCTIVE · bìa sách Kahneman · BRAIN GYM với chuỗi bài tập ảo giác thị giác · CONGRATULATIONS → `CON-021`.
+8. **Mảng AI** (slide 54–63): ma trận Human+AI bốn chế độ · EVOLVING INTELLIGENCE · mô hình quyết định của Colson · HIGH ACCURACY DECISION MAKING → `FW-065`, `FW-065-01`.
+9. **Sustainable hyper-performance** (slide 64–69): KNOWLEDGE / BEHAVIOR · sơ đồ KNOWLEDGE → ACCEPTANCE → INTENTION → BEHAVIOR với cà rốt và cây gậy · tóm tắt bài báo → `FW-064`.
+10. **Ba công cụ ưu tiên** (slide 70–72): FranklinCovey Time Matrix · Eisenhower Matrix → `FW-061`; GTD → `FW-062`.
+11. **Key takeaways và Core message** (slide 73–75).
+12. **Đóng** (slide 76–78): video thành phố, kênh YouTube của giảng viên, bìa kết.
+
+## Các chunk thuộc topic (ID)
+`FW-059` · `FW-060` · `FW-061` · `FW-062` · `FW-063` · `FW-064` · `FW-065` · `FW-065-01` · `CON-025` · `CON-026`
+
+## Bài tập và hoạt động trong lớp
+`[CẦN XÁC NHẬN]` Deck **không chứa một slide hướng dẫn hoạt động nhóm nào** — không có khung thời gian, không có hướng dẫn chia nhóm, không có câu hỏi debrief. Chỉ có một câu hỏi mở duy nhất ở slide 4: *"What do you do next?"*, và một chuỗi bài tập tri giác cá nhân ở mảng BRAIN GYM (slide 41–53): tìm điểm khác nhau giữa hai ảnh tháp Eiffel, hai ảnh dãy ô tô, ảo giác bóng đổ bàn cờ, ảo giác tháp nghiêng Pisa, khối Rubik và Megaminx. Nhiều slide chỉ ghi *SOURCE: YOUTUBE*, cho thấy buổi học dựa nhiều vào video và lời giảng trực tiếp — xem `open_questions.md` (OQ-014).
+
+## Câu nói / thông điệp chính của giảng viên
+**KEY TAKEAWAYS** (slide 73–74), nguyên văn:
+- *"Productivity is about impact, not activity. Focus limited attention and energy on work that creates the greatest value."*
+- *"Prioritization means deliberate trade-offs. Exceptional performance requires deciding what not to do, defer, delegate, or automate."*
+- *"Protect attention as a strategic resource. Reduce interruptions, task switching, and low-value information consumption."*
+- *"Manage cognitive load. Simplify decisions, externalise routine thinking, and create space for complex judgment and creativity."*
+- *"Use Human Artificial Intelligence (HAI). Combine distinctly human strengths — judgment, purpose, creativity, empathy, and accountability, with AI's speed, analytical capacity, and scalability."*
+- *"Use AI to augment, not replace, judgment. Delegate appropriate cognitive work to AI while retaining human ownership of consequential decisions."*
+- *"Turn priorities into behaviors. Strategic intentions create results only when translated into specific, repeatable daily actions."*
+- *"Design the environment for execution. Good systems, routines, prompts, and defaults reduce dependence on motivation and willpower."*
+- *"Close the Knowledge Behavior Gap. Knowing what matters is insufficient; productivity comes from consistently doing what matters."*
+- *"Optimize for sustainable hyper-performance. The goal is not maximum short-term output, but sustained high-value performance without unnecessary cognitive overload or long-term harm."*
+
+**CORE MESSAGE** (slide 75): *"Do less of what consumes attention. Do more of what creates value. Use AI to expand capability while keeping human judgment in control."*
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-06` cùng giảng viên AP Agnis Stibe và cùng phong cách deck ảnh. `FW-065` (bốn chế độ Human+AI) là bản chi tiết của `FW-010` HAI dạy ở Topic 06.
+- `TOP-MEGROW-03` dùng cùng mô hình Kahneman; hai nguồn được gộp trong `CON-021`.
+- `TOP-MEGROW-02` — `CON-006` tải nhận thức và `FW-042` nhịp review là đối sách cấp team cho các dòng 2, 3, 9 của `FW-059`.
+- `[SUY LUẬN]` `FW-064` Knowledge–Behaviour Gap là framework có sức ứng dụng rộng nhất của topic này: nó giải thích vì sao mọi khóa học — kể cả chính khóa me.grow — có thể kết thúc mà không đổi được gì.
+
+## Nguồn
+`[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 1–78]`
+
+`status: needs_review` và `confidence: medium` vì 65/78 slide là ảnh hoặc video gần như không có chữ; mạch lập luận nối chúng lại phần lớn là `[SUY LUẬN]` dựa trên hình ảnh, nhãn và thứ tự slide — xem `open_questions.md` (OQ-013, OQ-014).
+
+=====
+
+---
 id: TOP-MEGROW-06
 type: topic
 title_vi: Giao việc và trách nhiệm trong team tốc độ cao
@@ -272,6 +427,81 @@ Buổi học có hai nửa khác hẳn nhau. **Nửa đầu và cuối** (slide 
 
 ## Nguồn
 `[MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 1–69]`
+
+=====
+
+---
+id: TOP-MEGROW-07
+type: topic
+title_vi: Xây dựng năng lực và sự phát triển của team
+title_en: Building Team Capability & Growth
+aliases: [Topic 7 megrow, LEGO Serious Play, LSP, team capability]
+keywords: [LEGO Serious Play, bản sắc trong team, Johari, team life, bản đồ kết nối, enablers barriers, phản hồi đồng nghiệp, workshop team]
+levels: [TEAM]
+courses: [MEGROW]
+topics: []
+problems_addressed: [PRB-007, PRB-003]
+related_ids: [FW-066, FW-066-01, FW-067, FW-067-01, FW-068, FW-068-01, FW-069, FW-070, FW-071, TOP-MEGROW-08]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 1–43"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# me.grow (2026) — Topic 7: Building Team Capability & Growth
+
+## Khóa học, pillar/module, level
+Khóa `MEGROW`. Pillar **P2 `LEAD_PEOPLE_AND_TEAMS`** (taxonomy người dùng duyệt). Level: **TEAM**. Giảng viên: Dr Thao Luong (Senior Program Manager, Lecturer HRM, facilitator được đào tạo về LEGO® Serious Play®). 43 slide.
+
+## Tóm tắt topic
+Một buổi workshop chạy hoàn toàn bằng phương pháp **LEGO® Serious Play®**: thay vì phát biểu, mỗi người xây mô hình rồi kể câu chuyện của mô hình đó. Bốn hoạt động đi theo thứ tự mở rộng dần — **tôi trong team** → **đồng nghiệp trải nghiệm tôi thế nào** → **đời sống của team** → **team được kết nối ra sao** — và đóng bằng bài tập về nhà cho chính mình.
+
+## Mạch nội dung theo trình tự giảng dạy
+1. **Giới thiệu buổi học** (slide 2): *"Strong teams start with understanding ourselves and grow through understanding how we connect."* Bốn kết quả đầu ra: khám phá điểm mạnh, giá trị, phong cách làm việc và đóng góp riêng · trân trọng điều người khác mang lại · nhận ra vai trò, quan hệ và ảnh hưởng định hình cách làm việc · phản tư về Real-Time Identity.
+2. **Playbook của buổi** (slide 5): hiện diện trọn vẹn · tôn trọng ý kiến người khác · cất điện thoại · *"Please don't hurt anyone"* · dùng những suy nghĩ đang cháy để đặt câu hỏi · thư giãn và vui · *"Through discipline comes freedom" – Aristotle*.
+3. **Nguồn gốc và nền lý thuyết LSP®** (slide 6–9) → `FW-066`.
+4. **Ground Rules và 4 NO GO's** (slide 10–11) → `FW-066-01`.
+5. **Kỹ năng ẩn dụ và "tin vào đôi tay"** (slide 12–13) → `FW-066`.
+6. **Real Time Identity cho team** (slide 15–17): định nghĩa Real Team, năm chuyển dịch từ → tới → `FW-067`.
+7. **Cửa sổ Johari** (slide 18) làm cầu nối vào phần 1 → `FW-069`.
+8. **Phần 1 — Your Identity on the Team** (slide 19–28): ba lớp CI/EI/PI → `FW-068`; Activity 1 xây CI và PI; Activity 2 xây về một đồng nghiệp rồi trao lại → `FW-068-01`.
+9. **Phần 2 — Team Life** (slide 29–33): Activity 3 xây hai khía cạnh đời sống team; bảng enablers và barriers → `FW-070`.
+10. **Phần 3 — The Team Landscape** (slide 34–37): Activity 4 xây các kết nối và tính chất của chúng → `FW-071`.
+11. **Phần 4 — RTI for YOU** (slide 38–42): bài tập về nhà, thảo luận đóng, Action Items → `FW-067-01`.
+12. **Lời cảm ơn** (slide 43).
+
+## Các chunk thuộc topic (ID)
+`FW-066` · `FW-066-01` · `FW-067` · `FW-067-01` · `FW-068` · `FW-068-01` · `FW-069` · `FW-070` · `FW-071`
+
+## Bài tập và hoạt động trong lớp
+Cả bốn hoạt động đều theo cùng nhịp: **xây một mình 10 phút → chụp ảnh mô hình tải lên Padlet → chia sẻ với nhóm, 2 phút mỗi người.**
+
+- **Activity 1 — CI và PI (slide 21, 23):** dùng một tấm đế; trên **2/3** xây Core Identity (*"who are you in this team and what could you bring to the team?"*), trên **1/3** còn lại xây Possible Identity. Phạm vi: *"your professional identity: your competencies, experience, personality"*.
+- **Activity 2 — EI (slide 25, 28):** facilitator chỉ định một người tham gia khác, **chưa tiết lộ tên**. Trên **¾ đế** xây hai đặc điểm nổi bật trong cách người đó làm việc; trên **¼ đế** xây **một khuyến nghị** giúp họ tăng hợp tác liên bộ phận. Kể chuyện để cả bàn đoán đó là ai, rồi **trao mô hình cho chính người đó**.
+- **Activity 3 — Team Life (slide 30, 32):** xây hai khía cạnh đặc trưng nhất cho thực hành của team, *"These can be positive or negative"*. Đặt tất cả mô hình vào **giữa bàn** — *"so their positions also tell a story"*.
+- **Activity 4 — The Team Landscape (slide 36):** xây tối đa hai kết nối với động lực hợp tác gần gũi nhất, và tối đa hai kết nối quan trọng với hai người hoặc hai chức năng khác. Thể hiện tính chất: **strong/weak · direct/indirect · supportive/difficult · frequent/limited**.
+- **Bài tập về nhà (slide 42):** viết ra **3–4 lĩnh vực** muốn làm việc với khi quay lại công việc.
+
+## Câu nói / thông điệp chính của giảng viên
+- *"Strong teams start with understanding ourselves and grow through understanding how we connect."* (slide 2)
+- *"Build as you want – there is no right and wrong!"* và *"Only you decide the meaning of your model!"* (slide 10)
+- *"Even when you can not plan it, you can build it."* · *"Trust your hands, let them choose the bricks they want."* · *"Do not get stuck in the design."* (slide 13)
+- *"LSP® RTI for the Team is not about what the team does, but rather on how the team does it… It is about strategy for the team!"* (slide 16)
+- *"Focus on observable behaviors, not assumptions or personal judgments."* (slide 26)
+- *"The purpose is to support reflection and stronger cross-functional leadership, not criticism."* (slide 26)
+- *"It is now time to leave the world of play and move back to work."* (slide 42)
+
+## Liên hệ với các topic khác (cùng khóa và khác khóa)
+- `TOP-MEGROW-08` cùng giảng viên Dr Thao Luong và dùng chung Playbook ở slide 5. `CON-010` phép thử camera của Topic 08 là cùng một nguyên tắc với ràng buộc *"observable behaviors, not assumptions"* ở slide 26.
+- `TOP-MEGROW-09` — `FW-032` Connector Manager: hiểu người và kết nối có chủ đích; `FW-068` và `FW-071` là công cụ cụ thể để làm hai việc đó.
+- `TOP-MEGROW-02` — `FW-041` Team Delivery System thiết kế cách team **giao hàng**; `FW-067` thiết kế cách team **tồn tại cùng nhau**.
+- `[SUY LUẬN]` Với team Data Science có cả nhân sự chính thức và cộng tác viên, `FW-071` là hoạt động có giá trị chẩn đoán cao nhất: nó làm hiện ra những kết nối **critical + limited** mà sơ đồ tổ chức không cho thấy.
+- `[SUY LUẬN]` Rủi ro lớn nhất khi tự chạy lại buổi này trong team là bỏ `FW-066-01`; không có bộ luật, Activity 2 và 3 dễ trượt thành phê bình cá nhân.
+
+## Nguồn
+`[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 1–43]`
 
 =====
 

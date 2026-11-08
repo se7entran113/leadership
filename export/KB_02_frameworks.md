@@ -4605,3 +4605,1711 @@ Chạy `FW-053` trước để có bằng chứng, rồi dùng `FW-054` để qu
 
 ## Nguồn
 - `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 31–33]`
+
+=====
+
+---
+id: FW-055-01
+type: exercise
+title_vi: Bias Audit Card — thẻ cam kết cuối buổi
+title_en: The Bias Audit Card
+aliases: [bias audit card, thẻ kiểm thiên kiến, audit trigger, leaked line]
+keywords: [cam kết sau khóa học, áp dụng vào tuần tới, một thiên kiến của tôi, câu tôi sẽ ngừng nói, điểm kích hoạt tự kiểm, bài tập cuối buổi]
+levels: [SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-004, PRB-006]
+related_ids: [FW-055, FW-056, CON-022, CON-023]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 27–28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Bias Audit Card (Bias Audit Card — thẻ cam kết cuối buổi)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Bias Audit Card** là thẻ bốn mục mà mỗi người học Topic 03 điền trong 10 phút cuối buổi (slide 27), biến cả buổi học thành bốn cam kết cụ thể. Dùng khi muốn chuyển `FW-055` và `FW-056` từ kiến thức sang thói quen, hoặc khi cần một mẫu tự rà soát định kỳ.
+
+## Mục đích
+Chốt lại bốn thứ cụ thể thay vì một ấn tượng chung về buổi học: một thiên kiến, một điểm kích hoạt, một câu nói, và một ràng buộc cho hoạt động ngay sau đó.
+
+## Khi nào dùng
+Cuối một khóa học hoặc một buổi phản tư; đầu quý khi chuẩn bị vào mùa đánh giá; trước một chuỗi cuộc trò chuyện về hiệu suất.
+
+## Khi nào KHÔNG dùng
+Không dùng làm công cụ cho người khác điền hộ hay để quản lý chấm nhân viên — thẻ này tự viết cho chính mình.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Bốn mục của slide 27:
+
+| # | Mục | Hướng dẫn trên slide |
+|---|---|---|
+| 1 | **My expert bias** | *"from our table's bias map, the one that costs me most"* — lấy từ bản đồ thiên kiến của bàn, chọn cái gây thiệt hại nhiều nhất cho tôi |
+| 2 | **My audit trigger** | *"where I'll run the 5-step routine"* — chỗ tôi sẽ chạy quy trình năm bước |
+| 3 | **My leaked line** | *"the sentence I'll stop saying – and what I'll say instead"* — câu tôi sẽ ngừng nói, và câu tôi sẽ nói thay |
+| 4 | **Into this afternoon** | *"the bias to keep out of my next performance conversation"* — thiên kiến cần giữ ra ngoài cuộc trao đổi hiệu suất kế tiếp |
+
+Diễn giải bảng: bốn mục đi theo một chuỗi có chủ đích. Mục 1 là **chẩn đoán** (tôi mắc gì), mục 2 là **điều kiện kích hoạt** (khi nào tôi sẽ nhận ra để chạy quy trình), mục 3 là **hành vi ngôn ngữ** (thứ người khác thực sự tiếp nhận), mục 4 là **ràng buộc có thời hạn gần nhất**. Mục 2 là mục dễ viết hời hợt nhất và cũng là mục quyết định: một thiên kiến đã gọi tên mà không gắn với một điểm kích hoạt cụ thể sẽ không bao giờ được kiểm, vì theo `CON-021` System 1 không tự thông báo khi nó đang cầm lái.
+
+Mục 4 có bối cảnh riêng: Topic 03 là buổi sáng, buổi chiều cùng ngày là Topic 04 về hội thoại hiệu suất với khung AMO. `[KHÓA HỌC]` Slide 28 nối hai buổi bằng một câu: *"You've audited the judgment. This afternoon, you practise the conversation."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Cho mục 2, viết dạng "khi…, tôi sẽ…": *"Khi tôi thấy mình nói 'rõ ràng là…' về một người, tôi sẽ dừng và chạy năm bước."*
+- Cho mục 3, viết đủ cả hai vế — bỏ một câu mà không có câu thay thế thì câu cũ sẽ quay lại dưới áp lực.
+
+## Ví dụ
+`[BỔ SUNG]` Thẻ của một Associate Data Science Manager:
+1. **Thiên kiến:** expert bias — tôi ước lượng công sức của người khác bằng tốc độ của chính tôi ba năm trước.
+2. **Điểm kích hoạt:** mỗi lần tôi định viết "việc này đáng ra phải xong rồi" trong bất kỳ kênh nào.
+3. **Câu sẽ bỏ:** *"Để anh làm cho nhanh."* → **Câu thay thế:** *"Em chạy thử hướng của em, 30 phút nữa mình xem cùng — anh chỉ hai chỗ rủi ro nhất."*
+4. **Cho buổi review sắp tới:** giữ thiên kiến "visible ≠ valuable" ra ngoài — không dùng số lượng PR làm bằng chứng đóng góp của bạn đang làm sạch nhãn.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Thẻ này chỉ có giá trị nếu được xem lại. Một thẻ viết xong rồi cất đi tạo cảm giác đã xử lý vấn đề mà không thay đổi gì — chính là dạng tự tin không có cơ sở mà `CON-024` mô tả.
+
+## Phân biệt với framework gần giống
+`FW-055` là quy trình chạy tại thời điểm ra quyết định; `FW-055-01` là thẻ cam kết chạy một lần và được xem lại định kỳ. Một bên là thao tác, một bên là thiết lập.
+
+## Cách kết hợp với framework khác
+Mục 1 lấy từ `CON-022`; mục 3 lấy từ bảng của `FW-056`; mục 2 dẫn vào `FW-055`; mục 4 nối sang `FW-023` AMO và `FW-024` SAIL của Topic 04.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 27–28]`
+
+=====
+
+---
+id: FW-055
+type: framework
+title_vi: Tư duy Kiểm toán và quy trình Tự kiểm thiên kiến 5 bước
+title_en: The Audit Mindset and the 5-Step Bias Self-Audit
+aliases: [audit mindset, 5-step bias self-audit, tự kiểm thiên kiến, bias self-audit, PAUSE EVIDENCE OPPOSITE OUTSIDE VIEW DECIDE]
+keywords: [thiên kiến, bias, kiểm tra phán đoán, trước khi quyết định về người, tôi có đang vội không, chủ quan, quyết định dưới áp lực, phản biện chính mình, nhật ký quyết định, decision log]
+levels: [SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-004, PRB-006]
+related_ids: [CON-021, CON-022, CON-023, FW-055-01, FW-057, FW-020]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 15–17"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Audit Mindset and the 5-Step Bias Self-Audit (Tư duy Kiểm toán và quy trình Tự kiểm thiên kiến 5 bước)
+
+## Tóm tắt
+`[KHÓA HỌC]` The Audit Mindset (tư duy kiểm toán) là kỷ luật của nghề kiểm toán quay ngược vào chính phán đoán của mình, cụ thể hóa thành **The 5-Step Bias Self-Audit** — một quy trình năm bước chạy trước khi chốt một nhận định quan trọng. Dùng khi bạn sắp ra một kết luận về một con người, một ưu tiên hoặc một khuyến nghị mà bạn thấy "quá rõ ràng để phải nghĩ thêm".
+
+## Mục đích
+`[KHÓA HỌC]` Slide 16 đặt vấn đề bằng một quan sát từ nghề kiểm toán: **"Auditors can't remove bias either. So, they built a discipline."** — kiểm toán viên cũng không gỡ bỏ được thiên kiến của chính họ, nên họ dựng một kỷ luật nghề nghiệp. Ba trụ của kỷ luật đó là:
+
+| Trụ | Nghĩa |
+|---|---|
+| **Questioning mind** | Tâm thế chất vấn — mặc định đặt câu hỏi thay vì mặc định tin |
+| **Suspension of judgment** | Treo phán xét — chưa chốt kết luận cho tới khi đã tìm bằng chứng |
+| **Search for evidence** | Đi tìm bằng chứng — chủ động, không chờ bằng chứng tự đến |
+
+Diễn giải bảng: ba trụ này được thiết kế cho việc soi sổ sách của *người khác*. `[KHÓA HỌC]` Slide 16: **"Turned inward, it becomes a leadership tool: THE AUDIT MINDSET"** — quay vào trong, chính nó trở thành công cụ lãnh đạo.
+
+## Khi nào dùng
+Trước một quyết định về con người (đánh giá, thăng chức, giao hay rút việc); khi bạn đang chịu áp lực thời gian mà vẫn phải chốt; khi một khuyến nghị — của người hay của AI — nghe rất thuyết phục; trước một cuộc trao đổi về hiệu suất.
+
+## Khi nào KHÔNG dùng
+Với quyết định nhỏ, có thể đảo ngược, chi phí sai thấp — chạy năm bước cho mọi việc sẽ tạo tê liệt phân tích. `[KHÓA HỌC]` Slide 12 đã nói rõ System 1 **"brilliant under routine"** — giỏi ở việc thường ngày; chỉ triệu tập System 2 khi đáng.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 17 — năm bước:
+
+| # | Bước | Câu hỏi của bước |
+|---|---|---|
+| 1 | **PAUSE** | *"Is this System 1 talking? What's my time pressure?"* — Đây có phải System 1 đang nói không? Áp lực thời gian của tôi đang là gì? |
+| 2 | **EVIDENCE** | *"What supports my view? What would change my mind? Am I answering the question actually asked?"* — Điều gì ủng hộ quan điểm của tôi? Điều gì sẽ làm tôi đổi ý? Tôi có đang trả lời đúng câu hỏi được hỏi không? |
+| 3 | **OPPOSITE** | *"Argue the other side for 60 seconds."* — Biện hộ cho phía ngược lại trong 60 giây. |
+| 4 | **OUTSIDE VIEW** | *"What would a neutral colleague say?"* — Một đồng nghiệp trung lập sẽ nói gì? |
+| 5 | **DECIDE & LOG** | *"Make the call; note your weak assumption."* — Ra quyết định; ghi lại giả định yếu nhất của mình. |
+
+Diễn giải bảng: bốn bước đầu **mở** phán đoán ra, bước thứ năm **đóng** lại. Bước 5 là điểm then chốt của quy trình: nó không yêu cầu bạn chắc chắn, mà yêu cầu bạn **ghi ra chỗ mình chưa chắc**. Nhờ vậy quyết định vẫn được ra đúng hạn, nhưng giả định yếu được lưu lại để kiểm chứng sau, thay vì biến mất ngay khi quyết định được công bố.
+
+Bước 2 có một vế dễ bị bỏ qua: *"Am I answering the question actually asked?"* — rất nhiều phán đoán sai không phải vì lập luận sai, mà vì trả lời một câu hỏi khác với câu hỏi thực sự được đặt ra.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Tự hỏi ở bước PAUSE: "Nếu tôi có thêm hai ngày, tôi có kết luận y như vậy không?"
+- Mở bước OPPOSITE trong cuộc họp: "Trước khi chốt, cho tôi 60 giây cãi lại chính mình."
+- `[BỔ SUNG]` Câu mời OUTSIDE VIEW từ người thật: "Mình đang nghiêng về phương án A. Bạn không ở trong việc này — bạn thấy mình đang bỏ qua gì?"
+
+## Ví dụ
+`[KHÓA HỌC]` Activity 2 "Audit the Algorithm" (slide 18) là bài tập chạy đúng năm bước này lên một khuyến nghị do AI soạn — xem `FW-057` để biết bốn lỗi mà vòng audit đó phát hiện ra. Trình tự lớp học: chấm điểm riêng 4 phút → chạy quy trình 5 bước ở bàn 13 phút → chấm lại 4 phút, rồi dán điểm trước/sau lên flip chart.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: trước khi kết luận "model của bạn Senior không cải thiện được nữa", chạy PAUSE (tôi đang gấp vì review quý), EVIDENCE (số liệu nào? trên tập nào?), OPPOSITE (60 giây lập luận rằng trần hiệu năng nằm ở chất lượng nhãn chứ không ở mô hình), OUTSIDE VIEW (một DS ngoài team sẽ hỏi gì), DECIDE & LOG (chốt, và ghi "giả định yếu: tôi coi tập đánh giá hiện tại là đại diện").
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 12 nhấn một câu định khung cả buổi: **"Bias is built-in, not character."** — thiên kiến là thứ được cài sẵn trong cách não vận hành, không phải khuyết điểm nhân cách. Chạy quy trình này không phải để chứng minh mình tốt, mà để bù cho một cơ chế ai cũng có — xem `CON-021`.
+
+`[KHÓA HỌC]` Sai lầm lớn nhất slide 20 chỉ ra: **"An unaudited judgment delivered with great conversation technique is still an unfair conversation."** — một phán đoán chưa được kiểm, dù được truyền đạt bằng kỹ thuật hội thoại xuất sắc, vẫn là một cuộc trò chuyện không công bằng. Kỹ năng nói chuyện không thay thế được việc kiểm phán đoán.
+
+## Phân biệt với framework gần giống
+- `FW-020` The Ladder of Inference tìm hiểu vì sao **hai người** ra hai kết luận khác nhau; `FW-055` quay vào **một người** — chính bạn — trước khi kết luận được nói ra. Dùng FW-055 trước, FW-020 khi đã có bất đồng.
+- `FW-023` AMO chẩn đoán vì sao một người làm việc kém; `FW-055` kiểm xem bản thân chẩn đoán đó có đáng tin không.
+
+## Cách kết hợp với framework khác
+Chạy `FW-055` để kiểm phán đoán → `FW-056` để kiểm câu nói sắp phát ra → rồi mới vào `FW-024` SAIL hoặc `FW-025` cho cuộc trò chuyện thật. Kết quả cả buổi được chốt bằng `FW-055-01` Bias Audit Card.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 15–17]`
+- Slide 15 `[HÌNH]`: sơ đồ "Bridging the Gap: The Audit Mindset" — Audit Mindset là khoảng dừng có chủ đích giữa kích thích và phản ứng tự động, chuyển từ phản ứng với triệu chứng sang chẩn đoán nguyên nhân gốc.
+- Nền lý thuyết: Kahneman, D. (2011) *Thinking, Fast and Slow* (slide 29 danh mục nguồn).
+
+=====
+
+---
+id: FW-056
+type: framework
+title_vi: The Leak — sáu câu quản lý hay nói và cách viết lại
+title_en: The Leak - Six Manager Lines and How to Rewrite Them
+aliases: [the leak, sáu câu quản lý, rewrite that keeps the standard, bias leaks into language]
+keywords: [câu nói của sếp, nhân viên nghe gì, góp ý mà không làm tổn thương, để tôi làm cho nhanh, để tôi review trước, viết lại câu nói, giữ tiêu chuẩn mà không dán nhãn, ngôn ngữ quản lý]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-006, PRB-005]
+related_ids: [CON-023, CON-022, CON-010, FW-025, FW-055]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 22–25"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Leak - Six Manager Lines and How to Rewrite Them (The Leak — sáu câu quản lý hay nói và cách viết lại)
+
+## Tóm tắt
+`[KHÓA HỌC]` **The Leak** (đường rò) là bài tập và công cụ của Topic 03 cho sáu câu mà quản lý hay nói, chỉ ra thiên kiến nằm dưới mỗi câu, điều nhân viên **thực sự nghe thấy**, và một cách viết lại **giữ nguyên tiêu chuẩn**. Dùng khi bạn muốn giữ yêu cầu cao mà không để phán đoán chưa kiểm rò ra thành lời.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 22 nêu tiền đề: *"Bias doesn't stay in your head. It leaks into what you say, what you leave unsaid, and who you ask."* — thiên kiến rò rỉ vào ba chỗ: điều bạn nói, điều bạn **không** nói, và **người bạn chọn để hỏi**. Công cụ này xử lý chỗ thứ nhất, nơi thiệt hại xảy ra nhanh nhất.
+
+## Khi nào dùng
+Trước một buổi 1:1 hoặc review; khi soạn một tin nhắn góp ý; khi bạn nhận ra mình vừa nói một câu quen thuộc mà không nghĩ; khi muốn rà lại từ vựng mặc định của chính mình.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề không nằm ở cách diễn đạt mà ở nội dung phán đoán — lúc đó phải quay về `FW-055` kiểm phán đoán trước, vì viết lại cho hay một kết luận sai chỉ làm nó khó phản biện hơn.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 23 đưa ra câu hỏi *"Which of these do you hear here?"* với sáu câu, slide 24 là bảng phân tích đầy đủ:
+
+| # | Câu nói | Thiên kiến bên dưới | Người nghe nghe thấy gì | Cách viết lại vẫn giữ tiêu chuẩn |
+|---|---|---|---|---|
+| 1 | *"Just send it to me, I'll fix it quickly."* | Expert bias (trôi dạt tiêu chuẩn chất lượng) | "Việc của tôi không đủ tốt và tôi sẽ không khá lên" | *"Walk me through your approach – I'll flag the two riskiest parts and you fix them"* |
+| 2 | *"I already know what the problem is – we just need to execute."* | Confirmation bias (nhảy sang *how* trước khi làm rõ *what* và *why*) | "Đừng mang bằng chứng tới. Đừng nói tôi đang giải sai bài toán" | *"Here's my hypothesis. What would prove me wrong?"* |
+| 3 | *"Let me review it before it goes out."* (lần nào cũng vậy) | Kiểm soát *cách làm* thay vì quản trị *đầu ra* | "Tôi không được tin, và sẽ không bao giờ được tin" | *"Here's what 'done well' means for this. I'll review exceptions, not everything."* |
+| 4 | *"She goes quiet in meetings – she's probably not confident."* | Fundamental attribution error (đọc người từ một tín hiệu duy nhất) | (Cô ấy không bao giờ nghe được câu này — và đó chính là vấn đề) | *"I've noticed you're quiet in design reviews; what makes it easier or harder to jump in?"* |
+| 5 | *"Business never understands technical constraints."* | Out-group stereotyping / curse of knowledge | "Sếp này đã kết luận sẵn rằng chúng tôi là vật cản" | *"What does Business measure? Which of our constraints changes their number?"* |
+| 6 | *"It's faster if I do it myself."* | Self-serving attribution / thiên kiến tầm nhìn ngắn | "Sự phát triển của tôi không nằm trong kế hoạch" | *"It's faster this once. What does it cost me by Q4, and who should own this by then?"* |
+
+Diễn giải bảng: mọi bản viết lại đều **không hạ tiêu chuẩn**. Câu 1 vẫn chỉ ra hai phần rủi ro nhất; câu 3 vẫn có review, chỉ chuyển từ review mọi thứ sang review ngoại lệ; câu 6 vẫn cho phép tự làm lần này. Thứ được bỏ đi không phải yêu cầu, mà là **phần phán đoán về con người** được gắn kèm. Đáng chú ý là dòng 4: ô "người nghe nghe thấy gì" bỏ trống có chủ đích, vì câu đó thường được nói **về** nhân viên chứ không nói **với** họ — và giảng viên coi chính sự vắng mặt đó là thiệt hại.
+
+Trình tự chạy bài tập (slide 22): **8 phút theo bàn** — đọc sáu câu, xác định thiên kiến, đánh dấu hai câu nghe nhiều nhất ở đây; **5 phút theo bàn** — viết lại hai câu đó, *"same standard, same honesty, without the bias"*; **7 phút theo cặp** — mỗi người đọc to **một câu mình thực sự đã nói tháng trước**, bạn cặp đề xuất một bản viết lại. Luật bảo vệ: *"Nothing leaves your pair unless you choose to share it."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Phép thử nhanh trước khi gửi: "Câu này mô tả **việc**, hay dán nhãn lên **người**?"
+- "Nếu người được nói tới đọc được câu này nguyên văn, họ sẽ làm gì tiếp theo?"
+- Khung viết lại rút ra từ bảng: nêu tiêu chuẩn cụ thể → hỏi một câu mở → nói rõ phần nào bạn sẽ xem.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, câu 3 là câu hay gặp nhất với notebook và PR: *"Để anh xem lại trước khi merge"* lặp lại mãi sẽ dạy team rằng không ai được tin. Bản viết lại: *"Với pipeline production, 'xong tốt' nghĩa là có test trên dữ liệu lệch phân phối và một dòng ghi rõ giả định. Anh review mấy ca ngoại lệ, phần còn lại em merge."*
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 25 chốt lại vì sao bài tập này cần thiết: *"Your listener never hears the judgment – only the sentence."* Sai lầm thường gặp là học thuộc sáu bản viết lại như công thức. Bảng này là ví dụ về **một phép biến đổi**, không phải sáu câu thần chú — nói một câu viết lại hay trong khi vẫn giữ nguyên phán đoán bên trong sẽ bị nhận ra rất nhanh.
+
+## Phân biệt với framework gần giống
+- `CON-010` Phép thử camera cho **luật** chung: câu mở đầu phải mô tả hành vi quan sát được. `FW-056` cho **sáu ca cụ thể** đã được giải sẵn, kèm chẩn đoán thiên kiến ở từng ca.
+- `FW-025` NOTICE–CONVERSE–COACH–HOLD ACCOUNTABLE là quy trình cả cuộc trò chuyện; `FW-056` chỉ xử lý câu chữ sẽ dùng trong đó.
+
+## Cách kết hợp với framework khác
+`FW-055` kiểm phán đoán → `FW-056` kiểm câu nói → `CON-010` kiểm câu mở đầu → `FW-025` hoặc `FW-024` dẫn cuộc trò chuyện. Câu bạn cam kết bỏ được ghi vào mục 3 của `FW-055-01`.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 22–25]`
+
+=====
+
+---
+id: FW-057
+type: framework
+title_vi: Audit the Algorithm — bốn lỗi của phán đoán có AI hỗ trợ
+title_en: Audit the Algorithm - Four Flaws in AI-Assisted Judgment
+aliases: [audit the algorithm, four flaws, automation bias, bốn lỗi AI, kiểm khuyến nghị của AI]
+keywords: [AI đánh giá nhân viên, tin vào AI, automation bias, dữ liệu thiếu, nghỉ thai sản không có trong dữ liệu, chỉ số hoạt động không phải hiệu suất, một nguồn nhắc lại nhiều lần, AI tự tin nhưng sai, review do AI soạn]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-006, PRB-003]
+related_ids: [FW-055, CON-021, CON-024, FW-010, FW-065]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 18–20"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Audit the Algorithm - Four Flaws in AI-Assisted Judgment (Audit the Algorithm — bốn lỗi của phán đoán có AI hỗ trợ)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Audit the Algorithm** là tình huống và bộ bốn lỗi của Topic 03, dùng để kiểm một khuyến nghị về con người do AI soạn trước khi hành động theo nó. Dùng khi bất kỳ hệ thống nào — AI, dashboard, báo cáo tự động — đưa cho bạn một kết luận về hiệu suất của một người.
+
+## Mục đích
+Chỉ ra rằng một khuyến nghị có thể **đúng về mặt dữ liệu mà vẫn sai về mặt sự thật**, và rằng độ trôi chảy cùng nhãn độ tin cậy của hệ thống lại chính là thứ khiến bạn ngừng kiểm.
+
+## Khi nào dùng
+Khi AI hoặc một hệ thống đo lường đề xuất rút việc, đổi người, xếp hạng hay đánh giá ai đó; khi bạn chuẩn bị dùng số liệu hoạt động làm bằng chứng hiệu suất trong một cuộc họp.
+
+## Khi nào KHÔNG dùng
+Với khuyến nghị của AI về việc không liên quan tới con người và dễ đảo ngược (gợi ý refactor, bản nháp tài liệu) — chi phí kiểm vượt chi phí sai.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Tình huống (slide 18): **Priya, Product Engineer.** *"Your AI assistant drafted her review – and recommends moving the critical Q4 module off her, to a senior engineer or to you, to protect the deadline."* Nhãn kèm theo: **Confidence: HIGH**.
+
+Trình tự chạy: **4 phút một mình** — đọc và tự chấm *"how likely are you to move this work off Priya?"*; **13 phút theo bàn** — chạy quy trình năm bước của `FW-055` lên khuyến nghị đó, *"Audit it like an auditor audits accounts"*, ghi điểm trung bình của bàn trước khi thảo luận; **4 phút** — chấm lại và dán điểm trước/sau lên flip chart.
+
+`[KHÓA HỌC]` Bốn lỗi mà vòng audit phát hiện (slide 19, **"Four flaws"**):
+
+| Lỗi | Nội dung | Tên thiên kiến |
+|---|---|---|
+| **Visible ≠ valuable** | Số tin nhắn Slack và thứ hạng ticket được dùng thay cho hiệu suất | recency · availability |
+| **One voice, echoed** | Một người review, phát biểu một lần — được phát lại thành "một khuôn mẫu đã được xác lập rõ" | single-source confirmation |
+| **The invisible leave** | Khoảng tháng 1–4 "không đóng góp gì" thực ra là **nghỉ thai sản**. Không có trong dữ liệu của AI | data artifact |
+| **Fluent ≠ right** | Nhãn *"Confidence: HIGH"* và văn phong dứt khoát chiêu mộ lòng tin của System 1 | automation bias |
+
+Diễn giải bảng: bốn lỗi rơi vào bốn tầng khác nhau và phải kiểm riêng. Lỗi 1 là **chọn sai thước đo** — đo cái đo được thay vì cái quan trọng. Lỗi 2 là **sai về trọng số** — một ý kiến được nhắc lại nhiều lần nghe như nhiều ý kiến. Lỗi 3 là **lỗ hổng dữ liệu**: hệ thống không biết thứ nó không được cho biết, và sự vắng mặt bị đọc thành sự kém cỏi. Lỗi 4 là **lỗi ở phía bạn**, không ở phía AI — độ trôi chảy của đầu ra không mang thông tin gì về độ đúng của nó.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Số này đo *hoạt động* hay đo *kết quả*?"
+- "Kết luận này dựa trên bao nhiêu nguồn độc lập, hay một nguồn được nhắc lại?"
+- "Khoảng thời gian trống này trong dữ liệu là gì? Hệ thống có cách nào biết không?"
+- "Nếu bỏ nhãn độ tin cậy đi, lập luận còn lại thuyết phục tới đâu?"
+
+## Ví dụ
+`[KHÓA HỌC]` Câu hỏi đóng của slide 20 — **"THE QUESTION UNDERNEATH"**: *"Suppose you reassign. Priya keeps her job. The deadline is protected. Nobody complains. What did it cost – and when does that cost appear?"* — giả sử bạn chuyển việc đi; Priya vẫn giữ được công việc, deadline được bảo vệ, không ai phàn nàn. **Vậy cái giá là gì, và nó xuất hiện khi nào?**
+
+Sức nặng của câu hỏi nằm ở chỗ: quyết định sai này **không tạo ra tín hiệu lỗi nào**. Không có sự cố, không có khiếu nại. Chi phí xuất hiện muộn — ở vòng thăng chức sau, ở quyết định nghỉ việc của Priya, ở điều những người còn lại học được về việc nghỉ thai sản có ý nghĩa gì trong team này.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: dashboard đóng góp tính theo số commit và số PR review sẽ hệ thống hóa đúng lỗi 1 với một Data Scientist dành ba tuần làm sạch nhãn — công việc có giá trị cao nhưng gần như không tạo artifact nào đếm được. Collaborator làm labeling còn dễ bị lỗi này hơn nữa.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 20 chốt: *"An unaudited judgment delivered with great conversation technique is still an unfair conversation."* Sai lầm lớn nhất là coi việc có AI trong vòng lặp như một lớp khách quan bổ sung. Bốn lỗi này cho thấy điều ngược lại: AI **giữ nguyên** thiên kiến của dữ liệu đầu vào, rồi trình bày chúng với độ tự tin mà một con người sẽ không dám dùng.
+
+## Phân biệt với framework gần giống
+- `FW-010` HAI trả lời *việc nào nên giao cho AI*; `FW-057` trả lời *làm gì với đầu ra của AI khi việc đó liên quan tới một con người*. `FW-010` đã ghi sẵn ranh giới: quyết định có hệ quả về con người thì quyền sở hữu phải ở người.
+- `FW-065` mô tả bốn chế độ hợp tác người–AI ở mức thiết kế hệ thống; `FW-057` là thao tác kiểm cụ thể ở một ca.
+- `FW-023` AMO là khung chẩn đoán thay thế: sau khi bác bỏ khuyến nghị của AI, AMO cho bạn đường đi tiếp.
+
+## Cách kết hợp với framework khác
+Nhận khuyến nghị → chạy `FW-055` năm bước, dùng bốn lỗi của `FW-057` làm danh mục kiểm ở bước EVIDENCE → nếu vấn đề hiệu suất là thật, chuyển sang `FW-023` AMO và `FW-024` SAIL.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 18–20]`
+
+=====
+
+---
+id: FW-058
+type: framework
+title_vi: Chiến thuật gây ảnh hưởng theo đối tượng và ba thành tố của niềm tin
+title_en: Audience-Fit Influence Tactics and the Three Components of Trust
+aliases: [Yukl Tracey, influence tactics, ABI trust model, Mayer Davis Schoorman, rational persuasion, ba thành tố niềm tin]
+keywords: [thuyết phục, gây ảnh hưởng, nói với sếp khác nói với đồng cấp, upward downward lateral, xây dựng niềm tin, vì sao họ không nghe tôi, uy tín, credibility, ability benevolence integrity]
+levels: [ORG, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-002, PRB-008]
+related_ids: [FW-015, FW-014, FW-021, CON-008]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 26"]
+source_type: course
+confidence: medium
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Audience-Fit Influence Tactics and the Three Components of Trust (Chiến thuật gây ảnh hưởng theo đối tượng và ba thành tố của niềm tin)
+
+## Tóm tắt
+`[KHÓA HỌC]` Mini-input cuối Topic 03 (slide 26) ghép hai kết quả nghiên cứu thành một thông điệp: chiến thuật gây ảnh hưởng phải **khớp với đối tượng và hướng của mối quan hệ**, còn niềm tin thì gồm **ba thành tố tách biệt** và luôn do người nghe trao chứ không do bạn tự có. Dùng khi chuẩn bị thuyết phục một ai đó và bạn đang định dùng chính lập luận đã thuyết phục được bản thân mình.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 26 đặt câu kết: **"The bias to beat: 'what convinces me will convince them.'"** — thiên kiến cần hạ là giả định rằng thứ thuyết phục được tôi sẽ thuyết phục được họ. Đây là lý do mảng này nằm trong một buổi học về thiên kiến chứ không nằm ở một buổi về kỹ năng trình bày.
+
+## Khi nào dùng
+Trước khi xin nguồn lực, trình một đề xuất, hoặc nhờ một team khác đổi ưu tiên; khi cùng một lập luận đã hiệu quả với người này lại thất bại với người kia.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề không nằm ở cách thuyết phục mà ở việc bạn chưa hiểu mục tiêu của họ — lúc đó dùng `FW-021` hỏi trước, trình bày sau.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Vế 1 — chiến thuật khớp đối tượng và hướng** (Yukl & Tracey, 1992):
+
+> *"Rational persuasion, consultation and inspirational appeals beat pressure. Upward ≠ downward ≠ lateral."*
+
+Thuyết phục bằng lý lẽ, tham vấn, và khơi gợi cảm hứng hiệu quả hơn gây áp lực. Và ba hướng của mối quan hệ — **lên trên** (với cấp trên), **xuống dưới** (với nhân viên), **ngang** (với đồng cấp) — không giống nhau: chiến thuật hiệu quả ở hướng này không tự động hiệu quả ở hướng khác.
+
+`[KHÓA HỌC]` **Vế 2 — ba thành tố của niềm tin** (Mayer, Davis & Schoorman, 1995):
+
+> *"Trust = Ability · Benevolence · Integrity"*
+> *"Credibility is granted by the audience, never assumed. Audit it per relationship."*
+
+| Thành tố | Câu hỏi người kia đang hỏi thầm |
+|---|---|
+| **Ability** (năng lực) | "Người này có đủ giỏi trong việc này không?" |
+| **Benevolence** (thiện ý) | "Người này có quan tâm tới lợi ích của tôi không?" |
+| **Integrity** (chính trực) | "Người này có nhất quán giữa lời nói và việc làm không?" |
+
+Diễn giải bảng: ba thành tố nhân với nhau chứ không cộng — thiếu hẳn một thành tố thì hai thành tố kia không bù được. Một người được đánh giá rất cao về Ability nhưng bị nghi về Benevolence sẽ không được tin ở những việc liên quan tới lợi ích của người đối diện. Và câu *"credibility is granted by the audience"* có hệ quả thực hành: uy tín của bạn **không phải một con số duy nhất** mà khác nhau ở từng mối quan hệ, nên phải **kiểm theo từng quan hệ** (*"audit it per relationship"*).
+
+Các bước: (1) xác định hướng của quan hệ — lên, xuống hay ngang; (2) chọn chiến thuật theo hướng đó thay vì theo thói quen; (3) với từng người, chấm thầm ba thành tố niềm tin và tìm thành tố nào đang thấp; (4) xử lý thành tố thấp đó trước khi trình bày lập luận.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Người này đang thiếu tin tôi ở Ability, Benevolence hay Integrity? Ba trường hợp cần ba hành động khác nhau."
+- `[BỔ SUNG]` Khi thiếu Benevolence: "Em biết đề xuất này làm team anh phải gánh thêm. Em đã nghĩ cách nào giảm phần đó chưa — anh xem thử."
+- `[BỔ SUNG]` Khi thiếu Integrity: trả một lời hứa nhỏ đúng hạn trước khi xin một cam kết lớn.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: cùng một đề xuất đầu tư ba tháng cho hệ thống feature store. Với **cấp trên**, rational persuasion gắn với chỉ số khối. Với **đồng cấp** bên Engineering, consultation — hỏi họ thiết kế thế nào trước khi chốt. Với **team mình**, inspirational appeal về việc bỏ được công việc thủ công lặp lại. Cùng một nội dung, ba lối vào.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[CẦN XÁC NHẬN]` Slide 26 chỉ nêu kết luận của hai nghiên cứu ở mức một dòng mỗi vế, không có slide giải thích chi tiết từng chiến thuật hay từng thành tố. Phần diễn giải bảng Ability–Benevolence–Integrity là `[SUY LUẬN]` dựa trên tên gọi của ba thành tố — nếu cần dùng sâu, nên đối chiếu với nguồn gốc. Xem `open_questions.md` (OQ-012).
+
+Sai lầm thường gặp chính là thiên kiến mà slide nêu: chuẩn bị một lập luận duy nhất, tối ưu cho chính mình, rồi mang đi dùng cho mọi đối tượng.
+
+## Phân biệt với framework gần giống
+- `FW-015` Influence Without Authority (Cohen & Bradford) đi sâu vào **trao đổi giá trị** — tìm xem mình có gì họ cần; `FW-058` đứng một bậc trước đó, ở câu hỏi chọn **kiểu** chiến thuật và kiểm nền tảng niềm tin.
+- `FW-014` Sáu nguồn quyền lực trả lời *bạn có cơ sở gì để gây ảnh hưởng*; `FW-058` trả lời *dùng nó theo cách nào với ai*.
+- `CON-008` Đừng tranh cãi với mục tiêu của họ — một luật cụ thể nằm trong nhóm rational persuasion.
+
+## Cách kết hợp với framework khác
+Xác định bên liên quan bằng `FW-011`/`FW-012` → kiểm ba thành tố niềm tin theo từng người bằng `FW-058` → tìm trao đổi giá trị bằng `FW-015` → trình bày bằng `FW-018` SCQA và `FW-019`.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 26]`
+- Yukl, G. and Tracey, J.B., 1992. 'Consequences of influence tactics used with subordinates, peers, and the boss'. *Journal of Applied Psychology*, 77(4), p.525.
+- Mayer, R.C., Davis, J.H. and Schoorman, F.D., 1995. 'An integrative model of organizational trust'. *Academy of Management Review*, 20(3), pp.709–734.
+
+=====
+
+---
+id: FW-059
+type: framework
+title_vi: Mười thách thức năng suất của người quản lý
+title_en: Ten Manager Productivity Challenges
+aliases: [ten productivity challenges, mười thách thức năng suất, manager productivity problems]
+keywords: [quá tải, bận cả ngày không xong việc, mọi thứ đều gấp, họp quá nhiều, tin nhắn liên tục, mất tập trung, quyết định mệt mỏi, decision fatigue, nút thắt, AI tạo thêm việc, làm việc với sếp và với team cùng lúc]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004, PRB-003]
+related_ids: [CON-006, CON-025, FW-060, FW-061, FW-064, CON-002]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 2–3"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Ten Manager Productivity Challenges (Mười thách thức năng suất của người quản lý)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bảng mười thách thức mở đầu Topic 05 là một **công cụ chẩn đoán**: mỗi dòng ghép một tình huống quen thuộc với vấn đề năng suất thực sự nằm bên dưới nó. Dùng khi bạn thấy mình bận liên tục mà cuối tuần không chỉ ra được việc quan trọng nào đã tiến lên, và cần gọi tên nguyên nhân thay vì cố gắng nhiều hơn.
+
+## Mục đích
+Tách **triệu chứng** (lịch kín, tin nhắn dồn, mọi thứ đều gấp) khỏi **cơ chế** gây ra nó. Mười dòng cho mười cơ chế khác nhau, và mỗi cơ chế cần một đối sách khác nhau — nên bước đầu tiên là xác định mình đang mắc dòng nào.
+
+## Khi nào dùng
+Đầu quý khi thiết kế lại cách làm việc; khi cảm giác quá tải kéo dài quá vài tuần; khi chuẩn bị nói chuyện với cấp trên về khối lượng công việc và cần ngôn ngữ chính xác hơn "em bận quá".
+
+## Khi nào KHÔNG dùng
+Khi quá tải đến từ một đợt cao điểm có thời hạn rõ ràng và sẽ tự hết — lúc đó vấn đề là chịu đựng có kế hoạch, không phải thiết kế lại hệ thống.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 2–3, nguyên văn ba cột **Challenge · Typical manager situation · Productivity problem**:
+
+| # | Thách thức | Tình huống điển hình | Vấn đề năng suất thực sự |
+|---|---|---|---|
+| 1 | **Everything feels urgent** | Sự cố sản phẩm, yêu cầu từ cấp cao, đối tác leo thang, và vấn đề của team cùng ập đến một lúc | Khó phân biệt **việc gấp** với **việc có tác động cao** |
+| 2 | **Meeting overload** | Lịch kín stand-up, họp liên bộ phận, review và trao đổi phát sinh | Gần như không còn khoảng thời gian liền mạch để nghĩ và ra quyết định quan trọng |
+| 3 | **Constant Zalo messages** | Thành viên team và bên liên quan kỳ vọng được trả lời nhanh suốt ngày | Phân mảnh sự chú ý và chuyển ngữ cảnh liên tục |
+| 4 | **Managing upward and downward** | Cấp trên muốn kết quả nhanh trong khi team cần hướng dẫn và quyết định | Người quản lý trở thành **nút thắt thực thi** |
+| 5 | **Too many decisions** | Hàng chục phê duyệt nhỏ, lựa chọn ưu tiên và ngoại lệ đến tay quản lý mỗi ngày | Mệt mỏi vì quyết định và quá tải nhận thức |
+| 6 | **AI creates more work, not less** | Quản lý dùng AI cho báo cáo, tóm tắt, phân tích, nội dung, ý tưởng — nhưng liên tục phải kiểm và sửa đầu ra | AI làm **tăng khối lượng thông tin** mà không nhất thiết tăng giá trị |
+| 7 | **Knowing what to do but not doing it** | Quản lý biết rõ ưu tiên chiến lược nhưng dành phần lớn ngày để phản ứng với yêu cầu trước mắt | Đúng là **Knowledge–Behaviour Gap** kinh điển |
+| 8 | **Delegation vs. "I can do it faster myself"** | Dưới áp lực deadline, quản lý lấy lại việc đã giao cho nhân viên | Hiệu quả ngắn hạn tạo ra phụ thuộc và quá tải dài hạn |
+| 9 | **Cross-functional dependencies** | Một lần ra mắt cần product, engineering, marketing, data, legal và commercial | Quản lý tiêu quá nhiều năng lượng nhận thức chỉ để điều phối phụ thuộc |
+| 10 | **Performance vs. wellbeing** | Kỳ vọng tăng trưởng cao khuyến khích làm nhiều giờ và luôn sẵn sàng | Sản lượng ngắn hạn có thể phá hỏng hiệu suất cao bền vững |
+
+Diễn giải bảng: mười dòng rơi vào bốn nhóm cơ chế. Dòng **1, 5** là lỗi **phân loại và ra quyết định** → đối sách ở `FW-061` và `FW-060`. Dòng **2, 3, 9** là lỗi **phân mảnh chú ý** → đối sách là bảo vệ khối thời gian liền mạch. Dòng **4, 8** là lỗi **phân bổ quyền sở hữu** → đối sách ở `CON-004` và `FW-001`. Dòng **6, 7, 10** là lỗi **hệ thống**: AI, khoảng cách biết–làm, và tính bền vững → đối sách lần lượt ở `FW-065`, `FW-064`, `CON-025`.
+
+Cách dùng: đọc mười dòng, chọn **hai dòng đúng với mình nhất trong tháng vừa rồi**, rồi đi thẳng tới đối sách của nhóm tương ứng thay vì cố sửa cả mười.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Tuần vừa rồi, bao nhiêu phần trăm thời gian của tôi là dòng 1, và bao nhiêu là dòng 2?"
+- `[BỔ SUNG]` Với cấp trên: "Em đang là nút thắt ở ba loại quyết định này. Em đề xuất chuyển hai loại xuống cho Senior — anh thấy loại nào giữ lại thì hợp lý?"
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 4 dựng một tình huống cụ thể hóa cả bảng: *"It is 9:00 AM on Monday. You have planned two hours to prepare a strategically important proposal. By 9:20, you have 34 unread Zalo messages, your director asks for numbers by noon, a key employee needs an urgent decision, another team requests approval, and AI has generated a 15-page analysis you need to review. What do you do next?"* — trong 20 phút, sáu dòng của bảng cùng xảy ra một lúc. Lời giải ở slide 5 là `FW-060`.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: dòng 6 có dạng riêng — AI sinh code và phân tích nhanh hơn tốc độ team kiểm chứng được, nên nút thắt dịch từ khâu *viết* sang khâu *review*, mà khâu review lại chỉ có quản lý và Senior làm được.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Bảng này dễ bị đọc như danh sách phàn nàn và dừng lại ở đó. Giá trị của nó nằm ở cột thứ ba — nếu không dịch được tình huống của mình sang cột thứ ba, mọi giải pháp sau đó sẽ nhắm sai chỗ.
+
+## Phân biệt với framework gần giống
+- `CON-006` Tải nhận thức mô tả **cơ chế chung**; `FW-059` liệt kê **mười ca cụ thể** có tình huống và hệ quả riêng.
+- `CON-002` Ba cái bẫy của quản lý mới trùng với dòng 8 của bảng này, nhưng nhìn từ góc chuyển vai chứ không từ góc năng suất.
+
+## Cách kết hợp với framework khác
+Chẩn đoán bằng `FW-059` → phân loại việc đang đến bằng `FW-060` và `FW-061` → chuyển ý định thành hành vi bằng `FW-064` → giữ bền vững bằng `CON-025`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 2–4]`
+
+=====
+
+---
+id: FW-060
+type: framework
+title_vi: Bộ phân loại bốn quyết định và bốn câu hỏi phân bổ
+title_en: The Four-Decision Triage and the Four Allocation Questions
+aliases: [four decisions, do now schedule delegate eliminate, triage, bốn quyết định, phân bổ việc cho AI]
+keywords: [xử lý việc dồn, quá nhiều việc cùng lúc, nên làm gì trước, từ chối việc, việc nào giao cho AI, việc nào cần tôi, lọc việc buổi sáng, inbox dồn]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004, PRB-005]
+related_ids: [FW-059, FW-061, FW-062, FW-010, FW-065, CON-004]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 4–5"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Four-Decision Triage and the Four Allocation Questions (Bộ phân loại bốn quyết định và bốn câu hỏi phân bổ)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bộ phân loại hai tầng của Topic 05: tầng một gán mỗi việc đang đến vào **một trong bốn quyết định**, tầng hai hỏi **bốn câu hỏi phân bổ** để xác định loại trí tuệ nào nên xử lý việc đó. Dùng ngay tại thời điểm một đống việc cùng ập đến và bạn phải chọn trong vài phút.
+
+## Mục đích
+Biến một đống yêu cầu không phân loại thành bốn nhóm hành động rõ ràng, và đặt câu hỏi "việc này có cần **tôi** không" trước câu hỏi "tôi làm việc này khi nào".
+
+## Khi nào dùng
+Đầu ngày khi mở máy và thấy việc dồn; sau một cuộc họp sinh ra năm việc mới; khi quay lại sau kỳ nghỉ.
+
+## Khi nào KHÔNG dùng
+Với công việc sâu đã được lên lịch và đang chạy — dừng lại để phân loại giữa chừng chính là dạng chuyển ngữ cảnh mà dòng 3 của `FW-059` cảnh báo.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 5, tầng một — **"Make four decisions"**:
+
+| Quyết định | Nghĩa |
+|---|---|
+| **Do now** | Làm ngay |
+| **Schedule** | Đưa vào lịch cho một thời điểm cụ thể |
+| **Delegate or AI-augment** | Giao cho người khác, hoặc để AI hỗ trợ |
+| **Eliminate or decline** | Bỏ hẳn, hoặc từ chối |
+
+`[KHÓA HỌC]` Tầng hai — **"Then ask"**, bốn câu hỏi:
+
+> *"Which of these tasks requires me?"*
+> *"Which requires another human?"*
+> *"Which can be handled by AI?"*
+> *"Which should not be done at all?"*
+
+Diễn giải: thứ tự hai tầng là điểm đáng chú ý nhất. Tầng một phân loại theo **thời điểm và người thực hiện**; tầng hai quay lại chất vấn chính các phân loại đó bằng câu hỏi về **loại trí tuệ cần thiết**. Một việc được xếp "Do now" ở tầng một có thể trượt xuống "AI có xử lý được" ở tầng hai — và khi đó phân loại ban đầu sai, không phải vì ước lượng sai độ gấp mà vì chưa hỏi liệu việc đó có cần một con người.
+
+Câu hỏi thứ tư — *"Which should not be done at all?"* — là câu bị bỏ qua nhiều nhất và cũng là câu tạo ra nhiều thời gian nhất. Nó tương ứng ô **Eliminate or decline**, và là ô duy nhất trong bốn ô thực sự **giảm tổng khối lượng** thay vì chuyển nó sang chỗ khác.
+
+Cách chạy: liệt kê mọi việc đang chờ → gán bốn quyết định → chạy bốn câu hỏi lên nhóm "Do now" và "Schedule" để xem có việc nào tụt xuống hai nhóm dưới không → thực hiện.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Nếu tôi không làm việc này, trong hai tuần nữa ai sẽ nhận ra?"
+- `[BỔ SUNG]` Câu từ chối giữ được quan hệ: "Việc này mình làm được, nhưng sẽ đẩy [X] lùi một tuần. Anh muốn ưu tiên cái nào?"
+- `[BỔ SUNG]` Câu giao kèm ranh giới: "Em chạy phần phân tích, có gì chốt lại với anh thứ Năm. Em tự quyết phần chọn biểu đồ."
+
+## Ví dụ
+`[KHÓA HỌC]` Tình huống 9:00 sáng thứ Hai ở slide 4 (xem `FW-059`) được giải bằng đúng bộ này: 34 tin nhắn chưa đọc, giám đốc cần số liệu trước trưa, một nhân viên chủ chốt cần một quyết định gấp, một team khác xin phê duyệt, và AI vừa sinh ra bản phân tích 15 trang cần review.
+
+`[BỔ SUNG]` Áp bộ phân loại lên chính tình huống đó, bối cảnh team Data Science: số liệu cho giám đốc → *Delegate or AI-augment* (truy vấn có sẵn, Senior chạy được); quyết định cho nhân viên chủ chốt → *Do now* và **requires me** (quyền quyết định thuộc về quản lý); phê duyệt của team khác → *Schedule* hoặc chuyển thành quy tắc để lần sau không cần mình; 15 trang AI sinh ra → *Eliminate* phần lớn, chỉ đọc mục kết luận nếu bản phân tích đó không phục vụ một quyết định nào đang chờ; 34 tin nhắn → một khối xử lý duy nhất sau khi xong proposal.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm phổ biến là dùng ô **Delegate** như một chỗ đổ việc mà không kèm bốn thứ của `CON-004` (kết quả mong đợi, quyền sở hữu, quyền quyết định, tiêu chí thành công) — khi đó việc sẽ quay lại, và dòng 8 của `FW-059` lặp lại.
+
+`[KHÓA HỌC]` Với nhánh **AI-augment**, ràng buộc của `FW-010` vẫn giữ nguyên: giao thêm cho AI không làm giảm trách nhiệm của người. Và với việc liên quan tới đánh giá con người, `FW-057` chỉ ra vì sao nhánh này phải bị loại.
+
+## Phân biệt với framework gần giống
+- `FW-061` Ma trận Khẩn cấp–Quan trọng phân loại theo **hai trục bản chất của việc**; `FW-060` phân loại theo **hành động sẽ làm với nó** và thêm tầng hỏi về loại trí tuệ. Dùng FW-060 khi cần quyết nhanh, FW-061 khi nhìn lại cả tuần.
+- `FW-062` GTD là cây quyết định chi tiết hơn cho **một** việc; `FW-060` quét nhanh cho **nhiều** việc cùng lúc.
+
+## Cách kết hợp với framework khác
+`FW-060` lọc nhanh → `FW-061` kiểm xem mình có đang sống trong Q1 không → việc vào nhánh Delegate thì giao bằng `CON-004` và `FW-001` → việc vào nhánh AI-augment thì phân vai bằng `FW-010` và `FW-065`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 4–5]`
+
+=====
+
+---
+id: FW-061
+type: framework
+title_vi: Ma trận Khẩn cấp – Quan trọng (Time Matrix và Eisenhower)
+title_en: The Urgent-Important Matrix (FranklinCovey Time Matrix and Eisenhower Matrix)
+aliases: [Eisenhower Matrix, FranklinCovey Time Matrix, Q2, urgent important matrix, ma trận Eisenhower, do first schedule delegate eliminate]
+keywords: [việc gấp và việc quan trọng, ưu tiên, sống trong khủng hoảng, không có thời gian cho việc quan trọng, Q2, lập kế hoạch, phân biệt gấp với quan trọng, chữa cháy suốt ngày]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004, PRB-001]
+related_ids: [FW-059, FW-060, FW-062, FW-063, CON-025]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 70–71"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Urgent-Important Matrix (Ma trận Khẩn cấp – Quan trọng)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 05 trình bày liên tiếp hai phiên bản của cùng một ma trận hai trục **Khẩn cấp × Quan trọng**: **The FranklinCovey Time Matrix** (slide 70) và **The Eisenhower Matrix** (slide 71). Dùng khi bạn kết thúc tuần với cảm giác đã chạy hết công suất nhưng không có việc quan trọng nào tiến lên.
+
+## Mục đích
+`[KHÓA HỌC]` Giải dòng 1 của `FW-059` — *"Difficulty distinguishing urgent work from high-impact work"*. Hai thuộc tính **khẩn cấp** và **quan trọng** độc lập với nhau, nhưng việc khẩn cấp tự phát ra tín hiệu còn việc quan trọng thì không, nên nếu không phân loại có chủ đích thì lịch sẽ tự lấp đầy bằng nhóm thứ nhất.
+
+## Khi nào dùng
+Nhìn lại cuối tuần hoặc cuối tháng để xem thời gian thực sự đã rơi vào ô nào; khi lập kế hoạch tuần; khi cần lý lẽ để từ chối một việc gấp nhưng không quan trọng.
+
+## Khi nào KHÔNG dùng
+Trong lúc đang có sự cố thật — khủng hoảng là Q1 chính đáng, phân loại lúc đó chỉ làm chậm. Ma trận dùng để **thiết kế tuần**, không dùng để tranh luận giữa đám cháy.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Phiên bản 1 — FranklinCovey Time Matrix** (slide 70):
+
+| | **URGENT** | **NOT URGENT** |
+|---|---|---|
+| **IMPORTANT** | **Q1 — NECESSITY**<br>Khủng hoảng · họp khẩn · deadline phút chót · vấn đề cấp bách · sự kiện không lường trước | **Q2 — EFFECTIVENESS**<br>Việc chủ động · mục tiêu quan trọng · tư duy sáng tạo · lập kế hoạch và phòng ngừa · xây dựng quan hệ · học tập và tái tạo · nghỉ ngơi |
+| **NOT IMPORTANT** | **Q3 — DISTRACTION**<br>Gián đoạn không cần thiết · báo cáo thừa · họp không liên quan · vấn đề vặt của người khác · email, việc, cuộc gọi, status không quan trọng | **Q4 — WASTE**<br>Việc vặt vãnh · hoạt động né tránh · thư giãn quá mức, TV, game, Internet · thứ làm tốn thời gian · buôn chuyện |
+
+`[KHÓA HỌC]` Chú giải của chính slide 70: *"The Time Matrix is a tool for triaging every activity through the Thinking brain, with a bias towards things that are important – but not urgent (The Q2 quadrant of extraordinary productivity). The more time we can spend in Q2, the less we'll be dealing with other people's urgencies."*
+
+Diễn giải: ma trận được thiết kế với **một thiên lệch có chủ đích về phía Q2**, và câu cuối nêu cơ chế vì sao — thời gian ở Q2 **làm giảm Q1 trong tương lai**. Lập kế hoạch, phòng ngừa và xây quan hệ chính là thứ ngăn khủng hoảng hình thành. Ngược lại, một người sống trong Q1 sẽ liên tục tạo ra Q1 mới vì không bao giờ có thời gian xử lý nguyên nhân. Đáng chú ý là Q2 có cả **recreation** (nghỉ ngơi, tái tạo) — nghỉ ngơi được xếp là quan trọng, không phải lãng phí.
+
+`[KHÓA HỌC]` **Phiên bản 2 — Eisenhower Matrix** (slide 71), cùng hai trục nhưng mỗi ô gắn thẳng một hành động:
+
+| | **Urgent** | **Not Urgent** |
+|---|---|---|
+| **Important** | **Do First** (làm trước) | **Schedule** (đưa vào lịch) |
+| **Not Important** | **Delegate** (giao đi) | **Eliminate** (loại bỏ) |
+
+Diễn giải: hai phiên bản bổ sung cho nhau. FranklinCovey mạnh ở **chẩn đoán** — bốn ô có tên gọi mang ý nghĩa (Necessity, Effectiveness, Distraction, Waste) và danh sách ví dụ cụ thể để tự soi. Eisenhower mạnh ở **hành động** — mỗi ô là một động từ. Lưu ý ô Q3/Delegate: việc gấp nhưng không quan trọng thường là việc **của người khác** đang đến tay bạn; giao đi không phải đùn đẩy mà là trả nó về đúng chỗ.
+
+Các bước: ghi lại thực tế một tuần → gán từng khối thời gian vào bốn ô → tính tỷ lệ → nếu Q1 và Q3 chiếm phần lớn, chọn **một** việc Q2 và đặt lịch cố định cho nó trước khi tuần sau bắt đầu.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Việc này gấp với **ai**?" — phần lớn Q3 lộ ra ngay ở câu hỏi này.
+- "Nếu tôi làm việc Q2 này tháng trước, có bao nhiêu việc Q1 tuần này đã không xảy ra?"
+- `[BỔ SUNG]` Giữ khối Q2: "Sáng thứ Ba 9–11h mình không nhận họp. Có việc gấp thì nhắn, mình xử lý sau 11h."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: Q1 là model production hỏng trước giờ chạy báo cáo. Q2 là viết tài liệu định nghĩa nhãn, dựng test phát hiện lệch phân phối, và các buổi 1:1 phát triển — toàn bộ nhóm việc ngăn Q1 xảy ra. Q3 là những yêu cầu trích số liệu đột xuất mà một dashboard tự phục vụ sẽ giải quyết được. Q4 là đọc hết bản phân tích 15 trang do AI sinh ra mà không ai đang chờ kết luận của nó.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Hai sai lầm hay gặp. Thứ nhất, gán nhãn "quan trọng" cho mọi thứ mình đang làm — ma trận chỉ có giá trị nếu có việc thực sự bị xếp vào Q3 và Q4. Thứ hai, coi Q2 là việc làm khi rảnh; theo đúng thiết kế của ma trận thì Q2 phải được **đặt lịch trước**, vì nó không bao giờ tự đòi chỗ.
+
+## Phân biệt với framework gần giống
+- `FW-060` phân loại theo hành động và loại trí tuệ, chạy trong vài phút; `FW-061` phân loại theo bản chất của việc, dùng để nhìn lại và thiết kế tuần.
+- `FW-062` GTD là cây quyết định cho một việc đơn lẻ đã nằm trong danh sách, không phân biệt gấp với quan trọng.
+- Ô **Delegate** của Eisenhower chỉ nói *nên giao*; cách giao cho đúng nằm ở `CON-004` và `FW-001`.
+
+## Cách kết hợp với framework khác
+Chẩn đoán tuần bằng `FW-061` → lọc việc đến hằng ngày bằng `FW-060` → xử lý từng việc bằng `FW-062` → bảo vệ khối Q2 bằng `FW-063` và giữ bền vững bằng `CON-025`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 70–71]`
+- Slide 70 ghi nguồn **The FranklinCovey Time Matrix®**; slide 71 là ảnh chụp bài *"What Is the Eisenhower Matrix? A Complete Guide to Prioritization"*.
+
+=====
+
+---
+id: FW-062
+type: framework
+title_vi: Phương pháp Getting Things Done (GTD)
+title_en: The Getting Things Done (GTD) Method
+aliases: [GTD, getting things done, quy tắc hai phút, two-minute rule, next actions list]
+keywords: [xử lý việc tồn, danh sách việc, quy tắc hai phút, việc này có làm được không, đưa vào lịch hay để sau, dọn inbox, next action, không nhớ nổi việc gì đang chờ]
+levels: [SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004, PRB-003]
+related_ids: [FW-060, FW-061, CON-006, FW-064]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 72"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Getting Things Done (GTD) Method (Phương pháp Getting Things Done)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Getting Things Done (GTD)** được Topic 05 trình bày ở slide 72 dưới dạng một **cây quyết định sáu câu hỏi** đưa mỗi việc đang chờ tới đúng một điểm đến. Dùng khi danh sách việc đã dài tới mức bản thân việc nhìn vào danh sách cũng tốn năng lượng.
+
+## Mục đích
+Giảm tải nhận thức bằng cách đảm bảo **không việc nào nằm lại trong đầu**: mỗi việc hoặc được làm, hoặc được giao, hoặc có chỗ cụ thể để nằm chờ. Mục tiêu không phải làm nhiều hơn mà là ngừng phải nhớ.
+
+## Khi nào dùng
+Khi dọn một danh sách tồn đọng; cuối ngày hoặc cuối tuần khi xử lý những thứ đã gom lại; sau một cuộc họp sinh ra nhiều đầu việc nhỏ.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là **chọn ưu tiên giữa các việc lớn** — GTD xử lý từng việc một cách độc lập và không so sánh tầm quan trọng giữa chúng. Lúc đó dùng `FW-061`.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 72, chuỗi sáu câu hỏi. Mỗi câu có nhánh **Yes** đi tiếp sang phải và nhánh **No** rơi xuống một điểm đến:
+
+| # | Câu hỏi | Nếu **No** → điểm đến |
+|---|---|---|
+| 1 | *Is the task actionable?* — Việc này có hành động được không? | **Trash it / Do it Someday** — bỏ đi, hoặc đưa vào danh sách "một ngày nào đó" |
+| 2 | *Just one thing to do?* — Chỉ có một việc cần làm thôi à? | **Create a project** — lập thành một dự án |
+| 3 | *Does it take more than 2 minutes?* — Có mất hơn 2 phút không? | **Do it now** — làm ngay |
+| 4 | *Do I have to do it?* — Có nhất thiết phải là tôi làm không? | **Delegate to someone else** — giao cho người khác |
+| 5 | *Is there a due date?* — Có hạn chót không? | **Move to Next actions list** — đưa vào danh sách hành động kế tiếp |
+| 6 | → **Yes** ở câu 5 | **Add to calendar** — đưa vào lịch |
+
+Diễn giải bảng: cấu trúc này đáng chú ý ở chỗ các nhánh **No** mới là nơi phần lớn việc thoát ra, chứ không phải nhánh Yes. Chỉ việc nào trả lời Yes cho cả năm câu mới đi tới lịch. Ba điểm then chốt:
+
+- **Câu 3 — quy tắc hai phút.** Nếu một việc mất dưới hai phút thì chi phí ghi chép, phân loại và nhớ lại nó lớn hơn chi phí làm luôn. Đây là câu làm sạch danh sách nhanh nhất.
+- **Câu 4 — *"Do I have to do it?"*** đặt câu hỏi về quyền sở hữu **trước** câu hỏi về lịch. Giống tầng hai của `FW-060`, nó chặn thói quen mặc định xếp lịch cho những việc lẽ ra nên được giao đi.
+- **Câu 2** tách "một việc" khỏi "một dự án". Một mục như "cải thiện quy trình review" không phải là một hành động — và để nguyên nó trong danh sách việc là lý do danh sách không bao giờ ngắn đi.
+
+Phân biệt hai điểm đến cuối: **Add to calendar** dành cho việc gắn với một thời điểm cụ thể; **Next actions list** dành cho việc cần làm nhưng không có hạn — danh sách này được xem khi có khoảng trống, không phải khi có báo nhắc.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Hành động kế tiếp cụ thể của mục này là gì?" — nếu không trả lời được bằng một động từ, đó là một dự án chứ không phải một việc.
+- "Việc này nhất thiết phải là tôi, hay chỉ là tôi quen làm?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, dọn danh sách sau một tuần:
+- *"Trả lời câu hỏi của Legal về cách lưu dữ liệu nhãn"* → hành động được, một việc, dưới 2 phút → **làm ngay**.
+- *"Chuẩn hóa quy trình review notebook"* → hành động được, nhưng **nhiều việc** → **lập thành dự án**, hành động kế tiếp là "viết bản nháp checklist 1 trang".
+- *"Chạy lại benchmark trên tập mới"* → hơn 2 phút, **không nhất thiết là tôi** → **giao cho Senior**, kèm bốn thứ của `CON-004`.
+- *"Chuẩn bị slide cho review quý"* → có hạn chót → **vào lịch**.
+- *"Đọc bài báo về calibration"* → hành động được, không hạn → **Next actions list**.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` GTD xử lý rất tốt câu hỏi *"làm gì với việc này"* nhưng hoàn toàn im lặng trước câu hỏi *"việc này có đáng làm không"*. Một danh sách GTD sạch sẽ vẫn có thể gồm toàn việc Q3 theo cách phân loại của `FW-061`. Vì vậy nó phải chạy **sau** một bước lọc ưu tiên, không thay thế bước đó.
+
+Sai lầm thường gặp thứ hai: dùng **Someday** làm chỗ chứa mọi thứ không muốn quyết định, khiến danh sách đó phình ra và không bao giờ được xem lại.
+
+## Phân biệt với framework gần giống
+- `FW-061` hỏi *việc này có quan trọng không*; `FW-062` hỏi *xử lý việc này thế nào*. Hai câu hỏi khác nhau, chạy nối tiếp.
+- `FW-060` quét nhanh nhiều việc cùng lúc dưới áp lực; `FW-062` đi sâu từng việc khi có thời gian ngồi dọn.
+
+## Cách kết hợp với framework khác
+Lọc ưu tiên bằng `FW-061` → xử lý từng việc bằng `FW-062` → với việc rơi vào nhánh **Delegate**, giao bằng `CON-004` và chọn mức hỗ trợ bằng `FW-001`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 72]`
+- Slide 72 `[HÌNH]`: sơ đồ "Getting Things Done (GTD) Method". Deck không ghi tác giả gốc David Allen — `[BỔ SUNG]` ghi chú này do Claude thêm.
+
+=====
+
+---
+id: FW-063
+type: framework
+title_vi: Guiding Arrows — năm hướng đi của cùng một ngày
+title_en: Guiding Arrows - Five Directions Out of the Same Day
+aliases: [guiding arrows, mũi tên dẫn đường, as usual as always later other time, hyper performance direction]
+keywords: [hướng đi, để mai tính, vẫn như mọi khi, làm như thường lệ, góc nhỏ tạo khác biệt lớn, chọn hướng thay vì chọn tốc độ, đi đúng hướng]
+levels: [SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004]
+related_ids: [CON-025, CON-026, FW-064, FW-061]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 32–33"]
+source_type: course
+confidence: medium
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Guiding Arrows - Five Directions Out of the Same Day (Guiding Arrows — năm hướng đi của cùng một ngày)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Guiding Arrows** là hình ảnh trung tâm của Topic 05: từ **cùng một điểm xuất phát**, năm mũi tên tỏa ra năm hướng với năm độ dốc khác nhau. Dùng khi muốn nhìn một ngày hoặc một quý không theo câu hỏi "tôi làm được bao nhiêu" mà theo câu hỏi "tôi đang đi theo hướng nào".
+
+## Mục đích
+Chuyển trọng tâm từ **cường độ** sang **hướng**. Hai người cùng xuất phát, cùng nỗ lực như nhau, nhưng chênh nhau một góc nhỏ thì sau một thời gian đủ dài sẽ ở hai nơi rất xa nhau — đây là phiên bản hình học của phép tính lãi kép ở `CON-026`.
+
+## Khi nào dùng
+Khi lập kế hoạch quý hoặc năm; khi cảm thấy bận rộn nhưng không tiến triển; trong một buổi phản tư cá nhân.
+
+## Khi nào KHÔNG dùng
+Khi cần quyết việc cụ thể trong hôm nay — hình ảnh này ở mức định hướng, không phân loại được việc. Dùng `FW-060` hoặc `FW-061` cho việc đó.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 32 đặt tên **"GUIDING ARROWS"**, slide 33 vẽ năm mũi tên cùng xuất phát từ một điểm, xếp theo độ dốc từ thấp lên cao:
+
+| Hướng | Nhãn trên slide | Màu | Ý nghĩa |
+|---|---|---|---|
+| Thấp nhất, gần như nằm ngang | **OTHER TIME** | đỏ | Để lúc khác — việc bị đẩy sang một thời điểm không xác định |
+| Dốc nhẹ | **AS USUAL** | vàng | Như thường lệ — giữ nguyên cách làm hiện tại |
+| Dốc trung bình, màu chuyển xanh | **HYPER PERFORMANCE** | xanh lá | Hiệu suất vượt trội — hướng duy nhất đi lên bền |
+| Dốc hơn | **AS ALWAYS** | vàng | Vẫn như mọi khi — lặp lại khuôn mẫu cũ với cường độ cao |
+| Dốc nhất, gần như thẳng đứng | **LATER** | đỏ | Để sau — trì hoãn |
+
+Diễn giải bảng: cách đọc hình này không hiển nhiên, vì mũi tên dốc nhất **không phải** là mũi tên tốt nhất. Màu sắc mới là thứ mang thông tin: hai mũi tên **đỏ** (LATER, OTHER TIME) và hai mũi tên **vàng** (AS ALWAYS, AS USUAL) đều là các cách né thay đổi, còn mũi tên **xanh** duy nhất ở giữa là HYPER PERFORMANCE. Bốn hướng kia nghe như bốn lựa chọn khác nhau nhưng dẫn tới cùng một chỗ: không có gì thay đổi. *"Để sau"* và *"vẫn như mọi khi"* chỉ khác nhau ở lời giải thích, không khác nhau ở kết quả.
+
+Điểm xuất phát chung là phần quan trọng nhất của hình: **mọi hướng đều mở ra từ cùng một thời điểm hiện tại**. Hướng không phải thứ được chọn một lần, nó là thứ được chọn lại mỗi ngày tại cùng một điểm.
+
+Cách dùng: với một thay đổi bạn đang cân nhắc, hỏi xem phản ứng mặc định của mình rơi vào mũi tên nào trong năm mũi tên — và nếu là LATER hoặc OTHER TIME, gọi đúng tên nó thay vì coi đó là một quyết định về lịch trình.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Việc này tôi đang để *later* hay thực sự đang xếp lịch cho nó?"
+- "Quý vừa rồi tôi đi theo mũi tên nào — và nếu giữ nguyên hướng đó thêm bốn quý nữa thì tôi ở đâu?"
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 31 vẽ cùng ý tưởng ở dạng khác: một mũi tên đi lên **HYPER PERFORMANCE** và một mũi tên tách ra đi ngang về phía **BURNOUT**, với một mũi tên đỏ nhỏ uốn ngược **từ nhánh burnout quay trở lại nhánh đi lên** ngay tại điểm rẽ. Diễn giải: điểm rẽ có thể quay lại được, nhưng chỉ ở gần chỗ rẽ — xem `CON-025`.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: đề xuất viết tài liệu định nghĩa nhãn đã bị hoãn ba quý liên tiếp. Mỗi lần đều có lý do chính đáng (OTHER TIME), nhưng gộp lại thì đó là một hướng đã được chọn, không phải ba lần hoãn độc lập.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[CẦN XÁC NHẬN]` Slide 33 không có chữ nào ngoài năm nhãn và không có trục được đặt tên. Việc gán ý nghĩa cho độ dốc và màu sắc ở bảng trên là `[SUY LUẬN]` của Claude dựa trên hình vẽ và trên mạch của các slide lân cận (31, 32, 29–30). Nếu người dùng nhớ lời giảng khác với cách đọc này, phần diễn giải cần được sửa — xem `open_questions.md` (OQ-013).
+
+## Phân biệt với framework gần giống
+- `FW-061` phân loại **việc** theo hai trục; `FW-063` không phân loại việc mà mô tả **hướng tích lũy** của các lựa chọn lặp lại.
+- `CON-026` cho cùng ý tưởng ở dạng số (1.01³⁶⁵ so với 0.99³⁶⁵); `FW-063` cho nó ở dạng hình.
+
+## Cách kết hợp với framework khác
+Chọn hướng bằng `FW-063` → biến hướng thành hành vi lặp lại bằng `FW-064` → bảo vệ khỏi nhánh burnout bằng `CON-025` → đặt lịch cụ thể cho việc Q2 bằng `FW-061`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 31–33]`
+
+=====
+
+---
+id: FW-064
+type: framework
+title_vi: Mô hình Khoảng cách Biết – Làm
+title_en: The Knowledge-Behaviour Gap Model
+aliases: [knowledge behavior gap, KBG model, Stibe, knowledge acceptance intention behavior, khoảng cách biết làm]
+keywords: [biết mà không làm, biết phải làm gì nhưng không làm, đào tạo xong không đổi gì, thay đổi hành vi, cà rốt và cây gậy, vì sao team không áp dụng, knowledge behavior gap]
+levels: [SELF, TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-011, PRB-004]
+related_ids: [FW-059, FW-063, CON-026, FW-009, FW-008]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 64–68"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Knowledge-Behaviour Gap Model (Mô hình Khoảng cách Biết – Làm)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Knowledge Behavior Gap Model** của AP Agnis Stibe mô tả chuỗi bốn cấu phần mà một ý định phải đi qua để thành hành vi thật: **KNOWLEDGE → ACCEPTANCE → INTENTION → BEHAVIOR**. Dùng khi bạn — hoặc team bạn — biết rõ việc gì nên làm mà vẫn không làm, và khi một khóa đào tạo kết thúc mà không có gì thay đổi.
+
+## Mục đích
+`[KHÓA HỌC]` Giải dòng 7 của `FW-059`: *"Knowing what to do but not doing it — Manager knows the strategic priorities but spends most of the day responding to immediate demands. Classic Knowledge–Behaviour Gap."* Mô hình chỉ ra rằng kiến thức **không nối thẳng** vào hành vi, mà phải đi qua hai trạm trung gian, nên đổ thêm kiến thức vào một khoảng trống nằm ở trạm sau là vô ích.
+
+## Khi nào dùng
+Sau một khóa học hoặc một buổi chia sẻ, khi muốn nó thực sự đổi được cái gì; khi triển khai một cách làm mới cho team; khi một thói quen cá nhân lặp đi lặp lại thất bại.
+
+## Khi nào KHÔNG dùng
+Khi người ta thực sự **không biết** phải làm gì — lúc đó khoảng trống nằm đúng ở Knowledge và việc dạy là đúng việc cần làm.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Sơ đồ slide 67, bốn cấu phần nối nhau:
+
+| Cấu phần | Nghĩa | Câu hỏi chẩn đoán |
+|---|---|---|
+| **KNOWLEDGE** | Biết điều gì quan trọng và nên làm gì | "Họ có biết phải làm gì không?" |
+| **ACCEPTANCE** | Chấp nhận rằng điều đó đúng và áp dụng được **với mình** | "Họ có tin điều đó đúng trong hoàn cảnh của họ không?" |
+| **INTENTION** | Có ý định thực hiện | "Họ có định làm không — cụ thể khi nào?" |
+| **BEHAVIOR** | Thực sự làm, một cách lặp lại | "Nó có đang diễn ra không?" |
+
+Diễn giải sơ đồ: ngoài đường đi chính qua đủ bốn trạm, slide 67 còn vẽ hai **đường tắt** — một mũi tên từ KNOWLEDGE đi thẳng xuống BEHAVIOR và một từ KNOWLEDGE sang INTENTION, bỏ qua ACCEPTANCE. Đây chính là giả định sai mà phần lớn chương trình đào tạo và phần lớn thông báo thay đổi đang chạy trên: cho người ta biết rồi kỳ vọng họ làm.
+
+Dọc hai bên sơ đồ là **cà rốt và cây gậy** — các đòn bẩy thưởng phạt tác động vào từng chặng. Vị trí của chúng cho thấy thưởng phạt không tạo ra hành vi một cách trực tiếp mà can thiệp vào các chuyển tiếp giữa các trạm.
+
+Cách dùng: xác định hành vi mong muốn → hỏi bốn câu chẩn đoán theo thứ tự → **dừng ở trạm đầu tiên trả lời "không"** → can thiệp đúng tại đó. Nếu khoảng trống ở ACCEPTANCE thì giải pháp là bằng chứng và sự liên quan tới bối cảnh của họ, không phải thêm tài liệu. Nếu khoảng trống ở INTENTION → BEHAVIOR thì giải pháp là thiết kế môi trường, không phải thêm động viên.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Bạn thấy cách làm này có đúng với tình huống của bạn không?" — câu hỏi kiểm ACCEPTANCE, hay bị bỏ qua nhất.
+- "Cụ thể lần tới bạn sẽ làm nó vào lúc nào?" — câu hỏi biến INTENTION thành thứ kiểm được.
+- `[BỔ SUNG]` "Cái gì đang cản không cho việc này xảy ra?" — nếu câu trả lời là về công cụ hay quy trình, khoảng trống nằm ở môi trường chứ không ở con người.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 68 trưng tóm tắt bài báo gốc *"Knowledge Behavior Gap Model: An Application for Technology Acceptance"*. Phần abstract nêu: các sáng kiến thay đổi trong tổ chức và các chiến dịch y tế cộng đồng thường thất bại hoặc tạo ra kết quả không bền; đào tạo chuyên sâu và chia sẻ kiến thức **không phải lúc nào cũng dẫn tới kết quả hành vi như kỳ vọng**. Mô hình bốn cấu phần được kiểm định bằng khảo sát định lượng trên 83 phản hồi hợp lệ, phân tích bằng PLS-SEM. Kết quả: **đường đi từ knowledge tới behavior qua acceptance và intention là mạnh và có ý nghĩa thống kê**; thú vị hơn, đường từ knowledge sang acceptance và từ intention sang behavior **đều mạnh lên theo tuổi**.
+
+`[KHÓA HỌC]` Slide 65–66 dẫn vào bằng hình ảnh **KNOWLEDGE / BEHAVIOR** tách rời và một video cảnh tắc đường — ai cũng biết luật giao thông, nhưng biết không tạo ra hành vi.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: cả team đồng ý "phải viết test cho pipeline". Knowledge: có. Acceptance: một DS cho rằng với notebook thăm dò thì test là lãng phí — khoảng trống nằm ở đây, nên nhắc lại quy định sẽ không có tác dụng. Can thiệp đúng là cùng nhau tách ranh giới giữa notebook thăm dò và pipeline production, rồi chỉ yêu cầu test cho nhóm sau.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 73–74 nêu hệ quả thực hành: *"Turn priorities into behaviors. Strategic intentions create results only when translated into specific, repeatable daily actions."* và *"Design the environment for execution. Good systems, routines, prompts, and defaults reduce dependence on motivation and willpower."* — thiết kế môi trường làm giảm sự phụ thuộc vào động lực và ý chí.
+
+Sai lầm thường gặp: coi khoảng trống luôn nằm ở động lực con người, trong khi mô hình cho thấy nó thường nằm ở ACCEPTANCE (chưa thấy liên quan tới mình) hoặc ở môi trường thực thi.
+
+## Phân biệt với framework gần giống
+- `FW-009` Psychological Ownership giải thích vì sao người ta **thấy mình sở hữu** một việc; `FW-064` giải thích vì sao một điều đã được chấp nhận vẫn không thành hành vi.
+- `FW-008` Socium là bộ **đòn bẩy xã hội** để tác động lên các chuyển tiếp; `FW-064` là bản đồ cho biết nên đặt đòn bẩy ở đâu.
+- `FW-017` Dẫn dắt thay đổi làm việc ở cấp tổ chức và liên minh; `FW-064` ở cấp cá nhân và hành vi.
+
+## Cách kết hợp với framework khác
+Chẩn đoán khoảng trống bằng `FW-064` → nếu ở ACCEPTANCE, dùng `FW-021` hỏi trước trình bày sau → nếu ở BEHAVIOR, thiết kế môi trường và dùng `FW-008` → đo bằng tích lũy nhỏ theo `CON-026`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 64–68, 73–74]`
+- Slide 68: Stibe, A. — *"Knowledge Behavior Gap Model: An Application for Technology Acceptance"*. Deck không ghi đầy đủ năm và nơi xuất bản.
+
+=====
+
+---
+id: FW-065-01
+type: framework
+title_vi: Mô hình quyết định của Colson — máy sinh phương án, người ra quyết định
+title_en: The Colson Decision Model - Machines Produce Options, Humans Decide
+aliases: [Eric Colson, HBR decision model, big data AI possible actions human judgment, other info nondigital]
+keywords: [AI đề xuất người quyết, ranh giới giữa máy và người, thông tin không có trong dữ liệu, phi số hóa, phương án và quyết định, human in the loop, vì sao AI không quyết thay được]
+levels: [TEAM, ORG, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-003, PRB-002]
+related_ids: [FW-065, FW-010, FW-057, CON-021]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 62"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Colson Decision Model (Mô hình quyết định của Colson — máy sinh phương án, người ra quyết định)
+
+## Tóm tắt
+`[KHÓA HỌC]` Mô hình của Eric Colson, đăng trên Harvard Business Review với tiêu đề *"A Decision-Making Model That Combines the Power of AI and Human Judgment"*, vẽ chính xác điểm mà phán đoán con người phải chen vào một luồng có AI. Dùng khi cần chỉ ra cho người khác — hoặc cho chính mình — vì sao một hệ thống AI tốt vẫn không thay thế được người ra quyết định.
+
+## Mục đích
+Chống lại hai cách hiểu sai đối xứng: rằng AI đủ tốt thì sẽ tự quyết được, và rằng có AI trong luồng thì con người chỉ còn là thủ tục phê duyệt.
+
+## Khi nào dùng
+Khi thiết kế một quy trình có AI; khi giải thích ranh giới trách nhiệm với cấp trên hoặc với team; khi một hệ thống bắt đầu được tin tưởng nhiều hơn mức thiết kế của nó cho phép.
+
+## Khi nào KHÔNG dùng
+Với việc lặp lại thuần túy không cần phán đoán — ô **Automation** của `FW-065` — mô hình Colson không áp dụng, vì không có quyết định kinh doanh nào ở cuối luồng.
+
+## Các bước áp dụng
+> **Big data → AI → Possible actions** *(toàn bộ phần này nằm trong khung "Machines")* **→ Human judgment → Business decisions**
+> và một nhánh riêng: **Other info (nondigital) → Human judgment**
+
+Diễn giải sơ đồ: máy móc chạy hết từ dữ liệu lớn tới **các phương án khả dĩ** — và dừng ở đó. Máy sinh ra **phương án**, không sinh ra **quyết định**. Giữa phương án và quyết định kinh doanh có đúng một trạm: phán đoán con người. Nhánh **Other info (nondigital)** là phần quan trọng nhất của sơ đồ: thông tin phi số hóa — bối cảnh chính trị nội bộ, một cam kết đã hứa với đối tác, tình trạng của một người trong team — chỉ đi vào được qua con người, vì nó không tồn tại trong dữ liệu. Đây chính là lỗi **"the invisible leave"** mà `FW-057` mô tả, nhìn từ phía thiết kế hệ thống.
+
+Cách dùng: (1) vẽ luồng hiện tại của quy trình bạn đang xét theo đúng năm ô này; (2) khoanh phần nằm trong khung **Machines**; (3) chỉ ra ô **Human judgment** và tên người thật đứng ở đó; (4) liệt kê cụ thể những **Other info (nondigital)** cần đi vào tại ô đó; (5) nếu không liệt kê được gì ở bước 4, kiểm tra lại — hoặc quyết định này thực sự thuần dữ liệu, hoặc bạn đang bỏ sót phần quan trọng nhất.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Hệ thống đang đưa ra *phương án* hay đang *quyết*?"
+- "Thông tin phi số hóa nào quan trọng cho quyết định này?"
+- `[BỔ SUNG]` Với cấp trên: "Mô hình gợi ý ba phương án. Em chọn phương án hai vì nó không đụng cam kết mình đã hứa với đối tác tháng trước — dữ liệu không biết điều đó."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: hệ thống chấm điểm rủi ro cho ra danh sách tài khoản đáng nghi (**Possible actions**). Thông tin phi số hóa đi vào ở ô **Human judgment**: đang có chiến dịch marketing làm tăng đột biến tài khoản mới, và bộ phận vận hành chỉ xử lý được 200 ca một ngày. Cả hai đều không nằm trong dữ liệu huấn luyện, và cả hai đều đổi quyết định cuối.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Mô hình vẽ ô **Human judgment** như một trạm luôn hoạt động, nhưng trong thực tế trạm này dễ bị rỗng dần: người duyệt bắt đầu bấm đồng ý theo quán tính khi hệ thống đúng nhiều lần liên tiếp. Theo `CON-021` đó là System 1 tiếp quản, và theo `FW-057` đó là **automation bias**.
+
+## Phân biệt với framework gần giống
+- `FW-065` phân loại mức tự chủ của AI thành **bốn chế độ**; `FW-065-01` vẽ **một luồng** và chỉ ra điểm phán đoán trong đó. Dùng FW-065 để chọn chế độ, FW-065-01 để thiết kế luồng cụ thể.
+- `FW-057` kiểm một đầu ra đã có; `FW-065-01` thiết kế vị trí của người trong luồng trước khi đầu ra được tạo ra.
+
+## Cách kết hợp với framework khác
+Chọn chế độ bằng `FW-065` → vẽ luồng bằng `FW-065-01` → kiểm từng đầu ra liên quan tới con người bằng `FW-057` → chốt trách nhiệm cuối cùng bằng `FW-010` và `CON-003`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 62]`
+- Eric Colson, *"A Decision-Making Model That Combines the Power of AI and Human Judgment"*, Harvard Business Review.
+
+=====
+
+---
+id: FW-065
+type: framework
+title_vi: Bốn chế độ hợp tác Người + AI và mô hình quyết định của Colson
+title_en: Four Human+AI Modes and the Colson Decision Model
+aliases: [assisted automation augmented autonomous, human plus AI matrix, Eric Colson, AI and human judgment, bốn chế độ AI]
+keywords: [dùng AI thế nào, AI tự động tới đâu, con người quyết chỗ nào, AI đề xuất người quyết, big data AI human judgment, phân vai người và máy, mức tự chủ của AI]
+levels: [TEAM, SELF, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-003, PRB-005]
+related_ids: [FW-010, FW-065-01, FW-057, FW-060, CON-021, FW-049-01]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 55–58"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Four Human+AI Modes and the Colson Decision Model (Bốn chế độ hợp tác Người + AI và mô hình quyết định của Colson)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 05 đưa ra hai công cụ ghép nhau: một **ma trận bốn chế độ** phân loại mức độ tham gia của người và AI, và **mô hình quyết định của Eric Colson (HBR)** chỉ ra chính xác chỗ phán đoán con người phải chen vào. Dùng khi thiết kế một quy trình có AI tham gia và cần quyết định AI được đi tới đâu.
+
+## Mục đích
+Tránh hai lỗi đối xứng: để AI tự chạy ở chỗ cần phán đoán theo bối cảnh, và bắt người làm thủ công ở chỗ AI thừa sức xử lý. Mô hình Colson bổ sung một điều ma trận không nói: **thứ gì được đưa vào quyết định ngoài dữ liệu**.
+
+## Khi nào dùng
+Khi thiết kế một quy trình mới có AI; khi rà lại một quy trình đã dùng AI nhưng không ai nói rõ ranh giới; khi tranh luận về việc một khâu có nên tự động hóa hoàn toàn không.
+
+## Khi nào KHÔNG dùng
+Với quyết định có hệ quả về con người — theo `FW-010` và `FW-057`, quyền sở hữu phải ở người và câu hỏi không phải là chọn chế độ nào.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Công cụ 1 — ma trận bốn chế độ** (slide 55), hai cột **Human + AI** và **AI**:
+
+| | **Human + AI** | **AI** |
+|---|---|---|
+| **(hàng trên)** | **Assisted Intelligence**<br>*Assistance in making decisions and taking actions* — hỗ trợ con người ra quyết định và hành động | **Automation**<br>*Automation of routine tasks* — tự động hóa việc lặp lại |
+| **(hàng dưới)** | **Augmented Intelligence**<br>*Human decision making automation* — tự động hóa chính việc ra quyết định của con người | **Autonomous Intelligence**<br>*Adaptation to different situations, acting without human assistance* — thích ứng với tình huống khác nhau, hành động không cần con người |
+
+Diễn giải bảng: cột trái là các chế độ **có người trong vòng lặp**, cột phải là **không có**. Đi từ trên xuống dưới và từ trái sang phải, mức tự chủ của AI tăng dần và điểm kiểm soát của con người lùi dần. **Assisted** là AI đưa thông tin, người quyết. **Augmented** là AI học cách người quyết rồi tự quyết trong phạm vi đó. **Automation** xử lý việc lặp lại không cần phán đoán. **Autonomous** là AI xử lý cả tình huống mới. Câu hỏi thiết kế không phải "chọn ô nào tốt nhất" mà "**việc này thuộc ô nào, và ô đó có phù hợp với hậu quả khi sai không**".
+
+`[KHÓA HỌC]` **Công cụ 2 — mô hình quyết định của Eric Colson** (slide 62): máy sinh ra *phương án*, con người biến phương án thành *quyết định*, và thông tin phi số hóa chỉ đi vào được qua con người. Toàn bộ sơ đồ và phần diễn giải nằm ở `FW-065-01`.
+
+Các bước: (1) xác định khâu đang xét; (2) đặt nó vào một trong bốn ô; (3) vẽ luồng theo mô hình Colson và chỉ ra điểm phán đoán con người; (4) liệt kê thông tin phi số hóa cần vào ở điểm đó; (5) ghi rõ ai chịu trách nhiệm cuối cùng.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "AI đang sinh ra phương án, hay đang ra quyết định?"
+- "Thông tin nào quan trọng cho quyết định này mà chắc chắn không có trong dữ liệu?"
+- "Nếu chế độ này sai một lần, hậu quả tới đâu và ai phát hiện ra?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science, bốn chế độ trong cùng một quy trình gán nhãn: AI gợi ý nhãn cho ảnh dễ (**Automation**); AI xếp hạng ca khó để người review trước (**Assisted**); mô hình học từ quyết định của người gán nhãn rồi tự xử lý nhóm tương tự với ngưỡng tin cậy cao (**Augmented**); không có khâu nào nên là **Autonomous**, vì định nghĩa nhãn còn đang thay đổi theo yêu cầu sản phẩm — đúng loại tình huống mới mà mô hình chưa gặp.
+
+`[KHÓA HỌC]` Slide 57–58 đặt bối cảnh lịch sử cho ma trận bằng một trục **EVOLVING INTELLIGENCE**: GESTURES → SPEAKING → DRAWINGS → WRITING → PRINTING → LIBRARIES → INTERNET → **AI**, vẽ theo thời gian. Thông điệp: AI là bậc kế tiếp trong một chuỗi dài các công cụ mở rộng trí tuệ, không phải một đứt gãy không có tiền lệ.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[KHÓA HỌC]` Slide 73–74 nêu hai nguyên tắc chốt: *"Use Human Artificial Intelligence (HAI). Combine distinctly human strengths — judgment, purpose, creativity, empathy, and accountability, with AI's speed, analytical capacity, and scalability."* và *"Use AI to augment, not replace, judgment. Delegate appropriate cognitive work to AI while retaining human ownership of consequential decisions."*
+
+`[SUY LUẬN]` Sai lầm thường gặp là để một khâu **trôi** từ Assisted sang Augmented mà không ai quyết định điều đó — nó xảy ra dần khi người duyệt bắt đầu bấm đồng ý theo quán tính. Theo `CON-021`, đó là System 1 tiếp quản một việc lẽ ra thuộc System 2.
+
+## Phân biệt với framework gần giống
+- `FW-010` HAI trả lời câu hỏi phân công ở mức **một đầu việc**: Human, AI hay HAI. `FW-065` phân giải mức "HAI" đó thành bốn chế độ cụ thể và thêm sơ đồ luồng quyết định. Hai chunk cùng một giảng viên, Topic 06 và Topic 05.
+- `FW-057` kiểm **một đầu ra cụ thể** của AI; `FW-065` thiết kế **quy trình** sinh ra đầu ra đó.
+- `FW-049-01` phân vai người và AI trong từng pha Design Thinking; `FW-065` không gắn với một quy trình sáng tạo cụ thể nào.
+
+## Cách kết hợp với framework khác
+Phân công việc bằng `FW-010` → chọn chế độ bằng ma trận của `FW-065` → vẽ luồng và chốt điểm phán đoán bằng mô hình Colson → kiểm từng đầu ra liên quan tới con người bằng `FW-057`.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 55–62, 73–74]`
+- Slide 62: Eric Colson, *"A Decision-Making Model That Combines the Power of AI and Human Judgment"*, Harvard Business Review.
+
+=====
+
+---
+id: FW-066-01
+type: framework
+title_vi: Luật chơi LSP® — bảy quy tắc nền và bốn điều không làm
+title_en: LSP Rules of Engagement - Seven Ground Rules and Four NO GO's
+aliases: [ground rules, 4 no go, luật chơi LSP, rules of engagement, không đánh giá không diễn giải]
+keywords: [luật buổi workshop, quy tắc thảo luận, không đánh giá, không phán xét, ý nghĩa thuộc về người xây, an toàn khi chia sẻ, facilitation rules, cách dẫn buổi]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-007, PRB-003]
+related_ids: [FW-066, FW-068, FW-070, CON-010]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 10–11"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# LSP Rules of Engagement (Luật chơi LSP® — bảy quy tắc nền và bốn điều không làm)
+
+## Tóm tắt
+`[KHÓA HỌC]` Bộ luật chơi của phương pháp LEGO® Serious Play® gồm **bảy Ground Rules** cho người xây và **bốn NO GO's** cho người nghe. Dùng khi dựng phần mở đầu cho bất kỳ hoạt động LSP nào, hoặc khi cần một bộ quy tắc cho buổi thảo luận về chủ đề nhạy cảm trong team.
+
+## Mục đích
+Tạo điều kiện để người tham gia nói được những điều họ sẽ không nói trong một cuộc họp thường, bằng cách đặt ra một luật duy nhất và bảo vệ nó: **ý nghĩa thuộc về người xây, không thuộc về người nhìn**.
+
+## Khi nào dùng
+Mở đầu mọi hoạt động LSP; cũng dùng được độc lập làm quy tắc cho buổi retro hoặc buổi phản hồi mà bạn muốn tránh tranh luận và phán xét.
+
+## Khi nào KHÔNG dùng
+Trong cuộc họp cần tranh luận và phản biện để đi tới quyết định — bộ luật này cố tình chặn việc đánh giá, nên không phù hợp cho việc chọn phương án.
+
+## Các bước áp dụng
+| # | Quy tắc |
+|---|---|
+| 1 | Xây theo cách bạn muốn — **không có đúng và sai!** |
+| 2 | **Chỉ bạn** quyết định ý nghĩa mô hình của mình |
+| 3 | Bạn sở hữu mô hình của mình và câu chuyện về nó |
+| 4 | Nếu bế tắc, cứ xây (bắt tay vào làm) |
+| 5 | Tất cả đều cam kết xây và đều **có quyền được giải thích** |
+| 6 | Hãy tò mò — lắng nghe bằng mắt và đặt câu hỏi về mô hình của người khác |
+| 7 | Cho điện thoại và máy tính nghỉ |
+
+`[KHÓA HỌC]` **Bốn điều KHÔNG làm — 4 NO GO's** (slide 11):
+
+| # | Không làm | Ví dụ câu cấm |
+|---|---|---|
+| 1 | Không **đánh giá** | *"Tôi thích – không thích…"* |
+| 2 | Không **nhận định** | *"Tôi thấy rằng, tôi nghĩ…"* |
+| 3 | Không **diễn giải** hộ | *"Với tôi thì…"* |
+| 4 | Không **đi quá mô hình** | *"Lúc đó bạn cảm thấy thế nào…"* |
+
+Diễn giải hai bảng: quy tắc 2–3 cộng bốn NO GO tạo một cơ chế bảo vệ duy nhất — **ý nghĩa thuộc về người xây, không thuộc về người nhìn**. Người nghe không được gán ý nghĩa, nên người xây không phải phòng thủ. NO GO thứ 4 cấm cả câu hỏi thiện chí về cảm xúc, vì chúng kéo cuộc trò chuyện ra khỏi mô hình thành phỏng vấn cá nhân.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Câu hỏi hợp lệ sau khi ai đó kể: "Chi tiết này đại diện cho gì?"
+- Câu vi phạm NO GO 1: "Mô hình của bạn hay quá." · NO GO 3: "Với tôi thì cái đó nghĩa là…" · NO GO 4: "Lúc đó bạn thấy thế nào?"
+- `[BỔ SUNG]` Câu facilitator dùng để kéo lại khi có người vi phạm: "Mình hỏi về mô hình nhé — chi tiết nào trong đó nói lên điều bạn vừa nói?"
+
+## Ví dụ
+`[KHÓA HỌC]` Trong Topic 07, bộ luật này được dựng ở slide 10–11, **trước** cả phần kỹ năng ẩn dụ và trước cả bốn hoạt động. Thứ tự đó cho thấy nó được coi là điều kiện tiên quyết, không phải lời nhắc nhở.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: áp bốn NO GO vào một buổi retro thường — khi một người nêu "việc bàn giao nhãn hay bị trễ", người khác không được đáp "tôi thấy không trễ lắm" (NO GO 2) hay "ý bạn là tại team labeling à" (NO GO 3). Chỉ được hỏi làm rõ về chính điều người kia mô tả.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Bộ luật này rất dễ bị bỏ bớt cho nhanh, và đó là sai lầm phổ biến nhất. Không có nó, buổi học quay về đúng động lực của một cuộc họp thường: người có tiếng nói nhất định nghĩa ý nghĩa cho mọi người. Quy tắc 5 — *mọi người đều có quyền được giải thích* — là thứ đảm bảo người ít nói nhất vẫn có lượt.
+
+## Phân biệt với framework gần giống
+- `FW-066` là phương pháp LSP® nói chung (nguồn gốc, nền lý thuyết, vai trò của ẩn dụ và đôi tay); `FW-066-01` chỉ là bộ luật vận hành trong phòng.
+- `CON-010` Phép thử camera đặt luật cho **người nói** (mô tả hành vi, không dán nhãn); bốn NO GO đặt luật cho **người nghe**.
+
+## Cách kết hợp với framework khác
+Dựng `FW-066-01` ngay sau phần giới thiệu `FW-066` → rồi mới chạy `FW-068`, `FW-070`, `FW-071`. Giữ bộ luật hiển thị trong suốt buổi.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 10–11]`
+
+=====
+
+---
+id: FW-066
+type: framework
+title_vi: Phương pháp LEGO® Serious Play® (LSP®)
+title_en: The LEGO Serious Play (LSP) Methodology
+aliases: [LSP, LEGO Serious Play, serious play, xây mô hình LEGO, build and share]
+keywords: [workshop sáng tạo, mọi người đều được nói, họp mà chỉ vài người phát biểu, ẩn dụ, metaphor, làm bằng tay, phương pháp facilitation, chia sẻ suy nghĩ khó nói, hoạt động gắn kết team]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-007, PRB-003]
+related_ids: [FW-066-01, FW-067, FW-068, FW-070, FW-071, CON-010]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 6–13"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The LEGO Serious Play (LSP) Methodology (Phương pháp LEGO® Serious Play®)
+
+## Tóm tắt
+`[KHÓA HỌC]` **LEGO® Serious Play® (LSP®)** là phương pháp facilitation trong đó mỗi người **xây một mô hình bằng gạch LEGO** rồi kể câu chuyện của mô hình đó, thay vì phát biểu trực tiếp. Dùng khi cần mọi người trong phòng cùng lên tiếng về một chủ đề khó nói thẳng — bản sắc, quan hệ, điều đang cản trở team.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 7 nêu lý do phương pháp ra đời: *"Typical strategy discussions are cognitive-based"* — các cuộc thảo luận chiến lược thông thường chỉ dựa trên nhận thức lý tính. *"However, humans have emotion and are social creatures – important in strategy making"* — nhưng con người có cảm xúc và là sinh vật xã hội, và điều đó quan trọng khi làm chiến lược. Giải pháp: *"acknowledge all of these elements (cognitive, emotional and social aspects) that make us humans done through 'Serious Play'"*.
+
+## Khi nào dùng
+Khi một nhóm cần làm rõ cách họ làm việc với nhau; khi các cuộc họp bị chi phối bởi vài người nói nhiều; khi chủ đề quá tế nhị để phát biểu trực diện; trong các buổi xây dựng team có mục tiêu thực chất.
+
+## Khi nào KHÔNG dùng
+Khi cần một quyết định nhanh có người chịu trách nhiệm — LSP làm hiện ra bức tranh chung, không thay thế cơ chế ra quyết định (xem `FW-006`). Cũng không dùng khi nhóm chưa đủ an toàn để chia sẻ, vì phương pháp đòi hỏi mỗi người tự kể về mô hình của mình.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Nguồn gốc** (slide 6): ra đời cuối thập niên 1990 trong bối cảnh làm chiến lược và đào tạo lãnh đạo cấp cao. Người khởi xướng: **Bart Victor và Johan Roos**, cùng **Kjeld Kirk Kristiansen**.
+
+`[KHÓA HỌC]` **Luật chơi** — bảy Ground Rules và bốn NO GO's (slide 10–11) là phần bắt buộc dựng trước mọi hoạt động; toàn bộ hai bảng và phần diễn giải nằm ở `FW-066-01`.
+
+`[KHÓA HỌC]` **Ẩn dụ — Metaphors** (slide 12): *"Metaphor is an expression that describes a person or object by referring to something that is considered to have similar characteristics"* (ví dụ *"the mind is an ocean"*). Ẩn dụ giúp: truyền đạt ý tưởng phức tạp · hiểu điều khó diễn đạt thành lời · nghĩ về thực tại theo cách khác · **khám phá những khả năng ta e ngại khám phá trong đời thực**.
+
+`[KHÓA HỌC]` **Tin vào đôi tay** (slide 13, *"Let us pass this point!"*): *"Even when you can not plan it, you can build it."* · *"When you do something with your hands, a complex process takes over that expands the experience."* · *"Trust your hands, let them choose the bricks they want."* · *"Do not get stuck in the design."*
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- Câu hỏi chuẩn sau khi ai đó xây xong: *"Kể cho chúng tôi nghe về mô hình của bạn."* — hỏi về **mô hình**, không hỏi về người.
+- Câu hỏi đào sâu hợp lệ: "Chi tiết màu đỏ này đại diện cho gì?"
+- Câu hỏi vi phạm NO GO: "Bạn có thấy áp lực khi làm việc đó không?"
+
+## Ví dụ
+`[KHÓA HỌC]` Topic 07 chạy bốn hoạt động LSP nối tiếp nhau: bản sắc cá nhân trong team (`FW-068`), cách đồng nghiệp trải nghiệm mình (`FW-068`), đời sống của team (`FW-070`), và bản đồ kết nối (`FW-071`). Mỗi hoạt động đều theo cùng nhịp: **xây một mình → chụp ảnh mô hình tải lên Padlet → kể chuyện cho nhóm, 2 phút mỗi người**.
+
+`[KHÓA HỌC]` Nền lý thuyết (slide 8) trải rộng khác thường: Organizational Identity (Albert & Whetten; Clegg) · Heedful Interaction (Weick) · Imagination (Kearney) · Constructivism (Piaget) · Complex Adaptive Systems và Fitness Landscape (Kaufmann) · Organizational Epistemology (von Krogh & Roos) · Constructionism (Papert) · Coherence (Lissack & Roos) · The Hand (Wilson) · Bricolage (Levi-Strauss) · Active Imagination (Jung) · Autopoiesis (Luhmann; Maturana & Varela).
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm lớn nhất khi tự chạy LSP trong team là bỏ phần quy tắc để "vào việc cho nhanh". Bốn NO GO chính là thứ phân biệt LSP với một buổi chơi LEGO — bỏ chúng đi thì buổi học quay về đúng động lực của một cuộc họp thường, nơi người có tiếng nói nhất định nghĩa ý nghĩa cho mọi người.
+
+`[KHÓA HỌC]` Phương pháp đòi hỏi facilitator được đào tạo — slide 9 liệt kê bốn facilitator LSP® của RMIT University (A/Prof. Elaine Chew, Dr. Trang Le, Dr. Thao Luong, Mr. Vincent Quach).
+
+## Phân biệt với framework gần giống
+- `CON-010` Phép thử camera yêu cầu mô tả hành vi quan sát được; bốn NO GO của LSP là cùng nguyên tắc đó áp cho người **nghe** thay vì người nói.
+- LSP là **phương pháp chạy buổi**; `FW-067`, `FW-068`, `FW-070`, `FW-071` là **nội dung** được chạy bằng phương pháp đó.
+
+## Cách kết hợp với framework khác
+Dựng luật chơi bằng `FW-066` → chạy chuỗi bốn hoạt động theo `FW-068` → `FW-070` → `FW-071` → đóng bằng `FW-067`.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 5–13]`
+- Roos, J, Victor, B & Statler, M 2004, 'Playing seriously with strategy', *Long Range Planning*, vol. 37, no. 6, pp. 549–568.
+- Roos, J & Victor, B 2018, 'How It All Began: The Origins Of LEGO® Serious Play®', *International Journal of Management and Applied Research*, vol. 5, no. 4, pp. 326–343.
+
+=====
+
+---
+id: FW-067-01
+type: exercise
+title_vi: Real Time Identity for YOU — bài tập đóng buổi và cam kết hành động
+title_en: Real Time Identity for YOU - Closing Reflection and Action Items
+aliases: [RTI for you, action items, who you are deep down, bài tập về nhà RTI]
+keywords: [cam kết sau workshop, áp dụng sau khóa học, viết ra điều muốn thay đổi, phản tư cá nhân, bản sắc mong muốn, ba bốn lĩnh vực cần làm, action item]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-004, PRB-007]
+related_ids: [FW-067, FW-068, FW-069, FW-064]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 38–42"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Real Time Identity for YOU (Real Time Identity for YOU — bài tập đóng buổi và cam kết hành động)
+
+## Tóm tắt
+`[KHÓA HỌC]` Phần thứ tư và cuối cùng của Topic 07, mang tiêu đề *"Who you are, deep down."* — chuyển quá trình Real Time Identity từ cấp team về cấp cá nhân, dưới dạng bài tập về nhà. Dùng để đóng một buổi workshop về bản sắc và biến nó thành vài cam kết cụ thể.
+
+## Mục đích
+Ngăn buổi workshop dừng lại ở mức trải nghiệm. Theo `FW-064`, một buổi học tạo ra ACCEPTANCE và INTENTION nhưng không tự động tạo ra BEHAVIOR — phần này là cơ chế bắc cầu.
+
+## Khi nào dùng
+Cuối một buổi LSP hoặc bất kỳ workshop nào về bản sắc, phản hồi và phát triển cá nhân.
+
+## Khi nào KHÔNG dùng
+Không dùng như một biểu mẫu nộp cho quản lý — bài tập này thuộc về người viết, và biến nó thành thứ bị chấm sẽ làm hỏng tính trung thực của nó.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Thảo luận đóng** (slide 41): *"you have given a chance to others… to get to know more about you."* Ba thứ mỗi người đã tạo ra: một phát biểu và bức tranh tổng quan về bản thân đã chia sẻ · một diễn đạt về cách bạn nghĩ người khác nhìn mình · bản sắc mong muốn và việc đã khám phá nó.
+
+`[KHÓA HỌC]` **Action Items** (slide 42): *"It is now time to leave the world of play and move back to work."* Bài tập: **viết ra 3–4 lĩnh vực bạn muốn làm việc với khi quay lại công việc.** Gợi ý: nghĩ về những cách tương tác mới với người khác, hoặc cân nhắc cách bắt đầu phát triển các điều kiện để bản sắc tiềm năng hoặc mong muốn của bạn thành hiện thực.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Điều gì tôi học được về **chính mình** hôm nay, và điều gì tôi học được về **người xung quanh**?"
+- `[BỔ SUNG]` Cách viết một lĩnh vực cho cụ thể: thay vì "giao tiếp tốt hơn", viết "trong design review, nói ra điều mình chưa đồng ý ngay tại buổi thay vì nhắn riêng sau đó".
+
+## Ví dụ
+`[BỔ SUNG]` Ba lĩnh vực của một Associate Data Science Manager sau buổi học: (1) để Senior trình bày kết quả với stakeholder thay vì mình trình bày hộ; (2) nói rõ với cộng tác viên gán nhãn rằng chất lượng nhãn là đầu vào sống còn, và mời họ vào buổi review tuần một lần; (3) hỏi hai người trong team câu hỏi ô External Perspective của `FW-069` trong kỳ 1:1 tới.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Yêu cầu "3–4 lĩnh vực" là một ràng buộc có ích — nhiều hơn thì không lĩnh vực nào được theo đuổi. Sai lầm thường gặp là viết các lĩnh vực ở mức trừu tượng tới nỗi không bao giờ kiểm được là đã làm hay chưa.
+
+`[KHÓA HỌC]` Slide 42 đánh dấu điểm chuyển rõ ràng: *"It is now time to leave the world of play and move back to work."* — phần chơi đã xong, và giá trị của nó phụ thuộc vào thứ được mang về.
+
+## Phân biệt với framework gần giống
+- `FW-067` là quy trình RTI cho **cả team**; `FW-067-01` là phần RTI cho **cá nhân**, làm sau buổi.
+- `FW-055-01` Bias Audit Card là thẻ cam kết đóng buổi của Topic 03, cùng chức năng nhưng cho chủ đề thiên kiến.
+
+## Cách kết hợp với framework khác
+Chạy `FW-067` cả buổi → đóng bằng `FW-067-01` → biến 3–4 lĩnh vực thành hành vi lặp lại bằng `FW-064` → xem lại ở kỳ 1:1 kế tiếp.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 38–42]`
+
+=====
+
+---
+id: FW-067
+type: framework
+title_vi: Real Time Identity cho team — từ nhóm cá nhân thành một team thật
+title_en: Real Time Identity (RTI) for the Team
+aliases: [RTI, real time identity, real team, Kanaga Kossler, team identity]
+keywords: [team rời rạc, mỗi người làm phần của mình, không có bản sắc chung, biến nhóm thành team, cách team làm việc với nhau, chiến lược cho team, gắn kết, how not what]
+levels: [TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-007, PRB-003]
+related_ids: [FW-066, FW-067-01, FW-068, FW-070, FW-071, CON-003]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 15–17"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Real Time Identity (RTI) for the Team (Real Time Identity cho team — từ nhóm cá nhân thành một team thật)
+
+## Tóm tắt
+`[KHÓA HỌC]` **LSP® Real Time Identity (RTI) for the Team** là quy trình đưa **một nhóm cá nhân** trở thành cái mà phương pháp gọi là **Real Team** (team thật). Dùng khi các thành viên đều giỏi phần việc của mình nhưng tổng thể không hoạt động như một đơn vị.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 15 định nghĩa: *"LSP® Real Time Identity (RTI) for the Team is a process that helps moving a group of individuals to become what we call a Real Team."* Và **Real Team**: *"Realize the team's full potential – quickly and effectively."* — hiện thực hóa toàn bộ tiềm năng của team, nhanh và hiệu quả.
+
+`[KHÓA HỌC]` Slide 16 nêu điểm phân biệt quan trọng nhất: *"LSP® RTI for the Team is not about **what** the team does, but rather on **how** the team does it. It is thus about how the team behaves towards one another, and the tasks the team is facing in everyday life. **It is about strategy for the team!**"* — không bàn về *việc gì* team làm, mà về *cách* team làm; cách các thành viên ứng xử với nhau và với công việc hằng ngày.
+
+## Khi nào dùng
+Khi team mới thành lập hoặc vừa đổi thành phần đáng kể; khi mọi người hoàn thành việc của mình nhưng phối hợp kém; khi team có cả nhân sự chính thức và cộng tác viên với mức gắn kết khác nhau; định kỳ hằng năm như một buổi hiệu chỉnh.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề nằm ở **what** — mục tiêu sai, ưu tiên sai, bài toán chọn sai. RTI không sửa được định hướng; dùng `PRB-001` và `FW-034` cho việc đó.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 16 mô tả quá trình bằng **năm chuyển dịch từ → tới**, dẫn nguồn Kanaga & Kossler (2001):
+
+| Từ | Tới |
+|---|---|
+| Hành động một cách ngẫu nhiên (*acting randomly*) | Nhận ra lợi ích chung (*recognizing the mutual benefits*) |
+| Là những chức danh công việc riêng rẽ (*being distinct job functions*) | Có một bản sắc chung (*having a shared identity*) |
+| Phải sống chung với những bực bội (*having to live with frustrations*) | Thay đổi mọi thứ theo hướng tốt hơn (*changing things for the better*) |
+| Những bản sắc cá nhân (*individual identities*) | Được tích hợp một cách hiệu quả (*being effectively integrated*) |
+| Chỉ nhìn vào năng lực từng người (*just looking at individual abilities*) | Hành động một cách có chủ đích (*acting deliberately*) |
+
+Diễn giải bảng: năm dòng không phải năm bước tuần tự mà là năm **chiều** cùng dịch chuyển. Dòng 3 có sức nặng thực tế lớn nhất — khác biệt giữa một nhóm và một team thật không phải là team thật không có bực bội, mà là bực bội **được nói ra và xử lý** thay vì chịu đựng. Dòng 2 và 4 cùng nói một điều: bản sắc chung không thay thế bản sắc cá nhân mà **tích hợp** chúng.
+
+`[KHÓA HỌC]` Quy trình được chạy bằng bốn hoạt động LSP nối tiếp: bản sắc cá nhân (`FW-068`) → đời sống team (`FW-070`) → bản đồ kết nối (`FW-071`) → và phần cuối, **RTI for YOU** làm bài tập về nhà (slide 38–42).
+
+`[KHÓA HỌC]` **Phần 4 — RTI for YOU** (slide 38–42) là bài tập về nhà đóng lại cả buổi: bốn mục tiêu của quá trình RTI cá nhân, phần thảo luận đóng, và yêu cầu viết ra 3–4 lĩnh vực sẽ làm việc với khi quay lại công việc. Chi tiết ở `FW-067-01`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Team mình đang ở đâu trên từng dòng trong năm chuyển dịch?"
+- "Có bực bội nào team đang sống chung với nó thay vì xử lý nó không?"
+- Câu đóng của slide 41: điều bạn đã học về **chính mình**, và điều bạn đã học về **người xung quanh**.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science sáu người gồm cả cộng tác viên: dòng 2 (*distinct job functions → shared identity*) khó nhất, vì cộng tác viên gán nhãn và Senior DS có rất ít điểm giao hằng ngày. Bản sắc chung khả thi không phải "chúng ta đều là data scientist" mà là một phát biểu về *cách* làm việc — ví dụ "ở team này không ai đưa ra con số mà không nói được độ bất định" — áp dụng được cho cả hai vai trò.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Rủi ro lớn nhất là buổi workshop tạo ra cảm giác gắn kết mạnh rồi không có gì thay đổi sau đó — đúng dạng khoảng trống mà `FW-064` mô tả giữa INTENTION và BEHAVIOR. Slide 42 có ý thức về điều này nên yêu cầu viết ra 3–4 lĩnh vực cụ thể; nếu bỏ bước đó, buổi học dừng ở mức trải nghiệm.
+
+`[KHÓA HỌC]` Phạm vi của RTI là **how**, không phải **what** — dùng nó để sửa một vấn đề về mục tiêu sẽ không có tác dụng.
+
+## Phân biệt với framework gần giống
+- `FW-066` LSP® là **phương pháp**; `FW-067` RTI là **quy trình nội dung** chạy bằng phương pháp đó.
+- `FW-068` làm việc ở cấp **cá nhân trong team**; `FW-067` ở cấp **cả team**.
+- `FW-041` Team Delivery System thiết kế cách team **giao hàng** (chủ sở hữu, nhịp, ngưỡng); `FW-067` thiết kế cách team **tồn tại cùng nhau**. Hai thứ bổ sung nhau.
+
+## Cách kết hợp với framework khác
+`FW-066` dựng luật → `FW-069` và `FW-068` làm việc ở cấp cá nhân → `FW-070` và `FW-071` ở cấp team → `FW-067` đóng khung tất cả và chốt bằng Action Items → chuyển thành hành vi lặp lại bằng `FW-064`.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 15–17, 38–42]`
+- Kanaga, K., & Kossler, M. E. (2001). *How to form a team: five keys to high performance*. Center for Creative Leadership. (ghi ở slide 17)
+
+=====
+
+---
+id: FW-068-01
+type: exercise
+title_vi: Hoạt động External Identity — xây mô hình về đồng nghiệp rồi trao lại
+title_en: The External Identity Activity - Building a Model of a Colleague
+aliases: [activity 2 EI, external identity activity, peer feedback LEGO, xây mô hình về đồng nghiệp]
+keywords: [phản hồi từ đồng nghiệp, người khác thấy tôi thế nào, góp ý cho đồng nghiệp, bài tập phản hồi, hành vi quan sát được, khuyến nghị tăng hợp tác, feedback an toàn]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-006, PRB-007]
+related_ids: [FW-068, FW-069, FW-066-01, CON-010, FW-056]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 25–28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The External Identity Activity (Hoạt động External Identity — xây mô hình về đồng nghiệp rồi trao lại)
+
+## Tóm tắt
+`[KHÓA HỌC]` Hoạt động thứ hai của Topic 07 trả lời câu hỏi *"Who is your external I, on the team?"* — mỗi người xây một mô hình về **cách một đồng nghiệp được trải nghiệm** trong team, kể câu chuyện để cả bàn đoán đó là ai, rồi **trao mô hình cho chính người đó** làm phản hồi. Dùng khi muốn một vòng phản hồi ngang hàng mà không biến nó thành buổi phê bình.
+
+## Mục đích
+Đưa thông tin từ ô **External Perspective** của `FW-069` — điều người khác biết về bạn mà bạn không biết — sang ô Open, bằng một cơ chế khiến việc nói ra trở nên khả thi với cả hai phía.
+
+## Khi nào dùng
+Khi team đã quen nhau đủ để có quan sát thật; sau khi đã chạy `FW-066-01`; khi phản hồi trực tiếp giữa các đồng nghiệp đang không xảy ra.
+
+## Khi nào KHÔNG dùng
+Khi team mới lập và chưa ai làm việc cùng ai đủ lâu; khi đang có xung đột chưa xử lý giữa hai thành viên — hoạt động này giả định thiện chí sẵn có.
+
+## Các bước áp dụng
+1. Facilitator chỉ định cho bạn một người tham gia khác — **chưa tiết lộ tên**.
+2. Xây một mô hình thể hiện cách người đó **được trải nghiệm** trong team.
+3. Trên **¾ đế**: hai đặc điểm nổi bật trong cách người đó làm việc (ví dụ: phong cách giao tiếp, mức độ phản hồi, sự cởi mở, độ tin cậy, khả năng phối hợp, cách giải quyết vấn đề).
+4. Trên **¼ đế**: **một khuyến nghị** giúp người đó tăng cường hợp tác giữa các bộ phận.
+5. Kể câu chuyện của mô hình, để người khác **đoán xem đó là ai**.
+6. Sau đó **trao mô hình cho chính người ấy** như một phản hồi để họ suy ngẫm.
+
+`[KHÓA HỌC]` Ràng buộc cho Activity 2 (slide 26) — **Remember**: tập trung vào vai trò nghề nghiệp và hành vi trong team · **hành vi quan sát được, không phải giả định hay phán xét cá nhân** · khuyến nghị nhắm vào hợp tác, phối hợp và niềm tin · xây từ công việc thật, hiện tại · trung thực, tôn trọng, xây dựng · **mục đích là hỗ trợ phản tư, không phải phê bình**.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Khi nhận mô hình về mình: "Chi tiết này bạn thấy ở lúc nào?" — hỏi về quan sát, không phản bác kết luận.
+- `[BỔ SUNG]` Phiên bản không cần LEGO cho buổi 1:1 chéo: "Nêu hai đặc điểm nổi bật trong cách bạn ấy làm việc, và một điều giúp bạn ấy phối hợp tốt hơn với bộ phận khác."
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một Data Scientist nhận mô hình trong đó hai đặc điểm là "trả lời rất nhanh" và "khó đoán khi nào xong việc", kèm khuyến nghị "nói sớm hơn khi thấy sẽ trễ". Cả ba đều là hành vi quan sát được, không ai nói gì về thái độ hay năng lực — đúng ràng buộc của hoạt động.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Đây là phần rủi ro nhất của Topic 07. Xây mô hình **về một người** rồi trao cho họ chỉ an toàn khi bộ ràng buộc ở slide 26 và bốn NO GO của `FW-066-01` được giữ nghiêm. Không có chúng, bài tập trượt thành đánh giá cá nhân công khai.
+
+`[SUY LUẬN]` Bước "để người khác đoán xem đó là ai" có tác dụng kỹ thuật chứ không phải để vui: nó buộc người xây mô tả **hành vi đủ cụ thể để nhận ra**, thay vì những phẩm chất chung chung đúng với bất kỳ ai.
+
+## Phân biệt với framework gần giống
+- `FW-068` định nghĩa ba lớp CI/EI/PI và chứa Activity 1 (tự xây về mình); `FW-068-01` là hoạt động riêng cho lớp EI, nơi người khác xây về bạn.
+- `FW-056` The Leak cũng là bài tập viết lại câu nói theo cặp, nhưng nhắm vào **thiên kiến trong ngôn ngữ của quản lý**; hoạt động này nhắm vào **hình ảnh nghề nghiệp của một người trong mắt đồng đội**.
+
+## Cách kết hợp với framework khác
+`FW-066-01` dựng luật → `FW-069` giải thích vì sao cần phản hồi → `FW-068` Activity 1 → `FW-068-01` Activity 2 → phản hồi thu được dẫn vào `FW-029` và `FW-030` khi bàn về phát triển.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 24–28]`
+
+=====
+
+---
+id: FW-068
+type: framework
+title_vi: Ba lớp bản sắc trong team — CI, EI và PI
+title_en: Three Identity Layers in a Team - Core, External and Possible Identity
+aliases: [CI EI PI, core identity, external identity, possible identity, ba lớp bản sắc]
+keywords: [tôi là ai trong team, đồng nghiệp thấy tôi thế nào, tôi còn có thể đóng góp gì, điểm mạnh, giá trị, phong cách làm việc, phản hồi từ đồng nghiệp, vai trò trong nhóm, phát triển bản thân]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-007, PRB-005]
+related_ids: [FW-066, FW-068-01, FW-069, FW-067, FW-032, CON-010]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 19–28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Three Identity Layers in a Team (Ba lớp bản sắc trong team — CI, EI và PI)
+
+## Tóm tắt
+`[KHÓA HỌC]` Topic 07 tách bản sắc của một người trong team thành **ba lớp**: **Core Identity (CI)** — mình thực sự đóng góp thế nào, **External Identity (EI)** — đồng nghiệp trải nghiệm mình ra sao, và **Possible Identity (PI)** — mình còn có thể mang lại gì mà chưa thể hiện. Dùng khi muốn một người hiểu vai trò thật của họ trong team, hoặc khi khoảng cách giữa tự nhận thức và cách người khác nhìn đang gây trục trặc.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 19 đặt câu hỏi dẫn: *"Who are you today on this team?"* Mục đích của phần này: mời người tham gia phản tư về cách họ **đang hiện diện** trong team hiện tại, điều họ **đang đóng góp**, và điều họ **có thể mang thêm** để tăng cường hợp tác, gắn kết và hiệu suất tại Zalo.
+
+## Khi nào dùng
+Trong buổi xây dựng team; khi một người giỏi chuyên môn nhưng ảnh hưởng trong nhóm thấp hơn mức đáng có; khi chuẩn bị bàn về phát triển nghề nghiệp; khi team mới hình thành hoặc vừa đổi thành phần.
+
+## Khi nào KHÔNG dùng
+Khi vấn đề là hiệu suất cụ thể cần xử lý — lúc đó dùng `FW-023` AMO và `FW-024` SAIL. Ba lớp bản sắc là công cụ phát triển, không phải công cụ quản trị hiệu suất.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 20 — **THE IDEA**, định nghĩa ba lớp:
+
+| Lớp | Tên đầy đủ | Định nghĩa trên slide |
+|---|---|---|
+| **CI** | Core Identity | *"The qualities, values, and strengths that define how you naturally contribute when working in your team"* — phẩm chất, giá trị và điểm mạnh định hình cách bạn đóng góp một cách tự nhiên |
+| **EI** | External Identity | *"How others see and experience you in your team"* — cách người khác nhìn và trải nghiệm bạn |
+| **PI** | Possible Identity | *"The additional value, behaviors, or strengths you could bring to support stronger collaboration and alignment, but have not yet fully shown"* — giá trị, hành vi hoặc điểm mạnh bạn **có thể** mang lại nhưng chưa thể hiện đầy đủ |
+
+Diễn giải bảng: ba lớp không xếp chồng mà **đối chiếu lẫn nhau**. Khoảng cách CI–EI là chỗ phần lớn hiểu lầm trong team nằm: bạn tin mình đóng góp theo một cách, đồng nghiệp trải nghiệm cách khác. PI là lớp duy nhất hướng về tương lai, và chỉ có ý nghĩa khi đã biết hai lớp kia.
+
+`[KHÓA HỌC]` **Activity 1 — CI và PI** (slide 21, 23; cá nhân, 10 phút). Dùng một tấm đế LEGO, xây **hai** mô hình: trên **2/3 đế**, xây Core Identity — *"who are you in this team and what could you bring to the team?"*; trên **1/3 còn lại**, xây Possible Identity — *"what could you bring to the team?"*. Ghi chú trên slide: *"We are working with your professional identity: your competencies, experience, personality"* — làm việc với bản sắc **nghề nghiệp**, không phải đời tư. Kết thúc: chụp ảnh mô hình tải lên Padlet, chia sẻ với nhóm 2 phút mỗi người.
+
+`[KHÓA HỌC]` **Activity 2 — EI** (slide 25–28): bạn không xây về mình mà xây về **một người khác**, thể hiện cách người đó *được trải nghiệm* trong team, rồi trao mô hình cho chính họ làm phản hồi. Toàn bộ kịch bản và bộ ràng buộc nằm ở `FW-068-01`.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Điều gì tôi tin mình đang mang lại mà đồng nghiệp có vẻ không nhận ra?"
+- "Nếu phải nêu hai đặc điểm nổi bật trong cách tôi làm việc, đồng nghiệp sẽ nêu gì?"
+- `[BỔ SUNG]` Phiên bản không cần LEGO cho buổi 1:1: "Em nghĩ hai điều người khác hay nhận xét về cách em làm việc là gì? Và một điều em muốn người khác thấy ở em mà hiện chưa thấy?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một Senior có CI là "người giải được bài toán khó nhất", nhưng EI đồng nghiệp trải nghiệm lại là "người khó tiếp cận khi cần hỏi". PI có thể là "người làm cho người khác giải được bài toán khó" — khoảng cách CI–EI chỉ ra con đường tới PI cụ thể hơn mọi lời khuyên chung về kỹ năng mềm.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Activity 2 là phần rủi ro nhất của cả buổi: xây mô hình **về một người** rồi trao cho họ chỉ an toàn khi bộ ràng buộc ở slide 26 và bốn NO GO của `FW-066` được giữ nghiêm. Không có chúng, bài tập dễ trượt thành đánh giá cá nhân công khai.
+
+`[KHÓA HỌC]` Lưu ý phạm vi được nhắc hai lần trên slide: đây là **bản sắc nghề nghiệp** — năng lực, kinh nghiệm, tính cách trong công việc — không phải đời sống riêng.
+
+## Phân biệt với framework gần giống
+- `FW-069` Johari Window là **khung lý thuyết** mà ba lớp này ánh xạ vào; `FW-068` là **phiên bản thao tác** dùng trong LSP, với CI/EI/PI thay cho tên ô của Johari.
+- `FW-029` Thang đo Mức sẵn sàng phát triển chấm điểm mức sẵn sàng cho một bước tiến; `FW-068` mô tả bản sắc hiện tại và tiềm năng, không chấm điểm.
+- `FW-032` Connector Manager — hiểu người là phẩm chất đầu tiên; `FW-068` là công cụ cụ thể để làm việc đó.
+
+## Cách kết hợp với framework khác
+Dựng luật bằng `FW-066` → giới thiệu lý thuyết bằng `FW-069` → chạy Activity 1 và 2 của `FW-068` → mở rộng sang cả team bằng `FW-070` và `FW-071`.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 19–28]`
+
+=====
+
+---
+id: FW-069
+type: framework
+title_vi: Cửa sổ Johari
+title_en: The Johari Window
+aliases: [Johari Window, open blind hidden unknown, self-disclosure, cửa sổ Johari, điểm mù]
+keywords: [điểm mù, blind spot, tự nhận thức, người khác biết mà mình không biết, tự bộc lộ, xin phản hồi, mở rộng vùng chung, hiểu nhau trong team]
+levels: [TEAM, SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-006, PRB-007]
+related_ids: [FW-068, FW-066, CON-013, CON-011, FW-067]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 18"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Johari Window (Cửa sổ Johari)
+
+## Tóm tắt
+`[KHÓA HỌC]` **The Johari Window** (cửa sổ Johari) chia những gì có thể biết về một người thành **bốn ô**, theo hai trục: điều **tôi** biết hay không biết về mình, và điều **người khác** biết hay không biết về tôi. Topic 07 dùng nó ở slide 18 làm khung lý thuyết dẫn vào ba lớp bản sắc CI/EI/PI của `FW-068`.
+
+## Mục đích
+Chỉ ra rằng hiểu biết về một con người không nằm gọn trong đầu người đó: có phần chỉ người khác thấy, và có phần chưa ai thấy. Từ đó rút ra hai hành động làm ô chung lớn lên.
+
+## Khi nào dùng
+Khi mở một buổi về phản hồi hoặc tự nhận thức; khi một người liên tục ngạc nhiên trước nhận xét của đồng nghiệp; khi muốn giải thích vì sao xin phản hồi lại quan trọng.
+
+## Khi nào KHÔNG dùng
+Không dùng để phân loại hay dán nhãn người khác — cửa sổ mô tả **trạng thái thông tin** giữa một người và nhóm, không mô tả tính cách.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 18, bốn ô. Trục ngang là **ME** (Known to ME / Unknown to ME), trục dọc là **YOU** (Known to others / Unknown to others). Phiên bản trong deck này đặt tên ô theo cách khớp với mô hình CI/EI/PI:
+
+| | **Known to ME** | **Unknown to ME** |
+|---|---|---|
+| **Known to others** | **Open**<br>*"Information about me that I and others know"* — điều cả tôi và người khác đều biết | **External Perspective**<br>*"Information about me that others know but I don't"* — điều người khác biết mà tôi không biết |
+| **Unknown to others** | **Possible you**<br>*"Information about me that I know but others don't"* — điều tôi biết mà người khác không biết | **Unknown**<br>*"Information about me that neither I nor others know"* — điều cả tôi lẫn người khác đều không biết |
+
+`[KHÓA HỌC]` Hai mũi tên trên sơ đồ chỉ ra hai cơ chế làm ô **Open** mở rộng:
+
+| Cơ chế | Hướng | Thu hẹp ô nào |
+|---|---|---|
+| **Self-disclosure** (tự bộc lộ) | Từ trên xuống, dọc theo cạnh phải | Thu hẹp **Possible you** — tôi nói ra điều người khác chưa biết |
+| **Feedback** (phản hồi) | Từ trái sang phải, dọc theo cạnh dưới | Thu hẹp **External Perspective** — người khác nói cho tôi điều tôi chưa biết |
+
+Diễn giải hai bảng: điểm đáng chú ý nhất là cách deck **đổi tên hai ô** so với phiên bản Johari phổ biến. Ô thường gọi là *Blind spot* (điểm mù) ở đây được gọi là **External Perspective** (góc nhìn từ bên ngoài), và ô thường gọi là *Hidden* (ẩn giấu) được gọi là **Possible you** (con người có thể của bạn). Việc đổi tên không phải trang trí: "điểm mù" và "ẩn giấu" đều mang hàm ý thiếu sót, trong khi "góc nhìn từ bên ngoài" và "con người có thể" biến chính hai ô đó thành **nguồn tài nguyên** — đúng tinh thần của Activity 2 trong `FW-068`, nơi đồng nghiệp xây mô hình về cách bạn được trải nghiệm rồi trao lại cho bạn.
+
+Hai hành động rút ra: muốn người khác hiểu mình hơn thì **tự bộc lộ**; muốn hiểu chính mình hơn thì **xin phản hồi**. Không có cơ chế nào khác làm ô Open lớn lên.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- `[BỔ SUNG]` Mời phản hồi nhắm vào ô External Perspective: "Có điều gì về cách mình làm việc mà cả team đều thấy nhưng mình có vẻ không nhận ra không?"
+- `[BỔ SUNG]` Tự bộc lộ nhắm vào ô Possible you: "Có một việc mình làm tốt mà ít người biết, vì nó không nằm trong phần việc chính của mình."
+
+## Ví dụ
+`[KHÓA HỌC]` Trong Topic 07, cửa sổ Johari được đặt ở slide 18 — ngay **trước** phần "1. Your Identity on the Team" — để giải thích vì sao buổi học cần cả hai hoạt động: Activity 1 (tự xây về mình) làm việc với ô **Open** và **Possible you**; Activity 2 (người khác xây về bạn rồi trao lại) chính là cơ chế **Feedback** tác động vào ô **External Perspective**.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: một DS tin rằng mình đang hỗ trợ đồng đội tốt (ô Open theo cách họ nghĩ), nhưng cả team trải nghiệm việc hỏi họ là "phải chuẩn bị kỹ trước khi dám hỏi" (ô External Perspective). Không có một cơ chế phản hồi nào thì khoảng cách này tồn tại vô hạn, vì theo định nghĩa người trong cuộc không thể tự nhìn thấy.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm thường gặp là coi ô **Unknown** như một bí ẩn tâm lý. Trong bối cảnh công việc, ô đó đơn giản là **năng lực chưa có dịp bộc lộ** — thứ chỉ hiện ra khi một người được đặt vào tình huống mới. Đó là lý do luân chuyển việc và giao việc stretch có giá trị chẩn đoán, không chỉ giá trị phát triển (xem `FW-029`).
+
+`[SUY LUẬN]` Cửa sổ này mô tả **trạng thái**, không mô tả **chất lượng**. Một ô Open rất rộng chưa chắc tốt nếu nội dung của nó là những điều tiêu cực không ai xử lý.
+
+## Phân biệt với framework gần giống
+- `FW-068` CI/EI/PI là bản thao tác của cùng ý tưởng, dùng ngôn ngữ đóng góp trong team: CI tương ứng ô Open, EI tương ứng External Perspective, PI tương ứng Possible you.
+- `CON-013` Tự nhận thức và tự quản lý nói về việc nhận ra **cảm xúc** của mình theo thời gian thực; `FW-069` nói về **thông tin** giữa mình và nhóm.
+- `CON-011` Ba cấp độ lắng nghe là kỹ năng giúp cơ chế Feedback thực sự chạy được.
+
+## Cách kết hợp với framework khác
+`FW-069` giới thiệu lý thuyết → `FW-068` chạy thành hai hoạt động cụ thể → phản hồi thu được dẫn vào `FW-029` và `FW-030` khi bàn về phát triển.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 18]`
+- `[SUY LUẬN]` Deck không ghi tác giả gốc; Johari Window do Joseph Luft và Harrington Ingham đề xuất (1955) — ghi chú `[BỔ SUNG]` của Claude.
+
+=====
+
+---
+id: FW-070
+type: framework
+title_vi: Team Life — các yếu tố thúc đẩy và cản trở đời sống team
+title_en: Team Life - Enablers and Barriers
+aliases: [team life, enablers and barriers, spirit of the team, tinh thần team, yếu tố cản trở hợp tác]
+keywords: [vì sao team phối hợp kém, silo, KPI xung đột, không rõ ai sở hữu, thông tin chậm, thiếu niềm tin, an toàn tâm lý, hợp tác liên bộ phận, rào cản làm việc nhóm]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-003, PRB-007]
+related_ids: [FW-066, FW-067, FW-071, CON-003, FW-016]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 29–33"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Team Life - Enablers and Barriers (Team Life — các yếu tố thúc đẩy và cản trở đời sống team)
+
+## Tóm tắt
+`[KHÓA HỌC]` **Team Life** (đời sống team, hay *Spirit of the Team*) là phần thứ hai của Topic 07: mỗi người xây hai khía cạnh đặc trưng nhất cho **cách team thực sự vận hành**, tích cực hay tiêu cực, rồi cả bàn đối chiếu với một danh sách sáu **enablers** và sáu **barriers**. Dùng khi cần gọi tên chính xác thứ đang giúp và thứ đang cản trở hợp tác, thay vì nói chung chung rằng "phối hợp chưa tốt".
+
+## Mục đích
+Làm hiện ra những đặc điểm vận hành mà ai cũng cảm nhận được nhưng không ai nói ra, và tách chúng thành hai nhóm có thể hành động khác nhau: nhóm cần được **bảo vệ và nhân lên**, và nhóm cần được **gỡ bỏ**.
+
+## Khi nào dùng
+Khi hợp tác giữa các bộ phận trục trặc; trong buổi nhìn lại quý hoặc năm; khi team mới có thêm thành viên và cần nói rõ "ở đây mọi thứ vận hành thế nào".
+
+## Khi nào KHÔNG dùng
+Khi đã xác định được một xung đột cụ thể giữa hai bên — lúc đó dùng `FW-016` Thomas–Kilmann thay vì mở một cuộc rà soát rộng.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` **Activity 3** (slide 30, 32; cá nhân, 10 phút):
+1. Xây **hai khía cạnh** của Team Life mà bạn cho là đặc trưng nhất cho thực hành của team.
+2. *"These can be positive or negative: if they strongly shape team's collaboration, build them!"* — có thể tích cực hoặc tiêu cực; miễn là nó định hình mạnh sự hợp tác thì hãy xây.
+3. Đặt tất cả mô hình cá nhân vào **giữa bàn**, *"so their positions also tell a story"* — vị trí tương đối của chúng cũng kể một câu chuyện.
+4. Sẵn sàng giải thích: khía cạnh đó đại diện cho gì · nó ảnh hưởng tới hợp tác trong team thế nào · nó **giúp hay làm hại** sự gắn kết và hiệu suất.
+5. Chụp ảnh mô hình tải lên Padlet; chia sẻ với nhóm, 2 phút mỗi người.
+
+`[KHÓA HỌC]` **Danh sách đối chiếu** (slide 33):
+
+| **Enablers** (yếu tố thúc đẩy) | **Barriers** (rào cản) |
+|---|---|
+| Mục tiêu và ưu tiên chung | Tư duy silo và tranh giành địa hạt chức năng |
+| Giao tiếp cởi mở xuyên chức năng | KPI hoặc ưu tiên xung đột nhau |
+| Niềm tin và tôn trọng lẫn nhau | Quyền sở hữu không rõ ràng |
+| Vai trò và quyền quyết định rõ ràng | Giao tiếp chậm trễ hoặc lỗ hổng thông tin |
+| Phối hợp và theo đuổi đến cùng đúng lúc | Thiếu niềm tin hoặc thiếu an toàn tâm lý |
+| Sự hỗ trợ từ lãnh đạo và tư duy hợp tác | Theo đuổi yếu hoặc tín hiệu lãnh đạo không nhất quán |
+
+Diễn giải bảng: hai cột **không đối xứng** như vẻ ngoài. Phần lớn barriers không phải là sự vắng mặt của enabler tương ứng mà là **một thứ có thật đang hiện diện** — silo, KPI xung đột, tín hiệu lãnh đạo không nhất quán đều là những thứ được tạo ra bởi thiết kế tổ chức, không phải bởi thái độ cá nhân. Đây là lý do danh sách này nối thẳng với `CON-012`: vấn đề của tổ chức thường khoác áo vấn đề của nhân viên.
+
+Ba cặp đáng chú ý: *"Clear roles and decision rights"* so với *"Unclear ownership"* chính là nội dung của `CON-003`; *"Conflicting KPI or priorities"* là thứ không một thành viên nào tự sửa được, phải đi lên cấp đặt KPI; *"Weak follow-through or inconsistent leadership signals"* trỏ thẳng vào người quản lý.
+
+`[KHÓA HỌC]` Câu chuyển tiếp của slide 33: *"Recognizing these enablers and barriers help us move to the final question: How can we strengthen cross-functional collaboration in practice"*.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Trong sáu rào cản này, cái nào đang hiện diện mạnh nhất ở team mình — và nó do ai tạo ra?"
+- "Rào cản nào team tự gỡ được, và rào cản nào phải đi lên cấp trên?"
+- `[BỔ SUNG]` "Nếu phải bỏ đúng một rào cản trong quý này, bỏ cái nào thì ba cái còn lại nhẹ đi theo?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: rào cản *"Unclear ownership"* có dạng rất cụ thể — khi một chỉ số sai trên dashboard, không rõ ai sở hữu: người viết pipeline, người định nghĩa chỉ số, hay người dựng dashboard. Kết quả là mỗi lần sự cố đều tốn một vòng trao đổi chỉ để xác định ai xử lý. Enabler đối ứng *"Clear roles and decision rights"* ở đây nghĩa là một dòng duy nhất: mỗi chỉ số có đúng một người chịu trách nhiệm về định nghĩa của nó.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Sai lầm thường gặp là dừng lại ở việc liệt kê rào cản. Danh sách này chỉ tạo ra giá trị nếu mỗi rào cản được gán một trong ba nhãn: **team tự gỡ được**, **cần quản lý can thiệp**, hoặc **cần cấp cao hơn**. Không phân loại thì cuộc thảo luận dễ trở thành một vòng phàn nàn tập thể, và theo `FW-064` nó dừng ở ACCEPTANCE mà không tới BEHAVIOR.
+
+`[KHÓA HỌC]` Thiết kế của Activity 3 cho phép xây cả khía cạnh tiêu cực — điều này chỉ an toàn khi bốn NO GO của `FW-066` được giữ nghiêm, vì nếu không, một mô hình về điều tiêu cực rất dễ bị đọc thành lời tố cáo một người cụ thể.
+
+## Phân biệt với framework gần giống
+- `FW-071` The Team Landscape vẽ **quan hệ giữa các cá nhân**; `FW-070` mô tả **đặc tính vận hành chung** của team, không gắn với ai.
+- `CON-012` nêu nguyên lý rằng vấn đề tổ chức ngụy trang thành vấn đề nhân viên; `FW-070` cho danh sách cụ thể để nhận diện.
+- `FW-016` xử lý một xung đột đã xác định; `FW-070` quét toàn cảnh trước khi biết xung đột nằm ở đâu.
+
+## Cách kết hợp với framework khác
+Chạy `FW-070` để lập danh sách → phân loại rào cản theo cấp xử lý → với rào cản thuộc quyền sở hữu, dùng `CON-003` và `CON-004` → với rào cản thuộc KPI xung đột, dùng `FW-034` và `FW-039` → vẽ quan hệ cụ thể bằng `FW-071`.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 29–33]`
+
+=====
+
+---
+id: FW-071
+type: framework
+title_vi: The Team Landscape — bản đồ kết nối trong team
+title_en: The Team Landscape - Mapping Connections in a Team
+aliases: [team landscape, mapping connections, bản đồ kết nối, how is the team connected]
+keywords: [ai phụ thuộc ai, nút thắt trong team, mối quan hệ công việc, phụ thuộc quan trọng, điểm đứt gãy, mắt xích yếu, bản đồ quan hệ, phối hợp giữa các vai trò]
+levels: [TEAM, ORG]
+courses: [MEGROW]
+topics: [TOP-MEGROW-07]
+problems_addressed: [PRB-003, PRB-007]
+related_ids: [FW-066, FW-067, FW-070, FW-011, CON-006]
+source: ["MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 34–37"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# The Team Landscape (The Team Landscape — bản đồ kết nối trong team)
+
+## Tóm tắt
+`[KHÓA HỌC]` **The Team Landscape** là phần thứ ba của Topic 07, trả lời câu hỏi *"How is the Team connected?"* — team được kết nối như thế nào. Mỗi người xây các **kết nối** giữa mình và những người hoặc chức năng quan trọng nhất với công việc của mình, thể hiện cả **tính chất** của từng mối quan hệ. Dùng khi muốn thấy cấu trúc phối hợp thật của team, khác với sơ đồ tổ chức chính thức.
+
+## Mục đích
+`[KHÓA HỌC]` Slide 35: *"The purpose is to visualize the nature of collaboration by building connections between individual contribution and shared ways of working"* — trực quan hóa **bản chất** của sự hợp tác. Bài tập làm hiện ra ba thứ: *"where collaboration is strong"* (chỗ hợp tác mạnh) · *"where dependencies are critical"* (chỗ phụ thuộc mang tính sống còn) · *"where disconnects, bottlenecks, or weak links may exist"* (chỗ có đứt gãy, nút thắt hoặc mắt xích yếu).
+
+## Khi nào dùng
+Khi công việc hay bị tắc ở những chỗ không ai dự đoán được; khi một người rời đi và cần biết điều gì sẽ đứt theo; khi team làm việc liên bộ phận và sơ đồ tổ chức không phản ánh luồng công việc thật.
+
+## Khi nào KHÔNG dùng
+Khi cần xác định các bên liên quan **bên ngoài** team và mức độ ảnh hưởng của họ — dùng `FW-011` và `FW-012`. Team Landscape nhìn vào bên trong và vào các chức năng liền kề.
+
+## Các bước áp dụng
+`[KHÓA HỌC]` Slide 35 đặt nền: *"A connection is also a metaphor, representing the relationship between people."* — một kết nối cũng là một ẩn dụ, đại diện cho mối quan hệ giữa người với người.
+
+`[KHÓA HỌC]` **Activity 4** (slide 36; cá nhân, 10 phút):
+1. Xây tối đa **hai kết nối** giữa bạn và động lực hợp tác mà bạn thấy gần gũi nhất.
+2. Xây tối đa **hai kết nối quan trọng** giữa bạn và **hai người hoặc hai chức năng khác** trên bàn, những người quan trọng nhất với công việc của bạn.
+3. Dùng chính các kết nối đó để thể hiện **tính chất của mối quan hệ**, theo bốn cặp đối lập:
+
+| Cặp tính chất | Ý nghĩa |
+|---|---|
+| **strong** hay **weak** | mạnh hay yếu |
+| **direct** hay **indirect** | trực tiếp hay gián tiếp |
+| **supportive** hay **difficult** | hỗ trợ hay khó khăn |
+| **frequent** hay **limited** | thường xuyên hay hạn chế |
+
+4. Kể câu chuyện về bản đồ của bạn và điều nó cho thấy về team.
+
+Diễn giải bảng: bốn cặp này độc lập với nhau, và chính các tổ hợp bất thường mới mang thông tin. Một kết nối **strong + difficult** (mạnh nhưng khó khăn) là quan hệ quan trọng đang tiêu tốn năng lượng — khác hẳn **weak + difficult** vốn chỉ là phiền toái. Một kết nối **critical + limited** (sống còn nhưng ít tiếp xúc) là dấu hiệu rủi ro rõ nhất: công việc phụ thuộc vào một mối quan hệ gần như không được duy trì. Và một kết nối **strong + indirect** cho thấy có người đang làm trung gian — thường là một nút thắt chưa được nhận diện.
+
+`[KHÓA HỌC]` **Câu hỏi tổng hợp** (slide 37): *"How does it all tie together? What conclusions can you draw about your team from the models and discussions?"* — tất cả gắn kết lại thế nào, và bạn rút ra kết luận gì về team mình từ các mô hình và thảo luận.
+
+## Câu hỏi gợi mở và kịch bản hội thoại
+- "Kết nối nào trong bản đồ này mà nếu đứt thì công việc dừng trong vòng một tuần?"
+- "Có kết nối nào quan trọng nhưng hiếm khi được dùng tới không?"
+- `[BỔ SUNG]` "Có bao nhiêu đường đi qua tôi? Những đường nào trong đó không nhất thiết phải qua tôi?"
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science sáu người: bản đồ thường lộ ra rằng gần như mọi kết nối với bên ngoài (Product, Engineering, Legal) đều đi qua **một người duy nhất** là quản lý — đúng dòng 4 và dòng 9 của `FW-059` (quản lý thành nút thắt, năng lượng tiêu vào điều phối phụ thuộc). Bản đồ cũng hay lộ ra rằng cộng tác viên gán nhãn chỉ có **một** kết nối yếu tới phần còn lại của team, dù chất lượng nhãn lại là đầu vào sống còn cho mọi mô hình — một quan hệ **critical + limited** điển hình.
+
+## Lưu ý, hạn chế, sai lầm thường gặp
+`[SUY LUẬN]` Bản đồ này phản ánh **cảm nhận** của từng người, không phải dữ liệu khách quan — và đó chính là giá trị của nó. Hai người mô tả cùng một kết nối theo hai cách khác nhau là một phát hiện quan trọng, không phải lỗi của bài tập. Sai lầm là tranh luận xem ai mô tả đúng thay vì hỏi vì sao hai trải nghiệm khác nhau.
+
+`[SUY LUẬN]` Giới hạn "tối đa hai kết nối" là có chủ đích — nó buộc mỗi người chọn ra thứ quan trọng nhất. Bỏ giới hạn này thì bản đồ thành một mạng lưới dày đặc không đọc được.
+
+## Phân biệt với framework gần giống
+- `FW-011` Stakeholder Theory và `FW-012` Power–Interest Matrix lập bản đồ **các bên liên quan bên ngoài** theo quyền lực và mức quan tâm; `FW-071` lập bản đồ **quan hệ làm việc thực tế** theo bốn tính chất, và do chính người trong cuộc vẽ.
+- `FW-070` Team Life mô tả **đặc tính chung** của team; `FW-071` mô tả **từng mối nối cụ thể**.
+- `FW-041` Team Delivery System mô tả luồng công việc được thiết kế; `FW-071` cho thấy luồng quan hệ đang thực sự chạy.
+
+## Cách kết hợp với framework khác
+Chạy `FW-070` để thấy đặc tính chung → `FW-071` để thấy từng mối nối → quan hệ **critical + limited** chuyển thành hành động bằng `CON-004` và nhịp gặp định kỳ → nút thắt ở quản lý xử lý bằng `CON-003` và `FW-001`.
+
+## Nguồn
+- `[MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 34–37]`

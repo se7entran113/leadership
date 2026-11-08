@@ -1107,3 +1107,379 @@ Diễn giải bảng: câu yếu vi phạm hai tiêu chí — nó quy trách nhi
 
 ## Nguồn
 - `[MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 22]`
+
+=====
+
+---
+id: CON-021
+type: concept
+title_vi: Hai hệ thống tư duy — nhanh và chậm
+title_en: Two Systems - Thinking Fast and Slow
+aliases: [System 1, System 2, Kahneman, thinking fast and slow, tư duy nhanh và chậm]
+keywords: [thiên kiến, bias, trực giác, phản xạ, quyết định vội, System 1, System 2, vì sao tôi hay quyết sai khi gấp, não lười, bat and ball]
+levels: [SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03, TOP-MEGROW-05]
+problems_addressed: [PRB-004]
+related_ids: [FW-055, CON-022, CON-024, CON-006]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 12–13", "MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 36–53"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Hai hệ thống tư duy — nhanh và chậm (Two Systems - Thinking Fast and Slow)
+
+## Định nghĩa
+`[KHÓA HỌC]` Mô hình của Daniel Kahneman, Topic 03 slide 12 tóm lại thành **"Two systems, one brain"** — hai hệ thống, một bộ não:
+
+| | **SYSTEM 1 — fast** (nhanh) | **SYSTEM 2 — slow** (chậm) |
+|---|---|---|
+| Vận hành | Tự động, không tốn sức, luôn bật | Có chủ đích, logic, tốn sức |
+| Chạy bằng | Lối tắt và khuôn mẫu đã có | Suy luận từng bước |
+| Điểm mạnh / yếu | Xuất sắc với việc thường ngày — **sai một cách có thể đoán trước khi chịu áp lực** | **Lười: chỉ vào cuộc khi được triệu tập** |
+
+Diễn giải bảng: hai hệ thống không phải "tốt" và "xấu". System 1 là thứ giúp bạn xử lý hàng trăm việc mỗi ngày mà không kiệt sức; vấn đề là nó **không tự biết lúc nào mình không nên cầm lái**. System 2 có khả năng sửa, nhưng mặc định không bật — nó là hệ thống mà một quy trình như `FW-055` phải **chủ động triệu tập**.
+
+`[KHÓA HỌC]` Câu định khung của slide 12: **"Bias is built-in, not character."** — thiên kiến là thứ cài sẵn trong kiến trúc nhận thức, không phải vấn đề nhân cách. Hệ quả thực hành: không thể gỡ bỏ thiên kiến bằng thiện chí, chỉ có thể bù bằng kỷ luật.
+
+## Ý nghĩa trong thực tế quản lý
+Mọi phán đoán nhanh về con người — ai đang cố gắng, ai đang chững lại, việc này ai làm nhanh hơn — đều là sản phẩm của System 1. Chúng đến kèm cảm giác chắc chắn, và chính cảm giác chắc chắn đó là dấu hiệu cần dừng lại. Với một quản lý, chi phí của một phán đoán System 1 sai không rơi vào bản thân mình mà rơi vào sự nghiệp của người khác.
+
+`[KHÓA HỌC]` Topic 05 (AP Agnis Stibe) dùng lại chính mô hình Kahneman (slide 38 trưng bìa sách *Thinking, Fast and Slow* và chân dung tác giả) nhưng đi theo hướng khác: một chuỗi dài bài tập tri giác — tìm điểm khác nhau giữa hai ảnh tháp Eiffel (slide 45–46), hai ảnh dãy ô tô (slide 47–48), ảo giác bóng đổ bàn cờ (slide 51–52), ảo giác tháp nghiêng Pisa (slide 43), khối Rubik (slide 42) — để người học **tự trải nghiệm** việc bộ não dựng ra một thực tại không khớp dữ liệu đầu vào. Slide 41 gọi cả mảng này là **BRAIN GYM**, slide 53 kết bằng **CONGRATULATIONS** trên nền ảnh não.
+
+## Ví dụ
+`[KHÓA HỌC]` Topic 03 slide 13, hai câu đố 30 giây dùng để bắt quả tang System 1:
+- *"A bat and ball cost $1.10. The bat costs one dollar more than the ball. How much does the ball cost?"* — câu trả lời bật ra là 10 xu; đáp án đúng là 5 xu.
+- *"All roses are flowers. Some flowers fade quickly. Therefore some roses fade quickly."* — nghe như một tam đoạn luận đúng; thực ra kết luận không suy ra được từ hai tiền đề.
+
+Hướng dẫn kèm theo: *"Note your bias on flip chart"* — ghi ngay thiên kiến vừa bắt được vào bản đồ thiên kiến của bàn.
+
+`[KHÓA HỌC]` Topic 03 slide 11 `[HÌNH]`: một phép nhẩm **"25 x 14"** đặt cạnh ảnh một khuôn mặt giận dữ — hai kích thích cạnh nhau cho thấy khuôn mặt được xử lý tức thì bởi System 1, còn phép nhân đòi hỏi triệu tập System 2.
+
+`[KHÓA HỌC]` Topic 05 slide 35 nêu con số **1 : 10 000** cho số lối mòn thần kinh, slide 36 "HUMAN BRAIN" và slide 26 "NEUROPLASTICITY" — xem `CON-026`.
+
+## Liên quan
+- `FW-055` — quy trình năm bước là cách triệu tập System 2 một cách có kỷ luật; bước 1 PAUSE hỏi thẳng *"Is this System 1 talking?"*.
+- `CON-022` Expert bias — dạng System 1 nguy hiểm nhất với người vừa lên quản lý từ nền chuyên môn.
+- `CON-024` — hai bài tập của Topic 03 cho thấy System 1 vừa quá tự tin vừa bị mô tả dẫn dắt.
+- `CON-006` Tải nhận thức — khi tải cao, System 2 càng khó được triệu tập.
+- `[CẦN XÁC NHẬN]` Topic 05 slide 39 trưng bốn nhãn **DECISIVE · INTELLIGENT · RESISTIVE · INSTINCTIVE** trên ảnh não, xếp thành bốn góc, nhưng không có slide nào giải thích bốn trạng thái này hay hai trục của chúng. Chưa thể ghi là một framework — xem `open_questions.md` (OQ-011).
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 11–13]`
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 36–53]`
+- Kahneman, D. and Egan, P., 2011. *Thinking, fast and slow*. New York: Farrar, Straus and Giroux. (Topic 03 slide 29)
+
+=====
+
+---
+id: CON-022
+type: concept
+title_vi: Thiên kiến chuyên gia
+title_en: Expert Bias
+aliases: [expert bias, thiên kiến chuyên gia, curse of expertise]
+keywords: [thiên kiến chuyên gia, expert bias, tôi nhìn là biết, tự làm nhanh hơn, đánh giá người bằng cảm nhận chuyên môn, quản lý xuất thân kỹ thuật, không cần hỏi cũng biết]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-004, PRB-006]
+related_ids: [CON-021, CON-002, FW-055, FW-056, CON-023]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 14"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Thiên kiến chuyên gia (Expert Bias)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 03 slide 14 đặt tên cho thiên kiến mà cả buổi học nhắm vào — **Expert bias** (thiên kiến chuyên gia): *"Over-trusting technical/expert judgment where it doesn't apply: reading people, weighing effort, judging who's underperforming."* — tin quá mức vào phán đoán kỹ thuật hoặc phán đoán chuyên gia của mình ở những chỗ nó không áp dụng được: đọc người, ước lượng công sức người khác bỏ ra, và kết luận ai đang làm việc kém.
+
+Tiêu đề slide gọi đây là **"THE ONE THAT MATTERS HERE"** — thiên kiến đáng kể nhất với nhóm người học này, vì tất cả đều được thăng chức nhờ phán đoán chuyên môn tốt.
+
+Điểm mấu chốt: thiên kiến chuyên gia **không phải là sai về chuyên môn**. Phán đoán kỹ thuật của bạn vẫn đúng trong địa hạt kỹ thuật. Nó trở thành thiên kiến khi được mang sang một địa hạt khác — địa hạt con người — nơi nó không có cơ sở dữ liệu nào cả.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 14 cho ba câu mà thiên kiến chuyên gia phát ra — mục **"IT SOUNDS LIKE"**:
+
+| Câu nói | Thứ thực sự đang diễn ra |
+|---|---|
+| *"If she were really trying, it would be done by now"* | Lấy tốc độ của chính mình làm chuẩn cho nỗ lực của người khác |
+| *"It's faster if I do it myself."* | Đúng trong một lần, và là cách team không bao giờ lớn lên |
+| *"I don't need to ask – I can see the quality isn't there."* | Coi năng lực đọc chất lượng kỹ thuật là năng lực đọc nguyên nhân |
+
+Diễn giải bảng: cả ba câu đều có một phần đúng — đó là lý do chúng thuyết phục chính người nói. Vấn đề là mỗi câu đều **thay một câu hỏi bằng một kết luận**: thay "vì sao việc này chậm" bằng "cô ấy không cố gắng"; thay "ai nên sở hữu việc này" bằng "tôi làm nhanh hơn"; thay "điều gì khiến chất lượng thấp" bằng "chất lượng thấp".
+
+Ba câu này xuất hiện lại ở Activity 3 "The Leak" (slide 23, dòng 1, 4 và 6) — nghĩa là giảng viên coi chúng không chỉ là suy nghĩ riêng mà là những câu thực sự được nói ra trước mặt nhân viên. Xem `FW-056` để có phiên bản viết lại giữ nguyên tiêu chuẩn.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: một Data Scientist mất ba tuần cho một feature pipeline mà bạn ước lượng "hai ngày là xong". Phán đoán chuyên gia nói: người này chưa đủ giỏi. Thực tế có thể là quyền truy cập dữ liệu phải xin qua hai nhóm, hoặc định nghĩa nhãn chưa được chốt — những thứ không nằm trong trải nghiệm của bạn khi bạn còn tự làm với quyền truy cập sẵn có.
+
+`[KHÓA HỌC]` Trải nghiệm mở màn của buổi học (Activity 1B, slide 8–9) chính là một phép thử thiên kiến chuyên gia: cùng một bản tóm tắt mức sẵn sàng thăng chức của Alex, một kỹ sư trung cấp ở team payments platform, được chấm bởi hai nửa phòng — xem `CON-024`.
+
+## Liên quan
+- `CON-021` Hai hệ thống tư duy — thiên kiến chuyên gia chạy trên System 1, và càng giỏi chuyên môn thì khuôn mẫu càng chạy nhanh.
+- `CON-002` Ba cái bẫy của quản lý mới — cái bẫy "làm thay" là biểu hiện hành vi của chính câu *"It's faster if I do it myself."*
+- `CON-023` — vì sao ở vai trò quản lý, phán đoán chuyên gia đổi vị trí từ sản phẩm thành đầu vào.
+- `FW-055` — quy trình năm bước, đặc biệt bước OUTSIDE VIEW, là đối trọng trực tiếp.
+- `FW-023` AMO — khi đã dừng được kết luận "cô ấy không cố gắng", AMO là khung để tìm nguyên nhân thật.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 14]`
+
+=====
+
+---
+id: CON-023
+type: concept
+title_vi: Phán đoán của bạn từ sản phẩm thành đầu vào
+title_en: Your Judgment Moves from Product to Input
+aliases: [judgment as input, bias leaks, phán đoán là đầu vào]
+keywords: [chuyển từ chuyên môn sang quản lý, lời nói của quản lý, nhân viên nghe gì, thiên kiến rò rỉ, câu nói vô tình, sức nặng lời quản lý, IC sang manager]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-004, PRB-006]
+related_ids: [CON-001, CON-022, FW-056, CON-010]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 25, 28"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Phán đoán của bạn từ sản phẩm thành đầu vào (Your Judgment Moves from Product to Input)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 03 slide 25 nêu một cặp câu định nghĩa lại vai trò quản lý qua lăng kính phán đoán:
+
+> **"As a technical expert, your judgment was the product."**
+> **"As a manager, your judgment is an input – what you say is the product."**
+
+Với tư cách chuyên gia kỹ thuật, phán đoán của bạn **chính là sản phẩm**: bạn phân tích, bạn kết luận, kết luận đó là thứ được giao nộp. Với tư cách quản lý, phán đoán của bạn chỉ còn là **đầu vào** — thứ được giao nộp là **câu bạn nói ra**.
+
+Hệ quả đi kèm (cùng slide 25): **"Bias doesn't stay private. Your listener never hears the judgment – only the sentence."** — thiên kiến không ở lại trong đầu bạn; người nghe không bao giờ nghe được phán đoán, họ chỉ nghe được câu nói.
+
+## Ý nghĩa trong thực tế quản lý
+Khi phán đoán là sản phẩm, sai sót được phát hiện bằng cách kiểm tra lập luận — và người chịu hậu quả là chính bạn. Khi câu nói là sản phẩm, cơ chế hoàn toàn khác: câu nói đi vào người khác ngay lập tức, được họ diễn giải, và hậu quả rơi vào họ. Một phán đoán chưa kiểm được nói ra sẽ không bị tranh luận — nó bị **tin**.
+
+Đây là lý do Topic 03 có hai nửa chứ không phải một. Nửa đầu (`FW-055`) kiểm phán đoán. Nửa sau (`FW-056` "The Leak") kiểm **đường rò** từ phán đoán sang câu nói, vì slide 22 nói rõ: *"Bias doesn't stay in your head. It leaks into what you say, what you leave unsaid, and who you ask."* — thiên kiến rò rỉ vào ba chỗ: điều bạn nói, điều bạn **không** nói, và **người bạn chọn để hỏi**.
+
+Vế thứ ba đáng chú ý nhất vì nó vô hình: bạn hỏi ý ai về một người, bạn mời ai vào một dự án, bạn xin review của ai — mỗi lựa chọn đó đã mang theo phán đoán chưa kiểm của bạn.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 28, lời kết của buổi học: *"You were promoted because your judgment was better than most people's. This morning asked you to audit it – before it becomes a decision about someone else, and before it becomes a sentence you can't take back."* — bạn được thăng chức vì phán đoán của bạn tốt hơn phần lớn mọi người; buổi sáng nay yêu cầu bạn kiểm nó, trước khi nó trở thành một quyết định về người khác, và trước khi nó trở thành một câu nói không rút lại được.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: bạn nghĩ "model này chưa đủ chín để demo". Là IC, kết luận đó là sản phẩm — bạn không demo, hết chuyện. Là quản lý, thứ được giao nộp là câu bạn nói trong standup. *"Cái này chưa ổn đâu"* và *"Mình cần thấy số trên tập holdout trước khi demo — bạn chạy được trong hôm nay không?"* mang cùng một phán đoán nhưng là hai sản phẩm hoàn toàn khác nhau.
+
+## Liên quan
+- `CON-001` Chuyển dịch tư duy từ chuyên môn sang quản lý — cùng một bước chuyển, nhìn từ góc thước đo thành công; `CON-023` nhìn từ góc phán đoán và lời nói.
+- `CON-022` Thiên kiến chuyên gia — chính phán đoán từng là sản phẩm nay trở thành nguồn rủi ro.
+- `FW-056` The Leak — công cụ kiểm đường rò từ phán đoán sang câu nói.
+- `CON-010` Quan sát thay vì phán xét, phép thử camera — luật viết lại câu mở đầu để nó mô tả hành vi thay vì dán nhãn.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 22, 25, 28]`
+
+=====
+
+---
+id: CON-024
+type: concept
+title_vi: Quá tự tin và hiệu ứng của mô tả lên đánh giá con người
+title_en: Overconfidence and the Framing Effect in Judging People
+aliases: [overconfidence, calibration, anchoring, framing effect, quá tự tin, hiệu ứng mỏ neo]
+keywords: [quá tự tin, overconfidence, khoảng tin cậy, đánh giá nhân viên, hồ sơ thăng chức, một dòng mô tả đổi cả đánh giá, mỏ neo, anchoring, halo effect, chấm điểm sẵn sàng]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-03]
+problems_addressed: [PRB-006, PRB-004]
+related_ids: [CON-021, CON-022, FW-055, FW-057]
+source: ["MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 4–10"]
+source_type: course
+confidence: high
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Quá tự tin và hiệu ứng của mô tả lên đánh giá con người (Overconfidence and the Framing Effect in Judging People)
+
+## Định nghĩa
+`[KHÓA HỌC]` Topic 03 mở đầu bằng hai bài tập liên tiếp (Activity 1A và 1B) chứng minh hai tính chất của phán đoán nhanh, không bằng lý thuyết mà bằng chính người học:
+
+1. **Quá tự tin (overconfidence):** mức chắc chắn bạn tự gán cho phán đoán của mình cao hơn độ chính xác thực tế của nó.
+2. **Hiệu ứng mô tả (framing/anchoring):** một câu mô tả bối cảnh, không hề thay đổi dữ kiện về năng lực, vẫn làm dịch chuyển đánh giá của bạn về một con người.
+
+Hai tính chất này cộng lại tạo ra tình huống nguy hiểm nhất trong quản lý: một đánh giá **bị tác động bởi thứ không liên quan**, nhưng lại **được cảm nhận là chắc chắn**.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` **Activity 1A — Estimation warm-up** (slide 4–7). Luật chơi: với mỗi câu hỏi, viết một khoảng LOW–HIGH sao cho bạn **90% chắc** sự thật nằm trong khoảng đó. Slide 4 cảnh báo trước: *"No gaming — Don't play safe with an unreasonably wide range. Honest 90%."* Ví dụ mẫu: *"Height of Mount Everest?" → MY LOW: 7,000 m, MY HIGH: 10,000 m.*
+
+Hai câu hỏi về chính Zalo (slide 5): *"How many people worked at this company exactly five years ago?"* và *"What percentage of our engineers joined in the last two years?"*
+
+Rồi phần siết (slide 6): *"Hands up if you are 90% confident the truth is inside your range."* — và ngay sau đó: **"Keep your hand up only if you'd bet 500,000₫ on your range."** Đáp án ở slide 7: **1097** người và **18.82%**.
+
+Diễn giải: cú siết bằng tiền là thiết kế có chủ đích. Khoảng cách giữa số tay giơ ở câu đầu và số tay còn lại sau câu thứ hai chính là **phần tự tin không có cơ sở**. Người học nói "90%" nhưng không ai thực sự định giá niềm tin đó ở mức 90%.
+
+`[KHÓA HỌC]` **Activity 1B — Alex** (slide 8–9). Mỗi bàn nhận một trang: bản tóm tắt mức sẵn sàng thăng chức của **Alex, một kỹ sư trung cấp ở team payments platform**. Hướng dẫn slide 8: đọc một mình trong 2 phút, không thảo luận; chấm *"how ready is Alex?"* trên thang 1–10 (1 = chưa sẵn sàng chút nào, 10 = sẵn sàng ngay); và **"Trust your first read. Don't revise it."**
+
+Cú lật ở slide 9 — **"Same engineer. Two ratings"**: hai nửa phòng thực ra đã đọc hai phiên bản khác nhau ở đúng một dòng.
+
+| Phiên bản | Dòng mô tả |
+|---|---|
+| **[X]** | *"top graduate of an elite CS programme"* |
+| **[Y]** | *"hired after failing the first interview round"* |
+
+Diễn giải bảng: mọi dữ kiện về hiệu suất hiện tại của Alex đều giống hệt nhau ở hai bản. Thứ duy nhất đổi là một mệnh đề về quá khứ tuyển dụng — và nó kéo điểm sẵn sàng đi theo. Đây chính xác là cơ chế đang chạy ngầm trong mọi buổi review hiệu suất có kèm hồ sơ.
+
+## Ví dụ
+`[KHÓA HỌC]` Sau hai hoạt động, slide 10 yêu cầu mỗi bàn bắt đầu **bản đồ thiên kiến** trên flip chart với bốn cột: *What we just experienced · What it's called (our name / research name) · The System 1 shortcut behind it (optional) · Where it costs us at work.* Hướng dẫn: điền ngay hai dòng cho hai thứ vừa xảy ra với chính mình, các dòng còn lại bổ sung trong buổi.
+
+`[BỔ SUNG]` Bối cảnh team Data Science: khi đọc hồ sơ ứng viên hoặc hồ sơ thăng cấp, dòng "từng là intern được giữ lại" và dòng "tốt nghiệp thủ khoa" đóng vai trò hệt như hai phiên bản của Alex. Cách bù đơn giản: che phần tiểu sử, chấm phần bằng chứng hiệu suất trước, rồi mới mở phần còn lại.
+
+## Liên quan
+- `CON-021` Hai hệ thống tư duy — cả hai hiệu ứng đều là System 1 chạy khi không ai triệu tập System 2.
+- `CON-022` Thiên kiến chuyên gia — Activity 1B là phép thử trực tiếp lên nó: chuyên môn kỹ thuật không bảo vệ được bạn khỏi một dòng mô tả.
+- `FW-055` — bước EVIDENCE hỏi *"What would change my mind?"*, bước DECIDE & LOG buộc ghi giả định yếu; cả hai nhắm thẳng vào quá tự tin.
+- `FW-057` — "Audit the Algorithm" cho thấy cùng cơ chế này khi nguồn mô tả là một hệ thống AI.
+- `FW-029` Thang đo Mức sẵn sàng phát triển — khi đã biết đánh giá sẵn sàng dễ trượt thế nào, dùng thang có tiêu chí thay cho cảm nhận.
+
+## Nguồn
+- `[MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 4–10]`
+
+=====
+
+---
+id: CON-025
+type: concept
+title_vi: Hiệu suất vượt trội và kiệt sức là hai nhánh của cùng một con đường
+title_en: Hyper-Performance and Burnout as Two Branches of One Path
+aliases: [hyper-performance, burnout, sustainable hyper performance, kiệt sức, hiệu suất bền vững]
+keywords: [kiệt sức, burnout, làm nhiều giờ, luôn sẵn sàng, hiệu suất bền vững, cày cuốc rồi đuối, năng lượng cạn, cân bằng, làm việc cường độ cao lâu dài, mất lửa]
+levels: [SELF, TEAM]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004, PRB-007]
+related_ids: [FW-059, FW-063, CON-026, FW-064, CON-013]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 7–21, 29–31, 64"]
+source_type: course
+confidence: medium
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Hiệu suất vượt trội và kiệt sức là hai nhánh của cùng một con đường (Hyper-Performance and Burnout as Two Branches of One Path)
+
+## Định nghĩa
+`[KHÓA HỌC]` Trục xuyên suốt nửa đầu Topic 05: **hyper-performance** (hiệu suất vượt trội) và **burnout** (kiệt sức) không phải hai trạng thái đối lập mà là **hai nhánh tách ra từ cùng một con đường**, và điều quyết định bạn đi nhánh nào không phải cường độ làm việc.
+
+Slide 18 đặt hai chữ ở hai góc đối diện — **HYPER PERFORMANCE** góc trên trái, **BURNOUT** góc dưới phải — trên nền một hình âm dương, và ở ngay tâm hình, chỗ hai nửa gặp nhau, là hai chữ **MY THOUGHTS** (suy nghĩ của tôi). Diễn giải: hai kết cục chia nhau cùng một vùng, và thứ nằm ở ranh giới quyết định hướng đi là suy nghĩ của chính người trong cuộc.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Slide 30 vẽ ba đường cong trên hệ trục **PERFORMANCE × TIME**:
+
+| Đường | Hình dạng | Ý nghĩa |
+|---|---|---|
+| Đỏ | Vọt lên rất nhanh, đạt đỉnh cao nhất sớm nhất, rồi **sụp xuống gần như về không** | Bung sức tối đa trong thời gian ngắn |
+| Vàng | Lên chậm hơn, đỉnh thấp hơn nhưng muộn hơn, rồi cũng **suy giảm dần** | Nỗ lực cao vừa phải, vẫn không bền |
+| Xanh — **KNOWLEDGE + BEHAVIOR** | Đường thẳng **đi lên đều, không có đỉnh**, cắt qua cả hai đường kia và tiếp tục lên | **HYPER-PERFORMANCE** |
+
+Diễn giải bảng: điểm quan trọng nhất là **hai đường cong kia thắng ở giai đoạn đầu**. Trong khoảng thời gian ngắn ban đầu, người bung sức trông hiệu quả hơn hẳn người xây dựng kiến thức và hành vi. Đường xanh chỉ vượt lên **sau điểm giao cắt**. Đây là lý do cơ chế này khó nhìn ra từ bên trong: phản hồi sớm luôn ủng hộ nhánh dẫn tới kiệt sức.
+
+Nhãn của đường xanh — **KNOWLEDGE + BEHAVIOR** — nối thẳng sang `FW-064`: hiệu suất bền vững đến từ việc biến điều mình biết thành hành vi lặp lại, không đến từ việc dồn sức.
+
+`[KHÓA HỌC]` Slide 31 vẽ điểm rẽ ở dạng khác: một mũi tên xanh đi lên **HYPER PERFORMANCE**, một mũi tên tách ra đi gần như ngang về phía **BURNOUT**, và một mũi tên đỏ nhỏ uốn ngược **từ nhánh burnout quay lại nhánh đi lên**, đặt ngay sát điểm rẽ. Diễn giải: quay lại được, nhưng đường quay lại được vẽ **ở gần chỗ rẽ** — càng đi xa trên nhánh ngang thì càng không có mũi tên nào vẽ ngược lại.
+
+Mạch slide 7–21 dẫn vào ý này bằng một chuỗi hình ảnh: **WRONG SHORTCUTS** (slide 7) — những lối tắt sai; **WHAT IS BURNOUT** (slide 10); **LOST BALANCE** (slide 16) — mất cân bằng; **BURNOUT MASK** (slide 17) — chiếc mặt nạ che kiệt sức; rồi **PERFORMANCE CHALLENGES** (slide 19) và **REPLACING THOUGHTS** (slide 21) — thay thế suy nghĩ, nối lại với hai chữ MY THOUGHTS ở tâm slide 18.
+
+## Ví dụ
+`[KHÓA HỌC]` Slide 64 đặt tên cho đích đến: **SUSTAINABLE HYPER PERFORMANCE**. Slide 73 diễn đạt thành lời: *"Optimize for sustainable hyper-performance. The goal is not maximum short-term output, but sustained high-value performance without unnecessary cognitive overload or long-term harm."* — mục tiêu không phải sản lượng ngắn hạn tối đa, mà hiệu suất giá trị cao được duy trì, không kèm quá tải nhận thức không cần thiết hay tổn hại dài hạn.
+
+`[KHÓA HỌC]` Dòng 10 của bảng `FW-059` là dạng tổ chức của chính cơ chế này: *"High-growth expectations encourage long hours and permanent availability → Short-term output may undermine sustained hyper-performance."*
+
+`[BỔ SUNG]` Bối cảnh team Data Science: một Senior nhận cả ba dự án trong quý và hoàn thành xuất sắc — đường đỏ ở giai đoạn trước điểm giao. Dấu hiệu của nhánh ngang không phải là kết quả kém mà là những thứ biến mất trước: không còn đặt câu hỏi trong design review, không còn đề xuất gì mới, chỉ làm đúng việc được giao. Quản lý nhìn vào kết quả giao hàng sẽ không thấy gì bất thường cho tới khi đã đi quá xa điểm rẽ.
+
+## Liên quan
+- `FW-063` Guiding Arrows — cùng ý tưởng điểm rẽ, trình bày ở dạng năm hướng tỏa ra từ một điểm.
+- `CON-026` Thay đổi tích lũy 1% — cơ chế số học của đường xanh đi lên đều.
+- `FW-064` Knowledge–Behaviour Gap — chính là tên của đường xanh.
+- `CON-013` Tự nhận thức và tự quản lý — "MY THOUGHTS" ở tâm hình là địa hạt của tự nhận thức; nhận ra mình đang ở nhánh nào là điều kiện để đổi nhánh.
+- `PRB-007` Động lực, gắn kết và giữ người — nhìn cùng hiện tượng từ phía quản lý quan sát nhân viên.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 7–21, 29–31, 64, 73]`
+- `[CẦN XÁC NHẬN]` Phần lớn các slide này là ảnh và video chỉ kèm một tới hai chữ; mạch lập luận nối chúng lại là `[SUY LUẬN]` của Claude dựa trên hình ảnh, nhãn và thứ tự slide. Giảng viên có thể đã nói thêm nhiều nội dung không có trên slide — xem `open_questions.md` (OQ-014).
+
+=====
+
+---
+id: CON-026
+type: concept
+title_vi: Thay đổi tích lũy 1% và tính dẻo của não
+title_en: The 1% Compounding Effect and Neuroplasticity
+aliases: [1.01^365, compounding, neuroplasticity, marginal gains, tích lũy mỗi ngày, tính dẻo thần kinh]
+keywords: [cải thiện mỗi ngày một chút, thay đổi bản thân, tôi không thay đổi được, thói quen, lãi kép, tích lũy, 1 phần trăm mỗi ngày, trung thực với bản thân, đổi thói quen ở tuổi này]
+levels: [SELF]
+courses: [MEGROW]
+topics: [TOP-MEGROW-05]
+problems_addressed: [PRB-004]
+related_ids: [CON-025, FW-063, FW-064, CON-021]
+source: ["MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 22–28, 35"]
+source_type: course
+confidence: medium
+status: verified
+replaced_by:
+last_updated: 2026-11-08
+---
+
+# Thay đổi tích lũy 1% và tính dẻo của não (The 1% Compounding Effect and Neuroplasticity)
+
+## Định nghĩa
+`[KHÓA HỌC]` Slide 25 của Topic 05 đặt cạnh nhau hai phép tính:
+
+> **1.01³⁶⁵ = 37.78**
+> **0.99³⁶⁵ = 0.03**
+
+Tốt hơn 1% mỗi ngày trong một năm cho kết quả gấp gần **38 lần**; kém đi 1% mỗi ngày trong cùng khoảng thời gian cho kết quả còn **3%**. Hai con số xuất phát từ cùng một điểm và chỉ chênh nhau 2% mỗi ngày.
+
+Diễn giải: điểm đáng chú ý không phải con số 37.78 mà là **tính bất đối xứng**. Khoảng cách giữa hai kết quả lớn hơn nhiều so với cảm nhận trực giác về một chênh lệch 1%, và quan trọng hơn — ở ngày thứ nhất, hai lựa chọn này **không phân biệt được với nhau**. Đây là phiên bản số học của hình năm mũi tên ở `FW-063`.
+
+## Ý nghĩa trong thực tế quản lý
+`[KHÓA HỌC]` Mạch slide 22–28 dựng lập luận rằng thay đổi tích lũy là **khả thi về mặt sinh học**, không chỉ là lời động viên:
+
+| Slide | Nội dung | Vai trò trong lập luận |
+|---|---|---|
+| 22 | `[HÌNH]` Bộ ảnh cá nhân của giảng viên từ nhỏ tới thanh niên | Bằng chứng kể chuyện: một người đã tự thay đổi |
+| 23 | **I CAN CHANGE** / **I CAN'T CHANGE** | Đặt thẳng lựa chọn niềm tin — và chính niềm tin đó là biến số |
+| 24 | **HYPER DAY** | Đơn vị thời gian của thay đổi là **một ngày** |
+| 25 | 1.01³⁶⁵ = 37.78 · 0.99³⁶⁵ = 0.03 | Cơ chế toán học |
+| 26 | **NEUROPLASTICITY** | Cơ chế sinh học: não thay đổi cấu trúc theo trải nghiệm lặp lại |
+| 27 | **RELENTLESS HONESTY** | Điều kiện tiên quyết: trung thực không khoan nhượng với chính mình |
+
+Diễn giải bảng: thứ tự này có logic riêng. Slide 23 nêu niềm tin, slide 25–26 cung cấp cơ sở để niềm tin đó không phải tự huyễn hoặc, và slide 27 thêm điều kiện ràng buộc. **Relentless honesty** là mảnh dễ bỏ qua nhất: tích lũy 1% chỉ hoạt động nếu bạn đo đúng mình đang ở đâu — tự đánh giá rộng rãi với bản thân sẽ cho đường 0.99 trong khi bạn tin mình đang đi đường 1.01. Điều này nối thẳng với `CON-024`: con người quá tự tin một cách hệ thống về phán đoán của chính mình.
+
+`[KHÓA HỌC]` Slide 35 đưa con số **1 : 10 000** kèm hình ảnh những lối mòn tự hình thành trên bãi cỏ (nguồn về "creating your own pathways"), slide 36 **HUMAN BRAIN**. Diễn giải `[SUY LUẬN]`: tỷ lệ này minh họa khoảng cách giữa một lối đi mới và mạng lưới lối mòn đã có — một hành vi mới phải cạnh tranh với một số lượng rất lớn đường mòn sẵn, nên nó thua ở những lần đầu không phải vì nó sai mà vì nó chưa được đi đủ nhiều.
+
+## Ví dụ
+`[BỔ SUNG]` Bối cảnh team Data Science: không thể "trở thành người giao việc tốt" trong một quý. Nhưng một quyết định 1% mỗi ngày thì làm được — mỗi lần định tự sửa một đoạn code của DS, dừng lại và viết một câu hỏi thay vì một bản vá. Ngày đầu tiên hai cách này cho kết quả như nhau, và đó chính là lý do cần cơ chế ở `FW-064` chứ không chỉ cần ý chí.
+
+`[BỔ SUNG]` Phiên bản **relentless honesty** cho vai trò quản lý: ghi lại trong hai tuần số lần bạn thực sự để người khác hoàn thành một việc theo cách của họ. Con số thật thường thấp hơn nhiều so với con số bạn tin.
+
+## Liên quan
+- `CON-025` Hiệu suất vượt trội và kiệt sức — đường xanh "KNOWLEDGE + BEHAVIOR" đi lên đều chính là đường 1.01 vẽ trên trục thời gian.
+- `FW-063` Guiding Arrows — cùng nguyên lý ở dạng hình học: chênh một góc nhỏ, sau quãng đường dài thành khoảng cách lớn.
+- `FW-064` Knowledge–Behaviour Gap — cơ chế để một ý định 1% thực sự thành hành vi lặp lại thay vì dừng ở ý định.
+- `CON-021` Hai hệ thống tư duy — lối mòn thần kinh là nền vật lý của khuôn mẫu System 1.
+- `CON-024` Quá tự tin — lý do **relentless honesty** phải là điều kiện bắt buộc chứ không phải lời khuyên thêm.
+
+## Nguồn
+- `[MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 22–28, 35–36]`
+- `[CẦN XÁC NHẬN]` Các slide trong mạch này hầu hết chỉ có một tới hai chữ trên nền ảnh. Việc nối chúng thành một lập luận liền mạch là `[SUY LUẬN]` của Claude — xem `open_questions.md` (OQ-014).

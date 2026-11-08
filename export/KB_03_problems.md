@@ -94,9 +94,9 @@ aliases: [stakeholder, thuyết phục không có quyền, quản lý kỳ vọn
 keywords: [stakeholder, thuyết phục khi không có quyền chỉ đạo, chuyển ngôn ngữ business sang bài toán DS, quản lý kỳ vọng, độ bất định, biết từ chối, đề xuất bị bác, bị giao việc không hợp lý, làm việc với bộ phận khác]
 levels: [ORG]
 courses: [MEGROW]
-topics: [TOP-MEGROW-12, TOP-MEGROW-19, TOP-MEGROW-14, TOP-MEGROW-16, TOP-MEGROW-17]
+topics: [TOP-MEGROW-12, TOP-MEGROW-19, TOP-MEGROW-14, TOP-MEGROW-16, TOP-MEGROW-17, TOP-MEGROW-03]
 problems_addressed: []
-related_ids: [FW-022, FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017, FW-018, FW-019, FW-020, FW-021, CON-007, CON-008, FW-037, FW-048, FW-051, FW-052, FW-054]
+related_ids: [FW-022, FW-011, FW-012, FW-013, FW-014, FW-015, FW-016, FW-017, FW-018, FW-019, FW-020, FW-021, CON-007, CON-008, FW-037, FW-048, FW-051, FW-052, FW-054, FW-058]
 source: ["MEGROW | Topic 12 | Topic 12 - Stakeholder Influence & Leadership in Technology - Prof Seng Kiat Kok.pdf | Slide 1–41", "MEGROW | Topic 19 | Topic 19 - Present Business Case - Dr Tony Nguyen.pdf | Slide 1–33", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 4–12", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 17–21, 31–33", "MEGROW | Topic 17 | Topic 17 - Apply Strategic Thinking - AP Burkhard Schrage.pdf | Slide 33–35"]
 source_type: course
 confidence: high
@@ -149,6 +149,8 @@ Mức ưu tiên: **Cao** (vấn đề số 2).
 | Cam kết con số khi bài toán còn bất định | Kỳ vọng bị đặt sai | `FW-037` |
 | Trình bày phương án mà không khuyến nghị | Bị coi là đẩy quyết định | `FW-048` |
 | Xin trợ giúp không rõ cần gì | Lời đề nghị bị trôi | `FW-054` |
+| Dùng lập luận đã thuyết phục chính mình cho mọi đối tượng | Hiệu quả với người này, thất bại với người kia | `FW-058` |
+| Chưa kiểm nền tảng niềm tin theo từng quan hệ | Lý lẽ đúng nhưng không được tin | `FW-058` |
 
 Diễn giải bảng: nhóm đầu là **quan hệ**; nhóm giữa là **truyền đạt**; năm dòng cuối là **đóng khung bài toán chung**.
 
@@ -179,9 +181,9 @@ aliases: [quy trình làm việc, cách ra quyết định của team, chuẩn c
 keywords: [quy trình, process, phối hợp, coordination, ra quyết định, decision making, tiêu chuẩn chất lượng, nút thắt, bottleneck, team làm việc lộn xộn, ai quyết cái gì, họp nhiều mà không ra quyết định]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14, TOP-MEGROW-02, TOP-MEGROW-16]
+topics: [TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-14, TOP-MEGROW-02, TOP-MEGROW-16, TOP-MEGROW-05, TOP-MEGROW-07]
 problems_addressed: []
-related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021, FW-035, FW-038, FW-039, FW-041, FW-042, CON-016, FW-049, FW-050, FW-051, FW-052, CON-020, FW-053, FW-054]
+related_ids: [FW-006, FW-010, CON-003, CON-005, CON-006, CON-009, FW-020, FW-021, FW-035, FW-038, FW-039, FW-041, FW-042, CON-016, FW-049, FW-050, FW-051, FW-052, CON-020, FW-053, FW-054, FW-060, FW-061, FW-062, FW-065, FW-065-01, FW-070, FW-071]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 35–37", "MEGROW | Topic 14 | Topic 14 - Decision Making in Cross-functional Team - Phuong Nguyen.pdf | Slide 13", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 13, 21–33", "MEGROW | Topic 16 | Topic 16 - Solve Tech and Org Blockers - Thuan Nguyen & Bidyut Hazarika.pdf | Slide 9–35"]
 source_type: course
 confidence: medium
@@ -231,6 +233,10 @@ Mức ưu tiên: **Cao** (vấn đề số 3 trong `problem_index.md`).
 | Không có quy trình chẩn đoán blocker liên chức năng | Họp tăng, tiến độ không đổi | `FW-049`, `FW-050`, `FW-051` |
 | Nhảy vào giải pháp trước khi định nghĩa vấn đề | Làm xong mới biết không trúng gốc | `FW-052`, `CON-020` |
 | Không thử nhỏ trước khi triển khai rộng | Áp cho cả team rồi mới biết không chạy | `FW-053`, `FW-053-01` |
+| Không ai nói rõ AI được đi tới đâu trong quy trình | Đầu ra AI được tin theo quán tính | `FW-065`, `FW-065-01`, `FW-057` |
+| Việc đến không được phân loại trước khi làm | Ai hỏi trước được làm trước | `FW-060`, `FW-061`, `FW-062` |
+| Rào cản hợp tác chưa được gọi tên | "Phối hợp chưa tốt" lặp lại qua nhiều quý | `FW-070` |
+| Không biết luồng phụ thuộc thật trong team | Tắc ở chỗ không ai dự đoán được | `FW-071` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Vấn đề nằm ở mục tiêu và cách đo chứ không ở quy trình → thuộc vấn đề số 1. `[SUY LUẬN]` Topic 02 phụ trách, chưa xử lý.
@@ -257,10 +263,10 @@ aliases: [IC to manager, chuyển sang quản lý, mới lên làm sếp]
 keywords: [buông việc kỹ thuật, làm thay nhân viên, cân bằng tự làm và dẫn dắt, quản lý thời gian, quản lý năng lượng, tôi vẫn đang code nhiều quá, không có thời gian cho team, mới lên quản lý]
 levels: [SELF]
 courses: [MEGROW]
-topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-08, TOP-MEGROW-02]
+topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-08, TOP-MEGROW-02, TOP-MEGROW-03, TOP-MEGROW-05]
 problems_addressed: []
-related_ids: [FW-002, FW-003, FW-004, FW-001, FW-005, CON-001, CON-002, CON-013, CON-014, CON-016, FW-035]
-source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 4–13, 20–24", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 2, 7, 21–27", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 9–10, 13, 33"]
+related_ids: [FW-002, FW-003, FW-004, FW-001, FW-005, CON-001, CON-002, CON-013, CON-014, CON-016, FW-035, CON-022, CON-023, CON-025, CON-026, FW-055, FW-059, FW-060, FW-061, FW-064]
+source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 4–13, 20–24", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 2, 7, 21–27", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 9–10, 13, 33", "MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 14, 25, 28", "MEGROW | Topic 05 | Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf | Slide 2–5, 29–33, 73–75"]
 source_type: course
 confidence: high
 status: verified
@@ -303,11 +309,16 @@ Mức ưu tiên: **Cao** (vấn đề số 4 trong `problem_index.md`).
 | Vẫn đo giá trị bản thân bằng việc mình tự giải, không bằng việc hệ thống chạy | Tự làm phần khó nhất, team không ai nắm | `CON-014` |
 | Giữ cảm giác kiểm soát bằng cách theo dõi từng người | Hỏi tiến độ cá nhân thay vì nhìn trạng thái công việc | `CON-016` |
 | Chưa chuyển sang ba động tác Translate – Coordinate – Adjust | Mạnh điều phối, yếu dịch định hướng, bỏ hẳn điều chỉnh | `FW-035` |
+| Phán đoán chuyên môn vẫn được dùng để đọc người | *"Nếu cô ấy thực sự cố thì đã xong rồi"* | `CON-022`, `FW-055` |
+| Chưa nhận ra phán đoán nay chỉ là đầu vào, câu nói mới là sản phẩm | Nói ra kết luận chưa kiểm, nhân viên tiếp nhận như sự thật | `CON-023`, `FW-056` |
+| Không phân biệt việc gấp với việc có tác động cao | Lịch kín, cuối tuần không có việc quan trọng nào tiến lên | `FW-059`, `FW-061` |
+| Trở thành nút thắt của mọi quyết định | Cấp trên đòi nhanh, team chờ mình quyết | `FW-059`, `FW-060` |
+| Dồn sức thay vì xây hành vi lặp lại | Hiệu suất vọt lên rồi suy giảm; dấu hiệu kiệt sức | `CON-025`, `CON-026`, `FW-064` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Bạn đã thử buông nhưng chất lượng tụt rõ rệt → vấn đề là năng lực team, chuyển sang `PRB-005`.
 - Nguyên nhân nằm ở nguồn lực hoặc ưu tiên mâu thuẫn từ trên xuống → đó là vấn đề tổ chức, không phải chuyển dịch cá nhân.
-- Quá tải kéo dài kèm dấu hiệu kiệt sức → cần can thiệp về khối lượng công việc, không phải thêm framework. `[SUY LUẬN]` Topic 05 có nội dung về burnout, sẽ bổ sung liên kết khi xử lý topic đó.
+- Quá tải kéo dài kèm dấu hiệu kiệt sức → cần can thiệp về khối lượng công việc, không phải thêm framework. Xem `CON-025` về hai nhánh hyper-performance và burnout, và `FW-059` dòng 10 (*Performance vs. wellbeing*).
 
 ## Chỉ số theo dõi sau xử lý
 - Số quyết định kỹ thuật phải quay về bạn mỗi tuần (kỳ vọng: giảm).
@@ -331,9 +342,9 @@ aliases: [giao việc, phân công, trao quyền cho senior, phạm vi cho colla
 keywords: [giao việc, delegation, trao quyền, empower, phát triển nhân viên, mức sẵn sàng, readiness, senior, collaborator, người giỏi quá tải, không dám giao việc, giao rồi vẫn phải làm lại]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-09, TOP-MEGROW-02]
+topics: [TOP-MEGROW-01, TOP-MEGROW-06, TOP-MEGROW-10, TOP-MEGROW-09, TOP-MEGROW-02, TOP-MEGROW-05]
 problems_addressed: []
-related_ids: [FW-001, FW-001-01, FW-001-02, FW-005, FW-006, FW-009, FW-010, FW-028, FW-029, FW-031, CON-002, CON-003, CON-004, CON-005, CON-006, FW-036, FW-037, FW-041]
+related_ids: [FW-001, FW-001-01, FW-001-02, FW-005, FW-006, FW-009, FW-010, FW-028, FW-029, FW-031, CON-002, CON-003, CON-004, CON-005, CON-006, FW-036, FW-037, FW-041, FW-059, FW-060, FW-062, CON-022]
 source: ["MEGROW | Topic 01 | Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf | Slide 15–19", "MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 2–5, 59–61, 64–65", "MEGROW | Topic 10 | Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf | Slide 24–36", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 31–38", "MEGROW | Topic 02 | Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf | Slide 16–19, 30"]
 source_type: course
 confidence: high
@@ -379,6 +390,8 @@ Mức ưu tiên: **Cao** (vấn đề số 5 trong `problem_index.md`).
 | Giao thử thách không tương xứng mức sẵn sàng | Quá tải, hoặc bỏ phí người đã sẵn sàng | `FW-029` |
 | Chưa tìm nguyên nhân gốc trước khi quyết cách phát triển | Giao thêm việc trong khi gốc ở Career hoặc Environment | `FW-028` |
 | Mục tiêu giao cho từng người mơ hồ; không tách Responsibility khỏi Accountability | Giao xong vẫn phải theo sát, không ai thật sự chịu kết quả | `FW-036`, `FW-037`, `FW-041` |
+| Lấy việc lại vì "tự làm nhanh hơn" dưới áp lực deadline | Hiệu quả ngắn hạn, phụ thuộc dài hạn | `FW-059` (dòng 8), `CON-022` |
+| Không hỏi "việc này có cần tôi không" trước khi xếp lịch | Quản lý thành nút thắt | `FW-060`, `FW-062` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Năng lực đủ nhưng kết quả vẫn hỏng → nguyên nhân ở hệ thống, xem `CON-006` và `CON-012`.
@@ -409,10 +422,10 @@ aliases: [góp ý, phản hồi, coaching, trao đổi hiệu suất]
 keywords: [góp ý, feedback, coaching, trao đổi hiệu suất, nói chuyện khó, nhân viên làm chưa tốt, hành vi không phù hợp, ngại góp ý, góp ý rồi không đổi, phát triển nhân viên]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-04, TOP-MEGROW-08, TOP-MEGROW-09]
+topics: [TOP-MEGROW-04, TOP-MEGROW-08, TOP-MEGROW-09, TOP-MEGROW-03, TOP-MEGROW-07]
 problems_addressed: []
-related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013]
-source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5–35", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 7–42", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–51"]
+related_ids: [FW-023, FW-024, FW-025, FW-025-01, FW-026, FW-027, FW-028, FW-029, FW-030, FW-031, FW-032, CON-010, CON-011, CON-012, CON-013, FW-055, FW-056, FW-057, FW-069, FW-068-01, CON-022, CON-023, CON-024]
+source: ["MEGROW | Topic 04 | Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf | Slide 5–35", "MEGROW | Topic 08 | Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf | Slide 7–42", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 6–51", "MEGROW | Topic 03 | Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf | Slide 4–28", "MEGROW | Topic 07 | Topic 7 - Building Team Capability and Growth - Thao Luong.pdf | Slide 18, 25–28"]
 source_type: course
 confidence: high
 status: verified
@@ -462,8 +475,13 @@ Mức ưu tiên: **Trung bình** (vấn đề số 6).
 | Khuyên trước khi có bằng chứng | Nhận luôn lời tự chẩn đoán của họ | `FW-030` |
 | Không chốt cam kết quan sát được | *"Em sẽ cố gắng hơn"* rồi thôi | `FW-025-01` |
 | Nguyên nhân ở hướng nghề nghiệp dài hạn | Làm đủ việc nhưng mất lửa | `FW-031` |
+| Phán đoán chưa được kiểm trước khi thành cuộc trò chuyện | Kỹ thuật nói chuyện tốt nhưng kết luận sai từ đầu | `FW-055`, `CON-022` |
+| Mức tự tin về đánh giá cao hơn độ chính xác thật | Chấm sẵn sàng thăng chức bằng cảm nhận | `CON-024`, `FW-029` |
+| Dùng số liệu hoạt động thay cho bằng chứng hiệu suất | Đếm commit, tin nhắn, ticket | `FW-057` |
+| Thiên kiến rò vào câu chữ | Nhân viên nghe "tôi không được tin" | `FW-056`, `CON-023` |
+| Không có kênh phản hồi ngang hàng | Điểm mù tồn tại vô hạn vì không ai nói | `FW-069`, `FW-068-01` |
 
-Diễn giải bảng: sáu dòng đầu là lỗi **chẩn đoán và mở đầu**; bảy dòng sau là lỗi **cách coach và chốt**.
+Diễn giải bảng: sáu dòng đầu là lỗi **chẩn đoán và mở đầu**; bảy dòng tiếp là lỗi **cách coach và chốt**; sáu dòng cuối (từ Topic 03 và Topic 07) là lỗi **ở chính phán đoán và ngôn ngữ của người quản lý**, xảy ra trước khi cuộc trò chuyện bắt đầu.
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Hành vi chạm tuân thủ, công bằng, an toàn hoặc đạo đức → xử lý ngay, không coaching (ô POLICY/ETHICS của `FW-026`).
@@ -494,9 +512,9 @@ aliases: [động lực, gắn kết, giữ chân nhân sự, engagement]
 keywords: [động lực, motivation, gắn kết, engagement, giữ người, retention, mất lửa, không chủ động, collaborator không gắn bó, nhân viên giỏi muốn nghỉ, team trầm]
 levels: [TEAM]
 courses: [MEGROW]
-topics: [TOP-MEGROW-06, TOP-MEGROW-09]
+topics: [TOP-MEGROW-06, TOP-MEGROW-09, TOP-MEGROW-07, TOP-MEGROW-05]
 problems_addressed: []
-related_ids: [FW-008, FW-009, FW-007, FW-028, FW-031, FW-032, CON-005]
+related_ids: [FW-008, FW-009, FW-007, FW-028, FW-031, FW-032, CON-005, FW-066, FW-067, FW-068, FW-069, FW-070, FW-071, CON-025]
 source: ["MEGROW | Topic 06 | Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf | Slide 33–39, 59, 65", "MEGROW | Topic 09 | Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf | Slide 26–38"]
 source_type: course
 confidence: medium
@@ -540,6 +558,11 @@ Mức ưu tiên: **Trung bình** (vấn đề số 7 trong `problem_index.md`).
 | Kiểm soát quá mức làm hỏng self-efficacy | Người nhận mất tự tin quyết định | `CON-005`, `FW-009` |
 | Nguyên nhân thật nằm ở hướng nghề nghiệp, không ở động lực | Làm đủ việc nhưng hết đề xuất mới | `FW-028` (lăng kính Career), `FW-031` |
 | Quản lý tự ôm toàn bộ việc phát triển | Nhân viên không có nguồn phát triển nào khác | `FW-032` |
+| Team là tập hợp cá nhân, chưa có bản sắc chung | Mỗi người làm tốt phần mình, tổng thể rời rạc | `FW-067` |
+| Khoảng cách giữa tự nhận thức và cách đồng đội trải nghiệm | Người giỏi nhưng ảnh hưởng thấp hơn mức đáng có | `FW-068`, `FW-069` |
+| Bực bội được chịu đựng thay vì được nói ra | Không ai nêu vấn đề, mọi thứ "vẫn ổn" | `FW-067`, `FW-070` |
+| Thành viên ngoại vi chỉ có một mối nối yếu với team | Cộng tác viên không gắn bó dù việc họ làm là đầu vào sống còn | `FW-071` |
+| Cường độ cao kéo dài không có cơ chế bền | Mất lửa, hết đề xuất, rồi rời đi | `CON-025` |
 
 ## Dấu hiệu cần leo thang hoặc can thiệp khác
 - Nguyên nhân là lương thưởng hoặc lộ trình thăng tiến → nằm ngoài phạm vi framework trong MEGROW, cần làm việc với cấp trên và HR.

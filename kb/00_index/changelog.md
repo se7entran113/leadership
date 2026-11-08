@@ -4,6 +4,46 @@ Mới nhất ở trên cùng.
 
 ---
 
+## 2026-11-08 — MEGROW Topic 03, 05, 07: thêm 31 chunk (tổng 136)
+
+**Lệnh:** "xử lý tiếp các topic tiếp theo" (đợt 5 của chỉ thị "cứ lần lượt làm hết topic và commit theo đợt").
+
+Ba topic chưa xử lý có số thứ tự nhỏ nhất. Không cùng chủ đề như các đợt trước — chọn theo thứ tự còn lại.
+
+### Chunk mới (31)
+
+**Topic 03 — Audit Mindset & Biases (9):** `CON-021` System 1 / System 2 · `CON-022` expert bias · `CON-023` phán đoán từ sản phẩm thành đầu vào · `CON-024` quá tự tin và hiệu ứng mô tả · `FW-055` Audit Mindset và tự kiểm 5 bước · `FW-055-01` Bias Audit Card · `FW-056` The Leak · `FW-057` Audit the Algorithm · `FW-058` chiến thuật ảnh hưởng và ba thành tố niềm tin.
+
+**Topic 05 — Optimise Personal Productivity (10):** `FW-059` mười thách thức năng suất · `FW-060` bộ phân loại bốn quyết định · `FW-061` Time Matrix và Eisenhower · `FW-062` GTD · `FW-063` Guiding Arrows · `FW-064` Knowledge–Behaviour Gap · `FW-065` bốn chế độ Người + AI · `FW-065-01` mô hình Colson · `CON-025` hyper-performance và burnout · `CON-026` tích lũy 1% và neuroplasticity.
+
+**Topic 07 — Building Team Capability & Growth (9):** `FW-066` phương pháp LSP® · `FW-066-01` Ground Rules và 4 NO GO's · `FW-067` Real Time Identity cho team · `FW-067-01` RTI for YOU · `FW-068` ba lớp CI/EI/PI · `FW-068-01` hoạt động External Identity · `FW-069` Johari Window · `FW-070` Team Life enablers và barriers · `FW-071` The Team Landscape.
+
+**Topic (3):** `TOP-MEGROW-03` · `TOP-MEGROW-05` · `TOP-MEGROW-07`.
+
+### Chunk đã cập nhật
+- `PRB-004`: thêm 6 dòng nguyên nhân gốc rễ từ Topic 03 và 05; gỡ ghi chú "Topic 05 sẽ bổ sung liên kết khi xử lý".
+- `PRB-006`: thêm 6 dòng từ Topic 03 và 07 — nhóm lỗi **ở chính phán đoán và ngôn ngữ của quản lý**, xảy ra trước khi cuộc trò chuyện bắt đầu.
+- `PRB-003`, `PRB-007`, `PRB-002`, `PRB-005`: thêm nguyên nhân, `topics`, `related_ids` tương ứng.
+
+### Quyết định đáng ghi
+- **`CON-021` gộp hai nguồn** (Topic 03 slide 12–13 và Topic 05 slide 36–53): cùng mô hình Kahneman, hai hướng khai thác khác nhau — một bên về phán đoán, một bên về tri giác.
+- **`FW-061` gộp hai ma trận** FranklinCovey Time Matrix và Eisenhower Matrix vào một chunk, vì chúng cùng hai trục và được dạy liên tiếp; giữ cả hai tên trong `aliases` để không mất đường truy xuất.
+- **`FW-065` tách khỏi `FW-010`**: `FW-010` (Topic 06) trả lời *việc nào cho Human/AI/HAI*; `FW-065` (Topic 05) phân giải mức HAI thành bốn chế độ. Cùng giảng viên AP Agnis Stibe.
+- **Bốn chunk con được tách sau khi viết xong bản đầy đủ**, tại các đường nối tự nhiên: `FW-065-01` (mô hình Colson, nguồn riêng slide 62) · `FW-066-01` (bộ luật chơi, dùng độc lập được) · `FW-067-01` (bài tập về nhà) · `FW-068-01` (Activity 2, có bộ ràng buộc riêng).
+- **`TOP-MEGROW-05` để `needs_review` và `confidence: medium`** — 65/78 slide là ảnh hoặc video gần như không có chữ; xem OQ-014.
+- **Không tạo chunk cho slide 39 của Topic 05** (bốn nhãn DECISIVE/INTELLIGENT/RESISTIVE/INSTINCTIVE) vì không có slide nào giải thích — ghi vào `CON-021` với `[CẦN XÁC NHẬN]` và mở OQ-011.
+
+### Index đã cập nhật
+- `coverage_matrix.md`: thêm ánh xạ từng trang cho **151 slide** (Topic 03: 30, Topic 05: 78, Topic 07: 43). Độ phủ **637 / 805 trang (79.1%)**, 15/20 topic.
+- `catalog.md` sinh lại bằng `scripts/gen_catalog.py`; sửa bộ đếm ID (`CON-027`, `FW-072`) và bảng đặt chỗ `PRB` vốn đã lỗi thời từ đợt 1.
+- `topic_map.md`, `problem_index.md`, `glossary.md` (thêm 3 nhóm, 31 thuật ngữ), `open_questions.md` (**OQ-011 … OQ-015**).
+
+### Ghi chú kỹ thuật
+- Chín slide dạng sơ đồ đọc bằng thị giác qua `pdftoppm`: Topic 05 slide 18, 30–33, 39, 55, 62, 67, 68, 70–72; Topic 07 slide 18. Không có trang `[KHÓ ĐỌC]`.
+- `scripts/validate.py`: **0 ERROR**. Còn **14 WARNING về độ dài** — xem mục dưới.
+- **Độ dài chunk lệch so với các đợt trước.** Đo được: 63 chunk `FW` của bốn đợt đầu có trung vị **746 từ**, tối đa **799**; 25 chunk `FW` đợt này có trung vị **1093**. Phần chênh tập trung ở mục "Các bước áp dụng" (182 → 355 từ trung vị), tức phần bảng và diễn giải bảng. Đã tách bốn chunk con và tỉa phần diễn giải dài nhất; 14 chunk vẫn ở mức 1015–1168 từ. Chưa tỉa tiếp vì phần còn lại là bảng, trích dẫn nguyên văn và ví dụ — thuộc diện CLAUDE.md §5.1 không được lược bỏ. **Cần người dùng quyết định** có chạy một đợt chuẩn hóa độ dài cho toàn kho hay không.
+
+---
 ## 2026-11-08 — MEGROW Topic 02, 16, 17: thêm 38 chunk (tổng 105)
 
 **Lệnh:** "Xử lý megrow topic 2, 16, 17" (đợt 4 của chỉ thị "cứ lần lượt làm hết topic và commit theo đợt").

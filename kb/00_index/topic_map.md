@@ -4,7 +4,7 @@ Mọi file trong `raw/` phải xuất hiện đúng một lần ở bảng dư�
 
 **Trạng thái:** `chưa xử lý` → `đang xử lý` → `đã xử lý`.
 
-**Tiến độ MEGROW: 12 / 20 topic đã xử lý** (Topic 01, 02, 04, 06, 08, 09, 10, 12, 14, 16, 17, 19) — 486 / 805 trang, độ phủ 60.4%.
+**Tiến độ MEGROW: 15 / 20 topic đã xử lý** (Topic 01–10, 12, 14, 16, 17, 19) — 637 / 805 trang, độ phủ 79.1%.
 
 ---
 
@@ -19,16 +19,16 @@ Cột **Level** ghi level chính (từ pillar) trước, level phụ sau dấu `
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-01` | 1 | Navigating the Leadership Transition | AP Burkhard Schrage | SELF + TEAM | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-02` | 2 | Driving Operational Execution | Dr Phuong (Emmy) Hoang | SELF + TEAM, ORG | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-03` | 3 | Audit Mindset & Biases | Dr Thu Nguyen | SELF | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-03` | 3 | Audit Mindset & Biases | Dr Thu Nguyen | SELF | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-04` | 4 | Practice Performance Conversations (AMO Framework) | AP Elaine Chew | SELF + TEAM | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-05` | 5 | Optimise Personal Productivity | AP Agnis Stibe | SELF | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-05` | 5 | Optimise Personal Productivity | AP Agnis Stibe | SELF | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | **đã xử lý** | 2026-11-07 |
 
 ### P2 `LEAD_PEOPLE_AND_TEAMS` — Topic 6–11 (level chính TEAM)
 
 | ID | Topic | Tên topic | Giảng viên | Level | File | Trang | Trạng thái | Ngày thêm |
 |---|---:|---|---|---|---|---:|---|---|
 | `TOP-MEGROW-06` | 6 | Delegation & Accountability in Fast-Paced Teams | AP Agnis Stibe | TEAM + SELF | `Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf` | 69 | **đã xử lý** | 2026-11-07 |
-| `TOP-MEGROW-07` | 7 | Building Team Capability & Growth (LEGO® Serious Play®) | Dr Thao Luong | TEAM | `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf` | 43 | chưa xử lý | 2026-11-07 |
+| `TOP-MEGROW-07` | 7 | Building Team Capability & Growth (LEGO® Serious Play®) | Dr Thao Luong | TEAM | `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf` | 43 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-08` | 8 | Correcting Behaviour Through Coaching | Dr Thao Luong | TEAM + SELF | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-09` | 9 | Coaching for High Performance | Dr Quyen Dang | TEAM | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | **đã xử lý** | 2026-11-07 |
 | `TOP-MEGROW-10` | 10 | Adapt Your Leadership Style | Dr Tony Nguyen | TEAM | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | **đã xử lý** | 2026-11-07 |

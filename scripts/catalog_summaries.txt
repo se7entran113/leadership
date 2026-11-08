@@ -104,3 +104,34 @@ FW-045-01	Schmalensee, McGahan & Porter, Hawawini: ngành giải thích bao nhi�
 FW-047-01	Ba câu hỏi về hào và bảng bốn lĩnh vực team nới rộng hay thu hẹp hào mỗi ngày
 FW-049-01	AI được làm gì và con người phải sở hữu gì trong từng pha; hai nguyên tắc problem-first và công cụ được duyệt
 FW-053-01	Kế hoạch sáu ô, vòng phản biện chéo 12 phút và câu cam kết "Trước [ngày], [ai] sẽ [làm gì]"
+CON-021	Kahneman: System 1 nhanh và tự động, System 2 chậm và lười; thiên kiến là thứ cài sẵn, không phải nhân cách
+CON-022	Tin quá mức vào phán đoán chuyên môn ở chỗ nó không áp dụng: đọc người, ước lượng nỗ lực, kết luận ai kém
+CON-023	Là IC, phán đoán của bạn là sản phẩm; là quản lý, nó chỉ là đầu vào — câu bạn nói mới là sản phẩm
+CON-024	Hai bài tập mở màn: khoảng tin cậy 90% thất bại, và một dòng mô tả đổi hẳn điểm đánh giá một kỹ sư
+CON-025	Hyper-performance và burnout là hai nhánh của cùng một đường; đường bền là KNOWLEDGE + BEHAVIOR
+CON-026	1.01³⁶⁵ = 37.78 so với 0.99³⁶⁵ = 0.03; neuroplasticity và điều kiện relentless honesty
+FW-055	Ba trụ kỷ luật kiểm toán quay vào trong, thành quy trình PAUSE–EVIDENCE–OPPOSITE–OUTSIDE VIEW–DECIDE & LOG
+FW-055-01	Thẻ bốn mục cuối buổi: thiên kiến của tôi, điểm kích hoạt, câu sẽ bỏ, và ràng buộc cho buổi chiều
+FW-056	Sáu câu quản lý hay nói, thiên kiến bên dưới, điều nhân viên nghe thấy, và bản viết lại giữ nguyên tiêu chuẩn
+FW-057	Bốn lỗi của khuyến nghị do AI soạn: visible≠valuable, one voice echoed, the invisible leave, fluent≠right
+FW-058	Yukl & Tracey: chiến thuật khớp hướng quan hệ; Mayer et al.: Trust = Ability · Benevolence · Integrity
+FW-059	Bảng mười thách thức năng suất của quản lý, mỗi dòng ghép tình huống với cơ chế thật bên dưới
+FW-060	Do now / Schedule / Delegate hoặc AI-augment / Eliminate, rồi bốn câu hỏi về loại trí tuệ cần thiết
+FW-061	Hai phiên bản ma trận Khẩn cấp × Quan trọng: FranklinCovey Q1–Q4 để chẩn đoán, Eisenhower để hành động
+FW-062	Cây sáu câu hỏi đưa mỗi việc tới đúng điểm đến; quy tắc hai phút và câu hỏi "có nhất thiết là tôi không"
+FW-063	Năm mũi tên cùng xuất phát một điểm: LATER, AS ALWAYS, HYPER PERFORMANCE, AS USUAL, OTHER TIME
+FW-064	Stibe: KNOWLEDGE → ACCEPTANCE → INTENTION → BEHAVIOR; dừng ở trạm đầu tiên trả lời "không"
+FW-065	Bốn chế độ Assisted · Automation · Augmented · Autonomous, theo mức tự chủ của AI
+FW-065-01	Colson (HBR): máy chạy tới "phương án khả dĩ", người biến phương án thành quyết định; nhánh thông tin phi số hóa
+FW-066	Nguồn gốc, nền lý thuyết, vai trò của ẩn dụ và đôi tay trong phương pháp LEGO® Serious Play®
+FW-066-01	Bảy Ground Rules và bốn NO GO's — ý nghĩa thuộc về người xây, không thuộc về người nhìn
+FW-067	Kanaga & Kossler: năm chuyển dịch biến một nhóm cá nhân thành Real Team; bàn về how chứ không về what
+FW-067-01	Bài tập đóng buổi: bốn mục tiêu RTI cá nhân và yêu cầu viết ra 3–4 lĩnh vực sẽ làm khi quay lại công việc
+FW-068	Core Identity, External Identity và Possible Identity — ba lớp đối chiếu nhau, khoảng cách CI–EI là chỗ hiểu lầm
+FW-068-01	Xây mô hình về cách một đồng nghiệp được trải nghiệm, để cả bàn đoán là ai, rồi trao lại cho họ
+FW-069	Bốn ô Open · External Perspective · Possible you · Unknown; hai cơ chế self-disclosure và feedback
+FW-070	Sáu enablers và sáu barriers của đời sống team; phần lớn barriers là thứ do thiết kế tổ chức tạo ra
+FW-071	Bản đồ kết nối theo bốn cặp tính chất; tổ hợp critical + limited là dấu hiệu rủi ro rõ nhất
+TOP-MEGROW-03	Kiểm phán đoán trước khi nó thành quyết định về người khác và thành câu nói không rút lại được
+TOP-MEGROW-05	Năng suất là tác động không phải hoạt động; hyper-performance bền đến từ knowledge cộng behavior
+TOP-MEGROW-07	Workshop LEGO® Serious Play®: bốn hoạt động mở rộng dần từ bản sắc cá nhân tới bản đồ kết nối của team

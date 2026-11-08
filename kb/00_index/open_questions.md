@@ -175,6 +175,68 @@ Các con số ví dụ xuyên suốt deck (onboarding completion 65% → 80%, we
 
 ---
 
+## OQ-011 — Topic 05 slide 39: bốn nhãn DECISIVE / INTELLIGENT / RESISTIVE / INSTINCTIVE không có giải thích
+
+**Mức:** Trung bình · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 39 của Topic 5 đặt bốn nhãn **DECISIVE · INTELLIGENT · RESISTIVE · INSTINCTIVE** ở bốn góc một ảnh não, xếp thành dạng ma trận 2×2. Không có slide nào trước hoặc sau giải thích bốn trạng thái này, và hai trục của ma trận không được đặt tên.
+
+**Đã làm.** Ghi nhận trong `CON-021` dưới nhãn `[CẦN XÁC NHẬN]`, **không** tạo chunk `FW` riêng vì chưa đủ cơ sở để mô tả như một framework. Slide 39 ánh xạ tới `CON-021` trong `coverage_matrix.md`.
+
+**Cần người dùng.** Giảng viên có giải thích bốn trạng thái này và hai trục không? Nếu có, đây có thể là một chunk `FW` độc lập.
+
+---
+
+## OQ-012 — Topic 03 slide 26: hai nghiên cứu chỉ được nêu ở mức một dòng
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 26 của Topic 3 nêu kết luận của Yukl & Tracey (1992) và Mayer, Davis & Schoorman (1995) mỗi nghiên cứu đúng một tới hai dòng, không có slide giải thích chi tiết từng chiến thuật gây ảnh hưởng hay từng thành tố của niềm tin.
+
+**Đã làm.** Tạo `FW-058` với `confidence: medium`. Bảng diễn giải ba thành tố Ability–Benevolence–Integrity được gắn nhãn `[SUY LUẬN]`.
+
+**Cần người dùng.** Nếu có ghi chép tại lớp về phần mini-input này thì bổ sung; nếu không, `FW-058` nên giữ nguyên mức tin cậy hiện tại.
+
+---
+
+## OQ-013 — Topic 05 slide 33 "Guiding Arrows": không có trục, không có chú giải
+
+**Mức:** Trung bình · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Slide 33 vẽ năm mũi tên tỏa ra từ một điểm, gắn năm nhãn **LATER · AS ALWAYS · HYPER PERFORMANCE · AS USUAL · OTHER TIME**, phân biệt bằng độ dốc và màu (đỏ / vàng / xanh). Slide không có trục nào được đặt tên và không có một câu chữ nào ngoài năm nhãn.
+
+**Đã làm.** Tạo `FW-063` với `confidence: medium`. Cách đọc độ dốc và màu sắc được ghi rõ là `[SUY LUẬN]` của Claude, dựa trên hình vẽ và mạch slide 29–33.
+
+**Cần người dùng.** Giảng viên giải thích hình này thế nào? Đặc biệt: hai trục là gì, và vì sao mũi tên dốc nhất (LATER) lại là mũi tên xấu nhất?
+
+---
+
+## OQ-014 — Topic 05: 65/78 slide là ảnh hoặc video, gần như không có chữ
+
+**Mức:** Cao · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Topic 5 là deck dài nhất khóa (78 trang) nhưng **chỉ 13 trang có nội dung văn bản thực chất** (slide 2–5 và 73–75). Phần còn lại là ảnh, video (nhiều slide chỉ ghi *SOURCE: YOUTUBE*) và các trang chỉ có một tới hai chữ lớn. Deck **không chứa một slide hướng dẫn hoạt động nhóm nào** — không khung thời gian, không hướng dẫn chia nhóm, không câu hỏi debrief.
+
+Hệ quả: mạch lập luận nối các slide ảnh của `CON-025` (hyper-performance ↔ burnout) và `CON-026` (tích lũy 1%, neuroplasticity, relentless honesty) phần lớn là `[SUY LUẬN]` của Claude dựa trên hình ảnh, nhãn và thứ tự slide, chứ không phải lời giảng được ghi lại.
+
+**Đã làm.** `TOP-MEGROW-05` để `status: needs_review`, `confidence: medium`; `CON-025` và `CON-026` để `confidence: medium` và gắn `[CẦN XÁC NHẬN]` ở mục Nguồn. Toàn bộ 78 trang vẫn được ánh xạ trong `coverage_matrix.md`.
+
+**Cần người dùng.** Đây là topic cần ghi chép tại lớp nhất trong cả khóa. Nếu có note về buổi này — đặc biệt về mảng burnout (slide 7–21) và mảng tự thay đổi (slide 22–28) — thì nội dung sẽ đổi đáng kể.
+
+---
+
+## OQ-015 — Topic 03: "Activity 4 – The Influence Lab" có trong agenda nhưng không có slide
+
+**Mức:** Thấp · **Ngày mở:** 2026-11-08 · **Trạng thái:** Đang mở
+
+**Vấn đề.** Agenda ở slide 3 của Topic 3 ghi *"10:55 — Activity 4: The Influence Lab (optional)"*, và kết quả đầu ra số 4 của buổi là *"Adapt one message to two very different audiences"*. Không có slide nội dung nào cho hoạt động này; slide 26 (mini-input về chiến thuật gây ảnh hưởng và niềm tin) là nội dung gần nhất.
+
+**Đã làm.** Ghi nhận trong `TOP-MEGROW-03` mục "Bài tập và hoạt động trong lớp" với nhãn `[CẦN XÁC NHẬN]`. Kiến thức nền của hoạt động nằm ở `FW-058`.
+
+**Cần người dùng.** Hoạt động này có được chạy trong lớp không? Nếu có, kịch bản là gì?
+
+---
+
 ## Mục `[KHÓ ĐỌC]`
 
 **Không có.** Cả 805 trang đều đọc được: 668 trang trích được text trực tiếp bằng `pdftotext`, 137 trang còn lại (chủ yếu slide dạng ảnh của Topic 5 và Topic 6) đã được **đọc bằng thị giác** qua `pdftoppm` và mô tả trong `slide_inventory.md` với nhãn `[HÌNH]`. Không trang nào mờ, lỗi OCR hay không đọc được.

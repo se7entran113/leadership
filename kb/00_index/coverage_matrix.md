@@ -4,17 +4,17 @@ Mọi trang slide của **các topic đã xử lý** phải xuất hiện ở đ
 
 Danh sách đầy đủ 805 trang kèm chủ đề từng trang nằm ở `slide_inventory.md`. File này chỉ theo dõi **độ phủ**.
 
-**Trạng thái: 12 / 20 topic đã xử lý. Độ phủ 486 / 805 trang (60.4%).**
+**Trạng thái: 15 / 20 topic đã xử lý. Độ phủ 637 / 805 trang (79.1%).**
 
 | Khóa | Topic | File | Tổng trang | Đã ánh xạ | Không có nội dung | Độ phủ | Trạng thái |
 |---|---:|---|---:|---:|---:|---:|---|
 | MEGROW | 1 | `Topic 1 - Navigating the Leadership Transition - AP Burkhard Schrage.pdf` | 25 | 21 | 4 | 100% | đã xử lý |
 | MEGROW | 2 | `Topic 2 - Driving Operational Execution - Dr Emmy Hoang.pdf` | 35 | 26 | 9 | 100% | đã xử lý |
-| MEGROW | 3 | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 3 | `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf` | 30 | 24 | 6 | 100% | đã xử lý |
 | MEGROW | 4 | `Topic 4 - Practice Performance Conversations - AP Elaine Chew.pdf` | 46 | 32 | 14 | 100% | đã xử lý |
-| MEGROW | 5 | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 5 | `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf` | 78 | 57 | 21 | 100% | đã xử lý |
 | MEGROW | 6 | `Topic 6 - Delegation & Accountability in Fast-Paced Teams - Agnis Stibe-2.pdf` | 69 | 57 | 12 | 100% | đã xử lý |
-| MEGROW | 7 | `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf` | 43 | 0 | 0 | 0% | chưa xử lý |
+| MEGROW | 7 | `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf` | 43 | 30 | 13 | 100% | đã xử lý |
 | MEGROW | 8 | `Topic 8 - Correcting Behaviour Through Coaching - Thao Luong.pdf` | 44 | 33 | 11 | 100% | đã xử lý |
 | MEGROW | 9 | `Topic 9 - Coaching for High Performance - Final (without key answer) - Quyen Dang.pdf` | 54 | 45 | 9 | 100% | đã xử lý |
 | MEGROW | 10 | `Topic 10 - Adapt Your Leadership Style -  Tony Nguyen.pdf` | 38 | 32 | 6 | 100% | đã xử lý |
@@ -467,6 +467,172 @@ Mỗi trang của topic đã xử lý ánh xạ tới chunk chứa nội dung tr
 | 52 | `TOP-MEGROW-09` |
 | 53 | không có nội dung kiến thức (danh mục nguồn) |
 | 54 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 03 — `Topic 3 - Audit Mindset & Biases - Dr Thu Nguyen - Updated.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | không có nội dung kiến thức (giới thiệu giảng viên) |
+| 3 | không có nội dung kiến thức (mục tiêu và agenda) |
+| 4 | `CON-024` |
+| 5 | `CON-024` |
+| 6 | `CON-024` |
+| 7 | `CON-024` |
+| 8 | `CON-024` |
+| 9 | `CON-024` |
+| 10 | `CON-024`, `TOP-MEGROW-03` |
+| 11 | `CON-021` |
+| 12 | `CON-021` |
+| 13 | `CON-021` |
+| 14 | `CON-022` |
+| 15 | `FW-055` |
+| 16 | `FW-055` |
+| 17 | `FW-055` |
+| 18 | `FW-057` |
+| 19 | `FW-057` |
+| 20 | `FW-057` |
+| 21 | không có nội dung kiến thức (nghỉ giải lao) |
+| 22 | `FW-056`, `CON-023` |
+| 23 | `FW-056` |
+| 24 | `FW-056` |
+| 25 | `FW-056`, `CON-023` |
+| 26 | `FW-058` |
+| 27 | `FW-055-01` |
+| 28 | `FW-055-01`, `CON-023` |
+| 29 | không có nội dung kiến thức (danh mục nguồn) |
+| 30 | không có nội dung kiến thức (lời cảm ơn) |
+
+### Topic 05 — `Topic 5 - Optimise Personal Productivity - Agnis Stibe.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `FW-059` |
+| 3 | `FW-059` |
+| 4 | `FW-059`, `FW-060` |
+| 5 | `FW-060` |
+| 6 | không có nội dung kiến thức (video minh họa) |
+| 7 | `CON-025` |
+| 8 | `CON-025` |
+| 9 | không có nội dung kiến thức (video minh họa) |
+| 10 | `CON-025` |
+| 11 | không có nội dung kiến thức (video minh họa) |
+| 12 | không có nội dung kiến thức (video minh họa) |
+| 13 | không có nội dung kiến thức (video minh họa) |
+| 14 | không có nội dung kiến thức (ảnh trang web giảng viên) |
+| 15 | không có nội dung kiến thức (ảnh minh họa) |
+| 16 | `CON-025` |
+| 17 | `CON-025` |
+| 18 | `CON-025` |
+| 19 | `CON-025` |
+| 20 | không có nội dung kiến thức (video minh họa) |
+| 21 | `CON-025` |
+| 22 | `CON-026` |
+| 23 | `CON-026` |
+| 24 | `CON-026` |
+| 25 | `CON-026` |
+| 26 | `CON-026` |
+| 27 | `CON-026` |
+| 28 | không có nội dung kiến thức (video minh họa) |
+| 29 | `CON-025` |
+| 30 | `CON-025` |
+| 31 | `CON-025`, `FW-063` |
+| 32 | `FW-063` |
+| 33 | `FW-063` |
+| 34 | không có nội dung kiến thức (ảnh minh họa) |
+| 35 | `CON-026` |
+| 36 | `CON-021` |
+| 37 | không có nội dung kiến thức (ảnh minh họa) |
+| 38 | `CON-021` |
+| 39 | `CON-021` |
+| 40 | không có nội dung kiến thức (video minh họa) |
+| 41 | `CON-021` |
+| 42 | `CON-021` |
+| 43 | `CON-021` |
+| 44 | `CON-021` |
+| 45 | `CON-021` |
+| 46 | `CON-021` |
+| 47 | `CON-021` |
+| 48 | `CON-021` |
+| 49 | `CON-021` |
+| 50 | `CON-021` |
+| 51 | `CON-021` |
+| 52 | `CON-021` |
+| 53 | `CON-021` |
+| 54 | `CON-021` |
+| 55 | `FW-065` |
+| 56 | không có nội dung kiến thức (video minh họa) |
+| 57 | `FW-065` |
+| 58 | `FW-065` |
+| 59 | không có nội dung kiến thức (video minh họa) |
+| 60 | `FW-065` |
+| 61 | `FW-065` |
+| 62 | `FW-065-01` |
+| 63 | không có nội dung kiến thức (video minh họa) |
+| 64 | `CON-025` |
+| 65 | `FW-064` |
+| 66 | không có nội dung kiến thức (video minh họa) |
+| 67 | `FW-064` |
+| 68 | `FW-064` |
+| 69 | không có nội dung kiến thức (video minh họa) |
+| 70 | `FW-061` |
+| 71 | `FW-061` |
+| 72 | `FW-062` |
+| 73 | `TOP-MEGROW-05` |
+| 74 | `TOP-MEGROW-05` |
+| 75 | `TOP-MEGROW-05` |
+| 76 | không có nội dung kiến thức (video minh họa) |
+| 77 | không có nội dung kiến thức (ảnh kênh YouTube) |
+| 78 | không có nội dung kiến thức (bìa kết) |
+
+### Topic 07 — `Topic 7 - Building Team Capability and Growth - Thao Luong.pdf`
+
+| Slide | ID chunk |
+|---:|---|
+| 1 | không có nội dung kiến thức (bìa) |
+| 2 | `TOP-MEGROW-07` |
+| 3 | không có nội dung kiến thức (agenda) |
+| 4 | không có nội dung kiến thức (giới thiệu giảng viên) |
+| 5 | `TOP-MEGROW-07` |
+| 6 | `FW-066` |
+| 7 | `FW-066` |
+| 8 | `FW-066` |
+| 9 | không có nội dung kiến thức (giới thiệu facilitator) |
+| 10 | `FW-066-01` |
+| 11 | `FW-066-01` |
+| 12 | `FW-066` |
+| 13 | `FW-066` |
+| 14 | không có nội dung kiến thức (agenda lặp lại) |
+| 15 | `FW-067` |
+| 16 | `FW-067` |
+| 17 | `FW-067` |
+| 18 | `FW-069` |
+| 19 | `FW-068` |
+| 20 | `FW-068` |
+| 21 | `FW-068` |
+| 22 | không có nội dung kiến thức (ảnh divider) |
+| 23 | `FW-068` |
+| 24 | không có nội dung kiến thức (divider phần EI) |
+| 25 | `FW-068-01` |
+| 26 | `FW-068-01` |
+| 27 | không có nội dung kiến thức (ảnh divider) |
+| 28 | `FW-068-01` |
+| 29 | không có nội dung kiến thức (divider phần 2) |
+| 30 | `FW-070` |
+| 31 | không có nội dung kiến thức (ảnh divider) |
+| 32 | `FW-070` |
+| 33 | `FW-070` |
+| 34 | không có nội dung kiến thức (divider phần 3) |
+| 35 | `FW-071` |
+| 36 | `FW-071` |
+| 37 | `FW-071` |
+| 38 | không có nội dung kiến thức (divider phần 4) |
+| 39 | `FW-067-01` |
+| 40 | `FW-067-01` |
+| 41 | `FW-067-01` |
+| 42 | `FW-067-01` |
+| 43 | không có nội dung kiến thức (lời cảm ơn) |
 
 ### Các topic chưa xử lý
 

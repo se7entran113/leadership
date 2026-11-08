@@ -2,17 +2,17 @@
 
 Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê nhưng ghi rõ trạng thái.
 
-**Trạng thái kho: 105 chunk.** Đã xử lý 3/20 topic MEGROW (Topic 01, 06, 10).
+**Trạng thái kho: 136 chunk.** Đã xử lý 15/20 topic MEGROW (Topic 01–04, 05, 06–10, 12, 14, 16, 17, 19).
 
 | Loại | Số lượng |
 |---|---:|
-| `CON` Khái niệm & nguyên tắc | 20 |
-| `FW` Framework | 63 |
+| `CON` Khái niệm & nguyên tắc | 26 |
+| `FW` Framework | 85 |
 | `PRB` Vấn đề | 10 |
 | `PB` Playbook | 0 |
-| `TOP` Topic | 12 |
+| `TOP` Topic | 15 |
 | `CASE` Tình huống thực tế | 0 |
-| **Tổng** | **105** |
+| **Tổng** | **136** |
 
 ---
 
@@ -40,6 +40,12 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `CON-018` | Hai lăng kính outside-in và inside-out (Outside-In and Inside-Out Lenses) | principle | ORG | MEGROW | Outside-in hỏi nên cạnh tranh ở đâu, inside-out hỏi thắng bằng gì — cần cả hai |
 | `CON-019` | Phép thử đường ngắm từ việc của team tới định hướng tổ chức (The Line-of-Sight Test) | principle | ORG, TEAM | MEGROW | Mỗi người có nói được việc mình làm đẩy bậc ngay trên nó không; thang VNG → Zalo → khối → team → quyết định tuần này |
 | `CON-020` | Câu hỏi "How Might We" và việc đóng khung lại nhiều lần (How Might We" and Iterative Reframing) | concept | TEAM, ORG | MEGROW | Chuyển phát biểu vấn đề thành câu hỏi "How might we"; năm tiêu chí và việc đóng khung lại nhiều lần |
+| `CON-021` | Hai hệ thống tư duy — nhanh và chậm (Two Systems - Thinking Fast and Slow) | concept | SELF | MEGROW | Kahneman: System 1 nhanh và tự động, System 2 chậm và lười; thiên kiến là thứ cài sẵn, không phải nhân cách |
+| `CON-022` | Thiên kiến chuyên gia (Expert Bias) | concept | SELF, TEAM | MEGROW | Tin quá mức vào phán đoán chuyên môn ở chỗ nó không áp dụng: đọc người, ước lượng nỗ lực, kết luận ai kém |
+| `CON-023` | Phán đoán của bạn từ sản phẩm thành đầu vào (Your Judgment Moves from Product to Input) | concept | SELF, TEAM | MEGROW | Là IC, phán đoán của bạn là sản phẩm; là quản lý, nó chỉ là đầu vào — câu bạn nói mới là sản phẩm |
+| `CON-024` | Quá tự tin và hiệu ứng của mô tả lên đánh giá con người (Overconfidence and the Framing Effect in Judging People) | concept | SELF, TEAM | MEGROW | Hai bài tập mở màn: khoảng tin cậy 90% thất bại, và một dòng mô tả đổi hẳn điểm đánh giá một kỹ sư |
+| `CON-025` | Hiệu suất vượt trội và kiệt sức là hai nhánh của cùng một con đường (Hyper-Performance and Burnout as Two Branches of One Path) | concept | SELF, TEAM | MEGROW | Hyper-performance và burnout là hai nhánh của cùng một đường; đường bền là KNOWLEDGE + BEHAVIOR |
+| `CON-026` | Thay đổi tích lũy 1% và tính dẻo của não (The 1% Compounding Effect and Neuroplasticity) | concept | SELF | MEGROW | 1.01³⁶⁵ = 37.78 so với 0.99³⁶⁵ = 0.03; neuroplasticity và điều kiện relentless honesty |
 
 ## Framework (FW)
 
@@ -99,6 +105,23 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-052` | Mẫu phát biểu vấn đề và phép tách triệu chứng – giả định – nguyên nhân (The Problem Statement Template) | framework | TEAM, ORG | MEGROW | Tách triệu chứng – giả định – nguyên nhân, rồi viết "ai cần gì, vì sao, dẫn tới gì, bằng chứng là gì" |
 | `FW-053` | Thử nghiệm 7 ngày — từ ba phương án tới một thay đổi nhỏ (The 7-Day Test) | framework | TEAM | MEGROW | Ba ý tưởng → bốn câu hỏi chọn một → một team, một tuần, một kết quả → nhóm khác phản biện |
 | `FW-054` | Bốn đường đi tiếp theo và cách xin trợ giúp rõ ràng (Four Next Steps and the Three-Line Ask) | framework | ORG, TEAM | MEGROW | TRY IT / WORK TOGETHER / TEST FIRST / ASK MANAGER, kèm mẫu xin trợ giúp ba dòng trong 45 giây |
+| `FW-055` | Tư duy Kiểm toán và quy trình Tự kiểm thiên kiến 5 bước (The Audit Mindset and the 5-Step Bias Self-Audit) | framework | SELF | MEGROW | Ba trụ kỷ luật kiểm toán quay vào trong, thành quy trình PAUSE–EVIDENCE–OPPOSITE–OUTSIDE VIEW–DECIDE & LOG |
+| `FW-056` | The Leak — sáu câu quản lý hay nói và cách viết lại (The Leak - Six Manager Lines and How to Rewrite Them) | framework | TEAM, SELF | MEGROW | Sáu câu quản lý hay nói, thiên kiến bên dưới, điều nhân viên nghe thấy, và bản viết lại giữ nguyên tiêu chuẩn |
+| `FW-057` | Audit the Algorithm — bốn lỗi của phán đoán có AI hỗ trợ (Audit the Algorithm - Four Flaws in AI-Assisted Judgment) | framework | TEAM, SELF | MEGROW | Bốn lỗi của khuyến nghị do AI soạn: visible≠valuable, one voice echoed, the invisible leave, fluent≠right |
+| `FW-058` | Chiến thuật gây ảnh hưởng theo đối tượng và ba thành tố của niềm tin (Audience-Fit Influence Tactics and the Three Components of Trust) | framework | ORG, SELF | MEGROW | Yukl & Tracey: chiến thuật khớp hướng quan hệ; Mayer et al.: Trust = Ability · Benevolence · Integrity |
+| `FW-059` | Mười thách thức năng suất của người quản lý (Ten Manager Productivity Challenges) | framework | SELF, TEAM | MEGROW | Bảng mười thách thức năng suất của quản lý, mỗi dòng ghép tình huống với cơ chế thật bên dưới |
+| `FW-060` | Bộ phân loại bốn quyết định và bốn câu hỏi phân bổ (The Four-Decision Triage and the Four Allocation Questions) | framework | SELF, TEAM | MEGROW | Do now / Schedule / Delegate hoặc AI-augment / Eliminate, rồi bốn câu hỏi về loại trí tuệ cần thiết |
+| `FW-061` | Ma trận Khẩn cấp – Quan trọng (Time Matrix và Eisenhower) (The Urgent-Important Matrix (FranklinCovey Time Matrix and Eisenhower Matrix)) | framework | SELF, TEAM | MEGROW | Hai phiên bản ma trận Khẩn cấp × Quan trọng: FranklinCovey Q1–Q4 để chẩn đoán, Eisenhower để hành động |
+| `FW-062` | Phương pháp Getting Things Done (GTD) (The Getting Things Done (GTD) Method) | framework | SELF | MEGROW | Cây sáu câu hỏi đưa mỗi việc tới đúng điểm đến; quy tắc hai phút và câu hỏi "có nhất thiết là tôi không" |
+| `FW-063` | Guiding Arrows — năm hướng đi của cùng một ngày (Guiding Arrows - Five Directions Out of the Same Day) | framework | SELF | MEGROW | Năm mũi tên cùng xuất phát một điểm: LATER, AS ALWAYS, HYPER PERFORMANCE, AS USUAL, OTHER TIME |
+| `FW-064` | Mô hình Khoảng cách Biết – Làm (The Knowledge-Behaviour Gap Model) | framework | SELF, TEAM, ORG | MEGROW | Stibe: KNOWLEDGE → ACCEPTANCE → INTENTION → BEHAVIOR; dừng ở trạm đầu tiên trả lời "không" |
+| `FW-065` | Bốn chế độ hợp tác Người + AI và mô hình quyết định của Colson (Four Human+AI Modes and the Colson Decision Model) | framework | TEAM, SELF, ORG | MEGROW | Bốn chế độ Assisted · Automation · Augmented · Autonomous, theo mức tự chủ của AI |
+| `FW-066` | Phương pháp LEGO® Serious Play® (LSP®) (The LEGO Serious Play (LSP) Methodology) | framework | TEAM | MEGROW | Nguồn gốc, nền lý thuyết, vai trò của ẩn dụ và đôi tay trong phương pháp LEGO® Serious Play® |
+| `FW-067` | Real Time Identity cho team — từ nhóm cá nhân thành một team thật (Real Time Identity (RTI) for the Team) | framework | TEAM | MEGROW | Kanaga & Kossler: năm chuyển dịch biến một nhóm cá nhân thành Real Team; bàn về how chứ không về what |
+| `FW-068` | Ba lớp bản sắc trong team — CI, EI và PI (Three Identity Layers in a Team - Core, External and Possible Identity) | framework | TEAM, SELF | MEGROW | Core Identity, External Identity và Possible Identity — ba lớp đối chiếu nhau, khoảng cách CI–EI là chỗ hiểu lầm |
+| `FW-069` | Cửa sổ Johari (The Johari Window) | framework | TEAM, SELF | MEGROW | Bốn ô Open · External Perspective · Possible you · Unknown; hai cơ chế self-disclosure và feedback |
+| `FW-070` | Team Life — các yếu tố thúc đẩy và cản trở đời sống team (Team Life - Enablers and Barriers) | framework | TEAM, ORG | MEGROW | Sáu enablers và sáu barriers của đời sống team; phần lớn barriers là thứ do thiết kế tổ chức tạo ra |
+| `FW-071` | The Team Landscape — bản đồ kết nối trong team (The Team Landscape - Mapping Connections in a Team) | framework | TEAM, ORG | MEGROW | Bản đồ kết nối theo bốn cặp tính chất; tổ hợp critical + limited là dấu hiệu rủi ro rõ nhất |
 | `FW-001-01` | Ma trận Kỹ năng × Ý chí (Skill × Will Matrix) | framework | TEAM | MEGROW | Bản thao tác của FW-001: đo Skill và Will bằng bằng chứng, ra Direct/Coach/Motivate/Delegate |
 | `FW-001-02` | Ba biến thể Situational Leadership trong MEGROW (Situational Leadership — the three MEGROW variants) | framework | TEAM | MEGROW | Đối chiếu tên gọi giữa Topic 01, 06, 10 để không tưởng là ba framework khác nhau |
 | `FW-019-01` | Action title và phép thử lướt (Action titles and the skim test) | framework | ORG | MEGROW | Tiêu đề slide nêu kết luận chứ không nêu chủ đề; skim test kiểm tra kim tự tháp có đứng vững không |
@@ -108,6 +131,11 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 | `FW-047-01` | Hào cạnh tranh và việc team nới rộng hay thu hẹp nó (The Competitive Moat and How Teams Widen or Narrow It) | framework | ORG | MEGROW | Ba câu hỏi về hào và bảng bốn lĩnh vực team nới rộng hay thu hẹp hào mỗi ngày |
 | `FW-049-01` | Phân vai người và AI trong từng pha Design Thinking (Human-AI Role Split Across the Design Thinking Phases) | framework | TEAM, ORG | MEGROW | AI được làm gì và con người phải sở hữu gì trong từng pha; hai nguyên tắc problem-first và công cụ được duyệt |
 | `FW-053-01` | Kế hoạch thử nghiệm 7 ngày và vòng phản biện chéo (The 7-Day Test Plan and Peer Challenge) | framework | TEAM | MEGROW | Kế hoạch sáu ô, vòng phản biện chéo 12 phút và câu cam kết "Trước [ngày], [ai] sẽ [làm gì]" |
+| `FW-055-01` | Bias Audit Card — thẻ cam kết cuối buổi (The Bias Audit Card) | exercise | SELF | MEGROW | Thẻ bốn mục cuối buổi: thiên kiến của tôi, điểm kích hoạt, câu sẽ bỏ, và ràng buộc cho buổi chiều |
+| `FW-065-01` | Mô hình quyết định của Colson — máy sinh phương án, người ra quyết định (The Colson Decision Model - Machines Produce Options, Humans Decide) | framework | TEAM, ORG, SELF | MEGROW | Colson (HBR): máy chạy tới "phương án khả dĩ", người biến phương án thành quyết định; nhánh thông tin phi số hóa |
+| `FW-066-01` | Luật chơi LSP® — bảy quy tắc nền và bốn điều không làm (LSP Rules of Engagement - Seven Ground Rules and Four NO GO's) | framework | TEAM | MEGROW | Bảy Ground Rules và bốn NO GO's — ý nghĩa thuộc về người xây, không thuộc về người nhìn |
+| `FW-067-01` | Real Time Identity for YOU — bài tập đóng buổi và cam kết hành động (Real Time Identity for YOU - Closing Reflection and Action Items) | exercise | SELF, TEAM | MEGROW | Bài tập đóng buổi: bốn mục tiêu RTI cá nhân và yêu cầu viết ra 3–4 lĩnh vực sẽ làm khi quay lại công việc |
+| `FW-068-01` | Hoạt động External Identity — xây mô hình về đồng nghiệp rồi trao lại (The External Identity Activity - Building a Model of a Colleague) | exercise | TEAM, SELF | MEGROW | Xây mô hình về cách một đồng nghiệp được trải nghiệm, để cả bàn đoán là ai, rồi trao lại cho họ |
 
 ## Vấn đề (PRB)
 
@@ -136,8 +164,11 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 |---|---|---|---|---|---|
 | `TOP-MEGROW-01` | Điều hướng bước chuyển sang vai trò lãnh đạo (Navigating the Leadership Transition) | topic | SELF, TEAM | MEGROW | Buổi mở đầu chương trình: tư duy chuyển vai, ba cái bẫy, giao việc theo mức sẵn sàng, kế hoạch 90 ngày |
 | `TOP-MEGROW-02` | Dẫn dắt thực thi vận hành (Driving Operational Execution) | topic | SELF, TEAM, ORG | MEGROW | Năm chặng từ "vì sao thực thi quan trọng" tới hệ thống giao hàng có chủ sở hữu và nhịp review |
+| `TOP-MEGROW-03` | Tư duy kiểm toán và thiên kiến (Audit Mindset & Biases) | topic | SELF | MEGROW | Kiểm phán đoán trước khi nó thành quyết định về người khác và thành câu nói không rút lại được |
 | `TOP-MEGROW-04` | Thực hành hội thoại về hiệu suất với khung AMO (Practise Performance Conversations with the AMO Framework) | topic | SELF, TEAM | MEGROW | Từ đánh giá quá khứ sang quản trị hiệu suất bền vững; AMO chẩn đoán, SAIL dẫn cuộc trò chuyện |
+| `TOP-MEGROW-05` | Tối ưu năng suất cá nhân (Optimise Personal Productivity) `needs_review` | topic | SELF | MEGROW | Năng suất là tác động không phải hoạt động; hyper-performance bền đến từ knowledge cộng behavior |
 | `TOP-MEGROW-06` | Giao việc và trách nhiệm trong team tốc độ cao (Delegation & Accountability in Fast-Paced Teams) `needs_review` | topic | TEAM, SELF | MEGROW | Mười thách thức giao việc và trách nhiệm; khung Transformation Design 8 yếu tố; HAI và tải nhận thức |
+| `TOP-MEGROW-07` | Xây dựng năng lực và sự phát triển của team (Building Team Capability & Growth) | topic | TEAM | MEGROW | Workshop LEGO® Serious Play®: bốn hoạt động mở rộng dần từ bản sắc cá nhân tới bản đồ kết nối của team |
 | `TOP-MEGROW-08` | Sửa hành vi thông qua coaching (Correcting Behaviour Through Coaching) | topic | TEAM, SELF | MEGROW | Bốn bước sửa hành vi, kèm mảng lớn về trí tuệ cảm xúc và lắng nghe chèn giữa bước CONVERSE |
 | `TOP-MEGROW-09` | Coaching để đạt hiệu suất cao (Coaching for High Performance) | topic | TEAM | MEGROW | Coach nhiều hơn không làm nhân viên giỏi hơn; Connector Manager và lộ trình D–R–C |
 | `TOP-MEGROW-10` | Điều chỉnh phong cách lãnh đạo (Adapt Your Leadership Style) | topic | TEAM | MEGROW | Bốn hoạt động trải nghiệm để tự rút ra Situational Leadership và mức tham gia vào quyết định |
@@ -158,26 +189,26 @@ Mọi chunk phải xuất hiện ở đây. Chunk `deprecated` vẫn liệt kê 
 
 | Tiền tố | ID tiếp theo | Ghi chú |
 |---|---|---|
-| `CON` | `CON-007` | |
-| `FW` | `FW-011` | |
+| `CON` | `CON-027` | |
+| `FW` | `FW-072` | |
 | `PRB` | `PRB-012` | Xem mục đặt chỗ dưới đây |
 | `PB` | `PB-001` | |
 | `CASE` | `CASE-001` | |
 
 ### ID `PRB` đã đặt chỗ
 
-`PRB-001` … `PRB-011` được **đặt chỗ sẵn** cho đúng 11 vấn đề ưu tiên theo thứ tự ở CLAUDE.md §2 và `problem_index.md`. Năm chunk đã tạo nằm đúng vị trí số của chúng; sáu ID còn lại sẽ được dùng khi topic tương ứng được xử lý — **không tái sử dụng cho mục đích khác**.
+`PRB-001` … `PRB-011` được **đặt chỗ sẵn** cho đúng 11 vấn đề ưu tiên theo thứ tự ở CLAUDE.md §2 và `problem_index.md`. Mười chunk đã tạo nằm đúng vị trí số của chúng; ID còn lại sẽ được dùng khi topic tương ứng được xử lý — **không tái sử dụng cho mục đích khác**.
 
 | ID | Vấn đề | Mức | Trạng thái |
 |---|---|---|---|
-| `PRB-001` | Định hướng bài toán cho team | Cao | chưa tạo — chờ Topic 02, 17 |
-| `PRB-002` | Làm việc với stakeholder để xây dựng và thống nhất bài toán | Cao | chưa tạo — chờ Topic 12, 19 |
+| `PRB-001` | Định hướng bài toán cho team | Cao | ✅ đã tạo |
+| `PRB-002` | Làm việc với stakeholder để xây dựng và thống nhất bài toán | Cao | ✅ đã tạo |
 | `PRB-003` | Thiết kế framework làm việc và giải quyết vấn đề cho team | Cao | ✅ đã tạo (`needs_review`) |
 | `PRB-004` | Chuyển dịch từ chuyên môn sang quản lý | Cao | ✅ đã tạo |
 | `PRB-005` | Giao việc và phát triển theo năng lực từng người | Cao | ✅ đã tạo |
-| `PRB-006` | Feedback, coaching và trao đổi về hiệu suất | Trung bình | chưa tạo — chờ Topic 04, 08, 09 |
+| `PRB-006` | Feedback, coaching và trao đổi về hiệu suất | Trung bình | ✅ đã tạo |
 | `PRB-007` | Động lực, gắn kết và giữ người | Trung bình | ✅ đã tạo (`needs_review`) |
-| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức | Trung bình | chưa tạo — chờ Topic 17, 19 |
-| `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý | Thấp | chưa tạo — chờ Topic 13 |
-| `PRB-010` | Xung đột trong team hoặc giữa các team | Thấp | chưa tạo — chờ Topic 12, 14 |
+| `PRB-008` | Làm việc với cấp trên và gắn với chiến lược tổ chức | Trung bình | ✅ đã tạo (`needs_review`) |
+| `PRB-009` | Văn hóa thử nghiệm và an toàn tâm lý | Thấp | **chưa tạo** — chờ Topic 13 (chưa xử lý) |
+| `PRB-010` | Xung đột trong team hoặc giữa các team | Thấp | ✅ đã tạo (`needs_review`) |
 | `PRB-011` | Dẫn dắt thay đổi | Thấp | ✅ đã tạo (`needs_review`) |
